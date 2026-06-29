@@ -401,7 +401,7 @@ El Quirk del PC es como cualquier Quirk de MHA: parte del cuerpo del PC. La savi
 | **Disociado** (PC con memory scars acumuladas) | 3+ memory scars activos | −20% a todo; rewind causa +1 scar extra; ecos son erráticos |
 | **Deprimido** (PC con tristeza profunda, desesperanza) | Estado emocional bajo sostenido | −15% a todo; las bestias están apagadas; los ecos son silenciosos; el PC no quiere usar el Quirk |
 | **Enfermo** (PC enfermo, fiebre,etc.) | Enfermedad o veneno leve | −20% a todo; savia debil (savia afectada) |
-| **Eufórico** (PC en estado de euforia,興奮) | PC emocionalmente elevado, conectado, feliz | +15% a todo; las bestias son juguetonas; los ecos son vivos; la sangre se regenera rápido |
+| **Eufórico** (PC en estado de euforia, excitación) | PC emocionalmente elevado, conectado, feliz | +15% a todo; las bestias son juguetonas; los ecos son vivos; la sangre se regenera rápido |
 | **Enraged** (PC furioso, fuera de control) | PC pierde el control emocional | +10% a acciones ofensivas, −30% a defensivas; bestias salvajes; ecos peligrosos; el PC puede hacer cosas que después lamenta |
 
 ### Cómo mejorar el estado del Quirk
@@ -1238,7 +1238,7 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 | **PC rodeado de aliados de confianza** | +10% (apoyo social) |
 | **PC solo / aislado / en combate** | −10% (estrés, sin descanso) |
 | **PC en zona de confort** (casa, sala común) | +10% |
-| **PC en zona hostil** (combate,陌生的) | −10% |
+| **PC en zona hostil** (combate, desconocido) | −10% |
 | **PC herido** (HP <50%) | −10% adicional |
 | **PC gravemente herido** (HP <20%) | −20% adicional |
 | **PC herido crónicamente / con TEPT** | −5% adicional permanente |

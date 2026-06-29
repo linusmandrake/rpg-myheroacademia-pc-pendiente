@@ -2,7 +2,7 @@
 
 > Plan de progresión recomendado para los primeros arcos (D1–D90). Ajustar según decisiones del jugador.
 >
-> **Recordatorio:** PC y NPCs son 18+. Eso cambia el ritmo (no hay "menores" en la academia, todos firman contratos,喝酒, tienen vida sexual activa). Ver `AGENTS.md`.
+> **Recordatorio:** PC y NPCs son 18+. Eso cambia el ritmo (no hay "menores" en la academia, todos firman contratos, beber alcohol, tienen vida sexual activa). Ver `AGENTS.md`.
 >
 > **PC = homebrew, llegada tardía o intercambio.** El PC entra en una clase que ya tiene dinámica. Empieza en **closeness 0** con todos los NPCs. La curva de progresión se ajusta: catch-up curricular al inicio, hitos de integración marcados, y la curva de stats puede ser más lenta al principio (el PC tiene que demostrar su nivel antes de subir).
 
@@ -94,4 +94,4 @@ Los hombres pueden dar **marcas de otro tipo**:
 - Esta progresión asume **alineamiento con el canon**. Si el PC se desvía, las marcas se ajustan.
 - El ritmo de poder no debe acelerarse. Si el PC sube 3 stats en 1 sesión, algo va mal.
 - Si el PC baja una stat (herida grave, trauma), se anota en `progreso_narrativo.csv` con motivo.
-- La vida adulta (sexo, alcohol,房租,etc.) genera escenas pero **no tiene que dar XP**. Es color, no progreso mecánico.
+- La vida adulta (sexo, alcohol, alquiler,etc.) genera escenas pero **no tiene que dar XP**. Es color, no progreso mecánico.

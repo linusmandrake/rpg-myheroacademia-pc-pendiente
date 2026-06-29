@@ -67,7 +67,7 @@
 | Reputación heroica | |
 | Facciones (UA / Comisión / Liga / agencias) | / / / |
 | Ubicación | Musutafu — |
-| Misiones / 实习 activas | |
+| Misiones / internado activas | |
 | **Closeness destacado** | [NPC: X] (eje afecto) |
 | Vínculos anclados | |
 

@@ -1,6 +1,6 @@
 # NPCs canon — RPG MHA Custom (18+)
 
-> **Campaña 18+.** Todos los personajes canon de MHA tienen **18+ años** en esta campaña. Eso significa: pueden firmar contratos como pro-hero, mantener relaciones sexuales,喝酒, vivir solos, tener historial médico, haber servido militar o tener antecedentes. Las edades exactas se pueden ajustar al gusto, pero el mínimo es 18.
+> **Campaña 18+.** Todos los personajes canon de MHA tienen **18+ años** en esta campaña. Eso significa: pueden firmar contratos como pro-hero, mantener relaciones sexuales, beber alcohol, vivir solos, tener historial médico, haber servido militar o tener antecedentes. Las edades exactas se pueden ajustar al gusto, pero el mínimo es 18.
 >
 > **El PC es homebrew (no canon).** Llega a UA como alumno de **intercambio** o **matriculado a última hora**. El PC **no tiene relación familiar ni de backstory con ningún NPC canon** — Midoriya es un compañero de clase más, no un hermano ni familiar. Esto significa:
 > - **No hay parentesco** entre el PC y ningún NPC canon.
@@ -157,7 +157,7 @@ Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres a
 ### Hombres 1-A (amistad, rivalidad, mentor)
 
 - **Midoriya Izuku / Deku** — One For All. **Vínculo: compañero / rival respetuoso.** Amable, abierto emocionalmente, pero *muy* enfocado en el heroísmo. Como amigo es cálido; como rival es inspirador. **No opción romántica.**
-- **Bakugo Katsuki** — Explosion. **Vínculo: rival tenso.** Orgullo extremo, anger issues. Si el PC le planta cara sin畏惧, sostenidamente, hay espacio para respeto y luego para una amistad tensa. **No opción romántica.**
+- **Bakugo Katsuki** — Explosion. **Vínculo: rival tenso.** Orgullo extremo, anger issues. Si el PC le planta cara sin amedrentarse, sostenidamente, hay espacio para respeto y luego para una amistad tensa. **No opción romántica.**
 - **Todoroki Shōto** — Half-Cold Half-Hot. **Vínculo: compañero distante / aliado.** Trauma familiar cerrado. Si el PC confronta el trauma con cuidado (no trivializándolo), puede ser aliado. **No opción romántica.**
 - **Iida Tenya** — Engine. **Vínculo: compañero formal.** Formal, recto, peso de la responsabilidad. **No opción romántica.**
 - **Kirishima Eijiro (Red Riot)** — Hardening. **Vínculo: amigo cálido.** Caballero, accesible emocionalmente. Como amigo es genial. **No opción romántica.**

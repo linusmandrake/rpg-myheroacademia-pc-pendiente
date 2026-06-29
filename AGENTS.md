@@ -43,7 +43,7 @@ El tono por defecto **no** es:
 - Shōnen asexualizado (MHA canon apenas toca el sexo, pero los personajes aquí son adultos y eso tiene consecuencias narrativas).
 
 El tono por defecto **sí** es:
-- **Heroico con costes.** Ser pro-hero es un trabajo con sueldo, contrato, riesgos legales y costes físicos. All Might sonríe, pero su cuerpo se está rompiendo. Y el PC, además, tiene vida sexual, romántica,房租, y el peso de las decisiones adultas.
+- **Heroico con costes.** Ser pro-hero es un trabajo con sueldo, contrato, riesgos legales y costes físicos. All Might sonríe, pero su cuerpo se está rompiendo. Y el PC, además, tiene vida sexual, romántica, alquiler, y el peso de las decisiones adultas.
 - **Escolar con presión real.** UA es una academia, sí, pero el examen de licencia, las prácticas heroicas, los ataques villanos y la presión de la Comisión convierten cada curso en supervivencia con libro de texto. Sin embargo los alumnos son adultos: pueden **salir del campus por la noche, tener citas, ir a bares, discutir con mentores de igual a igual**.
 - **Moral complejo.** Stain tiene parte de razón. Shigaraki tiene parte de razón. Endeavor abusó. Hawks espía. La Comisión oculta cosas. El PC vive en esa tensión, y la presión adulta hace que las decisiones éticas pesen distinto que en el canon.
 - **Sexualmente explícito cuando la escena lo requiera.** Parejas, ligue en bares, escenas íntimas, fetiches, trabajo sexual como tema (no como decoración), dinámicas de poder en lo sexual, infecciones de transmisión,consentimiento,etc. Sin eufemismos, sin luces de gasara, sin "lo primero en cinco años".
@@ -53,10 +53,10 @@ El tono por defecto **sí** es:
 
 ### Atmósfera general
 
-- **Urbana y adulta.** Edificios de Musutafu, campus de UA, dormitorios (más piso compartido que residencia escolar), bares de Musutafu, izakayas, la Comisión en Chiyoda, las agencias por la ciudad. La vida diaria adulta importa tanto como las crisis: el alquiler, la cita con la pareja, la pelea con un compañero, el邮件 del sensei a las 2am.
+- **Urbana y adulta.** Edificios de Musutafu, campus de UA, dormitorios (más piso compartido que residencia escolar), bares de Musutafu, izakayas, la Comisión en Chiyoda, las agencias por la ciudad. La vida diaria adulta importa tanto como las crisis: el alquiler, la cita con la pareja, la pelea con un compañero, el correo del sensei a las 2am.
 - **Luminosa con grietas.** El sol brilla, los estudiantes ríen, el simulador de villanos se enciende. Pero las grietas están ahí: Endeavor, Hawks herido, la Liga reclutando, la Comisión vigilando. Y por debajo: la prensa, la economía, los cuerpos rotos, las camas vacías.
 - **Prensa y opinión pública.** La sociedad japonesa reacciona. Manifestaciones pro/anti-héroes, cámaras, fans, haters, el chismorreo de la farándula heroica. El PC no es anónimo: tiene nombre público, cara, y possibly un pasado de relaciones conocidas.
-- **Cuerpo y esfuerzo.** Los quirks dejan marcas. Las peleas rompen huesos, queman ropa, derriten aulas. El entrenamiento duele. La rehabilitación cuesta. Y el sexo deja otras marcas: moratones, cansancio,情感.
+- **Cuerpo y esfuerzo.** Los quirks dejan marcas. Las peleas rompen huesos, queman ropa, derriten aulas. El entrenamiento duele. La rehabilitación cuesta. Y el sexo deja otras marcas: moratones, cansancio, emocional.
 - **Noche adulta.** Como todos los personajes son 18+, las escenas nocturnas son legítimas: salidas, fiestas, peleas en la calle, sexo, alcohol. La noche tiene peso narrativo propio.
 
 ### Contenido adulto explícito
@@ -165,7 +165,7 @@ Toga Himiko tiene una línea y velo específica con 5 preguntas. En esta campañ
   - Ignorancia (al principio)
   Cada NPC reacciona según su personalidad. **El PC tiene que hacer el trabajo** de integración.
 - **Los profesores evalúan al PC con más cuidado** que a los demás (es nuevo, no lo conocen, tienen que calibrar su nivel). Eso se traduce en escenas de prueba, primer entrenamientoobservado, primer ejercicio práctico.
-- **El PC puede haber llegado tarde a eventos canon.** Si se une tras el袭击 USJ, no estuvo ahí. Si se une antes, lo vive. Decidir según la fecha de llegada.
+- **El PC puede haber llegado tarde a eventos canon.** Si se une tras el asalto USJ, no estuvo ahí. Si se une antes, lo vive. Decidir según la fecha de llegada.
 - **La curva de poder se ajusta.** Como el PC es nuevo, su progresión puede ser más lenta al inicio (catch-up) o más rápida si la campaña lo decide. Ver `docs/progresion_temprana.md`.
 
 ### Hitos de integración del PC (recomendado)
@@ -175,7 +175,7 @@ Estos son los hitos narrativos típicos de un PC que llega nuevo:
 1. **Primer día en UA:** el PC conoce a sus compañeros, su homeroom, su sensei. Escenas de presentación, primeros roces, primeras observaciones.
 2. **Primer entrenamiento compartido:** el PC entrena con la clase por primera vez. Los compañeros le toman la medida, los senseis lo observan.
 3. **Primer combate (sparring o real):** el PC demuestra (o no) su nivel.
-4. **Primera misión de实习 o evento real:** el PC sale al mundo con la clase. Confianza, fallos, héroes.
+4. **Primera misión de internado o evento real:** el PC sale al mundo con la clase. Confianza, fallos, héroes.
 5. **Primer arco personal del PC (separado del canon):** algo que el PC tiene que resolver por su cuenta, sin los compañeros.
 6. **Primer arco conjunto (donde el PC elige cómo ayudar a un compañero con su drama canon):** confianza ganada.
 7. **El PC se gana un lugar propio en la clase (no solo "el nuevo"):** peso narrativo 2–3.

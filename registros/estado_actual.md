@@ -14,7 +14,7 @@
 
 *(Ninguno.)*
 
-## Misiones /实习 activas
+## Misiones /internado activas
 
 *(Ninguna.)*
 

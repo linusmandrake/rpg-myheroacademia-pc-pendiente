@@ -188,7 +188,7 @@ Akari va de **harem** ("instituto de conquista", muchas potenciales). El día qu
 
 ### Alumnos UA (compañeros)
 
-- **Orgullosos / agresivos** (Bakugo, Monuma): cuesta que bajen la guardia. Funciona: confrontación respetuosa, fuerza demostrada, no畏惧.
+- **Orgullosos / agresivos** (Bakugo, Monuma): cuesta que bajen la guardia. Funciona: confrontación respetuosa, fuerza demostrada, no amedrentarse.
 - **Con trauma familiar** (Todoroki, Dabi): cuesta que se abran. Funciona: paciencia, no trivializar el trauma, estar presente sin presión.
 - **Tímidos / inseguros** (Kōda, Yaoyorozu): cuesta que inicien. Funciona: espacio seguro, no presionar, validar sin condescender.
 - **Extrovertidos / sociales** (Ashido, Kirishima, Kaminari): fácil empezar, pero pueden ser superficiales. Funciona: profundizar, no quedarse en el "vacío social".

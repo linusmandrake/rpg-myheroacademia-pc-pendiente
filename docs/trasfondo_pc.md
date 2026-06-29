@@ -94,7 +94,7 @@ Cuando se defina el PC, rellenar:
 - **Escuela de origen:** Shiketsu (transferido, no intercambio).
 - **Razón oficial:** admisión especial por recomendación de un pro-hero que la vio en acción.
 - **Razón real:** Akari tuvo un incidente grave en Shiketsu (víctima de un villano que asaltoó la escuela) y la transfirieron a UA para "reiniciar" y protegerla.
-- **Llegada:** a mitad del segundo año (D60). Se pierde el襲击 USJ pero vive Kamino si la campaña llega.
+- **Llegada:** a mitad del segundo año (D60). Se pierde el asalto USJ pero vive Kamino si la campaña llega.
 - **Stats:** PWR 3, VEL 4, TEC 5, ING 4, COO 4 (entrenada en combate cercano, no en fuerza bruta).
 - **Quirk:** *espejo sensorial* — puede reflejar los sentidos de un oponente (el oponente ve/oye/siente lo mismo que ella, desorientándolo).
 - **Familia:** madre sola, clase media-baja. Sin parentesco canon.

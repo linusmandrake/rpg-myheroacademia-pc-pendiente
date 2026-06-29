@@ -14,7 +14,7 @@ Tareas pendientes para terminar de armar el esqueleto inicial. Marcar con `[x]` 
 
 - [ ] Decidir versión final del sistema de stats (5 stats? 8 stats? otro?)
 - [ ] Decidir sistema de quirks custom (dados, cartas, descriptivo libre?)
-- [ ] Decidir cómo se mide el "esfuerzo" de entrenamiento (días,汗, arcos?)
+- [ ] Decidir cómo se mide el "esfuerzo" de entrenamiento (días, sudor, arcos?)
 - [ ] Definir curva de progresión temprana (ver `docs/progresion_temprana.md`)
 - [ ] Implementar `tools/resolver_accion.py` con el sistema definitivo
 
@@ -38,7 +38,7 @@ Tareas pendientes para terminar de armar el esqueleto inicial. Marcar con `[x]` 
 ## Primera sesión
 
 - [ ] Rellenar `docs/sesion_cero.md` con la sesión cero del PC
-- [ ] Primer arco: decidir entre Examen de Ingreso UA / Provisional License Exam /实习 / Custom
+- [ ] Primer arco: decidir entre Examen de Ingreso UA / Provisional License Exam /internado / Custom
 - [ ] Programar `cron` o hook de `rpg_sync.sh` para esta carpeta
 
 ## Catálogos y datos

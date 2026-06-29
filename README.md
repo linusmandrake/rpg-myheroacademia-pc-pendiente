@@ -21,12 +21,12 @@ Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** 
 - `docs/facciones.md`: UA, Shiketsu, Ketsubutsu, Comisión de Seguridad Pública, Liga de Villanos, etc.
 - `docs/npc_canon.md`: NPCs del canon (All Might, Aizawa, Bakugo, etc.) con Dificultad de relación (mujeres) o Vínculo (hombres).
 - `docs/poderes_quirks.md`: sistema de quirks (clasificación emitter/transformation/mutant, costes, evolución).
-- `docs/entrenamiento.md`: reglas de entrenamiento,汗 y subida de stats.
+- `docs/entrenamiento.md`: reglas de entrenamiento, sudor y subida de stats.
 - `docs/equipo_inicial_pj.md`: equipo inicial (costume, gadgets, apoyo).
 - `docs/combate.md`: reglas de combate 1-a-1, equipos, contra villanos.
 - `docs/examenes_licencia.md`: Provisional License Exam y reglas asociadas.
 - `docs/economia_y_recursos.md**: ingresos pro-hero, becas UA, costos de costume, vivienda.
-- `docs/prensa_reputacion.md**: cobertura mediática,粉丝, haters, ranking.
+- `docs/prensa_reputacion.md**: cobertura mediática, fans, haters, ranking.
 - `docs/campus_ua.md**: aulas, dormitorios, sala común, enfermería, simuladores.
 - `docs/curso_1a_1b.md**: compañeros de clase canon y sus quirks.
 - `docs/complicaciones_encuentros.md**: tablas de complicaciones para clases, entrenamientos, prácticas, villanos.
@@ -66,6 +66,6 @@ Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** 
 
 1. **Definir el PC.** Sesión cero: nombre, edad 18+, sexo/género, orientación, **tipo de llegada** (intercambio / matriculado / custom), curso destino (UA Hero Course 1-A / 1-B / Support / General Studies), quirk custom, familia custom, backstory corta. Ver `docs/trasfondo_pc.md` y `docs/sesion_cero.md`.
 2. **Decidir tono específico.** El esqueleto es shonen-heroico adulto (18+, sexo y violencia explícitos). Ajustar las líneas y velos con el jugador.
-3. **Elegir arco inicial.** Examen de ingreso UA, Provisional License Exam,实习 en agencia, primer encuentro villano, o custom. **Si el PC llega tarde, decidir qué arcos canon ya pasaron** (USJ袭击, Stain arc, Kamino,etc.).
+3. **Elegir arco inicial.** Examen de ingreso UA, Provisional License Exam, internado en agencia, primer encuentro villano, o custom. **Si el PC llega tarde, decidir qué arcos canon ya pasaron** (USJ asalto, Stain arc, Kamino,etc.).
 4. **Renombrar carpeta y poblar `registros/pj.csv` y `registros/relaciones.csv`.**
 5. **Primera sesión.**

@@ -36,7 +36,7 @@
   - **Nezu:** director. Animal-like quirk, estratega.
 - **Ingreso:** *Examen de ingreso UA* (puntaje + rescate + робот UA) o recomendación de la escuela anterior. **18+** requerido.
 - **Costo:** cubierto por beca (los mejores), o pago si General Studies. **Los alumnos contratan su propio costume** (con apoyo de Support).
-- **Vida adulta en el campus:** los alumnos pueden salir del campus libremente, tienen llaves de su dormitorio, pueden tener parejas,喝酒 en el bar cercano, y vivir casi como adultos independientes. La sensación es más de "residencia universitaria con entrenamiento" que de "internado de instituto".
+- **Vida adulta en el campus:** los alumnos pueden salir del campus libremente, tienen llaves de su dormitorio, pueden tener parejas, beber alcohol en el bar cercano, y vivir casi como adultos independientes. La sensación es más de "residencia universitaria con entrenamiento" que de "internado de instituto".
 
 ### Shiketsu High School
 

@@ -15,11 +15,11 @@
 | `mentores.csv` | Profesores, maestros, senseis | mentor |
 | `equipo_pc.csv` | Equipo del PC (costume, gadgets, apoyo) | ítem |
 | `finanzas.csv` | Ingresos, gastos, deudas, becas | movimiento |
-| `reputacion.csv` | Cobertura mediática, ranking,粉丝/haters | evento |
-| `entrenamientos.csv` | Sesiones de entrenamiento,汗 | sesión |
+| `reputacion.csv` | Cobertura mediática, ranking, fans/haters | evento |
+| `entrenamientos.csv` | Sesiones de entrenamiento, sudor | sesión |
 | `misiones.csv` | Misiones de internado, patrullaje, rescate | misión |
 | `examenes.csv` | Exámenes UA, license exam, simulacros | examen |
-| `incidentes.csv` | Incidentes villanos, asalto,报警 | incidente |
+| `incidentes.csv` | Incidentes villanos, asalto, dar la alarma | incidente |
 | `enemigos.csv` | Villanos conocidos, amenazas | villano |
 | `conocimientos.csv` | Cosas que el PC sabe o ha aprendido | conocimiento |
 | `progreso_narrativo.csv` | Marcas narrativas (peso 1/2/3) | marca |
