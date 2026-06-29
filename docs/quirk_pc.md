@@ -490,6 +490,202 @@ Estos son **momentos de campaña**, no penalizaciones. El GM los usa para crear 
 
 ---
 
+# Drenaje de sangre (Quirk activo, alta carga narrativa)
+
+> **Concepto:** el PC puede **drenar sangre de un enemigo** durante o después del combate. La sangre drenada se procesa por el simbionte y se convierte en recuperación del pool, con efectos que dependen de la **compatibilidad de tipo de sangre** entre el PC y el enemigo. La sangre del enemigo también puede contener **esencia de su quirk** y **flashbacks de su memoria**, dando al PC bonuses narrativos y mecánicos.
+
+---
+
+## 1. Cuándo se puede drenar
+
+| Situación | Riesgo | Notas |
+|---|---|---|
+| **En combate, enemigo inconsciente** | Bajo | El PC tiene 1 acción para drenar antes de que el enemigo despierte |
+| **En combate, enemigo consciente** | Alto | El enemigo puede contraatacar. 2 acciones; el PC está expuesto |
+| **Post-combate, enemigo derrotado** | Nulo | El PC drena tranquilo. 1 acción |
+| **Con consentimiento, aliado** | Nulo | Donación voluntaria, recuperación + vínculo narrativo |
+| **Auto-drenaje** (drenarse a sí mismo, simbólico) | Bajo | El PC bebe su propia sangre para "resetear" el pool. Sabe raro. Narrativamente intenso |
+
+---
+
+## 2. Coste del drenaje
+
+- **Acción de drenar:** **15 unidades de sangre** (coste del Quirk para realizar el drenaje).
+- **Tiempo:** 1 acción de combate (~30 segundos in-game).
+- **Recuperación variable según compatibilidad** (ver tabla abajo).
+- **Saldo neto** = recuperación - coste.
+
+---
+
+## 3. Compatibilidad de sangre y recuperación
+
+La sangre se clasifica por tipo (A, B, AB, O) y factor Rh (+/-). La compatibilidad entre PC y enemigo determina cuánta sangre se recupera y qué efectos secundarios hay.
+
+### Compatibilidad simplificada (5 niveles)
+
+| Compatibilidad | Ejemplo (PC=enemigo) | Recuperación neta* | Efectos secundarios |
+|---|---|---|---|
+| **Mismo tipo exacto** | A+ recibe A+ | **+50 unidades** | +1 PWR_quirk 2h; simbionte feliz (+1 humor); sin scars |
+| **Compatible (mismo grupo ABO)** | A+ recibe A−, o A+ recibe O+/O− | **+40 unidades** | Sin bonus ni debuff; simbionte neutral |
+| **Variable (universal receptor)** | AB+ recibe cualquier tipo | **+30 unidades** | −1 PWR_quirk 1h; simbionte ligeramente incómodo |
+| **Incompatible (cross-ABO)** | A+ recibe B+/B−, o B+ recibe A+/A− | **+20 unidades** | −2 PWR_quirk 2h; 1 memory scar; simbionte se queja; posible vómito |
+| **Severa (Rh incompatible ABO)** | A+ recibe AB+/AB−, o O− recibe cualquier Rh+ | **+10 unidades** | −3 PWR_quirk 3h; 1 memory scar + 1 temporal scar; simbionte se niega a cooperar 24h |
+
+*Recuperación neta = sangre recuperada − 15 (coste del drenaje). Los ejemplos asumen PC=enemigo en el mismo tipo exacto.
+
+### Tabla de compatibilidad rápida
+
+Si el PC es **A+** y el enemigo es:
+
+| Enemigo | Compatibilidad | Recupera | Cuesta | Saldo |
+|---|---|---|---|---|
+| A+ | Mismo exacto | 50 | 15 | **+35** |
+| A− | Compatible | 40 | 15 | **+25** |
+| O+ | Compatible | 40 | 15 | **+25** |
+| O− | Compatible | 40 | 15 | **+25** |
+| AB+ | Severa | 10 | 15 | **−5** (¡sale peor!) |
+| B+ | Incompatible | 20 | 15 | **+5** |
+| B− | Incompatible | 20 | 15 | **+5** |
+
+> **Nota:** el saldo neto puede ser negativo si el PC drena un enemigo con sangre muy incompatible. **El PC aprende a no drenar a quien no debe.**
+
+### Tipos de sangre y compatibilidad del PC
+
+El PC tiene un tipo de sangre definido en `sesion_cero.md`. Los aliados y enemigos tienen tipos definidos en `docs/npc_perfiles_canon.md`.
+
+---
+
+## 4. Quirk residue (esencia del quirk del enemigo)
+
+Si el enemigo drenado tenía un **Quirk**, la sangre contiene trazas de su Quirk. Esto da al PC opciones narrativas y mecánicas:
+
+| Situación | Resultado |
+|---|---|
+| **Drenar villano con Quirk fuerte** (Shigaraki, AFO, Dabi) | El simbionte puede **absorber la esencia**. Resultado: el PC obtiene un **fragmento del Quirk** del enemigo por 1 escena (muy limitado, 1 uso). O la **maestría del PC sube +1** (el simbionte aprende). |
+| **Drenar villano con Quirk relacionado a la sangre** (Toga, Moonfish) | La sangre puede **activar el Quirk del enemigo dentro del PC**. Toga: el PC se transforma brevemente en alguien cuya sangre el PC drenó. Moonfish: la sangre intenta "comerse" al PC desde dentro (peligro). |
+| **Drenar pro-hero o aliado con Quirk** | Esencia más débil. Bonus: el PC obtiene **información sobre el Quirk** del aliado (cómo funciona, debilidades). Narrativamente: el aliado se siente vulnerable. |
+| **Drenar a un Quirkless** (sin Quirk) | Sin esencia. Solo la sangre. Más seguro. |
+
+### El simbionte decide qué hacer con la esencia
+
+- Si el simbionte está **aliado** y el Quirk es **compatible** con su naturaleza, lo absorbe. Maestría +1, fragmento de Quirk disponible.
+- Si el simbionte está **neutral**, decide según su humor.
+- Si el simbionte está **resentido** o **enemigo**, se niega a absorber. La esencia se queda en el PC como residuo (puede causar efectos secundarios no controlados).
+
+---
+
+## 5. Memory contamination (contaminación de memoria)
+
+Al drenar a un enemigo, el PC absorbe **flashbacks de la vida del enemigo**. Esto es una **carga narrativa enorme** y se aplica con cuidado:
+
+- **El GM describe 1–2 recuerdos clave** del enemigo durante el drenaje.
+- Los recuerdos son **vívidos**: el PC los vive como si fueran propios.
+- El PC puede usar esa información **narrativamente** (sabe cosas del enemigo que no debería saber).
+- El PC puede **no saber** que está teniendo los recuerdos — pueden surgir como flashbacks involuntarios.
+
+### Casos especiales de memory contamination
+
+| Quién es drenado | Recuerdos que el PC puede absorber |
+|---|---|
+| **Toga Himiko** | Recuerdos de su infancia abusiva, su obsesión con la sangre, su "felicidad" al herir. Pesado. |
+| **Dabi / Toya** | Recuerdos de su infancia con Endeavor, el abuso, el incendio, su transformación. Muy pesado. |
+| **Shigaraki** | Recuerdos de la muerte de su familia, su odio, su búsqueda de AFO. Pesado. |
+| **Un villano genérico** | Recuerdos de su vida, sus motivaciones (a veces tiene sentido, no son "malos puros"). |
+| **Un pro-hero** | Recuerdos de su ética, sus dudas, sus relaciones. Positivo o complicado. |
+| **Un aliado (con consentimiento)** | Recuerdos de su amistad, su amor, su historia. Hermoso pero íntimo. |
+| **Un interés romántico (enemigo circunstancial)** | Recuerdos de su amor, su miedo, su conflicto. **MUY cargado narrativamente.** |
+
+### El symbionte como moderador
+
+- El simbionte **puede filtrar** los recuerdos antes de que lleguen al PC.
+- Si el simbionte está **aliado**, filtra los recuerdos más traumáticos (pero deja los útiles).
+- Si el simbionte está **neutral** o **enemigo**, deja pasar todo sin filtrar. **Pesado para el PC.**
+
+---
+
+## 6. Riesgo y backfire
+
+Drenar no es gratis. Riesgos:
+
+| Riesgo | Cuándo | Efecto |
+|---|---|---|
+| **Quirk activo en la sangre** | Drenar a Toga, Moonfish, etc. | El Quirk del enemigo se activa brevemente dentro del PC. Impredecible. |
+| **Veneno o toxina** | Drenar a villano con quirk venenoso | Daño a HP. |
+| **Enemigo con Quirk de sangre** (Toga, Moonfish, Muscular) | Drenar en combate activo | El enemigo puede usar su Quirk sobre el PC mientras lo drena. |
+| **AFO-like (roba Quirk)** | AFO es el riesgo máximo. | Si el PC drena a AFO, AFO puede intentar robarle un Quirk al PC. Peligro extremo. |
+| **Compatibilidad severa** | Cualquiera con Rh- o tipo raro | El PC se intoxica. Ver tabla arriba. |
+| **Memoria traumática** | Cualquier villano pesado | El PC puede tener PTSD por los recuerdos. La campaña usa esto narrativamente. |
+| **Reacción del simbionte** | Incompatible o enemigo | El simbionte se rebela, se niega a procesar, o intenta "escupir" la sangre. |
+
+---
+
+## 7. Aplicación a la campaña
+
+### Casos narrativos típicos
+
+- **Drenar a Toga post-combate:** el PC obtiene flashbacks de la infancia de Toga, siente su dolor, ve su obsesión. Decide si la "compadece" o la "usa". Muy cargado.
+- **Drenar a un villano menor:** el PC obtiene información sobre la Liga, los planes de villanos,etc. Útil para la trama.
+- **Drenar a un aliado herido (con consentimiento):** el PC y el aliado comparten sangre, creando un vínculo profundo. Posible: este drenaje es **erótico** (sangre, boca, intimidad). Edge adulto.
+- **Drenar a un enemigo "neutro"** (un mercenario, un ladrón): el PC ve la vida del enemigo, a veces tiene sentido. El villano no es "malo puro".
+- **Drenar a AFO:** **MUY PELIGROSO.** AFO puede intentar robar un Quirk del PC. Solo se hace en endgame, con un plan, y con el simbionte aliado.
+
+### Edge adulto (integrado con la meta-regla 18+)
+
+- El drenaje es un acto **íntimo**. La boca del PC en el cuerpo del enemigo (o aliado). Sangre en la boca, el simbionte la procesa, el PC la absorbe.
+- **Drenar a un interés romántico** (con consentimiento): es un acto de intimidad profunda. La sangre se mezcla simbióticamente. El PC siente los recuerdos y el placer del otro. Escenas muy cargadas.
+- **Drenar a alguien que no quiere ser drenado:** si el PC fuerza, es un acto violento. El simbionte se resiente. La meta-regla aplica: si el jugador o la campaña no quiere, no se hace.
+- **El simbionte disfruta del drenaje.** El simbionte "saborea" la sangre. Esto es parte de su naturaleza. El PC puede ser consciente de esto (y sentirlo erótico) o no.
+
+### Línea y velo
+
+La meta-regla aplica:
+- Si el jugador **no quiere** escenas de drenaje, el GM las omite o las cambia por "el PC absorbe la energía vital del enemigo" sin detalles físicos.
+- Si el jugador **quiere** drenaje explícito, el GM lo narra con peso.
+- Si el jugador quiere **drenaje sexual** (con aliado o interés romántico), es válido bajo la meta-regla 18+.
+
+---
+
+## 8. Combinación con otros sistemas
+
+### Drenaje + Avatar Carmesí
+
+El Avatar Carmesí puede **drenar por el PC**. El PC manda al Avatar a drenar a un enemigo, mientras el PC está a salvo. El Avatar se expone al riesgo (puede ser destruido), pero el PC está protegido.
+
+### Drenaje + Bestias del Simbionte
+
+Las bestias pueden **almacenar sangre** para el PC. Una bestia caza a un enemigo menor, lo drena, y vuelve con la sangre para el PC. Como una "cacería".
+
+### Drenaje + Ecos Temporales
+
+Un Eco del PC puede drenar en el pasado. Si el PC rewind + Eco + drenaje, el PC puede "recolectar" sangre de un combate pasado. Edge: ¿el enemigo ya drenado recuerda el drenaje? Sí, pero el PC recuerda el momento alternativo. Disociación garantizada.
+
+### Drenaje + Relaciones
+
+Drenar a un interés romántico (con consentimiento) es un **acto de intimidad profunda** que sube la Closeness significativamente. El sistema de relaciones lo registra.
+
+---
+
+## 9. Resumen ejecutivo del drenaje
+
+| Compatibilidad | Recupera | Coste | Saldo | Efectos secundarios |
+|---|---|---|---|---|
+| Mismo exacto | 50 | 15 | **+35** | +1 PWR_quirk 2h, simbionte feliz |
+| Compatible | 40 | 15 | **+25** | Ninguno |
+| Variable | 30 | 15 | **+15** | −1 PWR_quirk 1h, simbionte incómodo |
+| Incompatible | 20 | 15 | **+5** | −2 PWR_quirk 2h, 1 memory scar, simbionte se queja |
+| Severa | 10 | 15 | **−5** | −3 PWR_quirk 3h, 2 scars, simbionte se niega 24h |
+
+**Bonus adicionales:**
+- Quirk residue: si el simbionte absorbe, +1 maestría o fragmento de Quirk.
+- Memory contamination: 1–2 recuerdos del enemigo absorbidos (filtrados por el simbionte según humor).
+- Risk: backlash del Quirk del enemigo (si aplica), veneno, intoxicación.
+
+**Aplicación adulta:** el drenaje es íntimo, sensual, cargado. Se integra con la meta-regla 18+. Se aplica a aliados, enemigos, e intereses románticos con diferentes pesos narrativos.
+
+**Garantía:** el drenaje es **opcional**. El PC puede jugar sin drenar nunca. Si lo hace, los efectos son presión narrativa, no letales.
+
+---
+
 ## Interacción con relaciones (sistema de Closeness)
 
 Las proyecciones pueden afectar las relaciones del PC:

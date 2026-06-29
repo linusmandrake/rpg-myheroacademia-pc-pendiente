@@ -13,6 +13,8 @@
 > - El resto del contenido adulto (violencia, sexo, otros fetiches) opera bajo la misma meta-regla: se va, se corrige si molesta, se documenta después.
 > - El jugador es soberano de su experiencia y puede parar, redirigir o vetar en cualquier momento.
 >
+> **Datos oficiales del canon:** para tipo de sangre, cumpleaños, y comida favorita de cada personaje, ver `docs/npc_perfiles_canon.md` (próximamente). Estos datos se usan para escenas de cumpleaños, cenas, citas, y como hooks narrativos.
+>
 > **Regla de romance/sexo de la campaña:** **las mujeres son las opciones de romance/sexo; los hombres son amistad, rivalidad o mentor.** Esta regla se aplica tal como está configurada la campaña; ver `sesion_cero.md` y `docs/sistema_relaciones.md`.
 >
 > **Cómo leer este doc:**

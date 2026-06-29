@@ -61,6 +61,7 @@ Borrador: **2d6 + stat_mod + modificadores situacionales**. Resultado:
 - **Acción de esquiva:** 2d6 + VEL + bonus de Avatar Carmesí si está activo.
 - **Acción de trabajo en equipo:** 2d6 + COO (PC) + COO (aliado) ÷ 2 + Bestias del Simbionte si están protegiendo.
 - **Rewind:** acción especial, gasta sangre + memoria. 1 vez por combate al inicio, 2–3 a mid, 5+ a endgame (con memory scars).
+- **Drenaje de sangre:** acción especial, ver `docs/quirk_pc.md` sección "Drenaje de sangre". Coste 15 sangre; recuperación variable según compatibilidad de tipo. 1 acción de combate. Riesgo: backlash del Quirk del enemigo, memoria traumática, intoxicación si incompatible.
 
 ## Entrenamiento y progresión
 
