@@ -3,6 +3,8 @@
 > **Estado:** pendiente. Rellenar en la primera sesión.
 >
 > **Recordatorio:** campaña 18+ (ver `AGENTS.md` y `CLAUDE.md`). PC y NPCs son adultos.
+>
+> **PC = homebrew.** El PC no es un personaje canon. Llega a UA como alumno de **intercambio** o **matriculado a última hora**. No tiene relación familiar ni de backstory con ningún NPC canon. Midoriya, Bakugo, etc. son compañeros de clase, no hermanos, no familia. Esto significa que las relaciones con sus familiares adultos (Inko, Fuyumi Todoroki, etc.) **no tienen lectura incestuosa**, solo tabú social cuando lo haya.
 
 ## Regla de romance/sexo de la campaña
 
@@ -12,20 +14,28 @@
 - **Relajar regla** (PC mujer o bi-cualquiera, explorar hombres) — *si el PC es mujer o el jugador quiere explorar hombres*
 - **Mantener regla + solo heterosexual** (PC masculino, solo mujeres)
 
-## Decisiones del PC
+## Decisiones del PC — Homebrew
 
 - **Nombre:** *(pendiente)*
 - **Edad:** 18+ *(mínimo legal; puede ser 19, 20, etc. según concepto)*
 - **Sexo / género:** *(M / F / no binario / otro)*
 - **Orientación / preferencias:** *(heterosexual / homosexual / bisexual / pan / ace / otra)*
-- **Curso en UA:** Hero Course 1-A / 1-B / General Studies / Support Course / (otra escuela: Shiketsu, Ketsubutsu, etc.)
+- **Nacionalidad / origen geográfico:** *(Japón / otro país / mixto)*
+- **Tipo de llegada a UA:**
+  - **Intercambio** *(PC viene de otra escuela — canon o custom — por un periodo limitado)*
+  - **Matriculado a última hora** *(PC es admitido tarde, se une a la clase después de que ya tenga dinámica)*
+  - **Otro:** *(definir)*
+- **Escuela de origen (si intercambio o transferencia):** *(Shiketsu / Ketsubutsu / Seijin / escuela custom / sin escuela previa)*
+- **Curso destino en UA:** Hero Course 1-A / 1-B / General Studies / Support Course / *(definir)*
 - **Quirk:**
   - **Nombre:** *(pendiente)*
   - **Tipo:** Emitter / Transformation / Mutant
   - **Descripción mecánica:** *(pendiente)*
   - **Costes/limitaciones:** *(pendiente)*
   - **Evolución prevista:** *(pendiente)*
+- **Familia del PC (custom, no canon):** *(definir — padres/hermanos/tutores, sin relación con familias canon)*
 - **Backstory corta (≤150 palabras):** *(pendiente)*
+- **Motivación para estar en UA:** *(qué le mueve a ser héroe, o por qué se cambió / intercambió)*
 
 ## Decisiones sobre relaciones románticas/sexuales
 
@@ -34,7 +44,7 @@
 - **Aplicar regla de campaña (mujeres = romance/sexo, hombres = amistad/rivalidad/mentor):** *(sí / no / con ajustes)*
 - **Orientación / preferencias del PC:** *(definir)*
 - **NPCs con dificultad alta que el PC quiere intentar (8+):** *(lista — requieren esfuerzo de meses in-game)*
-- **NPCs vetados por el jugador (líneas y velos):** *(lista — p.ej. "no Toga por su obsesión con sangre", "no Midnight (profesora)", "no Mt. Lady (vanidosa)", "no Uraraka" — por cualquier motivo)*
+- **NPCs vetados por el jugador (líneas y velos):** *(lista — p.ej. "no Toga por su obsesión con sangre", "no Midnight (profesora)", "no Mt. Lady (vanidosa)", "no Inko (madre de compañero, tabú social)", "no Fuyumi Todoroki" — por cualquier motivo)*
 - **Tipo de exploración preferido:** *(sweet / spicy / explicit / fade-to-black / etc.)*
 - **Ritmo de las relaciones:** *(rápido / lento / realista / dejar que la historia marque)*
 - **Tolerancia a triángulos, rupturas, drama:** *(definir)*

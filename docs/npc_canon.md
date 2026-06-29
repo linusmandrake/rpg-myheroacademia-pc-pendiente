@@ -2,12 +2,19 @@
 
 > **Campaña 18+.** Todos los personajes canon de MHA tienen **18+ años** en esta campaña. Eso significa: pueden firmar contratos como pro-hero, mantener relaciones sexuales,喝酒, vivir solos, tener historial médico, haber servido militar o tener antecedentes. Las edades exactas se pueden ajustar al gusto, pero el mínimo es 18.
 >
+> **El PC es homebrew (no canon).** Llega a UA como alumno de **intercambio** o **matriculado a última hora**. El PC **no tiene relación familiar ni de backstory con ningún NPC canon** — Midoriya es un compañero de clase más, no un hermano ni familiar. Esto significa:
+> - **No hay parentesco** entre el PC y ningún NPC canon.
+> - **Las relaciones con familiares de NPCs canon (Inko, la familia Todoroki, etc.) NO tienen lectura incestuosa.** Son personas adultas sin vínculo familiar con el PC.
+> - **Los tabúes sociales persisten** (clase de la madre de un compañero, etc.) pero no son incestuosos.
+> - **El PC es "el nuevo" en una clase que ya tiene dinámica propia.** Hay narrativa de integración, catch-up curricular, y construcción de relaciones desde cero.
+>
 > **Regla de romance/sexo de la campaña:** **las mujeres son las opciones de romance/sexo; los hombres son amistad, rivalidad o mentor.** Esta regla se aplica tal como está configurada la campaña; ver `sesion_cero.md` y `docs/sistema_relaciones.md`.
 >
 > **Cómo leer este doc:**
 > - **NPCs mujeres:** tienen `Dificultad de relación` (1–10) con razón. Esa es la opción romántica/sexual.
-> - **NPCs hombres:** tienen `Vínculo` (amistad/rivalidad/mentor/enemistad) y la nota explícita de que **no son opción romántica en esta campaña**.
+> - **NPCs hombres:** tienen `Vínculo` (amistad/rivalidad/mentor) y la nota explícita de que **no son opción romántica en esta campaña**.
 > - **NPCs N/A (acosadores, abusadores, etc.):** no son opción en ningún sentido salvo lo narrativo.
+> - **Familiares adultos de NPCs canon (Inko, otros):** son opción adulta normal, sin tabú de parentesco, pero pueden tener tabú social (clase, poder,etc.).
 
 Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres ajustar (p.ej. Deku 19, Bakugo 19, Aizawa 32, Endeavor 45, All Might 45), edita el CSV `registros/companeros.csv` cuando los incorpores.
 
@@ -220,13 +227,27 @@ Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres a
 
 ---
 
-## Otros NPCs
+## Otros NPCs adultos (familiares, staff, figuras públicas)
 
-- **Inko Midoriya (madre de Izuku)** — Adulta (~40). Quirk: Attraction of Small Objects. **N/A en romance** (es la madre de un compañero de clase, dinámica social-tabú). Puede aparecer como NPC contextual: la mamá de Izuku que invita al PC a comer, eventos familiares, etc. Pero no es opción romántica ni sexual. **No incluir en la lista de interés.**
+### Inko Midoriya (madre de Izuku)
 
-- **Aizawa's wife / present-mic partner:** Aizawa y Present Mic son pareja en canon. No es opción romántica para el PC en esta campaña; queda como trasfondo.
+- **Sexo:** F
+- **Edad referencia:** 40
+- **Quirk:** Attraction of Small Objects. Atrae objetos pequeños hacia ella.
+- **Dificultad de relación: 5 (Moderado).** Adulta, madre de un compañero de clase. **No hay parentesco con el PC** (PC es homebrew), así que no es lectura incestuosa. El obstáculo es **social** (clase, edad, poder de "madre del compañero"), no incestuoso. La campaña puede explorar esta relación como adulta sin que sea tabú de parentesco. Como NPC puede aparecer en casa de Izuku, en eventos de UA, en el barrio del PC,etc.
+- **Personalidad:** dulce, nerviosa, protectora de Izuku, se preocupa por todo. Historia personal: padre de Izuku ausente, Izuku sin quirk hasta los 14 (en canon), viuda o separada. Aquí: adulta con su propia vida, amigas, hobbies. Puede ser una mujer interesante más allá de "madre de".
 
-- **Inko Midoriya, Recovery Girl, etc. — Notas:** estos personajes pueden aparecer como NPCscontextuales (familia, mentores adultos, staff) sin que sean opción romántica.
+### Otros adultos fuera del sistema de pro-heroes
+
+- **Tōya Todoroki (padre de Shōto y Dabi)** — N/A: **villano activo, no opción**.
+- **Rei Todoroki (madre de Shōto, Fuyumi, Natsuo, Tōya)** — F. Adulta. Víctima de abuso de Endeavor. Hospitalizada o viviendo sola en canon. Si la campaña la incluye, es una adulta rota que merece respeto. No es opción romántica por la dinámica (es la madre de un compañero, víctima de abuso,etc.) salvo acuerdo explícito.
+- **Fuyumi Todoroki (hermana de Shōto)** — F. Adulta. Pro-hero (enseñanza). En el canon es adulta con trabajo propio. **Dificultad 5 (Moderado).** Si el PC se acerca a la familia Todoroki con cuidado, Fuyumi es accesible.
+- **Natsuo Todoroki (hermano de Shōto)** — M. Adulto. Estudiante de medicina, separado de la familia por el abuso. **Vínculo: aliadoadulto / contacto familiar.** No opción romántica.
+- **Inko Midoriya, Recovery Girl, etc. — Notas:** pueden aparecer como NPCscontextuales (familia, mentores adultos, staff) sin que sean opción romántica — **excepto Inko, que sí es opción adulta** (ver arriba).
+
+### Aizawa's wife / present-mic partner
+
+Aizawa y Present Mic son pareja en canon. No son opción romántica para el PC en esta campaña; queda como trasfondo.
 
 ---
 
@@ -234,11 +255,12 @@ Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres a
 
 | Categoría | Trato |
 |---|---|
-| **NPCs mujeres** (estudiantes, profesoras, pro-heroines, villanas) | **Opción romántica/sexual.** Tienen `Dificultad: 1–10`. |
+| **NPCs mujeres** (estudiantes, profesoras, pro-heroines, villanas, **familiaresadultos** como Inko) | **Opción romántica/sexual.** Tienen `Dificultad: 1–10`. |
 | **NPCs hombres** (estudiantes, profesores, pro-heroes, villanos) | **Amistad, rivalidad, mentor, enemigo.** Tienen `Vínculo: X`. No opción romántica. |
 | **NPCs abusadores / acosadores** (Mineta, Endeavor, AFO) | **No opción en ningún sentido.** Se tratan como antagonistas, obstáculos, o NPCcontextuales. |
-| **NPCs con parentesco social** (Inko = madre de compañero) | **N/A romance.** Pueden ser NPCscontextuales (familia del compañero, eventos). |
+| **Familiares adultos de NPCs canon (Inko, Fuyumi Todoroki, etc.)** | **Opción adulta normal** (sin tabú incestuoso porque el PC es homebrew). El obstáculo es **social o de poder** (clase, edad, dinámica familiar), no parentesco. |
+| **NPCs que ya tienen pareja canon** (Aizawa-Mic, Vlad King-Pixie-Bob, etc.) | **No opción** salvoAU custom o ruptura argumental. |
 
 ## Líneas y velos
 
-Definir con el jugador al inicio de la campaña (ver `sesion_cero.md`). El jugador puede vetar tramas específicas (p.ej. "no Toga por su obsesión con sangre", "no pro-heroines casadas", "no profesoras") y el GM debe respetarlo en cualquier momento de la campaña.
+Definir con el jugador al inicio de la campaña (ver `sesion_cero.md`). El jugador puede vetar tramas específicas (p.ej. "no Toga por su obsesión con sangre", "no pro-heroines casadas", "no profesoras", "no Inko porque me incomoda el tabú social") y el GM debe respetarlo en cualquier momento de la campaña.

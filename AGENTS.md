@@ -109,6 +109,49 @@ El tono por defecto **sí** es:
 
 ---
 
+## El PC es homebrew (no canon)
+
+> El PC **no es un personaje canon de MHA**. Es un personaje homebrew que llega a UA como alumno de **intercambio** o **matriculado a última hora**. Esto tiene implicaciones narrativas importantes que el GM debe sostener.
+
+### Lo que esto significa
+
+- **El PC no es familia, ni antiguo conocido, ni rival de ningún NPC canon.** Midoriya no es su hermano, Bakugo no es su amigo de la infancia, Todoroki no le debe nada. Todos son **extraños** que el PC va a conocer al llegar.
+- **El PC no tiene "destino" canon.** No tiene OFA, no es hijo de All Might, no tiene trauma familiar canon. Su historia es la que el jugador define.
+- **El PC entra en una clase que ya tiene dinámica.** Aizawa, Midoriya, Bakugo, Uraraka, etc. ya se conocen, ya tienen sus tensiones y alianzas. El PC es "el nuevo", y eso afecta sujuego.
+- **No hay "spoiler" para el PC.** El PC puede no saber cosas que el público del anime sabe (la OFA, la AFO, la conexión entre Aizawa y Mic, etc.). El GM dosifica la información.
+- **Las relaciones con familiares adultos de NPCs canon (Inko, Fuyumi Todoroki, etc.) NO son incestuosas** (el PC no es familia). Pueden tener tabú social (clase, edad,etc.) pero no de parentesco.
+
+### Implicaciones para el GM
+
+- **Closeness inicial:** todos los NPCs de la clase empiezan en **closeness 0** con el PC. Hay que presentarse, generar química (o no), construir.
+- **El PC tiene que "ganarse" su lugar.** No es el hijo del director, ni el reemplazo de alguien, ni el secreto. Es un nuevo alumno que tiene que demostrar su valor.
+- **Los compañeros reaccionan al PC como "el nuevo".** Esto puede ser:
+  - Curiosidad (Bakugo, Kirishima, Uraraka, Ashido)
+  - Frialdad (Todoroki, Tokoyami, Aoyama, Monuma si es 1-B)
+  - Acogida cálida (Aizawa, Kaminari, Hagakure, Kendo si es 1-B)
+  - Sospecha (Iida, Aizawa, Vlad King)
+  - Ignorancia (al principio)
+  Cada NPC reacciona según su personalidad. **El PC tiene que hacer el trabajo** de integración.
+- **Los profesores evalúan al PC con más cuidado** que a los demás (es nuevo, no lo conocen, tienen que calibrar su nivel). Eso se traduce en escenas de prueba, primer entrenamientoobservado, primer ejercicio práctico.
+- **El PC puede haber llegado tarde a eventos canon.** Si se une tras el袭击 USJ, no estuvo ahí. Si se une antes, lo vive. Decidir según la fecha de llegada.
+- **La curva de poder se ajusta.** Como el PC es nuevo, su progresión puede ser más lenta al inicio (catch-up) o más rápida si la campaña lo decide. Ver `docs/progresion_temprana.md`.
+
+### Hitos de integración del PC (recomendado)
+
+Estos son los hitos narrativos típicos de un PC que llega nuevo:
+
+1. **Primer día en UA:** el PC conoce a sus compañeros, su homeroom, su sensei. Escenas de presentación, primeros roces, primeras observaciones.
+2. **Primer entrenamiento compartido:** el PC entrena con la clase por primera vez. Los compañeros le toman la medida, los senseis lo observan.
+3. **Primer combate (sparring o real):** el PC demuestra (o no) su nivel.
+4. **Primera misión de实习 o evento real:** el PC sale al mundo con la clase. Confianza, fallos, héroes.
+5. **Primer arco personal del PC (separado del canon):** algo que el PC tiene que resolver por su cuenta, sin los compañeros.
+6. **Primer arco conjunto (donde el PC elige cómo ayudar a un compañero con su drama canon):** confianza ganada.
+7. **El PC se gana un lugar propio en la clase (no solo "el nuevo"):** peso narrativo 2–3.
+
+Si la campaña los cubre, son marcas con peso narrativo real.
+
+---
+
 ## Principios de narración
 
 1. **Consecuencias reales.** Si el PC destroza una pared en clase, Aizawa le pasa la factura. Si falla una misión, hay prensa. Si miente a un mentor, la relación cambia.

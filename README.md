@@ -1,6 +1,6 @@
 # RPG My Hero Academia Custom
 
-Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** (Kohei Horikoshi), con tono shonen-heroico llevado a sus últimas consecuencias, sistema propio, y PC por definir.
+Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** (Kohei Horikoshi), con tono shonen-heroico llevado a sus últimas consecuencias, sistema propio, y **PC homebrew** que llega a UA como alumno de **intercambio** o **matriculado a última hora**.
 
 > **🔞 CAMPAÑA 18+ (ADULTOS).** Todos los personajes (PC, NPCs canon, NPCs custom) tienen **18 años o más**. La campaña incluye **violencia explícita** y **sexualidad explícita** sin eufemismos. No apta para menores ni para quien prefiera un tono shonen limpio. Ver `AGENTS.md` y `CLAUDE.md` para el detalle.
 
@@ -13,11 +13,13 @@ Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** 
 - `AGENTS.md`: directrices para agentes y GM, tono de campaña, procedimiento de sesión y principios de narración.
 - `CLAUDE.md`: avisos puntuales de alta prioridad (estado actual del proyecto).
 - `docs/sesion_cero.md`: primera sesión — definición del PC, tono, límites, decisiones iniciales.
-- `docs/sistema_juego.md`: sistema determinista de atributos, quirks, combate, entrenamiento y progresión.
-- `docs/registros_campania.md`: guía de registros persistentes de campaña (CSVs, índices, estados).
+- `docs/trasfondo_pc.md`: opciones de homebrew / intercambio / llegada tardía, con ejemplos.
 - `docs/personaje_pc_pendiente.md`: ficha en blanco del PC (renombrar cuando se defina).
+- `docs/sistema_juego.md`: sistema determinista de atributos, quirks, combate, entrenamiento y progresión.
+- `docs/sistema_relaciones.md`: reglas de romance/sexo (mujeres = opción, hombres = amistad/rivalidad/mentor) con dificultad 1–10 y track de Closeness.
+- `docs/registros_campania.md`: guía de registros persistentes de campaña (CSVs, índices, estados).
 - `docs/facciones.md`: UA, Shiketsu, Ketsubutsu, Comisión de Seguridad Pública, Liga de Villanos, etc.
-- `docs/npc_canon.md`: NPCs del canon (All Might, Aizawa, Bakugo, etc.).
+- `docs/npc_canon.md`: NPCs del canon (All Might, Aizawa, Bakugo, etc.) con Dificultad de relación (mujeres) o Vínculo (hombres).
 - `docs/poderes_quirks.md`: sistema de quirks (clasificación emitter/transformation/mutant, costes, evolución).
 - `docs/entrenamiento.md`: reglas de entrenamiento,汗 y subida de stats.
 - `docs/equipo_inicial_pj.md`: equipo inicial (costume, gadgets, apoyo).
@@ -62,8 +64,8 @@ Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** 
 
 ## Cómo empezar
 
-1. **Definir el PC.** Sesión cero: nombre, curso (UA Hero Course 1-A / 1-B / otra escuela), quirk (tipo, nombre, limitaciones, mecánica de custom), backstory corta. **Edad del PC: 18+.**
+1. **Definir el PC.** Sesión cero: nombre, edad 18+, sexo/género, orientación, **tipo de llegada** (intercambio / matriculado / custom), curso destino (UA Hero Course 1-A / 1-B / Support / General Studies), quirk custom, familia custom, backstory corta. Ver `docs/trasfondo_pc.md` y `docs/sesion_cero.md`.
 2. **Decidir tono específico.** El esqueleto es shonen-heroico adulto (18+, sexo y violencia explícitos). Ajustar las líneas y velos con el jugador.
-3. **Elegir arco inicial.** Examen de ingreso UA, Provisional License Exam,实习 en agencia, primer encuentro villano, o custom.
-4. **Renombrar carpeta y poblar `registros/pj.csv`.**
+3. **Elegir arco inicial.** Examen de ingreso UA, Provisional License Exam,实习 en agencia, primer encuentro villano, o custom. **Si el PC llega tarde, decidir qué arcos canon ya pasaron** (USJ袭击, Stain arc, Kamino,etc.).
+4. **Renombrar carpeta y poblar `registros/pj.csv` y `registros/relaciones.csv`.**
 5. **Primera sesión.**

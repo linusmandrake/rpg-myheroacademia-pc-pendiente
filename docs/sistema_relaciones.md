@@ -26,9 +26,11 @@
 
 Por cada NPC relevante, el PC lleva un track de **Closeness** (cercanía emocional/sexual). Es un valor 0–10 que el GM actualiza en `registros/relaciones.csv`.
 
+> **Importante:** como el PC es **homebrew y llega tarde o como intercambio**, todos los NPCs de la clase empiezan con **closeness 0** (desconocido). La construcción de cada relación es el trabajo narrativo principal de la campaña.
+
 | Closeness | Etiqueta | Significado narrativo |
 |---|---|---|
-| 0 | Desconocido | NPC y PC no se conocen o se conocen de vista. |
+| 0 | Desconocido | NPC y PC no se conocen o se conocen de vista. **Estado inicial de todos los NPCs con el PC.** |
 | 1–2 | Conocido | Se han presentado, han interactuado poco. |
 | 3–4 | Amistad / interés | Se hablan regularmente, hay confianza básica. |
 | 5–6 | Interés romántico | Coqueteo, citas, conversaciones íntimas. |
