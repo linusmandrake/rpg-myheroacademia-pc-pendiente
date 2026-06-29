@@ -6,9 +6,9 @@
 
 - **Nombre real:** *(pendiente)*
 - **Nombre héroe (si tiene):** *(pendiente)*
-- **Edad:** 15 (UA primer año)
+- **Edad:** 18+ (campaña adulta; ver `AGENTS.md` y `CLAUDE.md`)
 - **Curso:** UA Hero Course 1-A / 1-B / General Studies / Support / otra escuela
-- **Residencia:** dormitorios UA / casa propia
+- **Residencia:** dormitorios UA / piso propio / casa familiar
 
 ## Quirk
 

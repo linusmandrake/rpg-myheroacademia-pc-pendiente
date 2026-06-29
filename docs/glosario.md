@@ -1,6 +1,8 @@
-# Glosario — RPG MHA Custom
+# Glosario — RPG MHA Custom (18+)
 
 > Términos canónicos de My Hero Academia + términos del sistema custom.
+>
+> **Campaña 18+.** Todos los personajes son adultos. El canon MHA tiene 14–16 años; aquí subimos la edad a 18+ sin tocar los quirks ni las relaciones, lo que da lugar a decisiones adultas, vida sexual activa, contratos como pro-hero, etc. Ver `AGENTS.md`.
 
 ## Canon (Boku no Hero Academia / 僕のヒーローアカデミア)
 

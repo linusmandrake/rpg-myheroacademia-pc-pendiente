@@ -1,5 +1,7 @@
-# Facciones — RPG MHA Custom
+# Facciones — RPG MHA Custom (18+)
 
+> **Campaña 18+.** Todos los actores son adultos. UA no es "instituto de menores" sino **academia heroica pre-profesional para adultos jóvenes** (18+). Las relaciones entre alumnos, senseis, agencias, Comisión y villanos son entre adultos, y se pueden tratar con la seriedad que eso implica.
+>
 > Esqueleto. Rellenar con detalle cuando se defina el alcance de la campaña.
 
 ## Pro-Héroe (gobierno/Estado)
@@ -22,16 +24,19 @@
 
 ### UA (雄英高校, *Yūei Kōkō*)
 
+> **Versión 18+.** En esta campaña UA funciona como una **academia heroica pre-profesional para adultos jóvenes** (18+). Los alumnos firman su propia matrícula, contratan sus propios costumes, firman contratos de实习 con agencias, y salen del campus cuando quieren. Sigue siendo una escuela con clases, exámenes y club de almuerzo, pero con autonomía adulta.
+
 - **Curso estrella:** Hero Course. 1-A y 1-B, ~20 cada uno.
 - **Cursos laterales:** Support, General Studies, Management.
-- **Campus:** Musutafu, prefectura de Tokyo. Edificios 1–10 + USJ + dormitorios + Heights Alliance + sala común 1-A.
+- **Campus:** Musutafu, prefectura de Tokyo. Edificios 1–10 + USJ + dormitorios (más piso compartido que residencia) + Heights Alliance + sala común 1-A.
 - **Profesores clave:**
   - **Aizawa Shōta (Eraser Head):** Homeroom 1-A. Pro hero subterráneo. Capture weapon. Quirk: Erasure.
   - **All Might (Yagi Toshinori):** Profesor de Heroic Fundamentals, limitado por lesión. Quirk: One For All.
   - **Cementoss, Ectoplasm, Snipe, Power Loader, Midnight, Present Mic:** faculty de apoyo.
   - **Nezu:** director. Animal-like quirk, estratega.
-- **Ingreso:** *Examen de ingreso UA* (puntaje + rescate + робот UA) o recomendación de la escuela anterior.
-- **Costo:** cubierto por beca (los mejores), o pago si General Studies.
+- **Ingreso:** *Examen de ingreso UA* (puntaje + rescate + робот UA) o recomendación de la escuela anterior. **18+** requerido.
+- **Costo:** cubierto por beca (los mejores), o pago si General Studies. **Los alumnos contratan su propio costume** (con apoyo de Support).
+- **Vida adulta en el campus:** los alumnos pueden salir del campus libremente, tienen llaves de su dormitorio, pueden tener parejas,喝酒 en el bar cercano, y vivir casi como adultos independientes. La sensación es más de "residencia universitaria con entrenamiento" que de "internado de instituto".
 
 ### Shiketsu High School
 

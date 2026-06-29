@@ -19,3 +19,4 @@
 
 - [x] 2026-06-29: Esqueleto inicial creado (carpeta + estructura + docs/ + AGENTS.md + README.md + REGISTRO_TAREAS).
 - [x] 2026-06-29: Repo público creado en `github.com/linusmandrake/rpg-myheroacademia-pc-pendiente`.
+- [x] 2026-06-29: Tono actualizado a **18+ adulto** (violencia + sexo explícitos). AGENTS.md, CLAUDE.md, README.md, sesion_cero.md, npc_canon.md, progresion_temprana.md, facciones.md, glosario.md, punto_cierre_actual.md actualizados. Todos los personajes (PC + NPCs canon) subidos a 18+.

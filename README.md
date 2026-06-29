@@ -1,6 +1,8 @@
 # RPG My Hero Academia Custom
 
-Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** (Kohei Horikoshi), con tono shonen-heroico, sistema propio, y PC por definir.
+Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** (Kohei Horikoshi), con tono shonen-heroico llevado a sus últimas consecuencias, sistema propio, y PC por definir.
+
+> **🔞 CAMPAÑA 18+ (ADULTOS).** Todos los personajes (PC, NPCs canon, NPCs custom) tienen **18 años o más**. La campaña incluye **violencia explícita** y **sexualidad explícita** sin eufemismos. No apta para menores ni para quien prefiera un tono shonen limpio. Ver `AGENTS.md` y `CLAUDE.md` para el detalle.
 
 ## Estado actual
 
@@ -60,8 +62,8 @@ Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** 
 
 ## Cómo empezar
 
-1. **Definir el PC.** Sesión cero: nombre, curso (UA Hero Course 1-A / 1-B / otra escuela), quirk (tipo, nombre, limitaciones, mecánica de custom), backstory corta.
-2. **Decidir tono específico.** ¿Shonen luminoso puro? ¿Más oscuro tipo Stain-arc? ¿Híbrido?
+1. **Definir el PC.** Sesión cero: nombre, curso (UA Hero Course 1-A / 1-B / otra escuela), quirk (tipo, nombre, limitaciones, mecánica de custom), backstory corta. **Edad del PC: 18+.**
+2. **Decidir tono específico.** El esqueleto es shonen-heroico adulto (18+, sexo y violencia explícitos). Ajustar las líneas y velos con el jugador.
 3. **Elegir arco inicial.** Examen de ingreso UA, Provisional License Exam,实习 en agencia, primer encuentro villano, o custom.
 4. **Renombrar carpeta y poblar `registros/pj.csv`.**
 5. **Primera sesión.**

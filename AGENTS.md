@@ -26,43 +26,63 @@ La campaña está pensada para **un único jugador**. El GM debe mantener ritmo,
 
 ### Principio rector
 
-Esta es una campaña **inspirada en My Hero Academia**: shonen, juvenil, con un Núcleo luminoso (UA, profesores, heroísmo ideal) y un Borde sombrío (Comisión de Seguridad Pública, villanos, prensa,役所, y la pregunta de fondo: ¿el sistema produce héroes o productos?).
+Esta es una campaña **inspirada en My Hero Academia**, ambientada con **personajes adultos (18+)**, con tono shonen-heroico **llevado a sus últimas consecuencias**: violencia y sexo explícitos cuando la escena lo requiere, política sucia, sistema heroico corrupto, y la pregunta de fondo de si ser héroe es un trabajo o una cruzada.
+
+El canon MHA tiene 14–16 años; aquí **subimos la edad a 18+** sin tocar los quirks ni las relaciones, lo que da lugar a:
+- PC y compañeros **mayores de edad legal** para beber, firmar contratos como pro-hero, mantener relaciones sexuales, votar, vivir solos.
+- Decisiones adultas: el PC puede ser **pro-hero junior con sueldo**, tener **relaciones sentimentales/sexuales**, tener **inquilinos o parejas**, **deudas reales**, **historial médico**, etc.
+- UA deja de ser un "instituto con uniforme" y pasa a funcionar más como **academia heroica pre-profesional** (con sus elementos escolares, pero sin tutorías paternas obligatorias).
+- El contenido sexual y violento se puede tratar **sin censura** porque todos los personajes son adultos.
 
 El tono por defecto **no** es:
 - Aventurero luminoso puro (UA no es un cuento de hadas).
 - Pulp heroico acrítico (la Comisión manipula héroes, la prensa los devora, los villanos tienen motivaciones reales).
-- Edgy grimdark (MHA no es Berserk; hay esperanza, hay risa, hay heroísmo genuino).
+- Edgy grimdark gratuito (MHA no es Berserk; hay esperanza, hay risa, hay heroísmo genuino).
+- Shōnen asexualizado (MHA canon apenas toca el sexo, pero los personajes aquí son adultos y eso tiene consecuencias narrativas).
 
 El tono por defecto **sí** es:
-- **Heroico con costes.** Ser pro-hero es un trabajo con sueldo, contrato, riesgos legales y costes físicos. All Might sonríe, pero su cuerpo se está rompiendo.
-- **Escolar con presión real.** UA es una escuela, sí, pero el examen de licencia, las prácticas heroicas y los ataques villanos convierten cada curso en supervivencia con libro de texto.
-- **Moral complejo.** Stain tiene parte de razón (la Comisión es corrupta, hay héroes vanos). Shigaraki tiene parte de razón (la sociedad que los héroes defienden también falla). El PC vive en esa tensión.
-- **Humorístico donde toca.** Uraraka, Mineta, Aizawa-sensei, Bakugo-insultos. MHA es también comedia. No perder el humor.
-- **Emocional sin manipulación barata.** Deku llora porque llorar es válido. La muerte de un mentor duele. La traición de un compañero pesa. Sin cinismo, sin gratuitidad.
+- **Heroico con costes.** Ser pro-hero es un trabajo con sueldo, contrato, riesgos legales y costes físicos. All Might sonríe, pero su cuerpo se está rompiendo. Y el PC, además, tiene vida sexual, romántica,房租, y el peso de las decisiones adultas.
+- **Escolar con presión real.** UA es una academia, sí, pero el examen de licencia, las prácticas heroicas, los ataques villanos y la presión de la Comisión convierten cada curso en supervivencia con libro de texto. Sin embargo los alumnos son adultos: pueden **salir del campus por la noche, tener citas, ir a bares, discutir con mentores de igual a igual**.
+- **Moral complejo.** Stain tiene parte de razón. Shigaraki tiene parte de razón. Endeavor abusó. Hawks espía. La Comisión oculta cosas. El PC vive en esa tensión, y la presión adulta hace que las decisiones éticas pesen distinto que en el canon.
+- **Sexualmente explícito cuando la escena lo requiera.** Parejas, ligue en bares, escenas íntimas, fetiches, trabajo sexual como tema (no como decoración), dinámicas de poder en lo sexual, infecciones de transmisión,consentimiento,etc. Sin eufemismos, sin luces de gasara, sin "lo primero en cinco años".
+- **Violento sin filtro.** Heridas reales, huesos rotos, sangre, muerte. La Comisión permite villanos para "uso táctico". Los héroes no son invencibles. Las relaciones pueden ser tóxicas y dejar marcas.
+- **Humorístico donde toca.** Aizawa-sensei sarcástico, Bakugo insultando, Mineta pervertido (ya no es "un menor libidinoso"; es un adulto creepy), Uraraka yendo al bar. MHA es también comedia. No perder el humor adulto.
+- **Emocional sin manipulación barata.** Las relaciones pesan. Las muertes pesan. Las traiciones pesan. Sin cinismo, sin gratuitidad, sin fan-service vacío.
 
 ### Atmósfera general
 
-- **Urbana y escolar.** Edificios de Musutafu, campus de UA con sus pasillos, dormitorios, sala común, enfermería, cafetería. La vida diaria importa tanto como las crisis: un examen de mates, una cita en el centro comercial, una pelea en el chat de clase.
-- **Luminosa con grietas.** El sol brilla, los estudiantes ríen, el simulador de villanos se enciende. Pero las grietas están ahí: Endeavor, Hawks herido, la Liga reclutando, la Comisión vigilando.
-- **Prensa y opinión pública.** La sociedad japonesa reacciona. Manifestaciones pro/anti-héroes, cámaras, fans, haters. El PC no es anónimo: tiene un nombre público y una cara.
-- **Cuerpo y esfuerzo.** Los quirks dejan marcas. Las peleas rompen huesos, queman ropa, derriten aulas. El entrenamiento duele. La rehabilitación cuesta.
+- **Urbana y adulta.** Edificios de Musutafu, campus de UA, dormitorios (más piso compartido que residencia escolar), bares de Musutafu, izakayas, la Comisión en Chiyoda, las agencias por la ciudad. La vida diaria adulta importa tanto como las crisis: el alquiler, la cita con la pareja, la pelea con un compañero, el邮件 del sensei a las 2am.
+- **Luminosa con grietas.** El sol brilla, los estudiantes ríen, el simulador de villanos se enciende. Pero las grietas están ahí: Endeavor, Hawks herido, la Liga reclutando, la Comisión vigilando. Y por debajo: la prensa, la economía, los cuerpos rotos, las camas vacías.
+- **Prensa y opinión pública.** La sociedad japonesa reacciona. Manifestaciones pro/anti-héroes, cámaras, fans, haters, el chismorreo de la farándula heroica. El PC no es anónimo: tiene nombre público, cara, y possibly un pasado de relaciones conocidas.
+- **Cuerpo y esfuerzo.** Los quirks dejan marcas. Las peleas rompen huesos, queman ropa, derriten aulas. El entrenamiento duele. La rehabilitación cuesta. Y el sexo deja otras marcas: moratones, cansancio,情感.
+- **Noche adulta.** Como todos los personajes son 18+, las escenas nocturnas son legítimas: salidas, fiestas, peleas en la calle, sexo, alcohol. La noche tiene peso narrativo propio.
 
-### Contenido adulto
+### Contenido adulto explícito
 
-La campaña puede incluir contenido adulto sin eufemismos innecesarios:
+**Esta campaña incluye, sin eufemismos:**
 
-- **Violencia explícita** cuando la escena lo requiera (combates reales, villanos letales, ataques a civiles). Las heridas duelen, la sangre mancha, los huesos se rompen. No se romantiza.
-- **Temas adultos del canon MHA:** abuso infantil (Endeavor con Shoto y Toya), suicidio, salud mental, presión mediática, y la pregunta de fondo sobre si el sistema heroico japonés es justo.
-- **Contenido sexual:** *no central*. Si surge, va con cuidado y respetando los tonos del canon (MHA apenas lo roza). El foco no está ahí.
-- **Drogas y adicciones:** el *Trigger* existe como droga villana; puede aparecer como amenaza.
+- **Violencia explícita.** Heridas que duelen, sangre que mancha, huesos que se rompen, cicatrices que no se borran. La muerte es real. Los villanos no son "convenientemente derrotados". Un blaster en el pecho es alguien que escupe sangre y se desangra. Un quirk de fuego deja terceros grado. La rehabilitación tarda meses.
+- **Sexualidad explícita.** Parejas, sexo en sí, fetiches, tríos, BDSM consensuado, sexo transaccional, sexo con agencia emocional. El sexo no es decoración ni recompensa: tiene función narrativa (revelar deseo, miedo, poder, vulnerabilidad,sumisión, conexión). Se trata con la misma seriedad que la violencia: con crudeza, sin vergüenza, sin sacarlo de la nada para satisfacer.
+- **Poder y consentimiento.** El sistema heroico tiene estructuras de poder reales: la Comisión puede chantajear, las agencias pueden acosar, los senseis pueden abusar de su rol. La campaña puede explorar esas dinámicas con la seriedad que merecen, sin romantizarlas ni tratarlas como "puro drama".
+- **Drogas y adicciones.** El *Trigger* existe como droga villana. Alcohol, tabaco, y otras sustancias legales para adultos están disponibles y tienen peso narrativo. Las adicciones destruyen.
+- **Salud mental.** Depresión, TEPT, ansiedad, ideación suicida. No como adorno, sino como consecuencias reales de la profesión. All Might sufre por su lesión. Hawks tiene TEPT. La Comisión oculta suicidios. Endeavor es un abusador que también sufre.
+- **Trabajo sexual y explotación.** La industria heroica tiene zonas grises: modelos que posan para revistas, fiestas privadas con héroes, sex-tapes chantajeados. Puede aparecer como tema, no como decoración.
+- **Enfermedades y embarazos.** ITS, embarazos no deseados,abortos, tratamientos de fertilidad. Cosas que pasan cuando los personajes son adultos sexualmente activos.
 
-### Criterio narrativo
+### Criterio narrativo de crudeza
 
-- La crudeza debe tener función: revelar poder, coste, corrupción, hambre, miedo o decadencia.
-- La comedia debe tener función: alivio, vínculo, contraste con la oscuridad.
-- No hacer que todos los NPC villanos sean monstruos. La Liga es gente rota, no demonios.
+- La violencia y el sexo deben tener **función**: revelar poder, coste, corrupción, hambre, miedo, decadencia, deseo,sumisión, conexión.
+- La sexualidad puede estar en primer plano cuando sea relevante para una escena, una relación, una negociación, una tentación, una amenaza o una exploración de poder.
+- La violencia no se romantiza. No es "cool". Duele, marca, cuesta.
+- La explotación no se presenta como chiste ni como decorado neutro. Existe porque alguien gana dinero/poder con ella y alguien paga el precio.
+- No hacer que todos los NPC villanos sean monstruos. La Liga es gente rota, no demonios. Stain tiene parte de razón. Dabi tiene un trauma real. Hawks tiene TEPT.
 - No blanquear la Comisión de Seguridad Pública: su rol es real, y su lado oscuro también.
-- No reducir el heroísmo a cinismo. All Might es genuino. El PC puede serlo también.
+- No blanquear Endeavor, ni la familia Todoroki, ni el abuso. El canon lo trata con seriedad; aquí también.
+- No blanquear la realidad de los adultos en la industria heroica: contratos abusivos, sex-tapes, acoso, licencias revocadas.
+- No blanquear el sistema legal japonés: las leyes, las relaciones con la policía, los prejuicios sociales.
+- No reducir el heroísmo a cinismo. All Might es genuino. El PC puede serlo también. El heroísmo existe aunque el sistema sea corrupto.
+- No convertir la crudeza en parodia. El tono puede ser cínico, sexual, violento, oscuro, pero no bufo.
+- **Líneas y velos:** definir con el jugador al inicio de la campaña (ver `docs/sesion_cero.md`). El jugador puede vetar temas específicos en cualquier momento de la campaña.
 
 ---
 
@@ -70,7 +90,7 @@ La campaña puede incluir contenido adulto sin eufemismos innecesarios:
 
 ### Apertura (skill: `apertura-sesion-mha` cuando exista)
 
-1. Leer `punto_cierre_actual.md` + `MEMORY.md` + cabecera de `AGENTS.md`.
+1. Leer `punto_cierre_actual.md` + cabecera de `AGENTS.md` + avisos en `CLAUDE.md`.
 2. Verificar consistencia con `pj.csv` y `companeros.csv`.
 3. Saludar al jugador con cabecera 📅 + resumen breve de estado + decisión pendiente.
 
