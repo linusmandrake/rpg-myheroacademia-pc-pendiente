@@ -27,6 +27,7 @@
 | `rutas_crecimiento.csv` | Caminos de subida activos | ruta |
 | `cronologia.csv` | Timeline canónico de la campaña | día/fecha |
 | `facciones_estado.csv` | Estado de cada facción | facción |
+| `relaciones.csv` | Track de relaciones románticas/sexuales del PC (closeness 0–10) | NPC |
 
 ## Archivos `.md` en `registros/`
 
@@ -48,6 +49,15 @@
 ## Regla de oro
 
 **Si cambia, va a CSV.** Si es narrativo extenso, va a `.md` enlazando al CSV.
+
+## Sistema de relaciones
+
+Ver `docs/sistema_relaciones.md` para el detalle completo. Resumen:
+
+- Cada NPC tiene una **dificultad de relación** (1–10) basada en personalidad canon y obstáculos externos.
+- El PC lleva un track de **Closeness** (0–10) por NPC en `registros/relaciones.csv`.
+- Las acciones que coinciden con la personalidad del NPC suben Closeness; las que no, la bajan o congelan.
+- Los hitos emocionales (primer beso, primera confesión, primer sexo, ruptura, etc.) tienen **peso narrativo** (0/1/2/3) y se registran en `progreso_narrativo.csv`.
 
 ## Procedimiento de cierre de sesión
 

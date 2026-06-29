@@ -1,0 +1,5 @@
+id,npc,relacion,closeness,dificultad_canon,estado,ultimo_cambio,notas
+# Track de relaciones del PC. closeness 0-10 (ver docs/sistema_relaciones.md).
+# dificultad_canon = 1-10, viene de docs/npc_canon.md.
+# relacion: interes / cita / pareja / ex / complicado / desconocido / etc.
+# estado: activo / congelado / roto / fallecido.

@@ -17,6 +17,17 @@
   - **Evolución prevista:** *(pendiente)*
 - **Backstory corta (≤150 palabras):** *(pendiente)*
 
+## Decisiones sobre relaciones románticas/sexuales
+
+> Ver `docs/sistema_relaciones.md` y `docs/npc_canon.md` (campo "Dificultad de relación").
+
+- **Orientación / preferencias del PC:** *(definir)*
+- **NPCs con dificultad alta que el PC quiere intentar (8+):** *(lista — requieren esfuerzo de meses in-game)*
+- **NPCs vetados por el jugador (líneas y velos):** *(lista — p.ej. "no Mineta", "no Endeavor", "no Aizawa", "no Toga por su obsesión con sangre")*
+- **Tipo de exploración preferido:** *(sweet / spicy / explicit / fade-to-black / etc.)*
+- **Ritmo de las relaciones:** *(rápido / lento / realista / dejar que la historia marque)*
+- **Tolerancia a triángulos, rupturas, drama:** *(definir)*
+
 ## Decisiones de tono (confirmar/ajustar)
 
 - **Tono general:** shonen-heroico adulto (18+). Ver `AGENTS.md`. Ajustar si:
@@ -50,13 +61,14 @@
 - **Temas que sí se exploran:** *(lista)*
 - **Temas que no se exploran:** *(lista)*
 - **Líneas y velos:** *(definir con el jugador)*
+- **Líneas y velos específicos para relaciones:** *(ver bloque de arriba — "NPCs vetados", "tipo de exploración", etc.)*
 
 ## Próximo paso
 
 Tras acordar lo anterior:
 
 1. Renombrar carpeta a `rpg-myheroacademia-<nombre-pc>`.
-2. Rellenar `registros/pj.csv` (con edad 18+).
+2. Rellenar `registros/pj.csv` (con edad 18+) y `registros/relaciones.csv` con NPCs iniciales en closeness 0–2.
 3. Rellenar `docs/personaje_<nombre>.md` con la ficha narrativa y mecánica.
 4. Ajustar el resto de docs si el tono final se desvía del esqueleto.
 5. Iniciar primera sesión.
