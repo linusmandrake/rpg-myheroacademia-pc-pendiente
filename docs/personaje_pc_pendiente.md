@@ -41,9 +41,9 @@
 
 - **Nombre:** Sanguine Verdant Echo (Eco Sangriento Verde)
 - **Tipo:** Mutant (con elementos Emitter por el rewind)
-- **Descripción física:** la sangre del PC está "viva" — un simbionte vegetal habita en su sistema circulatorio. Las venas son visibles bajo la piel con un tono rojizo. Cuando el Quirk se activa, los ojos del PC pueden brillar tenuemente (verde y rojo mezclados). El cuerpo del PC siempre tiene rastros de hojas o raíces en la ropa si ha usado el Quirk recientemente.
-- **Mecánica custom:** ver `docs/quirk_pc.md` y `docs/sistema_juego.md`. Tres aspectos manifestables (Avatar Carmesí, Bestias del Simbionte, Ecos Temporales) más el cuerpo del PC.
-- **Limitaciones:** ver `docs/quirk_pc.md` — sangre, memory scars / disociación, simbionte quisquilloso, fuego, sequía, desangramiento fatal.
+- **Descripción física:** la sangre del PC está "viva" — un savia vegetal habita en su sistema circulatorio. Las venas son visibles bajo la piel con un tono rojizo. Cuando el Quirk se activa, los ojos del PC pueden brillar tenuemente (verde y rojo mezclados). El cuerpo del PC siempre tiene rastros de hojas o raíces en la ropa si ha usado el Quirk recientemente.
+- **Mecánica custom:** ver `docs/quirk_pc.md` y `docs/sistema_juego.md`. Tres aspectos manifestables (Avatar Carmesí, Bestias del Savia, Ecos Temporales) más el cuerpo del PC.
+- **Limitaciones:** ver `docs/quirk_pc.md` — sangre, memory scars / disociación, savia quisquilloso, fuego, sequía, desangramiento fatal.
 - **Potencial (1–5):** **5 (máximo)** — el Quirk escala a top-tier y se mantiene relevante a endgame.
 - **Maestría actual (1–10):** **1–2** (el PC está aprendiendo a invocar cada aspecto; no sabe usarlos todos a la vez).
 - **Evolución prevista:** ver `docs/quirk_pc.md` sección "Evolución natural". Maestría 1 → 10 a lo largo de la campaña.

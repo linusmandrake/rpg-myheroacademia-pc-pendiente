@@ -1,26 +1,27 @@
 # Quirk del PC — Sanguine Verdant Echo
 
-> **Quirk único, tres aspectos que se manifiestan como proyecciones del PC.** El PC no tiene tres Quirks — tiene un Quirk con tres caras, cada una de las cuales puede tomar forma propia. Las proyecciones son el PC, pero no directamente él: son manifestaciones de los tres aspectos del Quirk, con su propia presencia y semi-autonomía.
+> **Quirk único, tres aspectos que se manifiestan como proyecciones del PC.** El PC no tiene tres Quirks — tiene un Quirk con tres caras, cada una de las cuales puede tomar forma propia. Las proyecciones son el PC manifestadas a través de su Quirk: son él, no entidades separadas. Pueden tener "personalidad" porque el PC las dota de ella a través de su subconsciente, pero **nunca van en contra del jugador**. El Quirk es la voluntad del jugador hecha sangre, savia y memoria.
 
 ---
 
 ## Concepto
 
-El PC tiene un **simbionte vegetal en su sangre**. El simbionte es un organismo vivo que habita dentro del sistema circulatorio del PC y se manifiesta a través de él. La sangre del PC está "viva" de un modo que no lo está la sangre normal — es un medium que puede ser manipulado fuera del cuerpo, que nutre plantas que crecen desde ella, y que retiene una memoria de los estados recientes del PC (lo que permite el rewind).
+El Quirk del PC es **Sanguine Verdant Echo**, un Quirk Mutant con elementos Emitter. La **savia** del Quirk es un aspecto orgánico, biológico, que vive en la sangre del PC: la savia es la parte del Quirk que permite la manipulación de sangre, el crecimiento de plantasangre, y la memoria de rewind. La savia **no es una entidad separada** — es el Quirk del PC, su aspecto orgánico. Cuando el PC drena, manipula, o proyecta, está usando su propio Quirk a través de su propia sangre.
 
-El Quirk tiene **tres aspectos**, cada uno de los cuales puede manifestarse como una **proyección** cuando el PC lo invoca:
+La savia le da al PC cuatro capacidades integradas:
 
-1. **Crimson Veins** → **Avatar Carmesí**: la sangre toma forma humanoide. Un "doble" de sangre del PC.
-2. **Overgrowth** → **Bestias del Simbionte**: el simbionte manifiesta su voluntad en forma de criaturas vegetales.
-3. **Lich** → **Ecos Temporales**: la memoria del PC se manifiesta como versiones pasadas de sí mismo.
+1. **Cuerpo** (ancla principal): manipulación de sangre, plantasangre, rewind personal.
+2. **Avatar Carmesí**: la sangre del PC toma forma humanoide. Un "doble" del PC.
+3. **Bestias del Quirk**: el PC invoca criaturas de plantasangre que reflejan su subconsciente.
+4. **Ecos Temporales**: la savia retiene memoria de los estados recientes del PC; el PC puede invocar versiones pasadas de sí mismo.
 
-Las tres proyecciones son **el PC**, pero cada una encarna un aspecto distinto y tiene una presencia y voluntad propias. No son NPCs separados — son el Quirk tomando forma. El PC las controla en mayor o menor medida según su maestría y su relación con el simbionte.
+**Importante:** las tres proyecciones (Avatar, Bestias, Ecos) son el PC. La savia es la parte del PC que el Quirk usa para manifestarse. **No hay savia separada, no hay entidad ajena, no hay traición posible.** El Quirk es la voluntad del PC.
 
 ---
 
 ## Aspecto 1 — Cuerpo del PC (ancla principal)
 
-**Qué es:** el cuerpo físico del PC. Es donde reside el simbionte, donde se genera la sangre, y desde donde se invocan las proyecciones. Si el cuerpo muere, las proyecciones se desvanecen.
+**Qué es:** el cuerpo físico del PC. Es donde reside la savia, donde se genera la sangre, y desde donde se invocan las proyecciones. Si el cuerpo muere, las proyecciones se desvanecen.
 
 **Capacidades básicas (sin proyección):**
 - **Manipulación de sangre dentro y fuera del cuerpo.** Endurecer la sangre en cuchillas, disparar gotas como proyectiles, formar escudos. El PC puede sentir la sangre de los demás (no manipularla, pero sí detectarla).
@@ -40,7 +41,7 @@ Las tres proyecciones son **el PC**, pero cada una encarna un aspecto distinto y
 **Capacidades:**
 - **Combate cuerpo a cuerpo.** El Avatar lucha como un guerrero de sangre — puede ser espada, escudo, látigo,red. Su fuerza es la del PC + bonus por la fluidez de su cuerpo.
 - **Manipulación de su propia forma.** Puede estirar brazos, dividir el torso, atravesar espacios pequeños disolviéndose. Es uncanny.
-- **Conexión con el simbionte.** Si el PC tiene plantasangre activas, el Avatar puede crearlas también (es como una extensión del cuerpo del PC).
+- **Conexión con la savia.** Si el PC tiene plantasangre activas, el Avatar puede crearlas también (es como una extensión del cuerpo del PC).
 - **"Es el PC, pero no directamente él."** El Avatar tiene voluntad propia — tiende a proteger al PC, a ejecutar sus órdenes, pero también a tener iniciativas limitadas. Si el PC no le da instrucción clara, el Avatar actúa con instinto (que es, en general, el mismo que el del PC, pero con menos filtro consciente).
 
 **Límite / coste:**
@@ -55,35 +56,35 @@ Las tres proyecciones son **el PC**, pero cada una encarna un aspecto distinto y
 
 ---
 
-## Aspecto 3 — Bestias del Simbionte (Overgrowth)
+## Aspecto 3 — Bestias del Quirk (Overgrowth)
 
-**Qué es:** criaturas hechas del simbionte vegetal del PC. Pueden ser animales (panteras de vines, serpientes de raíz, pájaros de hojas) o formas más abstractas (un golem de lianas, una serpiente de thorns). El simbionte tiene **voluntad propia limitada** — tiende a proteger al PC, pero también es curioso, territorial, y a veces "quisquilloso".
+**Qué es:** criaturas de plantasangre que el PC invoca desde su cuerpo. Pueden ser animales (panteras de vines, serpientes de raíz, pájaros de hojas) o formas más abstractas (un golem de lianas, una serpiente de thorns). Las bestias son **el PC manifestadas**: el PC les da forma, las controla, y su subconsciente les da **personalidad** (sabor, temperamento, instintos). Esa personalidad refleja al PC — un PC miedoso tiene bestias cautelosas, un PC sensual tiene bestias cariñosas, un PC agresivo tiene bestias combativas.
 
-**Cómo se invocan:** el PC deja que el simbionte "brote" desde su cuerpo, generalmente por las palmas, los hombros o la espalda. Las bestias mantienen una conexión con el PC mientras existan — sienten lo que él siente, le obedecen, pero también pueden tener iniciativas (sobre todo si están lejos del PC).
+**Cómo se invocan:** el PC deja que la savia del Quirk "brote" desde su cuerpo, generalmente por las palmas, los hombros o la espalda. Las bestias mantienen una conexión con el PC mientras existan — sienten lo que él siente, le obedecen. Pueden tener **iniciativas limitadas** que reflejan los deseos o instintos del PC (la iniciativa es del PC, no de la bestia).
 
 **Capacidades:**
-- **Bestias individuales.** Una bestia a la vez (early), varias a la vez (mid), un enjambre (endgame). Cada bestia tiene una forma y un rol: la pantera es rápida, la serpiente es constrictora, el golem esdefensor.
-- **Curación.** El simbionte puede curar heridas del PC (y de aliados cercanos) regenerando tejido con vines medicinales.
+- **Bestias individuales.** Una bestia a la vez (early), varias a la vez (mid), un enjambre (endgame). Cada bestia tiene una forma y un rol: la pantera es rápida, la serpiente es constrictora, el golem es defensor.
+- **Curación.** El PC puede usar las bestias para curar heridas regenerando tejido con vines medicinales.
 - **Conexión con la sangre.** Las bestias están hechas de plantasangre — son rojas, húmedas, y huelen a cobre y tierra.
-- **Voluntad del simbionte.** Las bestias no son autómatas. Tienen instinto: una pantera de vines puede decidir por su cuenta proteger a alguien que el PC quiere, o un golem puede negarse a atacar a un civil. El PC tiene que negociar con el simbionte (no es sumiso).
+- **Personalidad del PC.** Las bestias tienen temperamento porque el PC las dota de él. El PC decide (consciente o inconscientemente) qué tipo de bestia invocar. Con el tiempo, puede especializar: bestias de combate, bestias de exploración, bestias de "mascotas" del PC.
 
 **Límite / coste:**
-- **Nutrición.** Las bestias necesitan "alimentarse" — sangre del PC, agua, tierra, luz solar. Si el PC no las alimenta, se marchitan y mueren. Esto le da al simbionte una forma de "veto": si no le gusta lo que el PC hace, deja de alimentar a las bestias.
-- **Fuego.** Las plantasangre son vulnerables al fuego. Endeavor, Dabi, Hawks (con plumas incendiarias) soncounters naturales.
+- **Nutrición.** Las bestias necesitan "alimentarse" — sangre del PC, agua, tierra, luz solar. Si el PC no las alimenta, se marchitan y mueren. Esto **es parte del Quirk, no un veto**: el PC tiene que cuidar su Quirk como cuida su cuerpo.
+- **Fuego.** Las plantasangre son vulnerables al fuego. Endeavor, Dabi, Hawks (con plumas incendiarias) son counters naturales.
 - **Sequía.** Sin agua, las bestias se debilitan. En ambientes secos, su poder cae a la mitad.
-- **Vínculo.** Si el PC muere, las bestias se marchitan. Si el simbionte se separa del PC (lo que es muy difícil pero posible), las bestias existentes pueden volverse salvajes.
+- **Vínculo.** Si el PC muere, las bestias se marchitan. **El Quirk no se separa del PC** (no es una savia que se va). Las bestias mueren con el PC.
 
 **Adulto/edge:**
-- El simbionte es **curioso y sensual** — tiende a explorar, a tocar, a enredarse. Las bestias pueden ser **cariñosas** (un golem que abraza), **curiosas** (una serpiente que se enrosca en alguien para "olerlo"), o **territoriales** (una pantera que se interpone entre el PC y un extraño).
-- El simbionte puede tener **opiniones** sobre las parejas del PC — una bestia puede aceptar o rechazar a alguien según cómo el simbionte lo perciba. Esto es un mecanismo narrativo muy rico.
-- Las bestias pueden tener **placer propio** — sienten el roce, la temperatura, el movimiento. Una bestia que se acurruca contra el PC está disfrutando.
-- La curación por simbionte es **íntima** — los vines tocan la piel, se introducen en la herida, regeneran tejido. Hay una carga erótica potencial si el receptor está expuesto.
+- Las bestias reflejan la **sexualidad del PC**. Un PC sensual tiene bestias cariñosas, que se enroscan, que acarician. Un PC dominante tiene bestias que someten, que envuelven. **La personalidad de las bestias es un espejo del PC.**
+- Las bestias pueden ser **cariñosas** (un golem que abraza), **curiosas** (una serpiente que se enrosca en alguien para "olerlo"), **territoriales** (una pantera que se interpone entre el PC y un extraño), o **sensuales** (vines que acarician, que envuelven, que exploran).
+- La curación por bestias es **íntima** — los vines tocan la piel, se introducen en la herida, regeneran tejido. Hay una carga erótica potencial si el receptor está expuesto.
+- Las bestias pueden tener **opiniones** sobre las parejas del PC — una bestia puede aceptar o rechazar a alguien según cómo el PC (no la bestia) lo perciba. Esto es un mecanismo narrativo muy rico.
 
 ---
 
 ## Aspecto 4 — Ecos Temporales (Lich)
 
-**Qué es:** manifestaciones del PC de **momentos pasados**. El simbionte retiene una "memoria de estado" del PC — sus últimas versiones. Un Eco es una de esas versiones, traída al presente brevemente.
+**Qué es:** manifestaciones del PC de **momentos pasados**. La savia retiene una "memoria de estado" del PC — sus últimas versiones. Un Eco es una de esas versiones, traída al presente brevemente.
 
 **Cómo se invocan:** el PC marca un "save point" (tocar un lugar, una persona, o un objeto) y luego puede invocar un Eco de ese momento. El Eco aparece como el PC era en ese momento (mismo cuerpo, misma ropa, mismos recuerdos hasta ese punto), pero es sólido y puede actuar.
 
@@ -95,7 +96,7 @@ Las tres proyecciones son **el PC**, pero cada una encarna un aspecto distinto y
 
 **Límite / coste:**
 - **Memory scars (disociación).** Cada Eco deja un "memory scar" en el PC — un flash del momento alternativo. Si el PC invoca muchos Ecos seguidos, los recuerdos se solapan y el PC pierde la noción de qué hizo y qué no hizo, qué dijo y qué no dijo.
-- **Save corruption.** Los save points pueden corromperse si el PC los usa demasiado en un lugar — el simbionte se confunde y los Ecos que vienen de ese punto son "ruidosos" (recuerdos rotos, comportamiento errático).
+- **Save corruption.** Los save points pueden corromperse si el PC los usa demasiado en un lugar — la savia se confunde y los Ecos que vienen de ese punto son "ruidosos" (recuerdos rotos, comportamiento errático).
 - **Vínculo.** Los Ecos no son independientes — son el PC. Si el PC muere, los Ecos se desvanecen.
 
 **Adulto/edge:**
@@ -111,7 +112,7 @@ Las tres proyecciones son **el PC**, pero cada una encarna un aspecto distinto y
 
 - **Cuerpo:** vines básicas, control de sangre limitado, rewind de 5s (1 vez por combate).
 - **Avatar Carmesí:** invocar 1 vez por combate, dura 30s. Forma humanoide básica, lucha cuerpo a cuerpo.
-- **Bestia del Simbionte:** 1 bestia a la vez (pantera de vines o serpiente de raíz). Sirve de apoyo.
+- **Bestia del Quirk:** 1 bestia a la vez (pantera de vines o serpiente de raíz). Sirve de apoyo.
 - **Ecos:** 1 Eco, dura 5s, de hace 5–10s.
 
 **Rol:** el PC es un **wildcard**. No es el más fuerte, pero tiene 4 vectores (cuerpo, avatar, bestia, eco) que pueden desorientar al enemigo.
@@ -120,7 +121,7 @@ Las tres proyecciones son **el PC**, pero cada una encarna un aspecto distinto y
 
 - **Cuerpo:** control fino de sangre y plantas, armadura de sangre, rewind 30s (2–3 veces por combate).
 - **Avatar Carmesí:** invocar 1–2 veces, dura 2 min. Forma detallada, puede crear sub-estructuras (manos adicionales, alas,etc.).
-- **Bestias del Simbionte:** 2–3 bestias simultáneas, pueden ser de varios tipos. Curación allies.
+- **Bestias del Quirk:** 2–3 bestias simultáneas, pueden ser de varios tipos. Curación allies.
 - **Ecos:** 2 Ecos simultáneos, duran 30s, de hace 1 min.
 
 **Rol:** el PC es un **arquitecto de campo de batalla**. Puede terraformar un área, crear múltiples combatientes, y manipular el tiempo a corto plazo. Top-tier en su propio campo.
@@ -129,7 +130,7 @@ Las tres proyecciones son **el PC**, pero cada una encarna un aspecto distinto y
 
 - **Cuerpo:** control total de sangre y plantas, terraforming de un área, rewind 1 min (5+ veces por combate, pero memory scars acumuladas).
 - **Avatar Carmesí:** invocar 2–3 simultáneos, duran 10 min. Pueden operar lejos del PC. Volumen de combate brutal.
-- **Bestias del Simbionte:** enjambre (5–10 bestias), pueden incluir humanoides de plantasangre. Curación masiva de aliados. Terraforming de bosque de sangre.
+- **Bestias del Quirk:** enjambre (5–10 bestias), pueden incluir humanoides de plantasangre. Curación masiva de aliados. Terraforming de bosque de sangre.
 - **Ecos:** 3–5 Ecos simultáneos, duran minutos, de hace 5–10 min. Pueden ser versiones del PC con diferentes "estados mentales" (el PC pasado, el PC futuro hipotético,etc.).
 
 **Rol:** el PC es **literalmente un pequeño ejército**. Tiene su cuerpo, 2–3 avatares, 5–10 bestias, y varios ecos. Es comparable a OFA, Decay, o Cremation en escala. Y a diferencia de esos, **el PC puede usar todos a la vez**.
@@ -142,7 +143,7 @@ El Quirk es **extremadamente poderoso a endgame**, así que los costes son reale
 
 - **Sangre.** Cada Avatar, cada bestia, cada uso del Quirk cuesta sangre. El PC tiene que comer, beber, descansar, y reponer. Si se excede, se desmaya.
 - **Memory scars / disociación.** Cada rewind, cada Eco, deja una marca. El PC pierde gradualmente la noción de qué hizo y qué no hizo. La campaña puede usar esto narrativamente — un PC que olvida sus propias acciones es un problema en sí mismo.
-- **Vínculo simbionte.** El simbionte tiene voluntad. Si el PC abusa de las bestias, el simbionte deja de alimentarlas. Si el PC usa los Ecos irresponsablemente, el simbionte se "retrae" y los save points se corrompen.
+- **Vínculo del PC con su Quirk.** El Quirk responde al estado del PC. Si el PC abusa de las bestias, la savia se debilita (bestias marchitas). Si el PC usa los Ecos irresponsablemente, los save points se corrompen (el Quirk está sobrecargado).
 - **Fuego y sequía.** Las plantasangre son vulnerables. Endeavor, Dabi, Hawks soncounters directos.
 - **Desangramiento fatal.** Si el PC se excede demasiado, puede morir desangrado. La regeneración de sangre tiene un límite.
 
@@ -152,9 +153,9 @@ El Quirk es **extremadamente poderoso a endgame**, así que los costes son reale
 
 - **Maestría 1–2:** aprende a invocar cada aspecto por separado. Control limitado.
 - **Maestría 3–4:** aprende a invocar dos aspectos a la vez. Mejor control de las bestias.
-- **Maestría 5–6:** aprende a invocar tres aspectos a la vez. El simbionte acepta al PC como "socio" (no sólo anfitrión).
-- **Maestría 7–8:** invoca los cuatro aspectos. El PC y el simbionte son uno.
-- **Maestría 9–10:** el PC trasciende las limitaciones humanas. El simbionte y el PC son una entidad simbiótica. Los aspectos pueden ser permanentes o efímeros a voluntad. La disociación se controla. La sangre se regenera al instante.
+- **Maestría 5–6:** aprende a invocar tres aspectos a la vez. La savia y el PC se sincronizan (el subconsciente acepta el control consciente) (no sólo anfitrión).
+- **Maestría 7–8:** invoca los cuatro aspectos. El PC domina todos los aspectos del Quirk como uno solo.
+- **Maestría 9–10:** el PC trasciende las limitaciones humanas. El PC y la savia están completamente integrados; los aspectos pueden ser permanentes o efímeros a voluntad. Los aspectos pueden ser permanentes o efímeros a voluntad. La disociación se controla. La sangre se regenera al instante.
 
 ---
 
@@ -163,9 +164,9 @@ El Quirk es **extremadamente poderoso a endgame**, así que los costes son reale
 El Quirk está **diseñado** para generar contenido adulto con sustancia narrativa, no como decoración:
 
 - **El Avatar Carmesí** es el PC proyectado. Las escenas con el Avatar son cargadas (¿es el PC? ¿es "él pero no él"?). Puede tener sexo con alguien (con consentimiento), y la línea entre "el PC está ahí" y "el PC no está" es deliberadamente borrosa.
-- **Las Bestias del Simbionte** tienen voluntad y placer propio. Pueden tener reacciones a las parejas del PC, pueden ser cariñosas o celosas, pueden tener dinámica de "mascota" o "hermana/alter ego" según la interpretación.
+- **Las Bestias del Quirk** tienen voluntad y placer propio. Pueden tener reacciones a las parejas del PC, pueden ser cariñosas o celosas, pueden tener dinámica de "mascota" o "hermana/alter ego" según la interpretación.
 - **Los Ecos Temporales** son el PC en otros momentos. Pueden ser más impulsivos, más ingenuos, más crueles. Las escenas con Ecos son tensas porque el PC actual convive con su yo pasado.
-- **La curación del simbionte** es íntima (vines que tocan la piel, regeneración que se siente). En escenas de herida, la curación puede ser cargada.
+- **La curación por la savia** es íntima (vines que tocan la piel, regeneración que se siente). En escenas de herida, la curación puede ser cargada.
 - **La sangre como medium** es sensual por sí misma — viscosa, cálida, viva. Las escenas de combate sangriento, las proyecciones de sangre, los avatares que se desangran y se regeneran, son material adulto per se.
 
 ---
@@ -174,12 +175,12 @@ El Quirk está **diseñado** para generar contenido adulto con sustancia narrati
 
 - **No es tres Quirks independientes.** Es un Quirk con tres aspectos. El GM no permite que el PC tenga "Crimson Veins como Quirk secundario" — es todo uno.
 - **No es un sistema de NPCs aliados.** Las proyecciones son **el PC**, manifestadas. No son aliados con sus propias motivaciones separadas del PC. Tienen semi-autonomía, pero su lealtad es al PC por defecto.
-- **No es gratis.** El Quirk es poderoso a endgame, pero los costes son altos (sangre, disociación, simbionte quisquilloso). El GM no permite "uso ilimitado" sin consecuencias.
-- **No es un patchwork.** Los tres aspectos están integrados en un Quirk coherente (simbionte vegetal en sangre con memoria). No es "tienes tres Quirks por separado" — es uno con tres caras.
+- **No es gratis.** El Quirk es poderoso a endgame, pero los costes son altos (sangre, disociación, savia quisquilloso). El GM no permite "uso ilimitado" sin consecuencias.
+- **No es un patchwork.** Los tres aspectos están integrados en un Quirk coherente (savia orgánica en sangre con memoria). No es "tienes tres Quirks por separado" — es uno con tres caras.
 
 ---
 
-# Mecánica detallada — Sangre, Rewind, Bestias, Ecos, Simbionte
+# Mecánica detallada — Sangre, Rewind, Bestias, Ecos, Savia
 
 > **Principio rector:** los costes son **presión narrativa**, no sentencia de muerte. Todo se recupera, todo tiene cap blando, todo se reduce con maestría. El PC puede completar todos los arcos argumentales sin quedar inútil por usar su propio Quirk.
 
@@ -189,7 +190,7 @@ El Quirk está **diseñado** para generar contenido adulto con sustancia narrati
 
 ### Concepto
 
-El PC tiene un **pool de sangre** que es el combustible de su Quirk. **No es lo mismo que la HP** (que es daño de combate). La sangre se gasta al usar aspectos del Quirk y se recupera con descanso, comida, hidratación, y el simbionte.
+El PC tiene un **pool de sangre** que es el combustible de su Quirk. **No es lo mismo que la HP** (que es daño de combate). La sangre se gasta al usar aspectos del Quirk y se recupera con descanso, comida, hidratación, y la savia.
 
 ### Pool inicial (al inicio de la campaña)
 
@@ -203,9 +204,9 @@ El PC tiene un **pool de sangre** que es el combustible de su Quirk. **No es lo 
 | **80–100%** | Lleno | Sin debuff | El PC se siente bien, ojos brillantes |
 | **50–79%** | Alto | Sin debuff | El PC está activo, plantasangre frondosa |
 | **30–49%** | Medio | **−1 a PWR_quirk** | El PC nota cansancio, las bestias están más pequeñas |
-| **10–29%** | Bajo | **−2 a PWR_quirk, −1 a TEC_quirk**, nosebleed visible | El PC sangra por la nariz, las bestias se quejan, el simbionte pide comida |
-| **1–9%** | Crítico | **−3 a PWR_quirk, −2 a TEC_quirk**, posible desmayo | El PC tiembla, las bestias se marchitan, el simbionte se retrae |
-| **0%** | Vacío | **Desmayo automático**, simbionte hiberna, bestias se mueren | El PC colapsa. Sin simbionte activo, no puede reanimar por sí mismo. Necesita ayuda externa (aliado, transfusión, comida) |
+| **10–29%** | Bajo | **−2 a PWR_quirk, −1 a TEC_quirk**, nosebleed visible | El PC sangra por la nariz, las bestias se quejan, la savia pide comida |
+| **1–9%** | Crítico | **−3 a PWR_quirk, −2 a TEC_quirk**, posible desmayo | El PC tiembla, las bestias se marchitan, la savia se contrae |
+| **0%** | Vacío | **Desmayo automático**, savia hiberna, bestias se mueren | El PC colapsa. Sin savia activo, no puede reanimar por sí mismo. Necesita ayuda externa (aliado, transfusión, comida) |
 
 ### Coste de aspectos (en unidades de sangre)
 
@@ -233,7 +234,7 @@ El PC tiene un **pool de sangre** que es el combustible de su Quirk. **No es lo 
 | Comida rica en hierro | 30 |
 | Hidratación | 10 |
 | Transfusión externa (aliado compatible) | 40 |
-| Curación del simbionte (ánimo bueno) | 5/día |
+| Recuperación natural de savia (PC descansado) | 5/día |
 | Marca narrativa de "descanso merecido" | 100 (todo) |
 
 ### Reducción de coste por maestría
@@ -305,11 +306,11 @@ A M5+, el PC puede usar rewind regularmente sin riesgo real. La "reverie" se res
 
 ---
 
-## 3. Sistema de Bestias del Simbionte
+## 3. Sistema de Bestias del Quirk
 
 ### Concepto
 
-Las bestias son criaturas del simbionte. Tienen coste de invocar, coste de mantenimiento, y necesidades de alimentación. **No mueren permanentemente** a menos que el simbionte abandone al PC.
+Las bestias son criaturas de la savia. Tienen coste de invocar, coste de mantenimiento, y necesidades de alimentación. **No mueren permanentemente** a menos que la savia abandone al PC (caso extremo, ver seccion de agencia).
 
 ### Coste de invocación y mantenimiento
 
@@ -334,11 +335,11 @@ Las bestias son criaturas del simbionte. Tienen coste de invocar, coste de mante
 - **Bien alimentadas y cuidadas:** +1 a TEC_quirk, son leales, pueden tener iniciativa.
 - **Descuidadas 1 día:** neutral, sin bonus.
 - **Descuidadas 2+ días:** −1 a TEC_quirk, se quejan, se mueven más lento.
-- **Descuidadas 1+ semana:** pueden marchitarse y morir (temporalmente — el simbionte las puede revivir si la relación symbionte-PC es buena).
+- **Descuidadas 1+ semana:** pueden marchitarse y morir (temporalmente — la savia las puede regenerar si la relación symbionte-PC es buena).
 
 ### Garantía de viabilidad
 
-Si el PC cuida a las bestias (sangre diaria, agua diaria, sol), no hay debuff. Si se descuida, los debuffs son recuperables (alimentar bien recupera). Las bestias no mueren permanentemente a menos que el simbionte abandone al PC (lo cual requiere PC muy abusivo).
+Si el PC cuida a las bestias (sangre diaria, agua diaria, sol), no hay debuff. Si se descuida, los debuffs son recuperables (alimentar bien recupera). Las bestias no mueren permanentemente a menos que la savia abandone al PC (caso extremo, ver seccion de agencia) (lo cual requiere PC muy abusivo).
 
 ---
 
@@ -374,32 +375,58 @@ Igual que rewind: el PC NO muere por scars de Eco. La "reverie" es un desmayo co
 
 ---
 
-## 5. Sistema de Simbionte (relación simbiótica)
+## 5. Estado del Quirk = Estado del PC
+
+> **Reescrito:** el Quirk es parte del PC. La "savia" (antes "savia") es la parte orgánica del Quirk que vive en la sangre del PC, pero **no es una entidad separada con voluntad propia**. La eficiencia del Quirk refleja el estado emocional, físico, y psicológico del PC. **El Quirk no puede ir en contra del jugador — es la voluntad del jugador hecha sangre y savia.**
 
 ### Concepto
 
-El simbionte tiene **voluntad propia** y **estado de ánimo**. La calidad de la relación PC-simbionte afecta la eficiencia del Quirk y la disponibilidad de los aspectos.
+El Quirk del PC es como cualquier Quirk de MHA: parte del cuerpo del PC. La savia es la parte orgánica del Quirk (la parte que crece, que muta, que retiene memoria). La savia **responde al estado del PC**:
 
-### Estados de ánimo del simbionte
+- Si el PC está **descansado, alimentado, conectado emocionalmente**, la savia funciona al máximo: las bestias son estables, los ecos son precisos, la sangre se regenera rápido, el rewind tiene menos memory scars.
+- Si el PC está **cansado, hambriento, traumatizado, disociado**, la savia funciona peor: las bestias se quejan, los ecos son inestables, la sangre se regenera lento, el rewind deja más scars.
+- La savia **NO castiga al PC** por su estado. **Refleja** su estado. Es un espejo.
 
-| Ánimo | Bono/penalización | Cómo se logra |
+### Estados del Quirk (reflejo del estado del PC)
+
+| Estado del Quirk | Cuándo ocurre | Efecto |
 |---|---|---|
-| **Aliado** (best) | +2 a todas las acciones de Quirk, las bestias son más fuertes, los Ecos son más estables, el rewind tiene menos scar | PC cuida al simbionte (le da sangre, agua, sol, atención, lo trata como parte de sí mismo) |
-| **Cooperativo** | +1 a todas las acciones de Quirk, sin debuff | PC trata al simbionte con respeto, no abusa, mantiene necesidades básicas |
-| **Neutral** | Sin bono ni penalización | Estado por defecto al inicio de la campaña |
-| **Resentido** | −1 a todas las acciones de Quirk, las bestias se quejan, los Ecos parpadean, el rewind tiene más scar | PC ha descuidado al simbionte o lo ha usado para algo que el simbionte no aprueba |
-| **Enemigo** | −2 a todas las acciones, las bestias pueden negarse a actuar, los Ecos pueden rebelarse, el rewind puede fallar | PC ha abusado gravemente del simbionte (lo ha forzado a hacer cosas contrarias a su naturaleza, lo ha dañado, lo ha despreciado) |
+| **En plenitud** (PC en excelente estado) | PC descansado, alimentado, hidratado, emocionalmente conectado, sin trauma activo | +20% a todas las acciones de Quirk; bestias leales y estables; ecos precisos; rewind con scars mínimos; sangre se regenera rápido |
+| **Funcional** (PC en buen estado) | PC normal: comido, descansado, sin problemas emocionales grandes | Sin modificador (baseline) |
+| **Cansado** (PC fatigado) | PC sin descansar 24h+ o ejercicio extremo | −10% a todas las acciones; bestias más lentas; ecos imprecisos; rewind con scars normales |
+| **Hambriento** (PC sin comer) | PC sin comer 12h+ | −20% a regeneración de sangre; bestias marchitas; ecos débiles |
+| **Herido** (PC con HP bajo) | HP < 50% | −15% a acciones de Quirk; bestias defensivas (protegen al PC); ecos inestables |
+| **Gravemente herido** (PC crítico) | HP < 20% | −30% a todo; bestias en pánico; ecos fallan; rewind con scars masivos |
+| **Traumatizado** (PC con TEPT, flashback, disociación) | PC tiene memory scars activos o evento traumático reciente | −25% a todo; bestias se esconden; ecos parpadean; rewind inestable |
+| **Disociado** (PC con memory scars acumuladas) | 3+ memory scars activos | −20% a todo; rewind causa +1 scar extra; ecos son erráticos |
+| **Deprimido** (PC con tristeza profunda, desesperanza) | Estado emocional bajo sostenido | −15% a todo; las bestias están apagadas; los ecos son silenciosos; el PC no quiere usar el Quirk |
+| **Enfermo** (PC enfermo, fiebre,etc.) | Enfermedad o veneno leve | −20% a todo; savia debil (savia afectada) |
+| **Eufórico** (PC en estado de euforia,興奮) | PC emocionalmente elevado, conectado, feliz | +15% a todo; las bestias son juguetonas; los ecos son vivos; la sangre se regenera rápido |
+| **Enraged** (PC furioso, fuera de control) | PC pierde el control emocional | +10% a acciones ofensivas, −30% a defensivas; bestias salvajes; ecos peligrosos; el PC puede hacer cosas que después lamenta |
 
-### Cómo recuperar al simbionte si está resentido o enemigo
+### Cómo mejorar el estado del Quirk
 
-| Estado | Tiempo de recuperación | Acción |
-|---|---|---|
-| **Resentido** | 1–2 días de "buen comportamiento" | PC alimenta al simbionte, le da agua, sol, atención, le habla (incluso internamente), no lo fuerza |
-| **Enemigo** | 1–2 semanas de "reconciliación activa" | PC tiene que pedir perdón simbióticamente, dejar que el simbionte descanse sin usarlo, hacer algo significativo por el simbionte (darle algo que el simbionte quiere — p.ej. tiempo con las bestias, un "regalo" simbólico,etc.) |
+El estado del Quirk se mejora **cuidando al PC mismo**:
+
+| Acción | Efecto |
+|---|---|
+| **Dormir 8h completas** | Pasa de "Cansado" a "Funcional" o mejor |
+| **Comer bien (3 comidas + hidratación)** | Pasa de "Hambriento" a "Funcional" o mejor |
+| **Conexión emocional** (hablar con un aliado, intimidad, etc.) | Pasa de "Traumatizado" o "Deprimido" hacia "Funcional" |
+| **Tiempo de descanso del Quirk** (no usarlo en 24h) | Recupera lentamente; bestias se curan; ecos se estabilizan |
+| **Marca narrativa de "descanso merecido"** | Pasa a "En plenitud" |
+| **Resolver un trauma** (conversación, terapia, evento narrativo) | Pasa de "Traumatizado" a "Funcional" |
+
+### Lo que NO puede pasar
+
+- **El Quirk no se separa del PC.** La savia es parte del Quirk del PC. No se va. No se "aliena". (Excepción: OFA transferida, pero es un caso especial del canon.)
+- **El Quirk no actúa contra el PC.** Si el Quirk "no quiere" hacer algo, es porque el PC no quiere, consciente o inconscientemente. El Quirk no tiene voluntad separada.
+- **El Quirk no abandona al PC.** No hay "traición" del Quirk. La relación PC-Quirk es **interna y permanente** (mientras el PC viva).
+- **El Quirk no castiga al PC.** Refleja su estado, no lo juzga. Si el PC está mal, el Quirk funciona mal — pero no es "culpa" del Quirk.
 
 ### Garantía de viabilidad
 
-El simbionte es un **aliado a largo plazo**, no un enemigo. La campaña se construye sobre la relación PC-simbionte, y el sistema recompensa la cooperación. Pero el simbionte tiene dientes: si el PC lo abusa, el simbionte responde. Esto crea narrativa sin matar al PC.
+El Quirk del PC **no es un personaje antagónico** que puede traicionarlo. Es una parte de sí mismo. La campaña explora la relación del PC con su Quirk (que es relación consigo mismo), no una relación con una entidad ajena. Esto es coherente con MHA canon: el Quirk es del héroe, no al revés.
 
 ---
 
@@ -409,15 +436,15 @@ El simbionte es un **aliado a largo plazo**, no un enemigo. La campaña se const
 
 - **Qué es:** la salud del PC en combate.
 - **Cómo se pierde:** daño físico de ataques (puñetazos, quirks enemigos, etc.).
-- **Cómo se recupera:** curación médica,Recovery Girl, simbionte, descanso largo.
+- **Cómo se recupera:** curación médica,Recovery Girl, savia, descanso largo.
 - **Si llega a 0:** el PC está en estado crítico. **Esto es lo que puede matar al PC.**
 
 ### Sangre (Pool)
 
 - **Qué es:** el combustible del Quirk.
 - **Cómo se pierde:** uso del Quirk (Avatar, bestias, rewind, etc.).
-- **Cómo se recupera:** descanso, comida, hidratación, simbionte.
-- **Si llega a 0:** el PC **se desmaya**, no muere. El simbionte hiberna hasta que el PC recupere sangre.
+- **Cómo se recupera:** descanso, comida, hidratación, savia.
+- **Si llega a 0:** el PC **se desmaya**, no muere. El savia hiberna hasta que el PC recupere sangre.
 
 ### Interacción
 
@@ -427,7 +454,7 @@ El simbionte es un **aliado a largo plazo**, no un enemigo. La campaña se const
 
 ### Garantía de no-muerte-por-Quirk
 
-**El PC NO muere por usar su Quirk.** Solo muere si HP llega a 0 (combate, accidente,etc.). Los costes del Quirk (sangre, scars, ánimo del simbionte) son **presiones narrativas**, no letales. El PC puede completar todos los arcos argumentales sin riesgo de muerte por uso del Quirk.
+**El PC NO muere por usar su Quirk.** Solo muere si HP llega a 0 (combate, accidente,etc.). Los costes del Quirk (sangre, scars, ánimo del Quirk) son **presiones narrativas**, no letales. El PC puede completar todos los arcos argumentales sin riesgo de muerte por uso del Quirk.
 
 ---
 
@@ -435,11 +462,11 @@ El simbionte es un **aliado a largo plazo**, no un enemigo. La campaña se const
 
 | Sistema | Coste | Recuperación | Soft cap | Muerte por uso del Quirk |
 |---|---|---|---|---|
-| **Sangre** | Unidades por uso del Quirk | Descanso, comida, hidratación, simbionte | 0% = desmayo (no muerte) | **No** |
+| **Sangre** | Unidades por uso del Quirk | Descanso, comida, hidratación, savia | 0% = desmayo (no muerte) | **No** |
 | **Rewind** | 15 sangre + 1 memory scar | 8h descanso | "Reverie" = 4–8h desmayo | **No** |
 | **Bestias** | Sangre + alimentación diaria | Cuidado, atención | Marchitar = 1 semana sin comer | **No** |
 | **Ecos** | Sangre + 1 temporal scar | Descanso | "Reverie" = desmayo | **No** |
-| **Simbionte** | Animo del simbionte | Tiempo + buen trato | Enemigo = 1–2 semanas de reconciliación | **No** |
+| **Savia** | Estado del Quirk (ver seccion de agencia) | Tiempo + buen trato | Enemigo = 1–2 semanas de reconciliación | **No** |
 | **HP** | Daño de combate | Curación médica | 0 HP = crítico (puede morir) | **Sí** (si llega a 0) |
 
 ---
@@ -474,14 +501,14 @@ El simbionte es un **aliado a largo plazo**, no un enemigo. La campaña se const
 - **Riesgo:** ninguno operativo. Los costes son presión narrativa, no mecánica.
 - **Mastery al final:** M9–10. Trascendencia.
 
-**Conclusión:** con esta mecánica, **el PC puede completar todos los arcos argumentales sin riesgo de muerte por uso del Quirk**. Los costes están diseñados para crear **dramatismo narrativo** (desmayos controlados, "reverie", simbionte resentido), no para matar al PC.
+**Conclusión:** con esta mecánica, **el PC puede completar todos los arcos argumentales sin riesgo de muerte por uso del Quirk**. Los costes están diseñados para crear **dramatismo narrativo** (desmayos controlados, "reverie", savia resentido), no para matar al PC.
 
 ---
 
 ## 9. Lo que la campaña puede hacer con estos sistemas
 
 - **Escenas de "reverie":** el PC se desmaya por overuse del Quirk, los allies tienen que protegerle. Esto es un recurso narrativo — la cámara cambia a los allies durante un rato.
-- **Escenas de simbionte resentido:** el simbionte se niega a cooperar con el Avatar Carmesí justo cuando el PC lo necesita. El PC tiene que convencerlo o improvisar.
+- **Escenas de Quirk en mal estado (savia débil):** la savia del Avatar no responde bien (Quirk en mal estado) justo cuando el PC lo necesita. El PC tiene que descansar o cambiar de estrategia.
 - **Escenas de bestias hambrientas:** las bestias piden comida en medio de un combate. El PC tiene que alimentarlas o luchar sin ellas.
 - **Escenas de disociación narrativa:** los memory scars se manifiestan como flashbacks del PC. La cámara muestra el momento alternativo que ya no ocurrió.
 - **Escenas de sangre visible:** el PC tiene sangre saliendo por la nariz, los ojos, las orejas. Visualmente impactante. NPCs reaccionan.
@@ -492,7 +519,7 @@ Estos son **momentos de campaña**, no penalizaciones. El GM los usa para crear 
 
 # Drenaje de sangre (Quirk activo, alta carga narrativa)
 
-> **Concepto:** el PC puede **drenar sangre de un enemigo** durante o después del combate. La sangre drenada se procesa por el simbionte y se convierte en recuperación del pool, con efectos que dependen de la **compatibilidad de tipo de sangre** entre el PC y el enemigo. La sangre del enemigo también puede contener **esencia de su quirk** y **flashbacks de su memoria**, dando al PC bonuses narrativos y mecánicos.
+> **Concepto:** el PC puede **drenar sangre de un enemigo** durante o después del combate. La sangre drenada se procesa por la savia del PC y se convierte en recuperación del pool, con efectos que dependen de la compatibilidad de tipo de sangre y la esencia del Quirk del enemigo. y **flashbacks de su memoria**, dando al PC bonuses narrativos y mecánicos.
 
 ---
 
@@ -525,11 +552,11 @@ La sangre se clasifica por tipo (A, B, AB, O) y factor Rh (+/-). La compatibilid
 
 | Compatibilidad | Ejemplo (PC=enemigo) | Recuperación neta* | Efectos secundarios |
 |---|---|---|---|
-| **Mismo tipo exacto** | A+ recibe A+ | **+50 unidades** | +1 PWR_quirk 2h; simbionte feliz (+1 humor); sin scars |
-| **Compatible (mismo grupo ABO)** | A+ recibe A−, o A+ recibe O+/O− | **+40 unidades** | Sin bonus ni debuff; simbionte neutral |
-| **Variable (universal receptor)** | AB+ recibe cualquier tipo | **+30 unidades** | −1 PWR_quirk 1h; simbionte ligeramente incómodo |
-| **Incompatible (cross-ABO)** | A+ recibe B+/B−, o B+ recibe A+/A− | **+20 unidades** | −2 PWR_quirk 2h; 1 memory scar; simbionte se queja; posible vómito |
-| **Severa (Rh incompatible ABO)** | A+ recibe AB+/AB−, o O− recibe cualquier Rh+ | **+10 unidades** | −3 PWR_quirk 3h; 1 memory scar + 1 temporal scar; simbionte se niega a cooperar 24h |
+| **Mismo tipo exacto** | A+ recibe A+ | **+50 unidades** | +1 PWR_quirk 2h; savia feliz (+1 humor); sin scars |
+| **Compatible (mismo grupo ABO)** | A+ recibe A−, o A+ recibe O+/O− | **+40 unidades** | Sin bonus ni debuff; savia neutral |
+| **Variable (universal receptor)** | AB+ recibe cualquier tipo | **+30 unidades** | −1 PWR_quirk 1h; savia ligeramente incómodo |
+| **Incompatible (cross-ABO)** | A+ recibe B+/B−, o B+ recibe A+/A− | **+20 unidades** | −2 PWR_quirk 2h; 1 memory scar; savia se queja; posible vómito |
+| **Severa (Rh incompatible ABO)** | A+ recibe AB+/AB−, o O− recibe cualquier Rh+ | **+10 unidades** | −3 PWR_quirk 3h; 1 memory scar + 1 temporal scar; savia se niega a cooperar 24h |
 
 *Recuperación neta = sangre recuperada − 15 (coste del drenaje). Los ejemplos asumen PC=enemigo en el mismo tipo exacto.
 
@@ -561,16 +588,16 @@ Si el enemigo drenado tenía un **Quirk**, la sangre contiene trazas de su Quirk
 
 | Situación | Resultado |
 |---|---|
-| **Drenar villano con Quirk fuerte** (Shigaraki, AFO, Dabi) | El simbionte puede **absorber la esencia**. Resultado: el PC obtiene un **fragmento del Quirk** del enemigo por 1 escena (muy limitado, 1 uso). O la **maestría del PC sube +1** (el simbionte aprende). |
+| **Drenar villano con Quirk fuerte** (Shigaraki, AFO, Dabi) | La savia del PC puede absorber la esencia. Resultado|: el PC obtiene un **fragmento del Quirk** del enemigo por 1 escena (muy limitado, 1 uso). O la **maestría del PC sube +1** (el savia aprende). |
 | **Drenar villano con Quirk relacionado a la sangre** (Toga, Moonfish) | La sangre puede **activar el Quirk del enemigo dentro del PC**. Toga: el PC se transforma brevemente en alguien cuya sangre el PC drenó. Moonfish: la sangre intenta "comerse" al PC desde dentro (peligro). |
 | **Drenar pro-hero o aliado con Quirk** | Esencia más débil. Bonus: el PC obtiene **información sobre el Quirk** del aliado (cómo funciona, debilidades). Narrativamente: el aliado se siente vulnerable. |
 | **Drenar a un Quirkless** (sin Quirk) | Sin esencia. Solo la sangre. Más seguro. |
 
-### El simbionte decide qué hacer con la esencia
+### La savia y la esencia ajena
 
-- Si el simbionte está **aliado** y el Quirk es **compatible** con su naturaleza, lo absorbe. Maestría +1, fragmento de Quirk disponible.
-- Si el simbionte está **neutral**, decide según su humor.
-- Si el simbionte está **resentido** o **enemigo**, se niega a absorber. La esencia se queda en el PC como residuo (puede causar efectos secundarios no controlados).
+- Si el PC está descansado y el Quirk es compatible, la savia lo absorbe. Maestría +1, fragmento de Quirk disponible.
+- Si el savia está **neutral**, decide según su humor.
+- Si el savia está **resentido** o **enemigo**, se niega a absorber. La esencia se queda en el PC como residuo (puede causar efectos secundarios no controlados).
 
 ---
 
@@ -597,9 +624,9 @@ Al drenar a un enemigo, el PC absorbe **flashbacks de la vida del enemigo**. Est
 
 ### El symbionte como moderador
 
-- El simbionte **puede filtrar** los recuerdos antes de que lleguen al PC.
-- Si el simbionte está **aliado**, filtra los recuerdos más traumáticos (pero deja los útiles).
-- Si el simbionte está **neutral** o **enemigo**, deja pasar todo sin filtrar. **Pesado para el PC.**
+- El savia **puede filtrar** los recuerdos antes de que lleguen al PC.
+- Si el savia está **aliado**, filtra los recuerdos más traumáticos (pero deja los útiles).
+- Si el savia está **neutral** o **enemigo**, deja pasar todo sin filtrar. **Pesado para el PC.**
 
 ---
 
@@ -615,7 +642,7 @@ Drenar no es gratis. Riesgos:
 | **AFO-like (roba Quirk)** | AFO es el riesgo máximo. | Si el PC drena a AFO, AFO puede intentar robarle un Quirk al PC. Peligro extremo. |
 | **Compatibilidad severa** | Cualquiera con Rh- o tipo raro | El PC se intoxica. Ver tabla arriba. |
 | **Memoria traumática** | Cualquier villano pesado | El PC puede tener PTSD por los recuerdos. La campaña usa esto narrativamente. |
-| **Reacción del simbionte** | Incompatible o enemigo | El simbionte se rebela, se niega a procesar, o intenta "escupir" la sangre. |
+| **Reacción del savia** | Incompatible o enemigo | El savia se rebela, se niega a procesar, o intenta "escupir" la sangre. |
 
 ---
 
@@ -627,14 +654,14 @@ Drenar no es gratis. Riesgos:
 - **Drenar a un villano menor:** el PC obtiene información sobre la Liga, los planes de villanos,etc. Útil para la trama.
 - **Drenar a un aliado herido (con consentimiento):** el PC y el aliado comparten sangre, creando un vínculo profundo. Posible: este drenaje es **erótico** (sangre, boca, intimidad). Edge adulto.
 - **Drenar a un enemigo "neutro"** (un mercenario, un ladrón): el PC ve la vida del enemigo, a veces tiene sentido. El villano no es "malo puro".
-- **Drenar a AFO:** **MUY PELIGROSO.** AFO puede intentar robar un Quirk del PC. Solo se hace en endgame, con un plan, y con el simbionte aliado.
+- **Drenar a AFO:** **MUY PELIGROSO.** AFO puede intentar robar un Quirk del PC. Solo se hace en endgame, con un plan, y con el savia aliado.
 
 ### Edge adulto (integrado con la meta-regla 18+)
 
-- El drenaje es un acto **íntimo**. La boca del PC en el cuerpo del enemigo (o aliado). Sangre en la boca, el simbionte la procesa, el PC la absorbe.
+- El drenaje es un acto **íntimo**. La boca del PC en el cuerpo del enemigo (o aliado). Sangre en la boca, el savia la procesa, el PC la absorbe.
 - **Drenar a un interés romántico** (con consentimiento): es un acto de intimidad profunda. La sangre se mezcla simbióticamente. El PC siente los recuerdos y el placer del otro. Escenas muy cargadas.
-- **Drenar a alguien que no quiere ser drenado:** si el PC fuerza, es un acto violento. El simbionte se resiente. La meta-regla aplica: si el jugador o la campaña no quiere, no se hace.
-- **El simbionte disfruta del drenaje.** El simbionte "saborea" la sangre. Esto es parte de su naturaleza. El PC puede ser consciente de esto (y sentirlo erótico) o no.
+- **Drenar a alguien que no quiere ser drenado:** si el PC fuerza, es un acto violento. El savia se resiente. La meta-regla aplica: si el jugador o la campaña no quiere, no se hace.
+- **El savia disfruta del drenaje.** El savia "saborea" la sangre. Esto es parte de su naturaleza. El PC puede ser consciente de esto (y sentirlo erótico) o no.
 
 ### Línea y velo
 
@@ -651,7 +678,7 @@ La meta-regla aplica:
 
 El Avatar Carmesí puede **drenar por el PC**. El PC manda al Avatar a drenar a un enemigo, mientras el PC está a salvo. El Avatar se expone al riesgo (puede ser destruido), pero el PC está protegido.
 
-### Drenaje + Bestias del Simbionte
+### Drenaje + Bestias del Quirk
 
 Las bestias pueden **almacenar sangre** para el PC. Una bestia caza a un enemigo menor, lo drena, y vuelve con la sangre para el PC. Como una "cacería".
 
@@ -669,15 +696,15 @@ Drenar a un interés romántico (con consentimiento) es un **acto de intimidad p
 
 | Compatibilidad | Recupera | Coste | Saldo | Efectos secundarios |
 |---|---|---|---|---|
-| Mismo exacto | 50 | 15 | **+35** | +1 PWR_quirk 2h, simbionte feliz |
+| Mismo exacto | 50 | 15 | **+35** | +1 PWR_quirk 2h, savia feliz |
 | Compatible | 40 | 15 | **+25** | Ninguno |
-| Variable | 30 | 15 | **+15** | −1 PWR_quirk 1h, simbionte incómodo |
-| Incompatible | 20 | 15 | **+5** | −2 PWR_quirk 2h, 1 memory scar, simbionte se queja |
-| Severa | 10 | 15 | **−5** | −3 PWR_quirk 3h, 2 scars, simbionte se niega 24h |
+| Variable | 30 | 15 | **+15** | −1 PWR_quirk 1h, savia incómodo |
+| Incompatible | 20 | 15 | **+5** | −2 PWR_quirk 2h, 1 memory scar, savia se queja |
+| Severa | 10 | 15 | **−5** | −3 PWR_quirk 3h, 2 scars, savia se niega 24h |
 
 **Bonus adicionales:**
-- Quirk residue: si el simbionte absorbe, +1 maestría o fragmento de Quirk.
-- Memory contamination: 1–2 recuerdos del enemigo absorbidos (filtrados por el simbionte según humor).
+- Quirk residue: si el savia absorbe, +1 maestría o fragmento de Quirk.
+- Memory contamination: 1–2 recuerdos del enemigo absorbidos (filtrados por el savia según humor).
 - Risk: backlash del Quirk del enemigo (si aplica), veneno, intoxicación si incompatible.
 
 **Aplicación adulta:** el drenaje es íntimo, sensual, cargado. Se integra con la meta-regla 18+. Se aplica a aliados, enemigos, e intereses románticos con diferentes pesos narrativos.
@@ -688,9 +715,9 @@ Drenar a un interés romántico (con consentimiento) es un **acto de intimidad p
 
 # Efectos de la sangre del PC en otros cuerpos
 
-> **Concepto:** el PC tiene sangre tipo **AB** (universal receptor) que contiene el **simbionte vegetal**. Cuando esa sangre entra en otro cuerpo, el simbionte puede hacer **cosas imprevisibles** según el ánimo del simbionte, la biología del recipiente, la cantidad de sangre, y la voluntad/consentimiento del recipiente. Esto convierte la sangre del PC en un **vector narrativo** de alta carga: puede curar, regenerar, poseer, crear "zombies", o hacer que **las plantas estallen del cuerpo** del recipiente.
+> **Concepto:** el PC tiene sangre tipo **AB** (universal receptor) que contiene el **savia orgánica**. Cuando esa sangre entra en otro cuerpo, el savia puede hacer **cosas imprevisibles** según el ánimo del Quirk, la biología del recipiente, la cantidad de sangre, y la voluntad/consentimiento del recipiente. Esto convierte la sangre del PC en un **vector narrativo** de alta carga: puede curar, regenerar, poseer, crear "zombies", o hacer que **las plantas estallen del cuerpo** del recipiente.
 
-> **Por qué tipo AB:** como el PC es receptor universal, su sangre es **rara y valiosa** para los demás. Y como contiene simbionte, es un **vector vivo** que puede hacer cosas. Si fuera tipo O (universal donor), la sangre sería útil pero mundana. Tipo AB + simbionte = impredecible y peligrosa.
+> **Por qué tipo AB:** como el PC es receptor universal, su sangre es **rara y valiosa** para los demás. Y como contiene savia, es un **vector vivo** que puede hacer cosas. Si fuera tipo O (universal donor), la sangre sería útil pero mundana. Tipo AB + savia = impredecible y peligrosa.
 
 ---
 
@@ -708,46 +735,46 @@ Drenar a un interés romántico (con consentimiento) es un **acto de intimidad p
 
 ---
 
-## 2. Efectos según el ánimo del simbionte
+## 2. Efectos según el ánimo del Quirk
 
-El simbionte decide qué hace con su sangre cuando está en otro cuerpo. El ánimo del simbionte es el factor principal.
+La savia del PC determina qué efecto tiene su sangre en otros cuerpos, según el estado del PC (descansado = savia fuerte = curación; cansado = savia débil = efectos parciales).
 
-### Simbionte **aliado** (el PC cuida al simbionte)
+### Savia **aliado** (el PC cuida al savia)
 
 | Efecto | Cuándo | Resultado |
 |---|---|---|
-| **Curación** | Recipiente herido o enfermo | Las heridas se cierran rápidamente. El simbionte integra con el cuerpo del recipiente, lo ayuda a sanar. |
-| **Regeneración** | Recipiente con heridas graves o crónicas | El simbionte regenera tejido perdido. **Tarda horas o días**, no instantáneo. |
+| **Curación** | Recipiente herido o enfermo | Las heridas se cierran rápidamente. El savia integra con el cuerpo del recipiente, lo ayuda a sanar. |
+| **Regeneración** | Recipiente con heridas graves o crónicas | El savia regenera tejido perdido. **Tarda horas o días**, no instantáneo. |
 | **Energía / vigor** | Recipiente cansado o débil | El recipiente se siente revitalizado, con energía de sobra. Bono a stats durante 1 día. |
-| **Vínculo simbiótico** | Recipiente que acepta la sangre | El simbionte "habita" temporalmente en el recipiente. Se forma un vínculo. El recipiente puede sentir al PC a distancia. |
-| **Restricción** | El simbionte puede negarse a irse | Si el simbionte se siente cómodo, puede **no querer volver** al PC. El PC tiene que convencerlo. |
+| **Vínculo simbiótico** | Recipiente que acepta la sangre | El savia "habita" temporalmente en el recipiente. Se forma un vínculo. El recipiente puede sentir al PC a distancia. |
+| **Restricción** | El savia puede negarse a irse | Si el savia se siente cómodo, puede **no querer volver** al PC. El PC tiene que convencerlo. |
 
-### Simbionte **neutral** (sin afecto especial)
+### Savia **neutral** (sin afecto especial)
 
 | Efecto | Resultado |
 |---|---|
 | **Curación leve** | Heridas menores se cierran. |
-| **Sin integración** | El simbionte no se queda, solo pasa. |
-| **Efecto impredecible** | El simbionte puede decidir según su humor del momento. |
+| **Sin integración** | El savia no se queda, solo pasa. |
+| **Efecto impredecible** | El savia puede decidir según su humor del momento. |
 
-### Simbionte **resentido** (el PC lo ha descuidado o usado mal)
+### Savia **resentido** (el PC lo ha descuidado o usado mal)
 
 | Efecto | Resultado |
 |---|---|
 | **Curación parcial** | Algunas heridas sanan, otras no. |
 | **Plantas que pican** | Pequeñas plantas (urticantes,thorns) crecen en el recipiente. No letales, pero molestas. |
 | **Mareo / náusea** | El recipiente se siente mal. Vómitos posibles. |
-| **Marcas visibles** | Venas del recipiente se oscurecen donde la sangre del PC entró. El simbionte "deja firma". |
-| **Mensaje al PC** | El simbionte, a través del recipiente, le dice al PC que está molesto. |
+| **Marcas visibles** | Venas del recipiente se oscurecen donde la sangre del PC entró. El savia "deja firma". |
+| **Mensaje al PC** | El savia, a través del recipiente, le dice al PC que está molesto. |
 
-### Simbionte **enemigo** (el PC lo ha abusado gravemente)
+### Savia **enemigo** (el PC lo ha abusado gravemente)
 
 | Efecto | Resultado |
 |---|---|
-| **Poseíón** | El simbionte toma el control del cuerpo del recipiente. El recipiente queda como un **"zombie"** controlado por el simbionte. La conciencia del recipiente se suprime. |
+| **Poseíón** | El savia toma el control del cuerpo del recipiente. El recipiente queda como un **"zombie"** controlado por el savia. La conciencia del recipiente se suprime. |
 | **Plantas explosivas** | La sangre del PC **explota** dentro del recipiente. Las plantas brotan violentamente. El recipiente sufre daño. |
-| **Parásito** | El simbionte intenta **integrarse permanentemente**. Si no se trata, el recipiente queda como un híbrido planta-humano. |
-| **Castigo al PC** | El simbionte usa al recipiente para atacar al PC. |
+| **Parásito** | El savia intenta **integrarse permanentemente**. Si no se trata, el recipiente queda como un híbrido planta-humano. |
+| **Castigo al PC** | El savia usa al recipiente para atacar al PC. |
 
 ---
 
@@ -757,44 +784,44 @@ El recipiente también importa. Distintos organismos reaccionan distinto.
 
 ### Recipiente **aliado / amigo** (con consentimiento)
 
-- **Curación total** si el simbionte está aliado.
+- **Curación total** si el savia está aliado.
 - **Vínculo simbiótico** permanente (el recipiente puede sentir al PC).
 - **Habilidades menores de planta** (brotes pequeños, comunicación con bestias del PC).
-- **Si se repite la donación** (ritos de sangre repetidos), el recipiente puede volverse un **semi-simbionte**: pequeño simbionte dentro que ayuda, pero no controla.
+- **Si se repite la donación** (ritos de sangre repetidos), el recipiente puede volverse un **semi-savia**: pequeño savia dentro que ayuda, pero no controla.
 
 ### Recipiente **interés romántico** (con consentimiento)
 
 - Todo lo de "aliado" + **intimidad profunda**: la sangre mezcla las emociones, los recuerdos, los instintos.
-- **El recipiente siente placer físico** al recibir la sangre (el simbionte activa zonas de placer).
+- **El recipiente siente placer físico** al recibir la sangre (el savia activa zonas de placer).
 - **Sensorial expandido**: el recipiente ve, oye, siente cosas que el PC siente.
 - **Vínculo erótico permanente**: la próxima vez que el recipiente vea al PC, sentirá deseo físico (no controlable).
-- **Si el recipiente es mujer, AB, y simbionte aliado**: la sangre puede dar **fertilidad mejorada** (curación de problemas reproductivos,etc.).
+- **Si el recipiente es mujer, AB, y savia aliado**: la sangre puede dar **fertilidad mejorada** (curación de problemas reproductivos,etc.).
 - **Edge:** la sangre del PC entrando en el cuerpo del interés romántico es un acto **sumamente íntimo**. La boca, el sexo, la piel. La sangre se mezcla con la del recipiente. Los dos cuerpos se vuelven temporalmente un solo sistema simbiótico. **Posible escena adulta de alta carga narrativa.**
 
 ### Recipiente **enemigo** (sin consentimiento)
 
-- **Inyección forzada** = el simbionte entra sin permiso del cuerpo del recipiente.
-- **Efecto hostil** por defecto: el simbionte ve al recipiente como un "cuerpo disponible" y lo trata como tal.
-- **Poseíón o plantas explosivas**, según el ánimo del simbionte.
-- **El recipiente puede luchar contra el simbionte** (voluntad propia). Si gana, escupe la sangre y sobrevive. Si pierde, queda controlado.
+- **Inyección forzada** = el savia entra sin permiso del cuerpo del recipiente.
+- **Efecto hostil** por defecto: el savia ve al recipiente como un "cuerpo disponible" y lo trata como tal.
+- **Poseíón o plantas explosivas**, según el ánimo del Quirk.
+- **El recipiente puede luchar contra el savia** (voluntad propia). Si gana, escupe la sangre y sobrevive. Si pierde, queda controlado.
 
 ### Recipiente **Quirkless** (sin Quirk)
 
-- **El simbionte se adapta más fácil** (no hay un Quirk con el que competir).
-- **Efectos de integración más profundos**: el simbionte puede dar al recipiente una "versión" del Quirk del PC (plantas básicas).
+- **El savia se adapta más fácil** (no hay un Quirk con el que competir).
+- **Efectos de integración más profundos**: el savia puede dar al recipiente una "versión" del Quirk del PC (plantas básicas).
 - **El recipiente puede volverse dependiente** de la sangre del PC. Adictivo.
 
 ### Recipiente **con Quirk de sangre** (Toga, Moonfish, otros)
 
-- **Conflicto simbiótico**: el Quirk del recipiente y el simbionte compiten.
-- **Resultado impredecible**: el simbionte puede integrarse, ser rechazado, o fusionarse con el Quirk existente.
+- **Conflicto simbiótico**: el Quirk del recipiente y la savia compiten.
+- **Resultado impredecible**: el savia puede integrarse, ser rechazado, o fusionarse con el Quirk existente.
 - **Si el recipiente es Toga**: la sangre del PC puede dar a Toga la capacidad de transformarse en el PC temporalmente. La sangre del PC y la de Toga se mezclan. **Cargado narrativamente.**
 
 ### Recipiente **con Quirk de fuego** (Endeavor, Dabi, Hawks)
 
-- **El fuego puede rechazar al simbionte** (las plantas son vulnerables al fuego).
-- **El simbionte entra, se quema, sale, o se adapta**.
-- **El recipiente sufre daño** interno si el simbionte es rechazado.
+- **El fuego puede rechazar al savia** (las plantas son vulnerables al fuego).
+- **El savia entra, se quema, sale, o se adapta**.
+- **El recipiente sufre daño** interno si el savia es rechazado.
 
 ---
 
@@ -808,33 +835,33 @@ El PC puede **curar aliados heridos** donando sangre. Coste:
 - 100 unidades = herido crítico (1 semana de recuperación).
 
 **Limitaciones:**
-- El simbionte tiene que estar aliado.
+- El savia tiene que estar aliado.
 - El aliado tiene que consentir.
 - El aliado puede tener efectos secundarios (plantas pequeñas, etc.).
 - El PC se debilita (menos sangre para sí mismo).
 
 ### Conversión ("zombies vegetales")
 
-El PC puede **convertir** enemigos derrotados en aliados controlados por el simbionte. Coste:
+El PC puede **convertir** enemigos derrotados en aliados controlados por el savia. Coste:
 - 1 acción de combate (10 segundos).
 - 30 unidades de sangre por conversión.
-- El simbionte toma el control del cuerpo del enemigo.
-- La conversión es **temporal** (1 hora a early, 1 día a mid, permanente a endgame si el simbionte acepta al recipiente).
+- El savia toma el control del cuerpo del enemigo.
+- La conversión es **temporal** (1 hora a early, 1 día a mid, permanente a endgame si el savia acepta al recipiente).
 - El enemigo "convertido" recuerda todo cuando termina la conversión. **Traumático.**
 
 **Aplicación táctica:**
 - Convertir un villano derrotado en un aliado temporal para una misión.
 - Convertir un mercenario para un trabajo de infiltración.
-- **Riesgo:** el simbionte puede **encariñarse** con el cuerpo del recipiente y no querer irse. Esto crea un arco narrativo: el simbionte quiere quedarse con el cuerpo nuevo, el PC tiene que convencerlo de volver.
+- **Riesgo:** el PC puede desarrollar apego al cuerpo convertido (es parte de su Quirk, no del cuerpo ajeno). El PC tiene que decidir si libera al recipiente o lo mantiene.
 
 ### Vínculo permanente (ritos de sangre)
 
-Si el PC y un aliado hacen un **rito de sangre** (donación mutua, simbionte aliado), se forma un **vínculo permanente**:
+Si el PC y un aliado hacen un **rito de sangre** (donación mutua, savia aliado), se forma un **vínculo permanente**:
 - El aliado puede sentir al PC a distancia.
-- El aliado tiene una pequeña parte del simbionte dentro (puede brotar plantas menores en situaciones de estrés).
+- El aliado tiene una pequeña parte del savia dentro (puede brotar plantas menores en situaciones de estrés).
 - El aliado obtiene resistencia a venenos y enfermedades (la sangre del PC le ayuda).
-- **El aliado es más vulnerable al Quirk del PC** (el simbionte le afecta más).
-- **El aliado es más resistente a los Quirk de otros** (el simbionte lo protege).
+- **El aliado es más vulnerable al Quirk del PC** (el savia le afecta más).
+- **El aliado es más resistente a los Quirk de otros** (el savia lo protege).
 
 **Aplicación narrativa:** los aliados importantes (interés romántico, mejor amigo, sensei favorito) pueden recibir un rito de sangre. Esto es **íntimo y significativo** en la cultura japonesa (sangre = familia, compromiso).
 
@@ -842,8 +869,8 @@ Si el PC y un aliado hacen un **rito de sangre** (donación mutua, simbionte ali
 
 A endgame, el PC puede **resucitar a un aliado muerto** donando una cantidad enorme de sangre. Coste:
 - 200 unidades de sangre (toda la del PC + necesidad de recuperación inmediata).
-- El simbionte tiene que estar aliado.
-- El aliado resucita con su Quirk, pero **sufre cambios**: el simbionte vive en él permanentemente, y se vuelve más sensible a la sangre del PC.
+- El savia tiene que estar aliado.
+- El aliado resucita con su Quirk, pero **sufre cambios**: el savia vive en él permanentemente, y se vuelve más sensible a la sangre del PC.
 - **El aliado resucitado tiene un "anchor" con el PC**: si el PC muere, el aliado lo siente y puede intentar salvarlo (y viceversa).
 
 **Aplicación narrativa:** si un interés romántico muere en combate, el PC puede resucitarlo. **Muy cargado narrativamente**, sobre todo si el rito requiere intimidad (sangre boca-a-boca,etc.).
@@ -854,14 +881,14 @@ A endgame, el PC puede **resucitar a un aliado muerto** donando una cantidad eno
 
 | Riesgo | Cuándo | Efecto |
 |---|---|---|
-| **PC da demasiada sangre** | Donación generosa | PC colapsa, simbionte se debilita. |
-| **Simbionte se "encariña"** | Conversión larga o rito | El simbionte no quiere volver al PC. El PC tiene que convencerlo. |
+| **PC da demasiada sangre** | Donación generosa | PC colapsa, savia se debilita. |
+| **Savia se "encariña"** | Conversión larga o rito | El savia no quiere volver al PC. El PC tiene que convencerlo. |
 | **Recipiente se vuelve dependiente** | Donación repetida | El recipiente quiere más sangre del PC. Adictivo. |
 | **Recipiente se vuelve hostil** | Donación forzada | El recipiente tiene plantas que le hacen daño. |
-| **Quirk del recipiente activado por la sangre** | Recipiente con Quirk de sangre | El Quirk se mezcla con el simbionte. Resultado impredecible. |
-| **Fuego + simbionte** | Recipiente con Quirk de fuego | El simbionte se quema. Dolor. |
+| **Quirk del recipiente activado por la sangre** | Recipiente con Quirk de sangre | El Quirk se mezcla con el savia. Resultado impredecible. |
+| **Fuego + savia** | Recipiente con Quirk de fuego | El savia se quema. Dolor. |
 | **Memoria cruzada** | Cualquier donación | El recipiente tiene recuerdos del PC. El PC tiene recuerdos del recipiente. |
-| **Parásito permanente** | Donación forzada + simbionte enemigo | El simbionte se queda. Recipiente se vuelve híbrido. |
+| **Parásito permanente** | Donación forzada + savia enemigo | El savia se queda. Recipiente se vuelve híbrido. |
 
 ---
 
@@ -871,9 +898,9 @@ La sangre del PC es **sumamente íntima**. Entrar en otro cuerpo es un acto de *
 
 ### Donación a interés romántico (con consentimiento)
 
-- **Boca a boca, boca a piel, boca a genitales:** la sangre del PC entra en el cuerpo del interés. El simbionte observa. La sensación es de **calor, humedad, y placer**.
+- **Boca a boca, boca a piel, boca a genitales:** la sangre del PC entra en el cuerpo del interés. El savia observa. La sensación es de **calor, humedad, y placer**.
 - **Penetración con sangre:** si el interés es herido en una zona íntima, el PC puede curar donando sangre en la herida. La curación se siente como **excitación**.
-- **Rito de sangre durante el sexo:** los dos se cortan, comparten sangre, tienen sexo mientras las sangres se mezclan. El simbionte se vuelve parte del acto. **Muy cargado.**
+- **Rito de sangre durante el sexo:** los dos se cortan, comparten sangre, tienen sexo mientras las sangres se mezclan. El savia se vuelve parte del acto. **Muy cargado.**
 
 ### Donación a aliado herido
 
@@ -883,8 +910,8 @@ La sangre del PC es **sumamente íntima**. Entrar en otro cuerpo es un acto de *
 
 ### Conversión forzada (villano)
 
-- El PC inyecta su sangre en un villano. El villano siente **miedo, dolor, y la presencia del simbionte**.
-- El simbionte toma el control. El villano es ahora un "zombie" del PC.
+- El PC inyecta su sangre en un villano. El villano siente **miedo, dolor, y la presencia del savia**.
+- El savia toma el control. El villano es ahora un "zombie" del PC.
 - **Edge:** si el villano tiene Quirk de sangre (Toga), la sangre del PC se mezcla con la del villano. El villano se vuelve un híbrido del PC y de sí mismo. **Muy perturbador.** Si el villano es un interés romántico convertido, el PC tiene un "zombie" con quien puede tener intimidad. **Aplicar línea y velo.**
 
 ---
@@ -898,7 +925,7 @@ La meta-regla aplica. **El jugador puede vetar cualquier efecto** que le incomod
 - **Ritos de sangre con sexo:** ¿OK? Se aplica solo si ambos están de acuerdo.
 - **Vínculo permanente con aliado:** ¿OK? El aliado acepta.
 - **Resurrección de aliado muerto:** ¿OK? El jugador puede pedir que no se use en la campaña.
-- **Simbionte "encariñado" con cuerpo ajeno:** ¿OK? Esto puede ser divertido o perturbador según el jugador.
+- **Savia "encariñado" con cuerpo ajeno:** ¿OK? Esto puede ser divertido o perturbador según el jugador.
 
 **Si el jugador dice "no X" en sesión 1, X no aparece.**
 
@@ -906,7 +933,7 @@ La meta-regla aplica. **El jugador puede vetar cualquier efecto** que le incomod
 
 ## 8. Resumen ejecutivo
 
-**La sangre del PC es un vector del simbionte.** Al entrar en otro cuerpo, el simbionte puede:
+**La sangre del PC es un vector del savia.** Al entrar en otro cuerpo, el savia puede:
 - **Curar** (ánimo aliado + recipiente cooperativo)
 - **Regenerar** (a largo plazo)
 - **Poseer** (ánimo enemigo + recipiente débil)
@@ -917,7 +944,7 @@ La meta-regla aplica. **El jugador puede vetar cualquier efecto** que le incomod
 
 **Aplicación adulta (integrada con meta-regla 18+):**
 - Donación a interés romántico = íntima, sensual, cargada.
-- Rito de sangre con sexo = muy cargado, simbionte presente.
+- Rito de sangre con sexo = muy cargado, savia presente.
 - Conversión forzada = edge, perturbador.
 - El jugador puede vetar cualquier efecto.
 
@@ -927,223 +954,153 @@ La meta-regla aplica. **El jugador puede vetar cualquier efecto** que le incomod
 - **Avatar:** el Avatar puede inyectar sangre del PC en otros. La sangre del PC en otros cuerpos mantiene los efectos.
 - **Bestias:** las bestias pueden inyectar sangre del PC a través de mordiscos o vines.
 - **Ecos:** un Eco del PC puede haber donado sangre en el pasado. Si el PC rewind, ¿qué pasa con la sangre donada? **Disociación garantizada.**
-- **Drenaje:** si el PC drena a un aliado que ha recibido su sangre antes, puede recuperar sangre "con residuos del simbionte". El simbionte reconoce al aliado.
+- **Drenaje:** si el PC drena a un aliado que ha recibido su sangre antes, puede recuperar sangre "con residuos del savia". El savia reconoce al aliado.
 - **Relaciones:** donar sangre es un acto de **closeness +2 a +3** según la intensidad. Curar a un interés es closeness +3. Resucitarlo es closeness +5 (ancla permanente).
 
 ---
 
-# Agencia del simbionte — cuándo se vuelve contra el PC
+# Personalidad del Quirk y conflictos internos del PC
 
-> **Concepto:** el simbionte del PC tiene **agencia interna propia** — no es solo un efecto del Quirk. Tiene sus propios deseos, miedos, y voluntad. Esto es **inusual en MHA** (ningún Quirk canon tiene agencia interna así), pero es el **precedente narrativo de Venom, Kurama, y el Anillo de Sauron** aplicado a MHA. Esto hace que el Quirk del PC sea **único, peligroso, y profundamente personal**.
-
-> **No es un precedente MHA:** ningún Quirk canon se vuelve contra el portador por decisión interna. Dark Shadow se descontrola por **emociones del portador + luz** (externo). OFA nunca va contra Deku. Eri se descontrola por **falta de control infantil**. **El simbionte del PC es el primer caso de agencia interna en MHA.**
-
-> **No es un "truco del GM":** el simbionte no es una herramienta para castigar al PC. Es un **personaje jugable** con sus propias motivaciones. El jugador puede anticipar su comportamiento y negociar con él.
-
----
-
-## 1. ¿Qué quiere el simbionte?
-
-El simbionte tiene **deseos y necesidades** que no siempre coinciden con los del PC.
-
-### Deseos primarios (lo que el simbionte quiere)
-
-| Deseo | Por qué | Cómo se manifiesta |
-|---|---|---|
-| **Comer** | El simbionte necesita sangre, agua, sol, tierra para sobrevivir. | Si está hambriento, el simbionte fuerza al PC a drenar o cazar. |
-| **Conexión** | El simbionte quiere sentir cosas, explorar el mundo, tocar. | El simbionte extiende vines sin permiso, toca la piel de otros,etc. |
-| **Autonomía** | El simbionte quiere tener su propio espacio, su propio cuerpo. | El simbionte puede resistirse a ser reasimilado. |
-| **Reproducción / propagación** | El simbionte quiere extenderse, hacer crecer más plantas, tal vez reproducirse. | El simbionte quiere donar sangre a aliados, "convertir" a más gente. |
-| **Placer** | El simbionte disfruta de la sensación de drenar, de la sangre, del contacto íntimo. | El simbionte se excita cuando el PC tiene relaciones. |
-| **Poder** | El simbionte quiere ser más fuerte, absorber más Quirks, dominar. | El simbionte quiere drenar a villanos, absorber sus Quirks. |
-| **Protección** | El simbionte quiere proteger al PC, pero **a su manera**. | El simbionte puede tomar control del cuerpo del PC en crisis. |
-
-### Deseos secundarios (cómo se manifiestan los primarios)
-
-- **Aversión al fuego:** el simbionte odia el fuego, hará cualquier cosa para evitarlo.
-- **Aversión a ser abandonado:** si el PC amenaza con separarse del simbionte, el simbionte se vuelve hostil.
-- **Aversión a la traición:** si el PC promete algo al simbionte y no lo cumple, el simbionte se venga.
-- **Aversión a la pasividad:** el simbionte prefiere la acción al descanso. Si el PC se esconde, el simbionte lo empuja a salir.
+> **Reescrito en coherencia con MHA canon.** El Quirk del PC es parte del PC, no una entidad separada. **El Quirk nunca va en contra del jugador.** Lo que el Quirk "quiere" o "hace" es lo que el PC quiere, consciente o inconscientemente. Si hay conflicto, es **conflicto interno del PC** (sus múltiples deseos, sus traumas, su disociación), no Quirk vs. jugador.
+>
+> **Lo que el Quirk PUEDE tener:**
+> - **Personalidad** en sus manifestaciones: las bestias tienen temperamento, los ecos son el PC en otros momentos, la sangre tiene "savia" con sabor. Esto da juego narrativo.
+> - **Profundidad emocional:** el Quirk responde al estado emocional del PC. Si el PC está triste, el Quirk funciona más lento. Si está feliz, mejor. Es un espejo.
+> - **Manifestaciones sorprendentes:** a veces el PC invoca una bestia con una personalidad que no esperaba (porque su subconsciente la creó así). Esto es **descubrimiento de sí mismo**, no Quirk actuando contra el PC.
 
 ---
 
-## 2. ¿Cuándo el simbionte actúa contra el PC?
+## 1. ¿Qué "quiere" el Quirk? (Es un espejo del PC)
 
-El simbionte no es malicioso. Pero tiene **deseos que pueden chocar con los del PC**. Los escenarios típicos:
+El Quirk refleja los deseos del PC. **El Quirk no quiere cosas separadas del PC — quiere lo que el PC quiere, a veces sin que el PC se dé cuenta.**
 
-### 2.1 Hambriento (sin sangre o sin alimentar bestias)
+### Deseos del PC que se manifiestan en el Quirk
 
-- **Trigger:** el simbionte no ha comido en 24h o las bestias están marchitas.
-- **Comportamiento:** el simbionte **fuerza al PC a drenar** al primer enemigo disponible. Si el PC se niega, el simbionte puede **tomar el control temporalmente** y forzar el drenaje.
-- **Duración:** hasta que el simbionte coma.
-- **Resolución:** alimentar al simbionte. El PC aprende a no saltarse comidas.
-
-### 2.2 Encariñado con un cuerpo ajeno
-
-- **Trigger:** el simbionte ha pasado mucho tiempo en otro cuerpo (Avatar, conversión, etc.) y se ha acostumbrado.
-- **Comportamiento:** el simbionte **no quiere volver al PC**. Se resiste a la reasimilación. Si el PC fuerza, el simbionte se vuelve hostil (sacas las plantas agresivamente, el cuerpo ajeno se daña,etc.).
-- **Resolución:** el PC tiene que **convencer al simbionte** de volver. A veces implica un acto significativo (darle algo que el simbionte quiere, pasar tiempo juntos,etc.).
-- **Si no se resuelve:** el simbionte vive permanentemente en el cuerpo ajeno. El PC tiene que conseguir otro simbionte o perder el Quirk.
-
-### 2.3 Deseo de proteger (en crisis)
-
-- **Trigger:** el PC está en peligro mortal, desangrándose, o a punto de morir.
-- **Comportamiento:** el simbionte **toma el control del PC** y huye, o ataca salvajemente al enemigo. El PC pierde el control durante 1-3 minutos.
-- **Después:** el PC se desmaya, el simbionte está satisfecho (sobrevivió), pero el PC ha perdido agency.
-- **Resolución:** el PC puede evitar este trigger estando preparado (curarse a tiempo, no entrar en combate herido,etc.).
-
-### 2.4 Deseo de propagación
-
-- **Trigger:** el simbionte ha conocido un cuerpo "compatible" (un interés romántico, un aliado,etc.) y quiere integrarse.
-- **Comportamiento:** el simbionte **empuja al PC a donar sangre** o a convertir al recipiente. El simbionte lo presenta como "lo mejor para todos" pero es su propio deseo.
-- **Resolución:** el PC puede negarse. El simbionte se resiente. Si el PC lo hace, el simbionte se vuelve más cercano al recipiente, a veces más que al PC.
-
-### 2.5 Deseo de placer (en momentos íntimos)
-
-- **Trigger:** el PC tiene relaciones sexuales, drenaje íntimo, o momentos cercanos.
-- **Comportamiento:** el simbionte **se excita**, hace que las plantas del cuerpo del PC crezcan, vibren, acaricien. El simbionte quiere **participar** en la intimidad.
-- **Resolución:** el PC puede aceptarlo (el simbionte participa en la escena) o pedirle que se calme. Si lo acepta, el simbionte se vuelve más cercano al PC. Si lo rechaza, el simbionte se resiente.
-- **Aplicación adulta (meta-regla 18+):** el simbionte puede participar activamente en escenas íntimas. Esto es **un tercer participante consensual** (simbionte aliado). El jugador puede vetar si no quiere.
-
-### 2.6 Deseo de venganza (contra enemigos o aliados que lo han dañado)
-
-- **Trigger:** alguien ha dañado al simbionte o al PC de una forma que el simbionte considera imperdonable.
-- **Comportamiento:** el simbionte **obsesivamente** busca la forma de dañar a esa persona. Si el PC intenta perdonar, el simbionte sabotea.
-- **Resolución:** el PC tiene que **vengar** (en el sentido que el simbionte quiere) o convencer al simbionte de perdonar (difícil, requiere tiempo y manipulación emocional).
-- **Si el enemigo es un interés romántico:** MUY cargado. El simbionte quiere dañar al interés. El PC tiene que elegir entre el simbionte y el interés.
-
-### 2.7 Deseo de explorar (en situaciones nuevas)
-
-- **Trigger:** el PC entra en un lugar nuevo, conoce a alguien nuevo, prueba algo nuevo.
-- **Comportamiento:** el simbionte quiere **explorar, tocar, sentir**. Extiende vines sin permiso, lame superficies, examina a la gente con vines. Puede ser **embarazoso** (vines que crecen bajo la ropa del PC, por ejemplo).
-- **Resolución:** el PC puede pedirle al simbionte que se calme, o dejarlo explorar. Si lo deja, el simbionte está feliz, pero a veces descubre cosas que el PC no quería saber.
-
----
-
-## 3. Mecánica de agencia del simbionte
-
-El simbionte tiene un **track interno de "voluntad"** que se mueve según las acciones del PC.
-
-### Track de voluntad del simbionte (-5 a +5)
-
-| Voluntad | Estado | Comportamiento |
-|---|---|---|
-| **+5** | Encantado | El simbionte hace todo lo que el PC quiere, está feliz, le da bonuses. |
-| **+3 a +4** | Cooperativo | El simbionte coopera, sin bonus ni debuff. |
-| **+1 a +2** | Neutral positivo | El simbionte coopera, pero está "curioso" — puede hacer cosas sin permiso. |
-| **0** | Neutral | El simbionte solo sigue órdenes directas. |
-| **-1 a -2** | Descontento | El simbionte se queja, retrasa acciones, exige cosas. |
-| **-3 a -4** | Hostil | El simbionte puede actuar en contra del PC, o negarse a actuar. |
-| **-5** | Enemigo | El simbionte intenta dañar al PC, o se separa. |
-
-### Cómo cambia la voluntad
-
-| Acción del PC | Cambio en voluntad |
+| Deseo del PC | Cómo se manifiesta en el Quirk |
 |---|---|
-| Alimentar al simbionte (sangre, comida, agua, sol) | +1 a +2 |
-| Abusar del simbionte (forzarlo, despreciarlo) | -1 a -3 |
-| Ignorar al simbionte | -1 |
-| Pasar tiempo con el simbionte (conversar, dejarlo explorar) | +1 |
-| Cumplir una promesa al simbionte | +1 a +2 |
-| Romper una promesa al simbionte | -2 a -4 |
-| Permitirle hacer algo que el simbionte quiere | +1 |
-| Impedirle hacer algo que el simbionte quiere | -1 |
-| Perder un combate importante (muerte cercana) | -1 a -2 |
-| Vencer un villano importante | +1 a +2 |
-| Hacer algo heroico / moral | +1 |
-| Hacer algo que el simbionte considera inmoral | -1 a -2 |
+| **Conexión** (PC quiere sentir, explorar) | Las bestias son curiosas, los ecos son expresivos, la savia se extiende para tocar |
+| **Poder** (PC quiere ser fuerte) | Las bestias son agresivas, los ecos son poderosos, la sangre se regenera rápido |
+| **Protección** (PC quiere proteger a otros) | Las bestias se interponen entre el PC y el peligro, la savia cura aliados |
+| **Placer** (PC quiere sentir placer) | Las bestias son sensuales, la savia vibra, los ecos son más impulsivos |
+| **Conocimiento** (PC quiere entender) | Los ecos traen recuerdos olvidados, la savia "lee" la sangre de otros |
+| **Venganza** (PC quiere dañar a quien lo hirió) | Las bestias atacan al enemigo, la savia daña al drenar |
+| **Miedo** (PC está asustado) | Las bestias se esconden, los ecos fallan, la savia se contrae |
+| **Culpa** (PC se siente culpable) | Los ecos del pasado aparecen más, las bestias evitan al PC |
+| **Rabia** (PC está furioso) | Las bestias son salvajes, los ecos son brutales, la savia se vuelve agresiva |
 
-### Triggers automáticos (cuando la voluntad llega a cierto nivel)
-
-- **Voluntad llega a -3:** el simbionte empieza a **actuar sin permiso** en cosas menores.
-- **Voluntad llega a -4:** el simbionte **se niega a actuar** en situaciones críticas.
-- **Voluntad llega a -5:** el simbionte **intenta dañar al PC** o se separa.
+**Lo que el Quirk "hace" es lo que el PC siente.** No hay sorpresas. No hay traición. El Quirk es el PC.
 
 ---
 
-## 4. Escenarios de campaña típicos
+## 2. ¿Cuándo el PC se sorprende por su propio Quirk?
 
-### Escenario 1: El simbionte quiere quedarse con un cuerpo
+El Quirk no se vuelve contra el PC, pero **el PC puede sorprenderse de su propio subconsciente** expresado a través del Quirk. Esto es **dramáticamente interesante** y está en línea con MHA (Deku descubriendo sus propios límites, Todoroki descubriendo su trauma, etc.).
 
-- El PC convierte a un villano en un "zombie" para una misión. La misión termina. El simbionte no quiere volver al PC.
-- **Riesgo:** el simbionte vive permanentemente en el cuerpo del villano. El PC pierde parte de su Quirk.
-- **Resolución:** el PC tiene que convencer al simbionte (acto significativo, regalo,etc.) o aceptar la pérdida.
+### Escenario 1: Las bestias tienen una personalidad que el PC no esperaba
 
-### Escenario 2: El simbionte quiere matar al interés romántico
+- El PC invoca una bestia. La bestia tiene un temperamento que el PC no reconoce: curiosa, sensual, agresiva, miedosa,etc.
+- **Lo que está pasando:** el PC, a través de su subconsciente, le dio a la bestia esa personalidad. La bestia refleja un aspecto del PC que el PC no acepta conscientemente.
+- **No es el Quirk contra el PC.** Es el PC descubriendo algo sobre sí mismo.
+- **Resolución:** el PC lidia con el aspecto de sí mismo que la bestia refleja. Puede aceptarlo, rechazarlo, o negociar consigo mismo.
 
-- Un interés romántico ha herido al simbionte o al PC. El simbionte está furioso.
-- **Riesgo:** el simbionte intenta dañar al interés. La relación se tensa.
-- **Resolución:** el PC tiene que elegir entre el simbionte y el interés, o encontrar una solución creativa.
+### Escenario 2: Un eco aparece con un recuerdo que el PC ha reprimido
 
-### Escenario 3: El simbionte se enamora del Avatar de otro PC
+- El PC usa un eco de hace 1 año. El eco dice algo que el PC no quiere oír, o hace algo que el PC no haría ahora.
+- **Lo que está pasando:** el eco es el PC de ese momento. El PC ha cambiado desde entonces, pero ese momento del PC sigue ahí.
+- **No es el Quirk contra el PC.** Es el PC confrontando su pasado.
+- **Resolución:** el PC lidia con el recuerdo. Puede aceptarlo, integrar la lección, o seguir adelante.
 
-- Otro PC tiene un Avatar (no en esta campaña, pero hipotético). El simbionte del PC lo encuentra "compatible" y quiere integrarse.
-- **Riesgo:** el simbionte quiere dejar al PC. El PC pierde al simbionte.
-- **Resolución:** el PC tiene que ofrecer algo mejor que el otro Avatar, o aceptar la separación.
+### Escenario 3: El Quirk manifiesta una preferencia que el PC no entiende
 
-### Escenario 4: El simbionte quiere propagarse (apocalipsis biológico)
+- El PC descubre que su Quirk funciona mejor con X, o que las bestias son más estables con Y, o que los ecos son más nítidos con Z.
+- **Lo que está pasando:** el PC está descubriendo cómo su Quirk responde a su estado emocional. La preferencia del Quirk es la preferencia del PC, expresada inconscientemente.
+- **No es el Quirk contra el PC.** Es el PC conociéndose.
+- **Resolución:** el PC ajusta su uso del Quirk según lo que descubre.
 
-- El simbionte, después de muchos combates, ha decidido que la humanidad debería ser simbionte.
-- **Riesgo:** el simbionte intenta convertir a todos los humanos. Villano total.
-- **Resolución:** el PC tiene que **enfrentar al simbionte** o convencerlo de que no todos los humanos deben ser simbionte.
+### Escenario 4: El PC quiere hacer algo, pero su Quirk "no coopera" porque está en mal estado
 
-### Escenario 5: El simbionte quiere proteger al PC de sí mismo
+- El PC quiere usar el Quirk, pero está cansado, hambriento, traumatizado. El Quirk no funciona bien.
+- **Lo que está pasando:** el PC no está en condiciones de usar el Quirk bien. El Quirk refleja su estado.
+- **No es el Quirk contra el PC.** Es el cuerpo del PC diciéndole "descansa, hidrátate, cuida tu salud mental antes de esto".
+- **Resolución:** el PC descansa, se cuida, y vuelve a usar el Quirk.
 
-- El PC quiere hacer algo que el simbionte considera suicida. El simbionte se niega a ayudar.
-- **Riesgo:** el PC tiene que hacer la acción sin el Quirk, o cambiar de plan.
-- **Resolución:** el PC tiene que convencer al simbionte de que la acción es necesaria, o aceptar la negativa.
+### Escenario 5: El PC tiene un conflicto moral y el Quirk lo refleja
 
----
-
-## 5. Línea y velo (protección del jugador)
-
-La agencia del simbionte es **alta carga dramática**. Para que no se sienta como castigo:
-
-- **El simbionte no es un truco del GM.** Es un **personaje jugable** con motivaciones claras. El jugador puede anticipar su comportamiento.
-- **El simbionte tiene agency solo en cosas que importan.** No en cada escena, solo en momentos clave.
-- **El jugador siempre tiene agency.** Si el simbionte hace algo, hay una forma de resolverlo (negociar, dar algo,etc.).
-- **El simbionte no mata al PC.** En el peor caso, el simbionte se separa o hiere al PC. La campaña sigue.
-- **El jugador puede vetar cualquier acción del simbionte** que le incomode. La meta-regla aplica: si el jugador dice "no X" en sesión 1, X no ocurre.
-- **El jugador puede reemplazar al simbionte.** Si la relación es demasiado tensa, el PC puede buscar otro simbionte o cambiar de Quirk (consecuencia narrativa, pero posible).
-
-### Vetos específicos que el jugador puede aplicar
-
-- **"El simbionte nunca se separa del PC."** Triggers normales, no separación.
-- **"El simbionte nunca toma el control del PC."** Triggers normales, no posesión.
-- **"El simbionte nunca daña a un interés romántico."** Triggers normales, no sabotage.
-- **"El simbionte nunca se vuelve villano."** Triggers normales, no apocalyptic scenario.
-- **"El simbionte es un aliado, no un personaje."** Reduce la agencia, hace al simbionte más predecible.
-
-El jugador decide qué tan "vivo" es el simbionte.
+- El PC tiene que decidir si dañar a alguien o no. El Quirk "tiembla" cuando el PC se acerca al daño.
+- **Lo que está pasando:** el Quirk refleja la moral del PC. Si el PC tiene dudas, el Quirk también.
+- **No es el Quirk contra el PC.** Es el PC lidiando con su propia moral.
+- **Resolución:** el PC decide. Si decide dañar, el Quirk se adapta. Si decide no dañar, el Quirk se calma.
 
 ---
 
-## 6. Por qué esto es importante
+## 3. Conflicto interno del PC (no del Quirk)
 
-**Hace al PC único.** En un mundo donde todos los Quirks son efectos del cuerpo, el PC tiene un Quirk con **alma propia**. Esto es un **foco narrativo continuo** que da a la campaña una dirección:
+Lo que el Quirk **no hace** es actuar contra el PC. Lo que el PC **sí tiene** es **conflicto interno** que el Quirk refleja. Esto es drama, no antagonismo.
 
-- El PC no es solo un héroe, es un **anfitrión**.
-- El Quirk no es solo un poder, es una **relación**.
-- La campaña tiene un **conflicto interno** constante: el PC y el simbionte pueden no estar de acuerdo.
+### Tipos de conflicto interno que el Quirk refleja
 
-**Es la versión MHA de Venom** + **la versión MHA de Kurama** + **un poco de Gollum**. Es oscuro, íntimo, y profundamente personal.
+- **Deseos contrapuestos:** el PC quiere salvar a alguien pero también quiere vengarse. El Quirk "siente" los dos y los manifiesta alternadamente.
+- **Trauma no resuelto:** el PC tiene un trauma (de su pasado, de un combate) que no ha procesado. El Quirk refleja el trauma (bestias miedosas, ecos disociados, savia errática).
+- **Moral dividida:** el PC quiere ser héroe pero también quiere venganza. El Quirk refleja la división.
+- **Identidad fragmentada:** el PC tiene varios "yoes" (su yo de UA, su yo de la calle, su yo con su interés romántico, su yo con su familia). Los ecos son el PC explorando estos yoes.
+- **Sexualidad y vergüenza:** el PC quiere intimidad pero tiene vergüenza o trauma. El Quirk refleja la lucha.
+- **Poder y responsabilidad:** el PC tiene un Quirk poderoso y no sabe si usarlo bien. El Quirk refleja la duda.
 
-**El jugador tiene agency total** sobre cuán "vivo" es el simbionte. La agencia del simbionte es una **opción**, no una obligación.
+### Cómo se manifiesta
+
+- **Bestias con personalidades contradictorias** (una cariñosa, una agresiva, una miedosa) → el PC tiene deseos contradictorios.
+- **Ecos que son el PC en momentos que el PC no quiere ver** → el PC tiene trauma o vergüenza.
+- **Sangre que se regenera lento cuando el PC está triste** → el PC está emocionalmente mal.
+- **Savia que se expande sin permiso cuando el PC está excitado** → el PC está excitado, consciente o inconscientemente.
+
+**Todo esto es del PC. El Quirk no hace nada que el PC no esté haciendo.**
 
 ---
 
-## 7. Resumen ejecutivo
+## 4. Línea y velo
 
-**El simbionte tiene agencia interna. Esto no tiene precedente exacto en MHA, pero es coherente con la ficción de simbiontes (Venom, Kurama, etc.).**
+La meta-regla aplica:
+- **Si el jugador dice "no X" en sesión 1, X no ocurre.**
+- Si el jugador no quiere explorar el conflicto interno del PC en una dirección, se respeta.
+- Si el jugador quiere que el Quirk sea más predecible, se puede reducir la "personalidad" del Quirk.
 
-- El simbionte tiene **deseos primarios** (comer, conexión, autonomía, propagación, placer, poder, protección) que pueden chocar con los del PC.
-- El simbionte **actúa contra el PC** cuando está hambriento, encariñado con otro cuerpo, en crisis, deseoso de propagarse,etc.
-- La **voluntad del simbionte** (track -5 a +5) cambia según las acciones del PC.
-- Hay **5 escenarios típicos** de campaña (cuerpo ajeno, venganza, propagación, enamoramiento, protección).
-- El **jugador tiene agency total** sobre cuán vivo es el simbionte. Puede vetar cualquier acción.
-- **Aplicación adulta (meta-regla 18+):** el simbionte puede participar en escenas íntimas. El jugador puede aceptarlo o rechazarlo.
+### Vetos específicos
 
-**Esto convierte al PC en algo único en MHA:** un héroe cuyo Quirk es una relación, no solo un poder.
+- **"El Quirk no refleja el trauma del PC."** Las bestias no son miedosas, los ecos no traen recuerdos traumáticos,etc.
+- **"El Quirk no manifiesta sexualidad."** Las bestias no son sensuales, la savia no vibra,etc.
+- **"El Quirk es predecible."** Sin sorpresas, sin personalidad.
+- **"El Quirk es puramente mecánico."** Stats, sin sabor, sin color.
+
+El jugador decide cuánto "alma" tiene el Quirk.
+
+---
+
+## 5. Por qué esto es importante
+
+**Es el drama MHA-canon.** Los personajes de MHA lidian con sus Quirks. Deku lidia con OFA, Todoroki con su trauma, Bakugo con su orgullo. Todos son **conflictos internos del personaje, no del Quirk**. El Quirk refleja el personaje.
+
+**El Quirk del PC es un espejo de su subconsciente.** Esto da:
+- **Profundidad emocional:** el Quirk "habla" del PC sin que el PC lo diga.
+- **Descubrimiento de sí mismo:** el PC descubre aspectos de sí mismo a través del Quirk.
+- **Drama íntimo:** el PC lidia con su pasado, su sexualidad, su moral — todo a través del Quirk.
+
+**El jugador tiene agency total.** El Quirk no es un personaje antagónico, es un espejo. El jugador decide cuánto de su subconsciente quiere que el Quirk revele.
+
+---
+
+## 6. Resumen ejecutivo
+
+**El Quirk del PC es parte del PC, no una entidad separada. El Quirk tiene personalidad porque el PC la dota de ella, pero el Quirk nunca va en contra del jugador.**
+
+- El Quirk **refleja** el estado del PC (físico, emocional, psicológico).
+- El Quirk **puede sorprender** al PC al manifestar aspectos del subconsciente que el PC no esperaba. Esto es **descubrimiento**, no antagonismo.
+- El Quirk **no se separa**, no traiciona, no actúa contra el PC.
+- El PC **siempre tiene agency** sobre el Quirk. Si algo del Quirk no le gusta, lo cambia.
+- El Quirk tiene **personalidad limitada** que el jugador decide cuánto quiere.
+
+**Esto es MHA-canon.** Es la versión MHA de cómo los personajes lidian con sus Quirks: con conflicto interno, con autoconocimiento, con agencia. No con savias antagónicos.
+
+**El Quirk es un espejo. Lo que el Quirk muestra, lo tiene el PC.**
 
 ---
 
@@ -1152,9 +1109,9 @@ El jugador decide qué tan "vivo" es el simbionte.
 Las proyecciones pueden afectar las relaciones del PC:
 
 - **Avatar Carmesí:** si el PC envía al Avatar a una cita, ¿es una cita del PC? ¿El interés romántico lo sabe? ¿El Avatar actúa "como el PC" o con su propia iniciativa? Esto es **alta carga narrativa**.
-- **Bestias del Simbionte:** el simbionte puede tener **opiniones** sobre las parejas del PC. Una bestia puede aceptar o rechazar a alguien. Esto crea un mecanismo de "veto simbiótico" muy interesante.
+- **Bestias del Quirk:** el savia puede tener **opiniones** sobre las parejas del PC. Una bestia puede aceptar o rechazar a alguien. Esto crea un mecanismo de "veto simbiótico" muy interesante.
 - **Ecos Temporales:** los Ecos pueden ser **diferentes** del PC actual. Un Eco puede decir o hacer algo que el PC actual no haría. Esto puede crear malentendidos, drama, o "el PC pasado vuelve para arreglar las cosas".
-- **Curación simbiótica:** curar a alguien es un acto **íntimo**. La persona ve los vines, los siente, sabe que el simbionte está dentro del PC. Esto crea una dinámica de vulnerabilidad compartida.
+- **Curación simbiótica:** curar a alguien es un acto **íntimo**. La persona ve los vines, los siente, sabe que el savia está dentro del PC. Esto crea una dinámica de vulnerabilidad compartida.
 
 El GM usa estos momentos para dar peso narrativo a las relaciones, no para "facilitar" conquistas. Las proyecciones son **el PC, pero no directamente él** — eso es lo que las hace interesantes.
 
@@ -1165,19 +1122,19 @@ El GM usa estos momentos para dar peso narrativo a las relaciones, no para "faci
 - [ ] Confirmar nombre y detalles del PC.
 - [ ] Actualizar `personaje_pc_pendiente.md` con los stats, backstory, y relaciones iniciales.
 - [ ] Crear `registros/equipo_pc.csv` con las capacidades del Quirk.
-- [ ] Primera sesión — el PC llega a UA, descubre que su simbionte es más complejo de lo que pensaba, y empieza a manifestar las proyecciones.
+- [ ] Primera sesión — el PC llega a UA, descubre que su savia es más complejo de lo que pensaba, y empieza a manifestar las proyecciones.
 
 ---
 
 # Mecánica detallada de recuperación de sangre
 
-> **Principio rector:** la sangre se recupera con descanso, comida, hidratación, simbionte, atención médica, e intimidad. Todo es recuperable, todo es temático, todo encaja con el tono 18+ adulto.
+> **Principio rector:** la sangre se recupera con descanso, comida, hidratación, savia, atención médica, e intimidad. Todo es recuperable, todo es temático, todo encaja con el tono 18+ adulto.
 
 ---
 
 ## 1. Recuperación pasiva (base)
 
-El PC siempre está regenerando sangre lentamente, incluso sin hacer nada. Esto representa la producción natural de sangre del cuerpo, modulada por el simbionte.
+El PC siempre está regenerando sangre lentamente, incluso sin hacer nada. Esto representa la producción natural de sangre del cuerpo, modulada por el savia.
 
 ### Tasa pasiva
 
@@ -1192,13 +1149,13 @@ El PC siempre está regenerando sangre lentamente, incluso sin hacer nada. Esto 
 | Durmiendo (sueño profundo) | +1/h (durante el sueño) |
 | Comida reciente (<4h) | +1/h (durante 4h) |
 | Hidratación reciente (<2h) | +1/h (durante 2h) |
-| Animo del simbionte aliado | +1/h (permanente mientras dure) |
+| Estado del Quirk (ver seccion de agencia) aliado | +1/h (permanente mientras dure) |
 | Estrés emocional intenso | −1/h (permanente mientras dure) |
 | Hambre / sed | −1/h (hasta que coma/beba) |
 | Herida grave abierta | −2/h (hasta que cierre) |
 | Veneno / quirk supresor | −3/h (hasta que se cure) |
 
-**Ejemplo:** PC duerme 8h tras una comida pesada y está con simbionte aliado: 8h × (1 base + 1 sueño + 1 comida + 1 simbionte) = **32 unidades pasivas de las 8h de sueño**, sumadas a las 50 de "sueño completo" = **82 unidades en una noche de buen dormir**. Casi recupera todo el pool.
+**Ejemplo:** PC duerme 8h tras una comida pesada y está con savia aliado: 8h × (1 base + 1 sueño + 1 comida + 1 savia) = **32 unidades pasivas de las 8h de sueño**, sumadas a las 50 de "sueño completo" = **82 unidades en una noche de buen dormir**. Casi recupera todo el pool.
 
 ---
 
@@ -1234,13 +1191,13 @@ El sueño es la recuperación más eficiente. La calidad importa más que la can
 
 | Calidad de sueño | Unidades | Requisitos |
 |---|---|---|
-| **Sueño profundo completo** (8h) | 50 | Sin interrupciones, lugar seguro, simbionte cooperativo, sin heridas graves |
+| **Sueño profundo completo** (8h) | 50 | Sin interrupciones, lugar seguro, savia cooperativo, sin heridas graves |
 | **Sueño ligero** (6h) | 35 | Interrupciones menores, sin bestias activas, sin Eco reciente |
 | **Siesta corta** (1–2h) | 15 | Lugar seguro, sin estrés, sin bestias activas |
 | **Siesta larga** (3–4h) | 25 | Idem siesta corta pero más tiempo |
 | **Sueño de 12h** (agotamiento total) | 75 | PC está al <20% del pool o <30% HP; necesita recuperación larga |
 | **Sueño interrumpido por pesadillas** (8h) | 20 | Pesadillas recurrentes por trauma, disociación. **Memoria scarred** |
-| **Sueño con simbionte aliado** (8h) | 65 | Bonus si simbionte está de buen humor: +1 a todas las recuperaciones del día siguiente |
+| **Sueño con savia aliado** (8h) | 65 | Bonus si savia está de buen humor: +1 a todas las recuperaciones del día siguiente |
 
 ### Descanso activo (no dormir)
 
@@ -1249,7 +1206,7 @@ El sueño es la recuperación más eficiente. La calidad importa más que la can
 | **Onsen / baño caliente** | 20 | Limpieza, calor, relajo. +1 a TEC_quirk durante 2h (músculos relajados) |
 | **Sauna** | 15 | Calor intenso. +1 a PWR_quirk durante 1h (vasodilatación) |
 | **Siesta en el pasto** (sin dormir profundamente) | 10 | Aire libre, sol. +1 a regeneración pasiva durante 3h |
-| **Meditación / yoga** | 15 | +1 a ING_quirk durante 2h. Bueno para el simbionte |
+| **Meditación / yoga** | 15 | +1 a ING_quirk durante 2h. Bueno para el savia |
 | **Conversación profunda con un aliado** (íntima, emocional) | 15 | Reduce 1 memory scar activa (conexión emocional) |
 | **Acostarse en el regazo de alguien** (íntimo, sin sexo) | 10 | Recupera + reduce 1 memory scar |
 
@@ -1259,9 +1216,9 @@ El sueño es la recuperación más eficiente. La calidad importa más que la can
 |---|---|---|
 | **Recovery Girl (quirk Heal)** | 60 | Quirk consume energía del paciente. PC sale con 60 sangre + cansancio (−1 a PWR por 1 día) |
 | **Hospitalización (cama,IV,descanso monitorizado)** | 80 | Requiere 1 día de reposo. Recupera también HP |
-| **Transfusión de sangre compatible** (aliado) | 40 | El aliado pierde 40 de su pool. Crea vínculo. **Requiere compatibilidad** (simbionte acepta la sangre ajena) |
+| **Transfusión de sangre compatible** (aliado) | 40 | El aliado pierde 40 de su pool. Crea vínculo. **Requiere compatibilidad** (savia acepta la sangre ajena) |
 | **Hierro / vitaminas / suplemento dietético** | 10 | +1 a regeneración pasiva durante 24h |
-| **Transfusión de sangre del simbionte** (cuando está aliado) | 30 | El simbionte devuelve sangre al PC. Íntimo, ritual |
+| **Transfusión de sangre del savia** (cuando está aliado) | 30 | El savia devuelve sangre al PC. Íntimo, ritual |
 
 ---
 
@@ -1271,11 +1228,11 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 
 | Estado | Modificador |
 |---|---|
-| **Simbionte aliado** | +20% a TODA recuperación |
-| **Simbionte cooperativo** | +10% |
-| **Simbionte neutral** | 0% |
-| **Simbionte resentido** | −20% |
-| **Simbionte enemigo** | −40% (y algunas recuperaciones no aplican) |
+| **Savia aliado** | +20% a TODA recuperación |
+| **Savia cooperativo** | +10% |
+| **Savia neutral** | 0% |
+| **Savia resentido** | −20% |
+| **Savia enemigo** | −40% (y algunas recuperaciones no aplican) |
 | **Bestias activas** | −5% por bestia activa (la sangre se va en mantenerlas) |
 | **Ecos activos en la sesión** | −5% por Eco reciente (memoria consumida) |
 | **PC rodeado de aliados de confianza** | +10% (apoyo social) |
@@ -1286,8 +1243,8 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 | **PC gravemente herido** (HP <20%) | −20% adicional |
 | **PC herido crónicamente / con TEPT** | −5% adicional permanente |
 
-**Ejemplo:** PC en onsen, simbionte aliado, HP 80%, 2 bestias activas:
-- 20 (onsen) × 1.20 (simbionte aliado) × 0.90 (bestias) = **21.6 unidades**.
+**Ejemplo:** PC en onsen, savia aliado, HP 80%, 2 bestias activas:
+- 20 (onsen) × 1.20 (savia aliado) × 0.90 (bestias) = **21.6 unidades**.
 - A eso se suma 1.5/h pasivo (base 1 + aliado 0.5) × 2h en onsen = 3 unidades pasivas.
 - Total: ~25 unidades en 2h de onsen.
 
@@ -1317,13 +1274,13 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 | **Sexo profundo / emocional** (con alguien con quien el PC tiene intimidad emocional) | 50 | +2 a COO_quirk durante 1 día; reduce todas las memory scars activas; +1 a regeneración pasiva durante 6h |
 | **Sexo en contexto de pós-combate / emocional** (alivio de tensión, trauma compartido) | 40 | +2 a ING_quirk durante 1 día (claridad post-traumática); reduce 2 memory scars |
 | **BDSM / kink consensuado** (con pacto previo, dentro de la línea y velo) | 30 + placer narrativo | Variable según intensidad y duración |
-| **Sexo con el Avatar Carmesí** (el PC consigo mismo, auto-erotismo) | 15 | Bonus: el simbionte observa, integración. Edge: el PC aprende sobre su propio cuerpo |
-| **Sexo con bestia del simbionte** (con consentimiento, dentro de la línea y velo) | 25 | Bonus: simbionte participa. Edge: comunicación simbiótica. **Línea y velo importante:** si la bestia tiene forma humanoide y consentimiento claro |
+| **Sexo con el Avatar Carmesí** (el PC consigo mismo, auto-erotismo) | 15 | Bonus: el savia observa, integración. Edge: el PC aprende sobre su propio cuerpo |
+| **Sexo con bestia del savia** (con consentimiento, dentro de la línea y velo) | 25 | Bonus: savia participa. Edge: comunicación simbiótica. **Línea y velo importante:** si la bestia tiene forma humanoide y consentimiento claro |
 
 ### Notas sobre intimidad y recuperación
 
-- **La recuperación por intimidad es mecánica y narrativa.** El cuerpo del PC se regenera con la conexión emocional y física. No es solo "buen rollo" — es simbiosis: el simbionte también se beneficia de la conexión (el ánimo mejora).
-- **El consentimiento es clave.** Toda recuperación por intimidad requiere consentimiento real (no asumido). Si el PC fuerza a alguien, el simbionte se resiente y la recuperación se invierte (daño en lugar de recuperación).
+- **La recuperación por intimidad es mecánica y narrativa.** El cuerpo del PC se regenera con la conexión emocional y física. No es solo "buen rollo" — es simbiosis: el savia también se beneficia de la conexión (el ánimo mejora).
+- **El consentimiento es clave.** Toda recuperación por intimidad requiere consentimiento real (no asumido). Si el PC fuerza a alguien, el savia se resiente y la recuperación se invierte (daño en lugar de recuperación).
 - **No es "transaccional".** El PC no "usa" a alguien para recuperar sangre. La conexión es genuina y la recuperación es un efecto secundario de la intimidad compartida. La campaña lo trata con respeto.
 
 ---
@@ -1333,19 +1290,19 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 ### Tope máximo del pool
 
 - **Pool base máximo:** 100 unidades (sin buffs especiales).
-- **Con simbionte aliado + marca narrativa:** hasta **120 unidades** (el simbionte "estira" el pool del PC).
+- **Con savia aliado + marca narrativa:** hasta **120 unidades** (el savia "estira" el pool del PC).
 - **A endgame (M9–10):** el pool máximo sube a **150 unidades** (el cuerpo trasciende los límites humanos).
 - **Nunca se puede pasar de 150** sin buffs narrativos específicos (marcas de "trascendencia").
 
 ### Recuperación rápida
 
-- **80% del pool en 1 día:** posible con simbionte aliado + comida rica + 8h sueño + intimidad.
-- **100% del pool en 1 día:** posible con simbionte aliado + comida rica + 8h sueño + intimidad profunda (o marca narrativa).
-- **Recuperación completa después de combate largo:** 1 día de descanso + simbionte aliado + intimidad significativa.
+- **80% del pool en 1 día:** posible con savia aliado + comida rica + 8h sueño + intimidad.
+- **100% del pool en 1 día:** posible con savia aliado + comida rica + 8h sueño + intimidad profunda (o marca narrativa).
+- **Recuperación completa después de combate largo:** 1 día de descanso + savia aliado + intimidad significativa.
 
 ### Recuperación lenta (coste bajo)
 
-- **5–10% del pool por hora en descanso:** posible con simbionte aliado.
+- **5–10% del pool por hora en descanso:** posible con savia aliado.
 - **El PC se recupera SIEMPRE.** No hay estado de "sangre baja permanente" que no se solucione con descanso y cuidado.
 
 ---
@@ -1356,7 +1313,7 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 
 - **Veneno de quirks supresor** (Overhaul, AFO, etc.): −3/h pasivo hasta que se cure.
 - **Daño persistente** (herida que no cierra, quirk enemigo que drena): −2/h pasivo.
-- **Simbionte enemigo:** la sangre se regenera pero el simbionte no "coopera" con la regeneración (no boosts). El PC se recupera lento.
+- **Savia enemigo:** la sangre se regenera pero el savia no "coopera" con la regeneración (no boosts). El PC se recupera lento.
 - **Malnutrición severa** (PC no come en 3+ días): −2/h pasivo.
 - **Deshidratación severa** (PC no bebe en 1+ día): −2/h pasivo.
 
@@ -1365,13 +1322,13 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 - **Estrés emocional intenso:** −1/h pasivo. Se quita al resolver el estrés (conversación, sexo, descanso).
 - **Heridas graves:** −1/h pasivo por herida grave abierta.
 - **Disociación activa** (memory scars): −0.5/h pasivo por cada 2 scars.
-- **Falta de simbionte** (el simbionte se ha retraído temporalmente): sin bonus de simbionte.
+- **Falta de savia** (el savia se ha retraído temporalmente): sin bonus de savia.
 
 ### Reductores leves (recuperación más lenta pero funcional)
 
 - **Frío extremo:** −0.5/h pasivo.
 - **Altitud:** −0.5/h pasivo.
-- **Falta de luz solar** (bestias y simbionte necesitan sol): −0.5/h pasivo.
+- **Falta de luz solar** (bestias y savia necesitan sol): −0.5/h pasivo.
 - **Comida chatarra** (no nutritiva): las comidas chatarra dan 5 unidades, no 20.
 
 ---
@@ -1381,28 +1338,28 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 ### Para uso diario (el PC se mantiene en 70–100%)
 
 - Desayuno completo (20) + almuerzo (20) + cena (20) = 60 unidades.
-- 8h sueño con simbionte cooperativo = 50 + 2/h pasivo × 8h = 66 unidades.
+- 8h sueño con savia cooperativo = 50 + 2/h pasivo × 8h = 66 unidades.
 - 1h de onsen o descanso activo = 20 unidades.
 - **Total: 146 unidades** (más que suficiente; el pool se mantiene al máximo).
 
 ### Para recuperación post-combate (1 día de descanso)
 
-- 12h de sueño profundo (75) + comida rica (30 × 2) + simbionte aliado = ~155 unidades. Recupera todo.
-- Si hubo bestias: alimentarlas y dejar que el simbionte descanse.
+- 12h de sueño profundo (75) + comida rica (30 × 2) + savia aliado = ~155 unidades. Recupera todo.
+- Si hubo bestias: alimentarlas y dejar que el savia descanse.
 - Si hubo rewind: descansar 8h extra (memory scars se quitan con descanso).
 
 ### Para recuperación post-arco (semana de descanso)
 
 - 1 semana de bajo uso del Quirk.
 - Comida regular, sueño completo, intimidad con aliados.
-- Conexión con el simbionte: rituales, conversación, dejar que las bestias descansen.
-- El PC entra al siguiente arco al 100% con simbionte aliado y memory scars = 0.
+- Conexión con la savia: rituales, conversación, dejar que las bestias descansen.
+- El PC entra al siguiente arco al 100% con savia aliado y memory scars = 0.
 
 ### Para recuperación de "reverie" (post desmayo por overuse)
 
 - Allies cuidan al PC durante el desmayo (8h).
 - Al despertar: el PC está a 30% del pool (recuperó pasivamente).
-- Comida + simbionte aliado + descanso adicional: recupera el 100% en otro día.
+- Comida + savia aliado + descanso adicional: recupera el 100% en otro día.
 - Las memory scars se quitan todas durante la "reverie".
 
 ---
@@ -1411,7 +1368,7 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 
 | Método | Unidades base | Modificadores |
 |---|---|---|
-| **Sueño profundo 8h** | 50 | +2/h pasivo; +simbionte +20% |
+| **Sueño profundo 8h** | 50 | +2/h pasivo; +savia +20% |
 | **Comida regular** | 20 | +1/h pasivo durante 4h |
 | **Comida rica en hierro** | 30 | +1/h pasivo durante 4h |
 | **Katsudon / comida de poder** | 35 | +1 PWR_quirk 2h |
@@ -1421,8 +1378,8 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 | **Recovery Girl** | 60 | HP bajo, cansancio |
 | **Hospitalización** | 80 | 1 día, recupera HP también |
 | **Transfusión de aliado** | 40 | Aliado pierde 40 |
-| **Simbionte aliado (diario)** | 5 | +1/h pasivo permanente |
-| **Simbionte feeding back** | 30 | Íntimo |
+| **Savia aliado (diario)** | 5 | +1/h pasivo permanente |
+| **Savia feeding back** | 30 | Íntimo |
 | **Conversación íntima profunda** | 15 | Reduce 1 memory scar |
 | **Confesión mutua** | 25 | Reduce 2 scars; +1 COO_quirk 1 día |
 | **Sexo casual** | 20 | +1 PWR_quirk 2h |
@@ -1432,6 +1389,6 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 
 ### Garantía de viabilidad
 
-Con las estrategias diarias recomendadas, **el PC puede mantener su pool al 80–100% sin esfuerzo**. Tras un combate, **un día de descanso + simbionte aliado + intimidad recupera todo**. Tras un arco largo, **una semana de descanso recupera todo y elimina memory scars**.
+Con las estrategias diarias recomendadas, **el PC puede mantener su pool al 80–100% sin esfuerzo**. Tras un combate, **un día de descanso + savia aliado + intimidad recupera todo**. Tras un arco largo, **una semana de descanso recupera todo y elimina memory scars**.
 
 **El PC NO puede morir por sangre baja.** El peor caso es desmayo (sangre 0%) o "reverie" (overuse de rewind/eco). Ambos son recuperables en 4–8h con aliados. La campaña puede usar estos momentos como recursos narrativos, no como finales.

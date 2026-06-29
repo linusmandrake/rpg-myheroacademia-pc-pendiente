@@ -40,8 +40,8 @@ Esta meta-regla es la operativa de la campaña. Sustituye la idea tradicional de
 - **Curso destino en UA:** Hero Course 1-A / 1-B / General Studies / Support Course / *(definir)*
 - **Quirk:** **Sanguine Verdant Echo** (confirmado — ver `docs/quirk_pc.md` para el diseño completo)
   - **Tipo:** Mutant (con elementos Emitter por el rewind)
-  - **Descripción:** simbionte vegetal en la sangre, tres aspectos manifestables (Avatar Carmesí, Bestias del Simbionte, Ecos Temporales).
-  - **Costes/limitaciones:** sangre, memory scars / disociación, simbionte quisquilloso, fuego, sequía, desangramiento fatal.
+  - **Descripción:** savia vegetal en la sangre, tres aspectos manifestables (Avatar Carmesí, Bestias del Savia, Ecos Temporales).
+  - **Costes/limitaciones:** sangre, memory scars / disociación, savia quisquilloso, fuego, sequía, desangramiento fatal.
   - **Evolución prevista:** maestría 1 → 10 a lo largo de la campaña, integración progresiva de los 4 aspectos.
 - **Familia del PC (custom, no canon):** *(definir — padres/hermanos/tutores, sin relación con familias canon)*
 - **Backstory corta (≤150 palabras):** *(pendiente)*
