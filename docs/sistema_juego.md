@@ -62,6 +62,7 @@ Borrador: **2d6 + stat_mod + modificadores situacionales**. Resultado:
 - **Acción de trabajo en equipo:** 2d6 + COO (PC) + COO (aliado) ÷ 2 + Bestias del Simbionte si están protegiendo.
 - **Rewind:** acción especial, gasta sangre + memoria. 1 vez por combate al inicio, 2–3 a mid, 5+ a endgame (con memory scars).
 - **Drenaje de sangre:** acción especial, ver `docs/quirk_pc.md` sección "Drenaje de sangre". Coste 15 sangre; recuperación variable según compatibilidad de tipo. 1 acción de combate. Riesgo: backlash del Quirk del enemigo, memoria traumática, intoxicación si incompatible.
+- **Donación de sangre:** acción especial, ver `docs/quirk_pc.md` sección "Efectos de la sangre del PC en otros cuerpos". Coste variable (30 para curación leve, 60 para grave, 100 para crítico, 200 para resurrección). Efectos: curación, regeneración, conversión, vínculo permanente, resurrección. Riesgo: simbionte se encariña con cuerpo ajeno, recipiente se vuelve dependiente.
 
 ## Entrenamiento y progresión
 

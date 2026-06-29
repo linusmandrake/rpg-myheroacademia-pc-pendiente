@@ -678,11 +678,257 @@ Drenar a un interés romántico (con consentimiento) es un **acto de intimidad p
 **Bonus adicionales:**
 - Quirk residue: si el simbionte absorbe, +1 maestría o fragmento de Quirk.
 - Memory contamination: 1–2 recuerdos del enemigo absorbidos (filtrados por el simbionte según humor).
-- Risk: backlash del Quirk del enemigo (si aplica), veneno, intoxicación.
+- Risk: backlash del Quirk del enemigo (si aplica), veneno, intoxicación si incompatible.
 
 **Aplicación adulta:** el drenaje es íntimo, sensual, cargado. Se integra con la meta-regla 18+. Se aplica a aliados, enemigos, e intereses románticos con diferentes pesos narrativos.
 
 **Garantía:** el drenaje es **opcional**. El PC puede jugar sin drenar nunca. Si lo hace, los efectos son presión narrativa, no letales.
+
+---
+
+# Efectos de la sangre del PC en otros cuerpos
+
+> **Concepto:** el PC tiene sangre tipo **AB** (universal receptor) que contiene el **simbionte vegetal**. Cuando esa sangre entra en otro cuerpo, el simbionte puede hacer **cosas imprevisibles** según el ánimo del simbionte, la biología del recipiente, la cantidad de sangre, y la voluntad/consentimiento del recipiente. Esto convierte la sangre del PC en un **vector narrativo** de alta carga: puede curar, regenerar, poseer, crear "zombies", o hacer que **las plantas estallen del cuerpo** del recipiente.
+
+> **Por qué tipo AB:** como el PC es receptor universal, su sangre es **rara y valiosa** para los demás. Y como contiene simbionte, es un **vector vivo** que puede hacer cosas. Si fuera tipo O (universal donor), la sangre sería útil pero mundana. Tipo AB + simbionte = impredecible y peligrosa.
+
+---
+
+## 1. Cuándo la sangre del PC entra en otro cuerpo
+
+| Acción | Mecanismo |
+|---|---|
+| **Donación voluntaria** | El PC da sangre a un aliado (transfusión, mordisco, contacto íntimo). |
+| **Drenaje invertido** | El PC inyecta su sangre en un enemigo herido o inconsciente. |
+| **Drenaje mutuo** | El PC y un aliado se muerden / se cortan y comparten sangre. |
+| **A través del Avatar** | El Avatar besa, muerde, o inyecta sangre del PC en otro. |
+| **A través de las bestias** | Las bestias pueden inyectar sangre del PC (vines, mordisco). |
+| **En un combate íntimo** | Heridas que comparten sangre con la del PC. |
+| **Por accidente** | El PC se corta y su sangre entra en otro. |
+
+---
+
+## 2. Efectos según el ánimo del simbionte
+
+El simbionte decide qué hace con su sangre cuando está en otro cuerpo. El ánimo del simbionte es el factor principal.
+
+### Simbionte **aliado** (el PC cuida al simbionte)
+
+| Efecto | Cuándo | Resultado |
+|---|---|---|
+| **Curación** | Recipiente herido o enfermo | Las heridas se cierran rápidamente. El simbionte integra con el cuerpo del recipiente, lo ayuda a sanar. |
+| **Regeneración** | Recipiente con heridas graves o crónicas | El simbionte regenera tejido perdido. **Tarda horas o días**, no instantáneo. |
+| **Energía / vigor** | Recipiente cansado o débil | El recipiente se siente revitalizado, con energía de sobra. Bono a stats durante 1 día. |
+| **Vínculo simbiótico** | Recipiente que acepta la sangre | El simbionte "habita" temporalmente en el recipiente. Se forma un vínculo. El recipiente puede sentir al PC a distancia. |
+| **Restricción** | El simbionte puede negarse a irse | Si el simbionte se siente cómodo, puede **no querer volver** al PC. El PC tiene que convencerlo. |
+
+### Simbionte **neutral** (sin afecto especial)
+
+| Efecto | Resultado |
+|---|---|
+| **Curación leve** | Heridas menores se cierran. |
+| **Sin integración** | El simbionte no se queda, solo pasa. |
+| **Efecto impredecible** | El simbionte puede decidir según su humor del momento. |
+
+### Simbionte **resentido** (el PC lo ha descuidado o usado mal)
+
+| Efecto | Resultado |
+|---|---|
+| **Curación parcial** | Algunas heridas sanan, otras no. |
+| **Plantas que pican** | Pequeñas plantas (urticantes,thorns) crecen en el recipiente. No letales, pero molestas. |
+| **Mareo / náusea** | El recipiente se siente mal. Vómitos posibles. |
+| **Marcas visibles** | Venas del recipiente se oscurecen donde la sangre del PC entró. El simbionte "deja firma". |
+| **Mensaje al PC** | El simbionte, a través del recipiente, le dice al PC que está molesto. |
+
+### Simbionte **enemigo** (el PC lo ha abusado gravemente)
+
+| Efecto | Resultado |
+|---|---|
+| **Poseíón** | El simbionte toma el control del cuerpo del recipiente. El recipiente queda como un **"zombie"** controlado por el simbionte. La conciencia del recipiente se suprime. |
+| **Plantas explosivas** | La sangre del PC **explota** dentro del recipiente. Las plantas brotan violentamente. El recipiente sufre daño. |
+| **Parásito** | El simbionte intenta **integrarse permanentemente**. Si no se trata, el recipiente queda como un híbrido planta-humano. |
+| **Castigo al PC** | El simbionte usa al recipiente para atacar al PC. |
+
+---
+
+## 3. Efectos según el recipiente
+
+El recipiente también importa. Distintos organismos reaccionan distinto.
+
+### Recipiente **aliado / amigo** (con consentimiento)
+
+- **Curación total** si el simbionte está aliado.
+- **Vínculo simbiótico** permanente (el recipiente puede sentir al PC).
+- **Habilidades menores de planta** (brotes pequeños, comunicación con bestias del PC).
+- **Si se repite la donación** (ritos de sangre repetidos), el recipiente puede volverse un **semi-simbionte**: pequeño simbionte dentro que ayuda, pero no controla.
+
+### Recipiente **interés romántico** (con consentimiento)
+
+- Todo lo de "aliado" + **intimidad profunda**: la sangre mezcla las emociones, los recuerdos, los instintos.
+- **El recipiente siente placer físico** al recibir la sangre (el simbionte activa zonas de placer).
+- **Sensorial expandido**: el recipiente ve, oye, siente cosas que el PC siente.
+- **Vínculo erótico permanente**: la próxima vez que el recipiente vea al PC, sentirá deseo físico (no controlable).
+- **Si el recipiente es mujer, AB, y simbionte aliado**: la sangre puede dar **fertilidad mejorada** (curación de problemas reproductivos,etc.).
+- **Edge:** la sangre del PC entrando en el cuerpo del interés romántico es un acto **sumamente íntimo**. La boca, el sexo, la piel. La sangre se mezcla con la del recipiente. Los dos cuerpos se vuelven temporalmente un solo sistema simbiótico. **Posible escena adulta de alta carga narrativa.**
+
+### Recipiente **enemigo** (sin consentimiento)
+
+- **Inyección forzada** = el simbionte entra sin permiso del cuerpo del recipiente.
+- **Efecto hostil** por defecto: el simbionte ve al recipiente como un "cuerpo disponible" y lo trata como tal.
+- **Poseíón o plantas explosivas**, según el ánimo del simbionte.
+- **El recipiente puede luchar contra el simbionte** (voluntad propia). Si gana, escupe la sangre y sobrevive. Si pierde, queda controlado.
+
+### Recipiente **Quirkless** (sin Quirk)
+
+- **El simbionte se adapta más fácil** (no hay un Quirk con el que competir).
+- **Efectos de integración más profundos**: el simbionte puede dar al recipiente una "versión" del Quirk del PC (plantas básicas).
+- **El recipiente puede volverse dependiente** de la sangre del PC. Adictivo.
+
+### Recipiente **con Quirk de sangre** (Toga, Moonfish, otros)
+
+- **Conflicto simbiótico**: el Quirk del recipiente y el simbionte compiten.
+- **Resultado impredecible**: el simbionte puede integrarse, ser rechazado, o fusionarse con el Quirk existente.
+- **Si el recipiente es Toga**: la sangre del PC puede dar a Toga la capacidad de transformarse en el PC temporalmente. La sangre del PC y la de Toga se mezclan. **Cargado narrativamente.**
+
+### Recipiente **con Quirk de fuego** (Endeavor, Dabi, Hawks)
+
+- **El fuego puede rechazar al simbionte** (las plantas son vulnerables al fuego).
+- **El simbionte entra, se quema, sale, o se adapta**.
+- **El recipiente sufre daño** interno si el simbionte es rechazado.
+
+---
+
+## 4. La sangre del PC como herramienta de campaña
+
+### Sanación
+
+El PC puede **curar aliados heridos** donando sangre. Coste:
+- 30 unidades de sangre del PC = curación completa de 1 herido leve.
+- 60 unidades = curación de herido grave (1 día de recuperación).
+- 100 unidades = herido crítico (1 semana de recuperación).
+
+**Limitaciones:**
+- El simbionte tiene que estar aliado.
+- El aliado tiene que consentir.
+- El aliado puede tener efectos secundarios (plantas pequeñas, etc.).
+- El PC se debilita (menos sangre para sí mismo).
+
+### Conversión ("zombies vegetales")
+
+El PC puede **convertir** enemigos derrotados en aliados controlados por el simbionte. Coste:
+- 1 acción de combate (10 segundos).
+- 30 unidades de sangre por conversión.
+- El simbionte toma el control del cuerpo del enemigo.
+- La conversión es **temporal** (1 hora a early, 1 día a mid, permanente a endgame si el simbionte acepta al recipiente).
+- El enemigo "convertido" recuerda todo cuando termina la conversión. **Traumático.**
+
+**Aplicación táctica:**
+- Convertir un villano derrotado en un aliado temporal para una misión.
+- Convertir un mercenario para un trabajo de infiltración.
+- **Riesgo:** el simbionte puede **encariñarse** con el cuerpo del recipiente y no querer irse. Esto crea un arco narrativo: el simbionte quiere quedarse con el cuerpo nuevo, el PC tiene que convencerlo de volver.
+
+### Vínculo permanente (ritos de sangre)
+
+Si el PC y un aliado hacen un **rito de sangre** (donación mutua, simbionte aliado), se forma un **vínculo permanente**:
+- El aliado puede sentir al PC a distancia.
+- El aliado tiene una pequeña parte del simbionte dentro (puede brotar plantas menores en situaciones de estrés).
+- El aliado obtiene resistencia a venenos y enfermedades (la sangre del PC le ayuda).
+- **El aliado es más vulnerable al Quirk del PC** (el simbionte le afecta más).
+- **El aliado es más resistente a los Quirk de otros** (el simbionte lo protege).
+
+**Aplicación narrativa:** los aliados importantes (interés romántico, mejor amigo, sensei favorito) pueden recibir un rito de sangre. Esto es **íntimo y significativo** en la cultura japonesa (sangre = familia, compromiso).
+
+### Resurrección (endgame, alto coste)
+
+A endgame, el PC puede **resucitar a un aliado muerto** donando una cantidad enorme de sangre. Coste:
+- 200 unidades de sangre (toda la del PC + necesidad de recuperación inmediata).
+- El simbionte tiene que estar aliado.
+- El aliado resucita con su Quirk, pero **sufre cambios**: el simbionte vive en él permanentemente, y se vuelve más sensible a la sangre del PC.
+- **El aliado resucitado tiene un "anchor" con el PC**: si el PC muere, el aliado lo siente y puede intentar salvarlo (y viceversa).
+
+**Aplicación narrativa:** si un interés romántico muere en combate, el PC puede resucitarlo. **Muy cargado narrativamente**, sobre todo si el rito requiere intimidad (sangre boca-a-boca,etc.).
+
+---
+
+## 5. Riesgos
+
+| Riesgo | Cuándo | Efecto |
+|---|---|---|
+| **PC da demasiada sangre** | Donación generosa | PC colapsa, simbionte se debilita. |
+| **Simbionte se "encariña"** | Conversión larga o rito | El simbionte no quiere volver al PC. El PC tiene que convencerlo. |
+| **Recipiente se vuelve dependiente** | Donación repetida | El recipiente quiere más sangre del PC. Adictivo. |
+| **Recipiente se vuelve hostil** | Donación forzada | El recipiente tiene plantas que le hacen daño. |
+| **Quirk del recipiente activado por la sangre** | Recipiente con Quirk de sangre | El Quirk se mezcla con el simbionte. Resultado impredecible. |
+| **Fuego + simbionte** | Recipiente con Quirk de fuego | El simbionte se quema. Dolor. |
+| **Memoria cruzada** | Cualquier donación | El recipiente tiene recuerdos del PC. El PC tiene recuerdos del recipiente. |
+| **Parásito permanente** | Donación forzada + simbionte enemigo | El simbionte se queda. Recipiente se vuelve híbrido. |
+
+---
+
+## 6. Aplicación adulta (integrada con meta-regla 18+)
+
+La sangre del PC es **sumamente íntima**. Entrar en otro cuerpo es un acto de **vulnerabilidad total**.
+
+### Donación a interés romántico (con consentimiento)
+
+- **Boca a boca, boca a piel, boca a genitales:** la sangre del PC entra en el cuerpo del interés. El simbionte observa. La sensación es de **calor, humedad, y placer**.
+- **Penetración con sangre:** si el interés es herido en una zona íntima, el PC puede curar donando sangre en la herida. La curación se siente como **excitación**.
+- **Rito de sangre durante el sexo:** los dos se cortan, comparten sangre, tienen sexo mientras las sangres se mezclan. El simbionte se vuelve parte del acto. **Muy cargado.**
+
+### Donación a aliado herido
+
+- La sangre del PC entra en el cuerpo del aliado. El aliado siente **calor, hormigueo, y un afecto intenso** hacia el PC.
+- Si el aliado es mujer, el efecto puede ser **sensualmente cargado** (la sangre del PC activa zonas de placer).
+- **Si el aliado es varón y la regla de romance/sexo aplica:** el efecto es de **vínculo profundo y fraternal**, no sexual. La sangre del PC en otro hombre es un acto de confianza, no de romance.
+
+### Conversión forzada (villano)
+
+- El PC inyecta su sangre en un villano. El villano siente **miedo, dolor, y la presencia del simbionte**.
+- El simbionte toma el control. El villano es ahora un "zombie" del PC.
+- **Edge:** si el villano tiene Quirk de sangre (Toga), la sangre del PC se mezcla con la del villano. El villano se vuelve un híbrido del PC y de sí mismo. **Muy perturbador.** Si el villano es un interés romántico convertido, el PC tiene un "zombie" con quien puede tener intimidad. **Aplicar línea y velo.**
+
+---
+
+## 7. Línea y velo
+
+La meta-regla aplica. **El jugador puede vetar cualquier efecto** que le incomode:
+
+- **Recipiente con plantas que le crecen del cuerpo:** ¿OK? Es un body horror. El jugador puede pedir que sea menos gráfico.
+- **Poseíón de aliados / enemigos:** ¿OK? El jugador puede pedir que no se use nunca, o solo con enemigos.
+- **Ritos de sangre con sexo:** ¿OK? Se aplica solo si ambos están de acuerdo.
+- **Vínculo permanente con aliado:** ¿OK? El aliado acepta.
+- **Resurrección de aliado muerto:** ¿OK? El jugador puede pedir que no se use en la campaña.
+- **Simbionte "encariñado" con cuerpo ajeno:** ¿OK? Esto puede ser divertido o perturbador según el jugador.
+
+**Si el jugador dice "no X" en sesión 1, X no aparece.**
+
+---
+
+## 8. Resumen ejecutivo
+
+**La sangre del PC es un vector del simbionte.** Al entrar en otro cuerpo, el simbionte puede:
+- **Curar** (ánimo aliado + recipiente cooperativo)
+- **Regenerar** (a largo plazo)
+- **Poseer** (ánimo enemigo + recipiente débil)
+- **Hacer crecer plantas** (cualquier estado)
+- **Explotar** (ánimo enemigo + Quirk de fuego)
+- **Vincularse permanentemente** (con repetición)
+- **Resucitar** (endgame, alto coste)
+
+**Aplicación adulta (integrada con meta-regla 18+):**
+- Donación a interés romántico = íntima, sensual, cargada.
+- Rito de sangre con sexo = muy cargado, simbionte presente.
+- Conversión forzada = edge, perturbador.
+- El jugador puede vetar cualquier efecto.
+
+**Garantía:** ningún efecto es **letal permanente** sin el consentimiento del jugador. Las plantas que crecen, las poseíones, las resurrecciones — todo es narrativamente potente pero recuperable. El jugador es soberano.
+
+**Combinación con otros sistemas:**
+- **Avatar:** el Avatar puede inyectar sangre del PC en otros. La sangre del PC en otros cuerpos mantiene los efectos.
+- **Bestias:** las bestias pueden inyectar sangre del PC a través de mordiscos o vines.
+- **Ecos:** un Eco del PC puede haber donado sangre en el pasado. Si el PC rewind, ¿qué pasa con la sangre donada? **Disociación garantizada.**
+- **Drenaje:** si el PC drena a un aliado que ha recibido su sangre antes, puede recuperar sangre "con residuos del simbionte". El simbionte reconoce al aliado.
+- **Relaciones:** donar sangre es un acto de **closeness +2 a +3** según la intensidad. Curar a un interés es closeness +3. Resucitarlo es closeness +5 (ancla permanente).
 
 ---
 
