@@ -1,10 +1,12 @@
 # Sesión cero — TTRPG My Hero Academia (18+)
 
-> **Estado:** pendiente. Rellenar en la primera sesión.
+> **Estado:** **PC definido.** El PC es **Akari Hayami (明里 速水)**, "Sanguine". Ver `personaje_akari_hayami.md` para la ficha completa.
+>
+> **Pendiente para sesión 1:** confirmar las líneas y velos personales del PC con el jugador (lo que está y lo que no está en la mesa).
 >
 > **Recordatorio:** campaña 18+ (ver `AGENTS.md` y `CLAUDE.md`). PC y NPCs son adultos.
 >
-> **PC = homebrew.** El PC no es un personaje canon. Llega a UA como alumno de **intercambio** o **matriculado a última hora**. No tiene relación familiar ni de backstory con ningún NPC canon. Midoriya, Bakugo, etc. son compañeros de clase, no hermanos, no familia. Esto significa que las relaciones con sus familiares adultos (Inko, Fuyumi Todoroki, etc.) **no tienen lectura incestuosa**, solo tabú social cuando lo haya.
+> **PC = homebrew.** El PC no es un personaje canon. Llega a UA como **matriculado a última hora en 1-A**. No tiene relación familiar ni de backstory con ningún NPC canon. Midoriya, Bakugo, etc. son compañeros de clase, no hermanos, no familia. Esto significa que las relaciones con sus familiares adultos (Inko, Fuyumi Todoroki, etc.) **no tienen lectura incestuosa**, solo tabú social cuando lo haya.
 
 ## Meta-regla de uncensored start, corrección reactiva
 
