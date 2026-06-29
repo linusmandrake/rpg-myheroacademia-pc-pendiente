@@ -54,18 +54,29 @@ Además de las marcas del canon, en la versión 18+ se pueden otorgar:
 
 ## Dinámica de relaciones (ver `docs/sistema_relaciones.md`)
 
+> **Regla de la campaña:** romance/sexo con NPCs mujeres; hombres son amistad/rivalidad/mentor. Esto se aplica al sistema de progresión: las marcas de hitos emocionales solo cuentan para mujeres; los hombres pueden dar otro tipo de marcas (amistad profunda, rivalidad, mentorazgo).
+
 Las relaciones románticas/sexuales son contenido adulto central, y siguen el sistema de dificultad:
 
-- **Dificultad 1–4 (Trivial-Fácil):** para arcos 1–3, el PC puede tener 1–2 relacionescasuales o semiformales sin mucho drama. Peso narrativo bajo.
-- **Dificultad 5–6 (Moderado):** para estas relaciones el PC necesita invertir **tiempo in-game sostenido**. Pesan 1 marca por hito importante.
-- **Dificultad 7–8 (Difícil):** conseguir una relación con un NPC de este calibre (Bakugo, Todoroki, Hawks, Toga) es un **arco entero de la campaña**. Pesan 2–3 marcas por hito.
-- **Dificultad 9–10 (Extremo):** relaciones con profesores (Aizawa, All Might), villanos líderes (Shigaraki, Dabi, AFO), Endeavor, etc. son tramas secundarias que **requieren confrontar el trauma canon del NPC** y tienen consecuencias adultas (carrera, ética, traición, vida/muerte). Pesan 3+ marcas por hito.
+- **Dificultad 1–4 (Trivial-Fácil):** para arcos 1–3, el PC puede tener 1–2 relacionescasuales o semiformales sin mucho drama. Peso narrativo bajo. Ejemplos: Ashido, Hagakure, Kendo, Shiozaki, Camie, Mt. Lady, Burnin, Pixie-Bob.
+- **Dificultad 5–6 (Moderado):** para estas relaciones el PC necesita invertir **tiempo in-game sostenido**. Pesan 1 marca por hito importante. Ejemplos: Uraraka, Asui, Yaoyorozu, Jirō, Mirko, Mandalay, Tiger, Saiko Intelli.
+- **Dificultad 7–8 (Difícil):** conseguir una relación con un NPC de este calibre es un **arco entero de la campaña**. Pesan 2–3 marcas por hito. Ejemplo principal: Toga (con línea y velo).
+- **Dificultad 9–10 (Extremo):** no hay mujeres en esta franja en la configuración actual de la campaña.
+
+### Marcas por vínculo con hombres (no romántico)
+
+Los hombres pueden dar **marcas de otro tipo**:
+
+- **Amistad profunda con un compañero (Bakugo, Midoriya, Todoroki, etc.):** peso 1–2 según intensidad.
+- **Rivalidad significativa con un compañero o villano:** peso 1–2.
+- **Mentorazgo (Aizawa, All Might, Vlad King):** peso 1 por mentor significativo en un arco.
+- **Enemistad profunda con un villano (Shigaraki, Dabi, AFO):** peso 2–3.
 
 ### Hitos emocionales por arco
 
-- **Arco 1 (D1–D30):** el PC puede conocer a sus compañeros, entablar amistades (closeness 1–3), tener una cita o un coqueteo (closeness 4–5) con NPCs de dificultad ≤5. Relaciones más serias requieren tiempo.
-- **Arco 2 (D31–D60):** el PC tiene vida social consolidada. Puede consolidar una relación de dificultad ≤5 (closeness 6–7). Empezar a trabajar en NPCs de dificultad 6–7.
-- **Arco 3 (D61–D90):** el PC puede tener una relación seria (closeness 7–8) si ha invertido el tiempo. Empezar a ver frutos de relaciones de dificultad 7–8 si empezó en arcos anteriores.
+- **Arco 1 (D1–D30):** el PC puede conocer a sus compañeros, entablar amistades (closeness 1–3) y consolidar una relación de dificultad ≤5 con una mujer (closeness 4–5).
+- **Arco 2 (D31–D60):** el PC tiene vida social consolidada. Puede consolidar una relación de dificultad ≤5 (closeness 6–7). Empezar a trabajar en mujeres de dificultad 6.
+- **Arco 3 (D61–D90):** el PC puede tener una relación seria (closeness 7–8) con una mujer de dificultad ≤5 si ha invertido el tiempo. Empezar a ver frutos de relaciones de dificultad 6–7 si empezó antes.
 
 (Estas curvas asumen PC con stats ING/COO razonables y un tono shonen-heroico adulto; ajustar si el PC es más frío o más social.)
 

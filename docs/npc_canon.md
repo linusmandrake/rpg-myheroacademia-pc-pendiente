@@ -2,48 +2,99 @@
 
 > **Campaña 18+.** Todos los personajes canon de MHA tienen **18+ años** en esta campaña. Eso significa: pueden firmar contratos como pro-hero, mantener relaciones sexuales,喝酒, vivir solos, tener historial médico, haber servido militar o tener antecedentes. Las edades exactas se pueden ajustar al gusto, pero el mínimo es 18.
 >
-> **Dificultad de relación:** cada NPC tiene una **dificultad de 1–10** (ver `docs/sistema_relaciones.md`) que refleja cuánto trabajo requiere iniciar y mantener una relación romántica/sexual con él, basada en su personalidad canon y los impedimentos externos.
+> **Regla de romance/sexo de la campaña:** **las mujeres son las opciones de romance/sexo; los hombres son amistad, rivalidad o mentor.** Esta regla se aplica tal como está configurada la campaña; ver `sesion_cero.md` y `docs/sistema_relaciones.md`.
+>
+> **Cómo leer este doc:**
+> - **NPCs mujeres:** tienen `Dificultad de relación` (1–10) con razón. Esa es la opción romántica/sexual.
+> - **NPCs hombres:** tienen `Vínculo` (amistad/rivalidad/mentor/enemistad) y la nota explícita de que **no son opción romántica en esta campaña**.
+> - **NPCs N/A (acosadores, abusadores, etc.):** no son opción en ningún sentido salvo lo narrativo.
 
-Las edades de referencia indicadas son una sugerencia (la mayoría ~18–22). Si quieres ajustar (p.ej. Deku 19, Bakugo 19, Aizawa 32, Endeavor 45, All Might 45), edita el CSV `registros/companeros.csv` cuando los incorpores.
+Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres ajustar (p.ej. Deku 19, Bakugo 19, Aizawa 32, Endeavor 45, All Might 45), edita el CSV `registros/companeros.csv` cuando los incorpores.
 
 ---
 
-## Profesores UA (los más relevantes)
+## Profesores UA
 
 ### Aizawa Shōta / Eraser Head (homeroom 1-A)
 
-- **Edad referencia:** 30 (consistente con canon, ya era adulto)
+- **Sexo:** M
+- **Edad referencia:** 30
 - **Quirk:** Erasure. Anula quirks de quienes ve (no los propios, no mutaciones).
-- **Dificultad de relación: 9 (Extremo).** Established relationship con Present Mic (canon) + ética profesor-alumno + muy cerrado emocionalmente. La campaña puede explorarlo, pero las consecuencias sonadultas: carrera, ética, etc.
-- **Uso en campaña:** sensei severo, protector a regañadientes, anti-bullshit. Como los alumnos son adultos y compañeros de trabajo casi, la relación con el PC puede ser más igualitaria (y más tensa) que en el canon.
+- **Vínculo: mentor severo** *(no opción romántica en esta campaña — además tiene relación establecida con Present Mic en canon, lo que añade otra capa).*
+- **Uso en campaña:** sensei severo, protector a regañadientes, anti-bullshit. Como los alumnos son adultos y casi compañeros de trabajo, la relación con el PC puede ser más igualitaria (y más tensa) que en el canon.
 - **Personalidad:** cansado, escéptico, leal, perceptivo. Le importa el PC aunque no lo admita. Tiene vida adulta propia.
 - **Notas:** duerme en saco amarillo en el salón. Su quirk no funciona en sí mismo.
 
 ### Yagi Toshinori / All Might (Heroic Fundamentals)
 
-- **Edad referencia:** 45 (consistente con canon pre-time-skip)
+- **Sexo:** M
+- **Edad referencia:** 45
 - **Quirk:** One For All (en realidad heredado a Midoriya, él solo tiene el remanente).
 - **Estado:** post-injury. Limitado a 3 horas/día. Busca sucesor.
-- **Dificultad de relación: 9 (Extremo).** Figura pública enorme, mentor, ético. Si se cruza, la campaña lo trata con peso (escándalo, prensa,etc.).
-- **Uso en campaña:** mentor arquetípico. Sonríe, anima, sostiene el peso. Su cuerpo se está rompiendo. Adulto con historia larga (amores, fracasos, pérdidas).
+- **Vínculo: mentor arquetípico** *(no opción romántica en esta campaña — figura pública, mentor, ético).*
+- **Uso en campaña:** mentor. Sonríe, anima, sostiene el peso. Su cuerpo se está rompiendo. Adulto con historia larga.
 - **Notas:** Toshinori Yagi es su forma delgada. "I'm here!" es su greeting.
 
-### Cementoss, Ectoplasm, Snipe, Power Loader, Midnight, Present Mic, Recovery Girl
+### Kan Sekijirō / Vlad King (homeroom 1-B)
 
-- **Edad referencia:** 28–55 según el personaje
-- **Dificultad de relación:** varía:
-  - **Midnight: 6 (Moderado).** Femme fatale canon; puede ser receptiva pero con dinámica profesional clara.
-  - **Present Mic: 5 (Moderado).** Extrovertido, pero con Aizawa (canon established). Accesible si se rompe esa barrera.
-  - **Cementoss, Ectoplasm, Snipe, Power Loader: 5–6 (Moderado).** Profesores, ético, varying personalities.
-  - **Recovery Girl: N/A (no aplica).**
-- **Uso:** faculty de apoyo. Cada uno tiene su quirk y especialidad.
+- **Sexo:** M
+- **Edad referencia:** 35–40
+- **Quirk:** Blood Control. Puede manipular la sangre propia (solidificar, expulsar como arma). Limitado por su propio volumen de sangre.
+- **Vínculo: mentor estricto** *(no opción romántica en esta campaña — profesor).*
+- **Uso en campaña:** homeroom 1-B. Más disciplinado que Aizawa, más "militar" en suapproach. Tiene una esposa (Pixie-Bob) si la campaña la incluye, lo que añade profundidad adulta.
+- **Personalidad:** serio, exigente, pero cariñoso bajo la superficie. Historia adulta: ha perdido, ha recuperado, tiene una familia.
+- **Notas:** Aizawa y él tienen una rivalidad profesionalcordial.
+
+### Ryo Inui / Hound Dog (orientador / consejería)
+
+- **Sexo:** M
+- **Edad referencia:** 40–45
+- **Quirk:** Beast. Puede transformarse en perro (sentidos aumentados, fuerza). A veces pierde control de la transformación bajo estrés.
+- **Vínculo: orientador/consejero** *(no opción romántica en esta campaña — staff de apoyo).*
+- **Uso en campaña:** consejero de UA. Como el PC es adulto, las sesiones de consejería son entre adultos y pueden ser un espacio para explorar salud mental, trauma, decisiones adultas. Es un NPC infrautilizado en canon y puede dar mucho juego.
+- **Personalidad:** brusco, huele las mentiras, intuitivo. Ha sido pro-hero y ha visto cosas. Tiene TEPT propio.
+- **Notas:** puede oler el miedo, la excitación, el engaño. En escenas íntimas eso es relevante (lo sabe todo, no necesariamente lo dice).
+
+### Cementoss, Ectoplasm, Snipe, Power Loader
+
+- **Sexo:** M
+- **Edad referencia:** 28–45
+- **Vínculo: profesores** *(no opción romántica en esta campaña — staff docente).*
+- **Notas:** cada uno tiene su quirk y especialidad. Ectoplasm crea clones; Cementoss manipula concreto; Snipe dispara; Power Loader diseña equipment de Support.
+
+### Nemuri Kayama / Midnight (Heroic Art History / Inglés)
+
+- **Sexo:** F
+- **Edad referencia:** 32
+- **Quirk:** Somnambulist. Su perfume pone a dormir a quien lo huele.
+- **Dificultad de relación: 6 (Moderado).** Femme fatale canon, sensual, extrovertida. Receptiva, pero con dinámica profesional clara y eventuales límites (puede que no quiera mezclarse con alumnosadultos si la campaña lo decide). Si la campaña relaja la regla de profesor-alumno, hay chance; si no, queda en "amistad caliente" o "atracción no correspondida".
+- **Uso en campaña:** profesora. Puede ser aliada adulta del PC, mentora, o interés románticoadulto. Como adulto, las escenas con ella pueden ser adultas (alcohol, coqueteo, etc.).
+- **Personalidad:** sensual, segura, política, leal a las mujeres.
+- **Notas:** En el canon moría tarde (varios fans se enfadaron), pero aquí eso se ajusta. No spoilers del final de la serie.
+
+### Hizashi Yamada / Present Mic (Inglés)
+
+- **Sexo:** M
+- **Edad referencia:** 32
+- **Quirk:** Voice. Ondas de sonido que pueden desorientar o destruir.
+- **Vínculo: profesor extrovertido** *(no opción romántica en esta campaña — además tiene relación establecida con Aizawa en canon).*
+- **Uso en campaña:** profesor de inglés, extrovertido,DJ en sus ratos libres. Adulto con vida pública. Aporta contraste cómico con Aizawa.
+- **Notas:** forma parte del trío Aizawa-Mic-Nemuri (colegas de UA que son adultos con vida propia).
+
+### Chiyo Shuzenji / Recovery Girl (Enfermería)
+
+- **Sexo:** F
+- **Edad referencia:** 70+ (anciana)
+- **Dificultad: N/A (no aplica)** — por la diferencia de edad y el rol de enfermera/figura maternal.
+- **Uso en campaña:** enfermera de UA. Quirk: Heal. Cura heridas con besos (transfiere energía del paciente al suyo, así que usarlo demasiado cansa al paciente). Como el PC es adulto, la enfermería es un espacioadulto (citas con la enfermera, rehabilitación,etc.).
 
 ### Nezu (director)
 
-- **Edad referencia:** indeterminada (es un animal quirk-user; "mayor de edad" no aplica igual, pero se comporta como adulto con experiencia).
+- **Sexo:** M (animal quirk-user; la categoría es rara)
+- **Edad referencia:** indeterminada
 - **Quirk:** High Spec. Animal con inteligencia sobrehumana.
-- **Dificultad de relación: 8 (Difícil).** Director, no se cruza éticamente con alumnos, comportamiento no se aplica igual. Como NPC raro, lo dejamos en difícil.
-- **Uso:** estratega, mueve los hilos, en contadas escenas cara a cara.
+- **Vínculo: director** *(no opción romántica en esta campaña — la dinámica no aplica a su forma).*
+- **Uso en campaña:** estratega, mueve los hilos, en contadas escenas cara a cara.
 
 ---
 
@@ -51,66 +102,143 @@ Las edades de referencia indicadas son una sugerencia (la mayoría ~18–22). Si
 
 > Todos **18+ años** (referencia ~18–20). Si el PC está en 1-B o en otra escuela, este listado se reduce/reemplaza.
 
-- **Midoriya Izuku / Deku** — One For All. **Dificultad: 5 (Moderado).** Amable, abierto emocionalmente, pero *muy* enfocado en el heroísmo; puede no darse cuenta de insinuaciones o no tener tiempo. Distracción constante. Si el PC no es prioridad para él, no hay avance.
-- **Bakugo Katsuki** — Explosion. **Dificultad: 8 (Difícil).** Orgullo extremo, anger issues, no muestra vulnerabilidad, canónicamente no busca intimidad. Requiere que el PC le plante cara sin畏惧, sostenidamente, durante meses in-game. Si el PC es débil o condescendiente, rechazado. Si el PC es fuerte y no se achica, hay espacio.
-- **Todoroki Shōto** — Half-Cold Half-Hot. **Dificultad: 9 (Extremo).** Trauma familiar cerrado, no muestra emociones, no busca intimidad. La campaña tiene que confrontar el trauma Todoroki-Endeavor-Toya para que se abra. Puede tomar arcos enteros. Si el PC trivializa el trauma o presiona, congelación de la relación.
+### Hombres 1-A (amistad, rivalidad, mentor)
+
+- **Midoriya Izuku / Deku** — One For All. **Vínculo: compañero / rival respetuoso.** Amable, abierto emocionalmente, pero *muy* enfocado en el heroísmo. Como amigo es cálido; como rival es inspirador. **No opción romántica.**
+- **Bakugo Katsuki** — Explosion. **Vínculo: rival tenso.** Orgullo extremo, anger issues. Si el PC le planta cara sin畏惧, sostenidamente, hay espacio para respeto y luego para una amistad tensa. **No opción romántica.**
+- **Todoroki Shōto** — Half-Cold Half-Hot. **Vínculo: compañero distante / aliado.** Trauma familiar cerrado. Si el PC confronta el trauma con cuidado (no trivializándolo), puede ser aliado. **No opción romántica.**
+- **Iida Tenya** — Engine. **Vínculo: compañero formal.** Formal, recto, peso de la responsabilidad. **No opción romántica.**
+- **Kirishima Eijiro (Red Riot)** — Hardening. **Vínculo: amigo cálido.** Caballero, accesible emocionalmente. Como amigo es genial. **No opción romántica.**
+- **Kaminari Denki (Chargebolt)** — Electrification. **Vínculo: amigo.** Idiota simpático, accesible, superficial. **No opción romántica.**
+- **Kōda Kōji (Anima)** — Anima. **Vínculo: compañero tímido.** Tímido extremo. Como amigo requiere paciencia. **No opción romántica.**
+- **Sero Hanta (Cellophane)** — Tape. **Vínculo: compañero bromista.** Ágil, bromista, accesible. **No opción romántica.**
+- **Tokoyami Fumikage (Tsukuyomi)** — Dark Shadow. **Vínculo: compañero estoico.** Stoic, su quirk es bipolar. **No opción romántica.**
+- **Shoji Mezo** — Dupli-Arms. **Vínculo: compañero reservado.** Reservado, máscaras (literal). **No opción romántica.**
+- **Mineta Minoru** — Pop Off. **N/A (acosador adulto, no es opción en ningún sentido).** En canon es un pervertido menor; **aquí es un adulto creepy acosador**. La campaña puede confraternizar con él, pero las consecuencias sonadultas (denuncia, rechazo, ostracismo).
+- **Satō Rikidō (Sugarman)** — Sugar Rush. **Vínculo: compañero dulce.** **No opción romántica.**
+- **Ojiro Mashirao (Tailman)** — Tail. **Vínculo: compañero discreto.** **No opción romántica.**
+- **Aoyama Yuga** — Navel Laser. **Vínculo: compañero misterioso.** El secreto del origen alien es peso añadido. **No opción romántica.**
+- **Shoda Kyōji (Vibe)** — Vibrations. **Vínculo: compañero empático.** Empático-telepático. **No opción romántica.**
+
+### Mujeres 1-A (opciones románticas/sexuales)
+
 - **Uraraka Ochaco** — Zero Gravity. **Dificultad: 5 (Moderado).** Dulce pero insegura, motivada originalmente por dinero para sus padres; adulta, ha tomado otras decisiones. Quiere sentirse segura. Si el PC la presiona, se aleja. Si es estable y presente, hay espacio.
-- **Iida Tenya** — Engine. **Dificultad: 5 (Moderado).** Formal, recto, hermano de Ingenium (víctima de Stain). Peso de la responsabilidad, no entiende insinuaciones casuales. Si el PC es claro, hay chance.
 - **Asui Tsuyu (Froppy)** — Frog. **Dificultad: 5 (Moderado).** Honesta, práctica. Le gustan las cosas directas. Si el PC es honesto y claro, hay espacio.
 - **Yaoyorozu Momo** — Creation. **Dificultad: 6 (Moderado-Difícil).** Insegura, autoexigente, difícil que se abra. La presión de la familia es fuerte. Si el PC la valida sin condescender, hay espacio.
-- **Kirishima Eijiro (Red Riot)** — Hardening. **Dificultad: 3 (Fácil).** Cálido, caballeroso, accesible emocionalmente. Si el PC es honesto y "manly" en el sentido amplio, hay espacio rápido. La parte difícil es la profundidad, no el acceso.
-- **Kaminari Denki (Chargebolt)** — Electrification. **Dificultad: 3 (Fácil).** Idiota simpático, accesible, pero también puede ser superficial. Fácil de ligar; difícil de tener algo serio. Si el PC busca profundidad, hay que trabajar.
 - **Jirō Kyōka** — Earphone Jack. **Dificultad: 5 (Moderado).** Punk, sarcástica, canon slow-burn con Kaminari. Si el PC es auténtico y no la toma por la superficie punk, hay espacio.
-- **Kōda Kōji (Anima)** — Anima. **Dificultad: 6 (Moderado-Difícil).** Tímido extremo. Tiene que conocer bien al PC. La conquista no funciona; tiene que ser orgánico y lento.
-- **Sero Hanta (Cellophane)** — Tape. **Dificultad: 4 (Fácil).** Ágil, bromista, accesible. Fácil hablar con él; un poco superficial al inicio.
-- **Tokoyami Fumikage (Tsukuyomi)** — Dark Shadow. **Dificultad: 6 (Moderado-Difícil).** Stoic, su quirk es bipolar. Es difícil saber qué piensa. Requiere tiempo y observación.
 - **Ashido Mina (Pinky)** — Acid. **Dificultad: 3 (Fácil).** Divertida, extrovertida, abierta. Fácil acceso; un poco superficial al inicio.
-- **Shoji Mezo** — Dupli-Arms. **Dificultad: 6 (Moderado-Difícil).** Reservado, máscaras (literal). Si el PC es paciente y no le importa las máscaras (literal), hay espacio.
 - **Hagakure Tooru (Invisible Girl)** — invisibility. **Dificultad: 4 (Fácil).** Bromista, social. La invisibilidad complica logística, pero no es emocional. Fácil acceso; un poco superficial.
-- **Mineta Minoru** — Pop Off. **Dificultad: N/A (no es opción romántica sana).** En canon es un pervertido menor; **aquí es un adulto creepy acosador**. La campaña puede tratar de confraternizar con él, pero el sistema refleja las consecuencias: rechazo, denuncia, ostracismo, incluso agresión. No es una "ruta de难度 alta" en plan reto romántico; es un personaje con el que la relación sana es "no tener".
-- **Satō Rikidō (Sugarman)** — Sugar Rush. **Dificultad: 4 (Fácil).** Dulce, fuerte cuando toma azúcar. Adulto: vida adulta, presión. Accesible emocionalmente.
-- **Ojiro Mashirao (Tailman)** — Tail. **Dificultad: 4 (Fácil).** Luchador balanceado, discreto, accesible. Adulto: vida propia.
-- **Aoyama Yuga** — Navel Laser. **Dificultad: 6 (Moderado-Difícil).** Dramático, auto-centrado, misterioso. El secreto del origen alien es peso añadido. La intimidad puede revelar secretos que el PC no esperaba.
-- **Shoda Kyōji (Vibe)** — Vibrations. **Dificultad: 4 (Fácil).** Empático-telepático. Adulto: la empatía es un trabajo pesado, pero emocionalmente accesible.
 
 ---
 
 ## Estudiantes 1-B (si el PC está en 1-B, o en interacciones con 1-B)
 
-- **Monoma Neito** — Copy. **Dificultad: 6 (Moderado-Difícil).** Arrogante, resentido con 1-A. Accesible si el PC lo confronta con fuerza. Si el PC es condescendiente, rechazado. Si el PC le planta cara, hay chance.
-- **Tetsutetsu Tetsutetsu (Real Steel)** — Steel. **Dificultad: 3 (Fácil).** Espejo de Kirishima. Cálido, accesible.
+### Hombres 1-B (amistad, rivalidad)
+
+- **Monuma Neito** — Copy. **Vínculo: rival arrogante.** Arrogante, resentido con 1-A. Accesible si el PC lo confronta con fuerza. **No opción romántica.**
+- **Tetsutetsu Tetsutetsu (Real Steel)** — Steel. **Vínculo: rival amistoso.** Como Kirishima. **No opción romántica.**
+- **Honenuki Jūtaro (Mudman)** — Softening. **Vínculo: compañero.** **No opción romántica.**
+- **Kamakiri Togaru** — Razor Sharp. **Vínculo: compañero intimidante.** **No opción romántica.**
+- **Shishikura Seiji** — Tongue. **Vínculo: compañero inquietante.** Puede escribir cosas dentro del estómago. **No opción romántica.**
+- **Tsuburaba Nirengeki** — Solid Air. **Vínculo: compañero.** **No opción romántica.**
+
+### Mujeres 1-B (opciones románticas/sexuales)
+
 - **Kendo Itsuka** — Big Fist. **Dificultad: 4 (Fácil).** Líder de facto de 1-B, accesible, adulta con peso del liderazgo.
 - **Shiozaki Ibara** — Vines. **Dificultad: 4 (Fácil).** Pacifista, religiosa. La fe tiene peso; el PC tiene que respetarla.
 - **Tokage Setsuna (Lizardy)** — Lizard Tail Splitter. **Dificultad: 4 (Fácil).** Accesible, vida propia.
 - **Yoneda Kinoko (Mushroom)** — Mushroom. **Dificultad: 4 (Fácil).** Amable, rara, presión social.
-- **Honenuki Jūtaro (Mudman)** — Softening. **Dificultad: 4 (Fácil).** Accesible, vida propia.
-- **Kamakiri Togaru** — Razor Sharp. **Dificultad: 5 (Moderado).** Tiene cuchillas, intimidante al inicio, pero accesible.
-- **Shishikura Seiji** — Tongue. **Dificultad: 7 (Difícil).** Puede escribir cosas dentro del estómago. Implicaciones siniestras, intimidante, hay que romper barreras fuertes.
-- **Tsuburaba Nirengeki** — Solid Air. **Dificultad: 4 (Fácil).** Accesible, vida propia.
 
 ---
 
-## Villanos principales (los que pueden aparecer)
+## Otras escuelas (Provisional License Exam y arcos posteriores)
 
-> Las relaciones con villanos son **siempre** de alta dificultad y traen consecuencias graves: la Comisión y UA pueden considerarlo traición, los villanos son peligrosos, las facciones se mezclan. La campaña puede explorarlas, pero con peso.
+### Shiketsu High School
 
-- **Shigaraki Tomura (Tenko Shimura)** — Decay. **Dificultad: 9 (Extremo).** Líder de la Liga. Trauma infantil, adulto con décadas de rabia. Peligroso físicamente, ideológicamente, y emocionalmente. Si el PC entra en su órbita, arriesga todo.
-- **All For One** — **Dificultad: 10 (Extremo máximo).** Manipulador, anciano, mortal. Literalmente puede destruir al PC.
-- **Dabi / Todoroki Tōya** — Cremation. **Dificultad: 9 (Extremo).** Trauma, yandere-ish, villano. Si el PC cruza, arriesga traición a UA, a la familia Todoroki, y a su propia vida. Relación implica confrontar el abuso Endeavor desde dentro.
-- **Toga Himiko** — Transform. **Dificultad: 8 (Difícil).** Obsesión con la sangre, adulta. Aquí su obsesión puede tener lecturasadultas (fetichización del daño, del corte, etc.) que requieren negociación cuidadosa del consentimiento y líneas del jugador. **Línea y velo importante:** si el jugador no quiere exploración de este tipo, Toga es no-opción.
-- **Twice** — Double. **Dificultad: 6 (Moderado-Difícil).** TEPT, problemas de identidad. Simpático, vulnerable, pero frágil. Si el PC es estable, hay chance. Riesgo: la Liga recluta, y el PC puede ser arrastrado.
-- **Overhaul / Chisaki Kai** — Overhaul. **Dificultad: 9 (Extremo).** Yakuza, manipulador. Eri está involucrada. Cualquier relación con él es éticamente imposible salvo角色 reescrito custom.
-- **Stain (Hero Killer)** — **Dificultad: 8 (Difícil).** Muerto en canon, pero su legado ideológico persiste. Como flashback o fantasma ideológico, puede ser catalyst de la trama.
-- **Re-Destro** — Meta. **Dificultad: 7 (Difícil).** Adulto, poderoso, manipulador.
-- **Geten** — Hielo. **Dificultad: 6 (Moderado-Difícil).** Adulto, combatiente, distante.
+- **Inasa Yoarashi** (M) — Whirlwind. **Vínculo: rival/conocido.** Personaje grande, intimidante, inicialmente antagonista de Shōto (canon: transfiere a UA). Como rival es épico; como amigo es cálido. **No opción romántica.**
+- **Camie Utsushimi** (F) — Glamour. **Dificultad: 4 (Fácil).** Extrovertida, sociable,real (no ilusión de glamour). Accesible, bromista, cálida. Buena amiga/conocida que puede derivar en romance.
+- **Otros estudiantes de Shiketsu** — TBD según necesidades. El canon menciona al menos a Inasa, Camie, y un par más en el Provisional License Exam.
+
+### Ketsubutsu Academy
+
+- **Yo shiga Awase** (M) — Weld. **Vínculo: rival.** Puede soldar cualquier cosa. **No opción romántica.**
+- **Sen Kaibara** (M) — Geo-Lock. **Vínculo: rival.** Puede inmovilizar a quien pisa. **No opción romántica.**
+- **Tsubasa** (M) — Blade. **Vínculo: rival.** Crea cuchillas de aire. **No opción romántica.**
+- **Otros estudiantes de Ketsubutsu** — TBD. La academia sale poco en el canon, pero puede aparecer en el Provisional License Exam o en arcos custom.
+
+### Seijin High School
+
+- **Saiko Intelli** (F) — IQ. **Dificultad: 5 (Moderado).** Estudiante genio con aspecto de niña pero adulto. Única pro-hero de su familia (clan político). Accesible pero con presión familiar pesada. Aparece en el Provisional License Exam.
+- Otros estudiantes de Seijin — TBD.
+
+### Notas
+
+- En el Provisional License Exam hay muchas escuelas. Esta lista cubre las más relevantes del canon. Si la campaña necesita más estudiantes de otras escuelas, se añaden cuando aparezcan.
 
 ---
 
-## Otros
+## Villanos principales
 
-- **Tsukauchi Naomasa** — detective. **Dificultad: 6 (Moderado-Difícil).** Adulto (~35), profesional, ética de detective.
-- **Hawks / Takami Keigo** — Fierce Wings. **Dificultad: 7 (Difícil).** Spy de la Comisión infiltrado en la Liga. Adulto (~22 en canon, aquí referencia 22–24). Tiene TEPT, vida sexual activa, presión adulta. Si el PC entra, hay triángulo ético (Comisión, Liga, vida personal).
-- **Mirko** — Rabbit. **Dificultad: 5 (Moderado).** Pro-hero top. Adulta (~24). Brash, no-nonsense, busy. Accesible pero el PC tiene que ganarse su tiempo.
-- **Ryukyu** — Dragon. **Dificultad: 6 (Moderado-Difícil).** Pro-hero, adulta, busy.
-- **Endeavor / Todoroki Enji** — Hell Flame. **Dificultad: 9 (Extremo).** El **abusador de la familia Todoroki**. Adulto (~45). Cualquier "relación" con él es éticamente imposible salvoロール custom. La campaña lo trata como antagonista, no como opción romántica.
-- **Inko Midoriya** — madre de Izuku. **Dificultad: 7 (Difícil).** Adulta (~40), atracción menor (Attraction of Small Objects). Como madre de un compañero adulto, las relaciones son incestuosas en lectura. No opción salvoAU custom.
+> Las relaciones con villanos son siempre de alta dificultad y traen consecuencias graves: la Comisión y UA pueden considerarlo traición, los villanos son peligrosos, las facciones se mezclan. **En esta campaña solo las villanas son opción romántica (con la línea y velo explícita); los villanos son enemigos.**
+
+### Hombres villanos (enemigos, no opción romántica)
+
+- **Shigaraki Tomura (Tenko Shimura)** — Decay. **Vínculo: enemigo principal.** Líder de la Liga. Trauma infantil, adulto con décadas de rabia. Peligroso físicamente, ideológicamente, emocionalmente. **No opción romántica en esta campaña.**
+- **All For One** — **Vínculo: archienemigo.** Manipulador, anciano, mortal. Literalmente puede destruir al PC. **No opción romántica.**
+- **Dabi / Todoroki Tōya** — Cremation. **Vínculo: enemigo.** Trauma, villano, rabia contra Endeavor. **No opción romántica en esta campaña.**
+- **Twice** — Double. **Vínculo: enemigo con fisuras.** TEPT, problemas de identidad. Simpático, vulnerable, pero frágil. Como enemigo es peligroso; como aliado,imposible en UA. **No opción romántica.**
+- **Overhaul / Chisaki Kai** — Overhaul. **Vínculo: enemigo.** Yakuza, manipulador. Eri está involucrada. **No opción romántica.**
+- **Stain (Hero Killer)** — **Vínculo: enemigo / fantasma ideológico.** Muerto en canon, pero su legado persiste. **No opción romántica.**
+- **Re-Destro** — Meta. **Vínculo: enemigo.** Adulto, poderoso, manipulador. **No opción romántica.**
+- **Geten** — Hielo. **Vínculo: enemigo.** Adulto, combatiente, distante. **No opción romántica.**
+
+### Mujeres villanas (opciones con peso y líneas y velos)
+
+- **Toga Himiko** — Transform. **Dificultad: 8 (Difícil) + línea y velo explícita.** Obsesión con la sangre, adulta. Aquí su obsesión puede tener lecturasadultas (fetichización del daño, del corte, etc.) que requieren negociación cuidadosa del consentimiento y líneas del jugador. **Si el jugador no quiere exploración de este tipo, Toga es no-opción.** Si se acepta, hay que definir de antemano cómo se trata la obsesión con la sangre (¿solo besarse y transformarse en la pareja? ¿escenas con cortes? ¿hasta dónde?).
+
+---
+
+## Pro-Heroes (adultos, pueden ser aliados, rivales, o interés romántico si son mujeres)
+
+### Hombres pro-hero (amistad/rivalidad/mentor)
+
+- **Tsukauchi Naomasa** — detective. **Vínculo: detective aliado.** Adulto (~35), profesional, ética de detective. **No opción romántica.**
+- **Hawks / Takami Keigo** — Fierce Wings. **Vínculo: aliado complicado / cuasi mentor.** Spy de la Comisión infiltrado en la Liga. Adulto (~22). Tiene TEPT, vida sexual activa, presión adulta. Como aliado es complejo; como mentor, parcial. **No opción romántica en esta campaña.**
+- **Endeavor / Todoroki Enji** — Hell Flame. **Vínculo: antagonista.** El **abusador de la familia Todoroki**. Adulto (~45). Cualquier "relación" con él es éticamente imposible y se trata como antagonismo. **No opción romántica.**
+- **Gang Orca** — **Vínculo: rival pro.** Top hero. **No opción romántica.**
+- **Kamui Woods** — **Vínculo: compañero pro.** **No opción romántica.**
+
+### Mujeres pro-hero (opciones románticas/sexuales)
+
+- **Mirko (Usagiyama Rumi)** — Rabbit. **Dificultad: 5 (Moderado).** Pro-hero top. Adulta (~24). Brash, no-nonsense, busy. Accesible pero el PC tiene que ganarse su tiempo.
+- **Ryukyu (Tatsumi Ryuko)** — Dragon. **Dificultad: 6 (Moderado-Difícil).** Pro-hero. Adulta. Puede convertirse en dragón. Busy, seria. Accesible con esfuerzo.
+- **Mt. Lady (Yu Takeyama)** — Giant. **Dificultad: 4 (Fácil).** Pro-hero. Adulta. Quirk: crecer hasta gigante. Glamurosa, mediática, algo vanidosa. Fácil acceso; el reto es la profundidad.
+- **Burnin** — **Dificultad: 4 (Fácil).** Sidekick en Endeavor Agency. Adulta. Quirk de fuego (vinculado a Endeavor). Simpática, directa, divertida. El reto: su cercanía con Endeavor (si el PC tiene sentimientos encontrados sobre él, Burnin es puente).
+- **Pixie-Bob (Ryuko Tsubasa)** — Pussycats. **Dificultad: 4 (Fácil).** Adulta. Esposa de Vlad King (canon). Quirk: Earth Beasts (crea bestias de tierra). Si la campaña la incluye, la relación con Vlad King añade peso (esposa del homeroom 1-B).
+- **Tiger (Shuuzenji Chiyo — no, esa es Recovery Girl) — wait, Tiger es miembro de Pussycats.** **Dificultad: 5 (Moderado).** Adulta. Puede transformarse en tigre. Más reservada que Pixie-Bob.
+- **Mandalay (Iwabe Moon)** — Pussycats. **Dificultad: 5 (Moderado).** Adulta. Telepática. Útil en misiones; como interés romántico, su telepatía implica que "sabe" lo que sientes (con matices).
+
+---
+
+## Otros NPCs
+
+- **Inko Midoriya (madre de Izuku)** — Adulta (~40). Quirk: Attraction of Small Objects. **N/A en romance** (es la madre de un compañero de clase, dinámica social-tabú). Puede aparecer como NPC contextual: la mamá de Izuku que invita al PC a comer, eventos familiares, etc. Pero no es opción romántica ni sexual. **No incluir en la lista de interés.**
+
+- **Aizawa's wife / present-mic partner:** Aizawa y Present Mic son pareja en canon. No es opción romántica para el PC en esta campaña; queda como trasfondo.
+
+- **Inko Midoriya, Recovery Girl, etc. — Notas:** estos personajes pueden aparecer como NPCscontextuales (familia, mentores adultos, staff) sin que sean opción romántica.
+
+---
+
+## Resumen de la regla
+
+| Categoría | Trato |
+|---|---|
+| **NPCs mujeres** (estudiantes, profesoras, pro-heroines, villanas) | **Opción romántica/sexual.** Tienen `Dificultad: 1–10`. |
+| **NPCs hombres** (estudiantes, profesores, pro-heroes, villanos) | **Amistad, rivalidad, mentor, enemigo.** Tienen `Vínculo: X`. No opción romántica. |
+| **NPCs abusadores / acosadores** (Mineta, Endeavor, AFO) | **No opción en ningún sentido.** Se tratan como antagonistas, obstáculos, o NPCcontextuales. |
+| **NPCs con parentesco social** (Inko = madre de compañero) | **N/A romance.** Pueden ser NPCscontextuales (familia del compañero, eventos). |
+
+## Líneas y velos
+
+Definir con el jugador al inicio de la campaña (ver `sesion_cero.md`). El jugador puede vetar tramas específicas (p.ej. "no Toga por su obsesión con sangre", "no pro-heroines casadas", "no profesoras") y el GM debe respetarlo en cualquier momento de la campaña.

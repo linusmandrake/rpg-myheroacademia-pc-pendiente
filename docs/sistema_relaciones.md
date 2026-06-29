@@ -2,6 +2,10 @@
 
 > **Campaña 18+.** Las relaciones románticas/sexuales son contenido adulto central. Ver `AGENTS.md` para el tono.
 >
+> **Regla de la campaña:** **las mujeres son las opciones de romance/sexo; los hombres son amistad, rivalidad o mentor.** Cada NPC mujer del canon tiene una **dificultad de relación** (1–10) que refleja su personalidad canon, sus obstáculos emocionales, y los impedimentos externos. Los NPCs hombres tienen un **Vínculo** (amistad/rivalidad/mentor) y **no son opción romántica en esta campaña**.
+>
+> Esta regla se aplica a la campaña tal como está configurada ahora. Si en el futuro el PC resulta ser mujer y el jugador quiere explorar romance con hombres, la regla se relaja. Ver `sesion_cero.md` para confirmar/ajustar.
+>
 > **Principio:** cada NPC del canon tiene una **dificultad de relación** (1–10) que refleja su personalidad canon, sus obstáculos emocionales, y los impedimentos externos (ética, facciones, ley). La dificultad guía al GM y al jugador sobre cuánto esfuerzo requiere, qué obstáculos hay, y qué consecuencias tiene fallar.
 
 ---
@@ -127,10 +131,31 @@ Por cada NPC relevante, el PC lleva un track de **Closeness** (cercanía emocion
 
 ## Cómo lo usa el jugador
 
-1. Antes de iniciar una relación, leer la "Dificultad" del NPC en `docs/npc_canon.md`.
+1. Antes de iniciar una relación, leer la "Dificultad" del NPC en `docs/npc_canon.md`. **Solo aplica a NPCs mujeres.**
 2. Pensar: ¿tu PC tiene las stats (ING, COO) y la motivación para invertir el tiempo que requiere?
 3. Recordar: la dificultad no es un muro, es una indicación de cuánto trabajo hay que hacer. Si la dificultad es 8, eso no significa "no se puede", significa "esto es un arco".
-4. **Líneas y velos propios:** el jugador puede vetar tramas (p.ej. "no quiero romance con Bakugo porque me incomoda") y el GM debe respetarlo.
+4. **Líneas y velos propios:** el jugador puede vetar tramas (p.ej. "no quiero romance con Toga por su obsesión con sangre") y el GM debe respetarlo.
+
+## Aplicación por género del NPC
+
+### NPCs mujeres (opción romántica/sexual)
+
+- Tienen **Dificultad de relación** (1–10).
+- Pueden ser interés romántico, sexual, pareja, ex, etc.
+- Las reglas de subida/bajada de Closeness aplican.
+
+### NPCs hombres (amistad, rivalidad, mentor)
+
+- **No son opción romántica ni sexual en esta campaña.**
+- Su rol es: **compañero**, **amigo**, **rival**, **mentor**, **enemigo**, **aliado**, etc.
+- La Closeness **no se trackea** para ellos en `registros/relaciones.csv`. En su lugar, hay `registros/vinculos_hombres.csv` (o se añade una columna `tipo_vinculo` al de relaciones) con: `amistad`, `rivalidad`, `mentor`, `enemistad`, `aliado`, etc.
+- Las relaciones con hombres pueden ser profundas, dramáticas, de toda la vida, incluso tensas o dolorosas — pero **no románticas ni sexuales**.
+
+### Excepciones y casos especiales
+
+- **NPCs no binarios / sin género claro** (Nezu, Recovery Girl anciana, etc.): se evalúan caso a caso. Por defecto, no opción romántica salvo acuerdo explícito.
+- **NPCs villanos hombres** (Shigaraki, Dabi, AFO, etc.): pueden ser enemigos, aliados, o rivales profundos, **pero no interés romántico**.
+- **Si el PC es mujer y la regla se relaja:** los hombres pueden volver a ser opción romántica; las mujeres pueden ser amistad/rivalidad también. El sistema se ajusta.
 
 ---
 

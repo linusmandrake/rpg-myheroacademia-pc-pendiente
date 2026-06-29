@@ -4,10 +4,20 @@
 >
 > **Recordatorio:** campaña 18+ (ver `AGENTS.md` y `CLAUDE.md`). PC y NPCs son adultos.
 
+## Regla de romance/sexo de la campaña
+
+> **Las mujeres son las opciones de romance/sexo; los hombres son amistad, rivalidad o mentor.** Esta regla aplica tal como está configurada la campaña. Ver `docs/sistema_relaciones.md` y `docs/npc_canon.md` para el detalle.
+
+- **Mantener regla** (PC probablemente masculino o bi-mujeres) — *recomendado si no hay objeción*
+- **Relajar regla** (PC mujer o bi-cualquiera, explorar hombres) — *si el PC es mujer o el jugador quiere explorar hombres*
+- **Mantener regla + solo heterosexual** (PC masculino, solo mujeres)
+
 ## Decisiones del PC
 
 - **Nombre:** *(pendiente)*
 - **Edad:** 18+ *(mínimo legal; puede ser 19, 20, etc. según concepto)*
+- **Sexo / género:** *(M / F / no binario / otro)*
+- **Orientación / preferencias:** *(heterosexual / homosexual / bisexual / pan / ace / otra)*
 - **Curso en UA:** Hero Course 1-A / 1-B / General Studies / Support Course / (otra escuela: Shiketsu, Ketsubutsu, etc.)
 - **Quirk:**
   - **Nombre:** *(pendiente)*
@@ -19,11 +29,12 @@
 
 ## Decisiones sobre relaciones románticas/sexuales
 
-> Ver `docs/sistema_relaciones.md` y `docs/npc_canon.md` (campo "Dificultad de relación").
+> Ver `docs/sistema_relaciones.md` y `docs/npc_canon.md` (campo "Dificultad de relación" para mujeres, "Vínculo" para hombres).
 
+- **Aplicar regla de campaña (mujeres = romance/sexo, hombres = amistad/rivalidad/mentor):** *(sí / no / con ajustes)*
 - **Orientación / preferencias del PC:** *(definir)*
 - **NPCs con dificultad alta que el PC quiere intentar (8+):** *(lista — requieren esfuerzo de meses in-game)*
-- **NPCs vetados por el jugador (líneas y velos):** *(lista — p.ej. "no Mineta", "no Endeavor", "no Aizawa", "no Toga por su obsesión con sangre")*
+- **NPCs vetados por el jugador (líneas y velos):** *(lista — p.ej. "no Toga por su obsesión con sangre", "no Midnight (profesora)", "no Mt. Lady (vanidosa)", "no Uraraka" — por cualquier motivo)*
 - **Tipo de exploración preferido:** *(sweet / spicy / explicit / fade-to-black / etc.)*
 - **Ritmo de las relaciones:** *(rápido / lento / realista / dejar que la historia marque)*
 - **Tolerancia a triángulos, rupturas, drama:** *(definir)*
