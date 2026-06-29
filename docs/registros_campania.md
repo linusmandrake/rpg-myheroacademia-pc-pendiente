@@ -27,7 +27,7 @@
 | `rutas_crecimiento.csv` | Caminos de subida activos | ruta |
 | `cronologia.csv` | Timeline canónico de la campaña | día/fecha |
 | `facciones_estado.csv` | Estado de cada facción | facción |
-| `relaciones.csv` | Track de relaciones del PC (closeness 0–10 + flag `anclado`) | NPC |
+| `relaciones.csv` | Relaciones del PC: eje afecto (closeness 0–10) + eje deseo (0–10 o —) + flag `anclado` | NPC |
 
 ## Archivos `.md` en `registros/`
 
@@ -55,7 +55,8 @@
 Ver `docs/sistema_relaciones.md` para el detalle completo. Resumen:
 
 - Cada NPC tiene una **dificultad de relación** (1–10) basada en personalidad canon y obstáculos externos.
-- El PC lleva un track de **Closeness** (0–10) por NPC en `registros/relaciones.csv`, más un flag `anclado` (si/no).
+- El PC lleva un track de **Closeness** (0–10, eje **afecto**) por NPC en `registros/relaciones.csv`, un eje **deseo** aparte (0–10 o `—` si no aplica) y un flag `anclado` (si/no).
+- **Dos ejes:** *afecto* (universal) y *deseo* (íntimo, **no se abre por defecto**: `—` para figuras maternas, abuelas, amistades, duelo, mentoras; 18+ habilita pero no obliga).
 - Las acciones que coinciden con la personalidad del NPC suben Closeness; las que no, la bajan o congelan.
 - **Dos regímenes:** un vínculo **volátil** (no anclado) se enfría con el tiempo si se desatiende; un vínculo **anclado** (cruzó un hito de afecto sincero) ya **no** decae por el paso del tiempo, solo por eventos con peso (traición, abandono, daño).
 - Los hitos emocionales (primer beso, primera confesión, primer sexo, ruptura, etc.) tienen **peso narrativo** (0/1/2/3) y se registran en `progreso_narrativo.csv`.

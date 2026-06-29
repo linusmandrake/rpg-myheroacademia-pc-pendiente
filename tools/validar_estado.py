@@ -28,7 +28,7 @@ CSV_REQUERIDOS = {
     "facciones_estado.csv": ["id", "faccion", "simpatia", "influencia", "ultimo_cambio", "notas"],
     "reputacion.csv": ["id", "evento", "medio", "tono", "impacto_pc", "impacto_agencia", "notas"],
     "enemigos.csv": ["id", "nombre", "quirk", "afiliacion", "amenaza", "ultimo_avistamiento", "notas"],
-    "relaciones.csv": ["id", "npc", "relacion", "closeness", "anclado", "dificultad_canon", "estado", "ultimo_cambio", "notas"],
+    "relaciones.csv": ["id", "npc", "relacion", "closeness", "deseo", "anclado", "dificultad_canon", "estado", "ultimo_cambio", "notas"],
 }
 
 
