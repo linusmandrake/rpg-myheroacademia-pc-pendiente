@@ -6,6 +6,17 @@
 >
 > **PC = homebrew.** El PC no es un personaje canon. Llega a UA como alumno de **intercambio** o **matriculado a última hora**. No tiene relación familiar ni de backstory con ningún NPC canon. Midoriya, Bakugo, etc. son compañeros de clase, no hermanos, no familia. Esto significa que las relaciones con sus familiares adultos (Inko, Fuyumi Todoroki, etc.) **no tienen lectura incestuosa**, solo tabú social cuando lo haya.
 
+## Meta-regla de uncensored start, corrección reactiva
+
+> **La campaña empieza sin restricciones pre-puestas. La corrección se hace durante, no antes.**
+
+- **El juego es uncensored de inicio.** No hay veto previo. El GM narra con todo el peso del contenido adulto (violencia, sexo, fetiches) según el tono y la escena lo requieran.
+- **La corrección es reactiva, no proactiva.** Si durante una sesión algo molesta al jugador (una imagen, una escena, un giro argumental), el jugador lo dice (incluso en medio de la escena) y se corrige.
+- **Las restricciones se ponen a posteriori, no antes.** Después de que algo haya molestado, se añade a la lista de líneas y velos para que no vuelva a ocurrir.
+- **El jugador es soberano de su experiencia.** Puede parar, redirigir, saltarse una escena o ajustar el tono en cualquier momento, sin discusión.
+
+Esta meta-regla es la operativa de la campaña. Sustituye la idea tradicional de "definir todas las líneas y velos antes de jugar" por una aproximación más orgánica. Ver `AGENTS.md` y `CLAUDE.md` para el detalle.
+
 ## Regla de romance/sexo de la campaña
 
 > **Las mujeres son las opciones de romance/sexo; los hombres son amistad, rivalidad o mentor.** Esta regla aplica tal como está configurada la campaña. Ver `docs/sistema_relaciones.md` y `docs/npc_canon.md` para el detalle.
@@ -44,10 +55,22 @@
 - **Aplicar regla de campaña (mujeres = romance/sexo, hombres = amistad/rivalidad/mentor):** *(sí / no / con ajustes)*
 - **Orientación / preferencias del PC:** *(definir)*
 - **NPCs con dificultad alta que el PC quiere intentar (8+):** *(lista — requieren esfuerzo de meses in-game)*
-- **NPCs vetados por el jugador (líneas y velos):** *(lista — p.ej. "no Toga por su obsesión con sangre", "no Midnight (profesora)", "no Mt. Lady (vanidosa)", "no Inko (madre de compañero, tabú social)", "no Fuyumi Todoroki" — por cualquier motivo)*
+- **NPCs vetados por el jugador (líneas y velos opcionales, no bloqueantes):** *(lista — la meta-regla dice que se veta en sesión cuando surge, no antes. Pero si el jugador tiene preferenciasclaras de inicio, se anotan.)*
 - **Tipo de exploración preferido:** *(sweet / spicy / explicit / fade-to-black / etc.)*
 - **Ritmo de las relaciones:** *(rápido / lento / realista / dejar que la historia marque)*
 - **Tolerancia a triángulos, rupturas, drama:** *(definir)*
+
+## Línea y velo de Toga Himiko (confirmada)
+
+> Las 5 preguntas de Toga están confirmadas como **"sí a todo"**. Toga está disponible sin restricciones pre-puestas, pero la meta-regla aplica: si durante una escena con Toga algo molesta, se para y se corrige.
+
+1. ¿Se permiten escenas de extracción de sangre explícitas? (jeringas, cortes, etc.) — **SÍ**
+2. ¿Se permiten escenas donde Toga bebe sangre del PC? (vampirismo consensuado) — **SÍ**
+3. ¿Se permite que Toga lastime al PC en escenas íntimas? (marcas, cortes leves, etc.) — **SÍ**
+4. ¿Se permite que Toga obsesione con alguien cercano al PC? (amiga, interés, etc.) — **SÍ**
+5. ¿Cuál es el límite absoluto? (p.ej. "no escenas de tortura", "no escenas donde el PC no consiente") — **Límite absoluto: no escenas sin consentimiento del PC. Todo lo demás, dentro del tono y la función narrativa, está sobre la mesa.**
+
+(Si en el futuro el jugador quiere ajustar alguna de estas respuestas, se anota aquí y se actualiza `npc_canon.md` y `CLAUDE.md`.)
 
 ## Decisiones de tono (confirmar/ajustar)
 
