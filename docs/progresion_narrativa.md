@@ -2,6 +2,27 @@
 
 > Sistema de progresión por **marcas narrativas** (no por XP puro). Las marcas se otorgan tras hitos.
 
+## Quirk del PC — Sanguine Verdant Echo (curva de maestría)
+
+El Quirk del PC (ver `docs/quirk_pc.md`) escala por **maestría 1–10**, con hitos narrativos que corresponden a desbloquear aspectos y reducir costes:
+
+- **Maestría 1–2 (Arco 1, D1–D30):** invoca **un solo aspecto** a la vez. Control limitado. Aprendizaje.
+- **Maestría 3–4 (Arco 2, D31–D60):** invoca **dos aspectos** a la vez. Mejor control. El simbionte empieza a cooperar.
+- **Maestría 5–6 (Arco 3, D61–D90):** invoca **tres aspectos** a la vez. El simbionte acepta al PC como "socio".
+- **Maestría 7–8 (Arco 4+, D90+):** invoca los **cuatro aspectos**. El PC y el simbionte son uno.
+- **Maestría 9–10 (endgame):** trascendencia. Aspectos permanentes o efímeros a voluntad. Disociación controlada. Regeneración instantánea.
+
+**Hitos de marca que dan maestría:**
+- Primera vez que invoca un aspecto por primera vez: peso 0 (color).
+- Primera vez que invoca dos aspectos juntos: peso 1.
+- Primera vez que invoca tres aspectos juntos: peso 2.
+- Primera vez que invoca los cuatro aspectos: peso 3.
+- Primera vez que el simbionte habla o se comunica: peso 1.
+- Primera vez que el PC usa rewind + Avatar + Bestia en el mismo combate: peso 2.
+- Primera vez que el PC acepta al simbionte como parte de sí mismo: peso 3.
+
+(Estos son orientativos; el GM ajusta según la escena.)
+
 ## Principio
 
 El PC sube stats, quirk mastery, y desbloquea habilidades narrativas cuando **completa arcos y vive hitos**, no por grindear entrenamiento. El entrenamiento te da maestría de quirk, las marcas te dan subidas de stat.

@@ -1,17 +1,17 @@
 # Sistema de juego — RPG MHA Custom
 
-> **Estado:** esqueleto. Por definir: dados, números finales, fórmulas de progresión.
+> **Estado:** esqueleto con Quirk del PC definido. Por decidir: motor de dados final y fórmulas de progresión.
 
 ## Atributos del PC
 
-Borrador propuesto (5 stats, en escala 1–10):
+5 stats, escala 1–10:
 
 | Stat | Abreviatura | Significado |
 |---|---|---|
 | **Poder** | `PWR` | Fuerza bruta, capacidad de causar daño. |
 | **Velocidad** | `VEL` | Tiempo de reacción, desplazamiento, esquiva. |
 | **Técnica** | `TEC` | Habilidad marcial, control fino, combate cuerpo a cuerpo. |
-| **Ingenio** | `ING` | Análisis, improvisación,解决问题. |
+| **Ingenio** | `ING` | Análisis, improvisación, resolución de problemas. |
 | **Cooperación** | `COO` | Trabajo en equipo, empatía táctica, comunicación bajo presión. |
 
 Escala:
@@ -22,19 +22,21 @@ Escala:
 - 7–8: top 10 hero / All Might en su día / Endeavor
 - 9–10: Nivel All Might pico / No.1
 
-## Quirk
+## Quirk del PC — Sanguine Verdant Echo
 
-Tres ejes:
+> **Diseño completo en `docs/quirk_pc.md`.** El PC tiene un simbionte vegetal en la sangre. Tres aspectos manifestables: **Cuerpo** (ancla principal), **Avatar Carmesí** (proyección humanoide de sangre), **Bestias del Simbionte** (criaturas de plantasangre), **Ecos Temporales** (versiones pasadas del PC).
 
-1. **Tipo:** Emitter / Transformation / Mutant
-2. **Potencial:** 1–5 estrellas (potencial bruto del quirk)
-3. **Maestría:** 1–10 (lo que el PC ha entrenado de su quirk)
+**Ejes del Quirk:**
 
-**Stat derivada:** `PWR_quirk` o `TEC_quirk` se calcula combinando potencial + maestría.
+- **Potencial:** 1–5 estrellas (potencial bruto del quirk) — **5 para Sanguine Verdant Echo** (top-tier).
+- **Maestría:** 1–10 (lo que el PC ha entrenado de su quirk) — **1–2 al inicio** (aprendiendo a invocar).
+- **Voluntad del simbionte:** el simbionte tiene semi-autonomía y puede cooperar o resistirse según su relación con el PC.
+
+**Stats derivadas del Quirk:**
+- `PWR_quirk` o `TEC_quirk` = potencial + maestría + bono por aspecto activo.
+- **Aspectos activos** (cuántas proyecciones tiene el PC fuera) modifican el consumo y la fatiga.
 
 ## Acciones y resolución
-
-> Por definir: d20? 2d6? dado de quirk?
 
 Borrador: **2d6 + stat_mod + modificadores situacionales**. Resultado:
 
@@ -43,24 +45,37 @@ Borrador: **2d6 + stat_mod + modificadores situacionales**. Resultado:
 - 10–11: éxito
 - 12+: éxito crítico
 
+**Modificadores por aspecto del Quirk:**
+- Cuerpo del PC: +0 a +3 según stats base + maestría.
+- Avatar Carmesí activo: +1 a PWR_quirk (cuerpo adicional).
+- Bestias del Simbionte activas: +1 a TEC_quirk (apoyo táctico).
+- Ecos Temporales activos: +1 a ING (información de momentos pasados).
+- Combinaciones (2+ aspectos a la vez): bonus, pero aumenta el consumo de sangre y el cansancio.
+
 ## Combate
 
 > Por definir en `docs/combate.md`. Esqueleto:
 
-- **HP:** `PWR × 3 + TEC × 2 + 10` (borrador)
-- **Acción de ataque:** 2d6 + TEC + bonus de quirk
-- **Acción de esquiva:** 2d6 + VEL
-- **Acción de trabajo en equipo:** 2d6 + COO (PC) + COO (aliado) ÷ 2 (borrador)
+- **HP:** `PWR × 3 + TEC × 2 + 10` (borrador) + bonus por armadura de plantasangre.
+- **Acción de ataque:** 2d6 + TEC + bonus de Quirk.
+- **Acción de esquiva:** 2d6 + VEL + bonus de Avatar Carmesí si está activo.
+- **Acción de trabajo en equipo:** 2d6 + COO (PC) + COO (aliado) ÷ 2 + Bestias del Simbionte si están protegiendo.
+- **Rewind:** acción especial, gasta sangre + memoria. 1 vez por combate al inicio, 2–3 a mid, 5+ a endgame (con memory scars).
 
 ## Entrenamiento y progresión
 
-> Ver `docs/entrenamiento.md` y `docs/progresion_narrativa.md`.
+> Ver `docs/progresion_narrativa.md` y `docs/quirk_pc.md`.
 
-Idea base: cada día de entrenamiento dedicado sube 1 punto de maestría del quirk. Cada arco terminado permite subir 1 stat base. Hitos especiales permiten evolución del quirk (cuarto, quinto, sexto huevo de Shōto; el seventh de Deku).
+Idea base:
+- Cada día de entrenamiento dedicado sube 1 punto de maestría del Quirk.
+- Cada arco terminado permite subir 1 stat base.
+- Hitos especiales permiten evolución del Quirk (awakening del simbionte, integración de aspectos,etc.).
+- El simbionte tiene su propia curva de aceptación: si el PC abusa de las bestias o de los Ecos, el simbionte se "retrae" y bloquea el uso de ciertos aspectos.
 
 ## Próximos pasos
 
-- [ ] Decidir motor de dados
-- [ ] Implementar `tools/resolver_accion.py`
-- [ ] Implementar `tools/validar_estado.py`
+- [ ] Decidir motor de dados final
+- [ ] Implementar `tools/resolver_accion.py` con las mecánicas del Quirk
+- [ ] Implementar `tools/validar_estado.py` con checks de consistency
 - [ ] Probar con una sesión corta
+- [ ] Cuando el PC se defina: poblar `registros/equipo_pc.csv` con las capacidades del Quirk
