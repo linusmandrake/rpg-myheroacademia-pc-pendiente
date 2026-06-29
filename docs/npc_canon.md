@@ -102,6 +102,44 @@ Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres a
 - **Dificultad: N/A (no aplica)** — por la diferencia de edad y el rol de enfermera/figura maternal.
 - **Uso en campaña:** enfermera de UA. Quirk: Heal. Cura heridas con besos (transfiere energía del paciente al suyo, así que usarlo demasiado cansa al paciente). Como el PC es adulto, la enfermería es un espacioadulto (citas con la enfermera, rehabilitación,etc.).
 
+### Shuzoji Sangoku / Thirteen (heroína espacial, suplente de USJ)
+
+- **Sexo:** M (presenta como mujer en algunas escenas, pero es un hombre con apariencia andrógina en el canon)
+- **Edad referencia:** 26
+- **Quirk:** Black Hole. Genera un agujero negro pequeño en su mano. **MUY peligroso** si se usa más de unos segundos (puede desintegrar al usuario).
+- **Vínculo: profesor / mentor de seguridad.** *(no opción romántica en esta campaña.)*
+- **Uso en campaña:** profesora de la sala de héroes y manejo de crisis. Si el PC necesita entrenamiento de emergencia, Thirteen es quien lo supervisa. Fue la víctima principal del ataque USJ en canon; aquí puede estar herido, recuperado, o activo según la fecha de llegada del PC.
+- **Personalidad:** seria, calmada, cálida bajo la superficie. Tiene una capacidad limitada de quirk por el daño en sus brazos (en canon perdió los brazos; aquí adaptados a 18+).
+- **Notas:** el Quirk tiene un límite de uso estricto. Thirteen no puede usarlo mucho.
+
+### Emi Fukukado / Ms. Joke (heroína de la comedia, profesora de entrenamiento)
+
+- **Sexo:** F
+- **Edad referencia:** 28
+- **Quirk:** Outburst. Convierte su risa en un shock que paraliza a quien la oye. Cuanto más se ríe, más fuerte el efecto.
+- **Vínculo: profesora de entrenamiento / aliada.** *(no opción romántica salvo decisión del jugador — puede incluirse si el jugador lo decide.)*
+- **Uso en campaña:** profesora de la sala de entrenamiento cuando Aizawa/Vlad no están. Su risa es un shock paralizante — útil en combate, cómica fuera de él.
+- **Personalidad:** bromista, cálida, un poco payasa. Tiene buen rollo con Aizawa (rivalidad cómica). Se ríe mucho, lo cual puede ser un arma.
+- **Notas:** su Quirk es poderoso pero ella lo usa con cuidado. La risa es su forma de vida.
+
+### Kan Isosuke / Cementoss (profesor de arte moderno, lucha)
+
+- **Sexo:** M
+- **Edad referencia:** 41
+- **Quirk:** Cement. Puede solidificar y manipular cualquier material cementoso o rocoso.
+- **Vínculo: profesor / mentor de combate.**
+- **Uso en campaña:** profesor de arte moderno y de lucha. Sólido en combate, con Quirk defensivo.
+- **Personalidad:** serio, calmado, eficiente. Tiene buen rollo con el resto del profesorado.
+
+### Lunch Rush (profesor de cocina, mantenimiento del refugio)
+
+- **Sexo:** M
+- **Edad referencia:** 30–40
+- **Quirk:** Cook. Convierte la comida que prepara en "súper-comida" (más nutritiva, más energía, efectos de recuperación).
+- **Vínculo: profesor de cocina / aliado secundario.**
+- **Uso en campaña:** profesor menor, gestiona la cocina de UA. Como el PC tiene un Quirk basado en sangre, **Lunch Rush puede preparar comidas que ayuden a regenerar el pool de sangre** del PC (integración con el sistema de recuperación).
+- **Personalidad:** calmado, eficiente, no muy hablador. Buena comida, pocas palabras.
+
 ### Nezu (director)
 
 - **Sexo:** M (animal quirk-user; la categoría es rara)
@@ -183,7 +221,15 @@ Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres a
 - **Yo shiga Awase** (M) — Weld. **Vínculo: rival.** Puede soldar cualquier cosa. **No opción romántica.**
 - **Sen Kaibara** (M) — Geo-Lock. **Vínculo: rival.** Puede inmovilizar a quien pisa. **No opción romántica.**
 - **Tsubasa** (M) — Blade. **Vínculo: rival.** Crea cuchillas de aire. **No opción romántica.**
+- **Habuko Mongoose** (F) — Mongoose. **Dificultad: 4 (Fácil).** Estudiante de Ketsubutsu presente en el Provisional License Exam. Apariencia de mangosta (animal-like), simpática, directa. Como interés romántico es accesible. **Opcional si la campaña toca el exam.** Es alumna de Ketsubutsu, no de UA.
 - **Otros estudiantes de Ketsubutsu** — TBD. La academia sale poco en el canon, pero puede aparecer en el Provisional License Exam o en arcos custom.
+
+### Otros NPCs de escuelas menores (Provisional License Exam)
+
+> Aparecen en el examen de licencia provisional sin ser desarrollados. Pueden ser NPCs de paso o antagonists de un solo arco.
+
+- **Tsuragama** (?) — *de Isamu o alguna escuela menor. Sin perfil publicado.*
+- **Varios estudiantes anónimos** — están en el exam como "extras".
 
 ### Seijin High School
 
@@ -206,6 +252,8 @@ Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres a
 - **All For One** — **Vínculo: archienemigo.** Manipulador, anciano, mortal. Literalmente puede destruir al PC. **No opción romántica.**
 - **Dabi / Todoroki Tōya** — Cremation. **Vínculo: enemigo.** Trauma, villano, rabia contra Endeavor. **No opción romántica en esta campaña.**
 - **Twice** — Double. **Vínculo: enemigo con fisuras.** TEPT, problemas de identidad. Simpático, vulnerable, pero frágil. Como enemigo es peligroso; como aliado,imposible en UA. **No opción romántica.**
+- **Spinner / Shuichi Iguchi** — Gecko. **Vínculo: enemigo con motivación clara.** Villano de la Liga, quirk de gecko (cola, adherencia a paredes, regeneración). Inspirado por Stain. No es malicioso por naturaleza, sino por la exclusión social. Simpático y consciente. Como enemigo es peligroso pero se le puede persuadir. **No opción romántica en esta campaña.**
+- **Mr. Compress / Atsuhiro Sako** — Compress. **Vínculo: enemigo teatral.** Villano de la Liga, puede comprimir cualquier objeto (incluyendo personas) en esferas pequeñas. Estilo teatral, bromista, cuida a Spinner. Como enemigo es cruel pero con código de honor. **No opción romántica.**
 - **Overhaul / Chisaki Kai** — Overhaul. **Vínculo: enemigo.** Yakuza, manipulador. Eri está involucrada. **No opción romántica.**
 - **Stain (Hero Killer)** — **Vínculo: enemigo / fantasma ideológico.** Muerto en canon, pero su legado persiste. **No opción romántica.**
 - **Re-Destro** — Meta. **Vínculo: enemigo.** Adulto, poderoso, manipulador. **No opción romántica.**
@@ -233,10 +281,12 @@ Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres a
 ### Hombres pro-hero (amistad/rivalidad/mentor)
 
 - **Tsukauchi Naomasa** — detective. **Vínculo: detective aliado.** Adulto (~35), profesional, ética de detective. **No opción romántica.**
-- **Hawks / Takami Keigo** — Fierce Wings. **Vínculo: aliado complicado / cuasi mentor.** Spy de la Comisión infiltrado en la Liga. Adulto (~22). Tiene TEPT, vida sexual activa, presión adulta. Como aliado es complejo; como mentor, parcial. **No opción romántica en esta campaña.**
+- **Hawks / Takami Keigo** — Fierce Wings. **Vínculo: aliado complicado / cuasi mentor.** Spy de la Comisión infiltrado en la Liga. Adulto (~22 en canon, aquí referencia 22–24). Tiene TEPT, vida sexual activa, presión adulta. Como aliado es complejo; como mentor, parcial. **No opción romántica en esta campaña.**
 - **Endeavor / Todoroki Enji** — Hell Flame. **Vínculo: antagonista.** El **abusador de la familia Todoroki**. Adulto (~45). Cualquier "relación" con él es éticamente imposible y se trata como antagonismo. **No opción romántica.**
 - **Gang Orca** — **Vínculo: rival pro.** Top hero. **No opción romántica.**
 - **Kamui Woods** — **Vínculo: compañero pro.** **No opción romántica.**
+- **Best Jeanist / Tsunagu Hakamada** — Fiber Master. **Vínculo: mentor estricto / rival respetuoso.** Top 3 pro-hero. Adulto (~32). Manipula fibras de carbono con su cuerpo, puede atrapar y constreñir a los enemigos. **Estilo estricto, exigente,moda impecable.** Como mentor es duro pero eficaz; como rival, formidable. **No opción romántica en esta campaña.**
+- **Edgeshot / Shinya Kamihara** — Edge. **Vínculo: rival silencioso / cuasi mentor.** Top 3 pro-hero. Adulto. Puede aplanar su cuerpo y atravesar a los enemigos como una hoja. Habla muy poco. **Estilo ninja, paciente, letal.** Como mentor es esquivo; como rival, aterrador. **No opción romántica en esta campaña.**
 
 ### Mujeres pro-hero (opciones románticas/sexuales)
 

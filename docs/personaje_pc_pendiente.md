@@ -8,9 +8,11 @@
 
 - **Nombre real:** *(pendiente)*
 - **Nombre héroe (si tiene):** *(pendiente)*
-- **Edad:** 18+ (campaña adulta; ver `AGENTS.md` y `CLAUDE.md`)
+- **Edad:** **18** (campaña adulta; ver `AGENTS.md` y `CLAUDE.md`)
 - **Sexo / género:** *(M / F / no binario / otro)*
 - **Orientación / preferencias:** *(heterosexual / homosexual / bisexual / pan / ace / otra)*
+- **Cumpleaños:** **3 de julio**
+- **Tipo de sangre:** **AB** (la savia del Quirk; tipo raro que afecta el sistema de drenaje — ver `quirk_pc.md`)
 - **Nacionalidad / origen geográfico:** *(Japón / otro país / mixto)*
 
 ## Llegada a UA

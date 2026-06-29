@@ -28,6 +28,9 @@
 | **Nemuri Kayama** (Midnight) | B | 2 de febrero | Vino |
 | **Hizashi Yamada** (Present Mic) | B | 28 de julio | Curry |
 | **Chiyo Shuzenji** (Recovery Girl) | A | No publicada (anciana) | No publicada |
+| **Shuzoji Sangoku** (Thirteen / Space Hero) | AB | No publicado (referencia 26) | No publicado |
+| **Emi Fukukado** (Ms. Joke) | B | No publicado (referencia 28) | No publicado |
+| **Lunch Rush** | A | No publicado | No publicado |
 | **Nezu** (Director) | No aplicable (animal) | No publicado | Té |
 
 ---
@@ -115,6 +118,7 @@
 | **Yo shiga Awase** | No publicada | No publicado | No publicada |
 | **Sen Kaibara** | No publicada | No publicado | No publicada |
 | **Tsubasa** | No publicada | No publicado | No publicada |
+| **Habuko Mongoose** | No publicada | No publicado | No publicada |
 
 ---
 
@@ -137,6 +141,40 @@
 | **Pixie-Bob** (Pussycats) | A | No publicado | No publicada |
 | **Tiger** (Pussycats) | B | No publicado | No publicada |
 | **Mandalay** (Pussycats) | O | No publicado | No publicada |
+
+## Pro-Heroes — hombres (amistad, rivalidad, mentor)
+
+> Los datos de los pro-heroes masculinos son relevantes para escenas de cumpleaños, mentorazgo, rivalidad profesional. No son opción romántica en esta campaña (ver regla de romance).
+
+| Personaje | Sangre | Cumpleaños | Comida favorita | Notas |
+|---|---|---|---|---|
+| **Hawks / Takami Keigo** | A | 28 de diciembre | Pollo frito (pollos de Yokohama) | Top 3, espía de la Comisión |
+| **Endeavor / Todoroki Enji** | A | 8 de agosto | No publicada | No.1 actual, **abusador** de la familia Todoroki |
+| **Best Jeanist / Tsunagu Hakamada** | B | 26 de agosto | No publicada | Top 3, fibra de carbono |
+| **Edgeshot / Shinya Kamihara** | A | 22 de diciembre | No publicada | Top 3, edge-body |
+| **Gang Orca** | A | No publicado | No publicada | Top hero, orca quirk |
+| **Kamui Woods** | A | No publicado | No publicada | Wood quirk, pro-hero |
+| **Tsukauchi Naomasa** | A | 30 de octubre | No publicada | Detective, lie detector |
+| **All Might / Yagi Toshinori** | A | 10 de junio | No publicada | Símbolo de paz, retirado (en la línea temporal) |
+
+## Villanos — Liga de Villanos y aliados (no opción romántica en esta campaña)
+
+| Personaje | Sangre | Cumpleaños | Comida favorita | Notas |
+|---|---|---|---|---|
+| **Shigaraki Tomura** (Tenko Shimura) | A | 4 de abril | Comida rápida (siente aversión a los videojuegos que le recuerdan a su pasado) | Líder de la Liga, Decay |
+| **All For One** | No publicada | No publicado | No publicada | Archienemigo, AFO |
+| **Dabi / Todoroki Tōya** | B | 18 de agosto | No publicada | Villano, Cremation |
+| **Twice** | B | 25 de mayo | No publicada | Liga, Double |
+| **Toga Himiko** | A | 7 de agosto | No publicada | Liga, Transform (única opción adulta) |
+| **Spinner / Shuichi Iguchi** | B | 22 de julio | No publicada | Liga, Gecko |
+| **Mr. Compress / Atsuhiro Sako** | A | 4 de septiembre | No publicada | Liga, Compress |
+| **Overhaul / Chisaki Kai** | A | 1 de octubre | No publicada | Yakuza, Overhaul |
+| **Stain (Hero Killer)** | A | 1 de agosto | No publicada | Muerto, fantasma ideológico |
+| **Re-Destro** | A | 23 de agosto | No publicada | Meta Liberation Army |
+| **Geten** | A | 10 de junio | No publicada | Liberation Army, hielo |
+| **Muscular** | No publicada | No publicado | No publicada | Villano, músculo |
+| **Moonfish** | No publicada | No publicado | No publicada | Villano, kanabō |
+| **Kurogiri** | No publicada | No publicado | No publicada | Liga, warp |
 
 ---
 
