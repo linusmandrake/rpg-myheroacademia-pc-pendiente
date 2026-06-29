@@ -24,7 +24,7 @@
 
 ### UA (雄英高校, *Yūei Kōkō*)
 
-> **Versión 18+.** En esta campaña UA funciona como una **academia heroica pre-profesional para adultos jóvenes** (18+). Los alumnos firman su propia matrícula, contratan sus propios costumes, firman contratos de实习 con agencias, y salen del campus cuando quieren. Sigue siendo una escuela con clases, exámenes y club de almuerzo, pero con autonomía adulta.
+> **Versión 18+.** En esta campaña UA funciona como una **academia heroica pre-profesional para adultos jóvenes** (18+). Los alumnos firman su propia matrícula, contratan sus propios costumes, firman contratos de internado con agencias, y salen del campus cuando quieren. Sigue siendo una escuela con clases, exámenes y club de almuerzo, pero con autonomía adulta.
 
 - **Curso estrella:** Hero Course. 1-A y 1-B, ~20 cada uno.
 - **Cursos laterales:** Support, General Studies, Management.

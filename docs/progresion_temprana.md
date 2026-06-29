@@ -18,15 +18,15 @@
   - Primer combate (sparring o real): peso 1–2 según resultado.
   - Primera conversación personal con un compañero: peso 0–1.
   - Primera vez que un compañero confía algo serio al PC: peso 1–2.
-- **Llegada del PC:** si se une a mitad de curso, los arcos canon (USJ袭击, etc.) ya han pasado o están en curso. Si se une al inicio, vive todo desde el principio. Decidir con el jugador.
+- **Llegada del PC:** si se une a mitad de curso, los arcos canon (USJ asalto, etc.) ya han pasado o están en curso. Si se une al inicio, vive todo desde el principio. Decidir con el jugador.
 - **Vida adulta:** en este arco el PC empieza a tener **vida nocturna adulta** (salidas con compañeros, primeras citas, primeras peleas fuera de clase). Esas escenas pueden tener peso narrativo sin necesidad de marca.
 - **Subidas previstas (PC nuevo, sin backstory canon):** 1 stat (peso 1, por hito de integración) → stats objetivo PWR 3, VEL 3, TEC 3, ING 4, COO 4. **El PC no sube rápido** — está demostrando su valor antes de subir.
 
 ## Arcos 2 (D31–D60): "Prácticas y Provisional License"
 
-- **实习** en una agencia (seleccionar: Endeavor, Hawks, Edgeshot, otra). Como adulto, el PC tiene un **contrato** con la agencia, un **sueldo** (pequeño, pero propio), y la posibilidad de que la agencia abuse de él (sobretrabajo, acososexual, chantaje).
+- **internado** en una agencia (seleccionar: Endeavor, Hawks, Edgeshot, otra). Como adulto, el PC tiene un **contrato** con la agencia, un **sueldo** (pequeño, pero propio), y la posibilidad de que la agencia abuse de él (sobretrabajo, acososexual, chantaje).
 - **Provisional Hero License Exam** — el PC se presenta, aprueba o no. Sin la licencia, no puede operar como héroe en público.
-- **Eventos del canon:**袭击 por parte de Stain? Hero Killer Stain arc. (Sí, Stain ataca Iida's brother. Si el PC está en 1-A, le toca de cerca. Como todos son adultos, las relaciones del PC con Iida son más igualitarias.)
+- **Eventos del canon:**asalto por parte de Stain? Hero Killer Stain arc. (Sí, Stain ataca Iida's brother. Si el PC está en 1-A, le toca de cerca. Como todos son adultos, las relaciones del PC con Iida son más igualitarias.)
 - **Vida adulta:** el PC ya tiene **piso propio** (alquilando o compartiendo), **pareja ocasional o formal** quizá, **dinero** que entra y sale. La economía es adulta, no de bolsillo de padres.
 - **Integración cumplida:** a esta altura, el PC ya no es "el nuevo", es "uno más" (con la confianza ganada o no). Marca de peso 2.
 - **Subidas previstas:** 1 stat (peso 2) + 1 stat (peso 1) → stats objetivo PWR 4, VEL 4, TEC 3, ING 5, COO 5.
@@ -34,17 +34,17 @@
 ## Arcos 3 (D61–D90): "Campamento y pre-Kamino"
 
 - **Campamento de entrenamiento** (Bosque, Yakuzo area, etc.). Como adultos, los alumnos pueden **firmar consentimientos** solos (no hace falta tutor). El entrenamiento es duro.
-- **袭击 Bakugo por la Liga** — si el PC está en 1-A, le toca participar en el rescate. Marca de peso 3 si rescata con éxito.
+- **asalto Bakugo por la Liga** — si el PC está en 1-A, le toca participar en el rescate. Marca de peso 3 si rescata con éxito.
 - **Subidas previstas:** 2 stats (peso 3) → stats objetivo PWR 5, VEL 5, TEC 4, ING 5, COO 6.
 
 ## Hitos previstos (cronología del canon, adaptados a 18+)
 
 - D1: Examen de ingreso UA (peso 0, narrativo). PC firma su propio contrato de matrícula.
-- D14:袭击 USJ (peso 2 si sobrevive). PC es un héroe profesional en ciernes, no un niño.
+- D14: asalto USJ (peso 2 si sobrevive). PC es un héroe profesional en ciernes, no un niño.
 - D60: Provisional Hero License Exam (peso 1 si aprueba).
 - D65: Stain arc / Hosu (peso 2 si participa). Iida es adulto, su hermano Ingenium es adulto, las consecuencias sonadultas.
 - D80: Campamento entrenamiento (peso 1 por prueba superada). El consentimiento es entre adultos.
-- D85:袭击 Bakugo + rescate (peso 3 si participa en rescate). Bakugo es adulto, los villanos son adultos.
+- D85: asalto Bakugo + rescate (peso 3 si participa en rescate). Bakugo es adulto, los villanos son adultos.
 - D90: Provisional License conferido (peso 1). Contrato de agencia firmado.
 
 ## Marcas adultas adicionales (no en canon)

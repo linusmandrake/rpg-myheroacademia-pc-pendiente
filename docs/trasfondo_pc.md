@@ -35,7 +35,7 @@
   - El PC va atrasado en el currículo. Los profesores tienen que calibrar su nivel.
   - Los compañeros lo ven como intruso o como novedad. Algunos lo acogen, otros lo rechazan.
   - El PC no tiene red previa. Tiene que construir todo desde cero.
-  - El PC puede haberse perdido eventos canon (USJ袭击, primer实习,etc.) y enterarse después.
+  - El PC puede haberse perdido eventos canon (USJ asalto, primer internado,etc.) y enterarse después.
 - **Bonuses mecánicos:**
   - El PC puede ser un héroe con experiencia (si viene de otra escuela o de la calle).
   - El PC tiene una **historia de por qué llegó tarde**: admisión especial, transferencia desde otra escuela, descubrimiento tardío del quirk, rehabilitación, etc.
@@ -82,7 +82,7 @@ Cuando se defina el PC, rellenar:
 - **Escuela de origen:** Shiketsu High School
 - **Razón oficial:** programa de intercambio académico entre UA y Shiketsu.
 - **Razón real:** Ren quería ver cómo es la "competencia" (UA) y medir su nivel. Tiene un complejo de inferioridad con su propia escuela.
-- **Llegada:** tras 3 meses del inicio del curso. Ya pasó USJ袭击, así que Ren no estuvo.
+- **Llegada:** tras 3 meses del inicio del curso. Ya pasó USJ asalto, así que Ren no estuvo.
 - **Stats:** PWR 4, VEL 4, TEC 4, ING 3, COO 4 (Shiketsu entrenó bien).
 - **Quirk:** *compresión de aire* — puede comprimir aire en esferas densas que lanza como proyectiles.
 - **Familia:** padres vivos, clase media, sin parentesco con ningún canon NPC.
@@ -93,7 +93,7 @@ Cuando se defina el PC, rellenar:
 - **Nombre:** Akari Minase
 - **Escuela de origen:** Shiketsu (transferido, no intercambio).
 - **Razón oficial:** admisión especial por recomendación de un pro-hero que la vio en acción.
-- **Razón real:** Akari tuvo un incidente grave en Shiketsu (víctima de un villano que袭击ó la escuela) y la transfirieron a UA para "reiniciar" y protegerla.
+- **Razón real:** Akari tuvo un incidente grave en Shiketsu (víctima de un villano que asaltoó la escuela) y la transfirieron a UA para "reiniciar" y protegerla.
 - **Llegada:** a mitad del segundo año (D60). Se pierde el襲击 USJ pero vive Kamino si la campaña llega.
 - **Stats:** PWR 3, VEL 4, TEC 5, ING 4, COO 4 (entrenada en combate cercano, no en fuerza bruta).
 - **Quirk:** *espejo sensorial* — puede reflejar los sentidos de un oponente (el oponente ve/oye/siente lo mismo que ella, desorientándolo).

@@ -18,7 +18,7 @@
 - **Tipo de llegada:** **matriculado a última hora** (recomendación especial).
 - **Escuela de origen:** academia menor en Osaka (custom, sin nombre canónico — se llamaba "Academia Verde", un guiño a su Quirk).
 - **Curso destino:** **Hero Course 1-A** (la clase icónica con Midoriya, Bakugo, Uraraka,etc.).
-- **Fecha de llegada (relativa al inicio de la campaña):** tras el袭击 USJ. Llega cuando los compañeros ya tienen dinámica,血迹 y trauma compartido. Es "el nuevo" definitivo.
+- **Fecha de llegada (relativa al inicio de la campaña):** tras el asalto USJ. Llega cuando los compañeros ya tienen dinámica,血迹 y trauma compartido. Es "el nuevo" definitivo.
 - **Razón oficial de llegada:** recomendación especial de un pro-hero amigo de la familia (NPC custom, no canon) tras mostrar resultados en su academia de Osaka.
 - **Razón real:** el Quirk del PC (tardío, complejo) necesitaba un entrenamiento que solo UA podía darle. La recomendación fue por necesidad, no por favoritismo.
 

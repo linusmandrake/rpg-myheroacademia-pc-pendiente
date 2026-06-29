@@ -30,7 +30,7 @@ El PC sube stats, quirk mastery, y desbloquea habilidades narrativas cuando **co
 ## Marcas
 
 - **Peso 1:** hito menor (completar un entrenamiento largo, aprobar un examen con margen, salvar a un civil aislado). Concede una subida a una **stat a elección** o **+1 maestría**.
-- **Peso 2:** hito medio (completar un实习 importante, derrotar a un villano menor, ganar un tournament, resolver un arco personal). Concede **subida a una stat** + **1d4 rerolls** o **+1 stat automático**.
+- **Peso 2:** hito medio (completar un internado importante, derrotar a un villano menor, ganar un tournament, resolver un arco personal). Concede **subida a una stat** + **1d4 rerolls** o **+1 stat automático**.
 - **Peso 3:** hito cumbre (ganar a un villano top, salvar vidas en masa, decisión de personaje definitoria, completar un arco de identidad). Concede **2 subidas a stats** + **+2 maestría** + opción de **evolución del quirk** (awakening, new mode).
 
 ## Curva de poder
@@ -38,7 +38,7 @@ El PC sube stats, quirk mastery, y desbloquea habilidades narrativas cuando **co
 Para que la campaña no se rompa:
 
 - Primer arco (D1–D30): el PC está en **stats 3–4** (civil+). El quirk es conocido pero no dominante.
-- Arcos segundo/tercer (D31–D90): stats 4–5. Quirk dominio base. Primer实习.
+- Arcos segundo/tercer (D31–D90): stats 4–5. Quirk dominio base. Primer internado.
 - Arcos cuarto+ (D90+): stats 5–7. Quirk dominado. Decisiones empiezan a tener peso narrativo.
 - Final de campaña: stats 7–9. Quirk con evolución. Decisiones éticas complejas.
 
@@ -58,7 +58,7 @@ Si falta cualquiera: no es marca, es **grind narrativo** sin peso.
 Para subir un stat concreto (PWR, VEL, TEC, ING, COO), el jugador puede elegir entre rutas:
 
 - **Ruta segura:** entrenamiento supervisado, simulaciones, estudio teórico. +1 stat tras varios días in-game.
-- **Ruta operativa:**实习, patrullaje, misiones reales de bajo riesgo. +1 stat tras arco.
+- **Ruta operativa:**internado, patrullaje, misiones reales de bajo riesgo. +1 stat tras arco.
 - **Ruta brutal:** villano, evento de vida o muerte, mentor pushing. +2 stat de golpe, pero con coste narrativo.
 
 ## Hitos especiales

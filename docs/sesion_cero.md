@@ -103,8 +103,8 @@ Esta meta-regla es la operativa de la campaña. Sustituye la idea tradicional de
 - **Arco inicial propuesto:** *(elegir uno)*
   - Examen de ingreso a UA (robot U.A., 10 minutos, rescate)
   - Provisional Hero License Exam
-  - Primer实习 en agencia (en la que sea)
-  - Primer encuentro villano (League of Villains袭击 USJ, o Kamino, o custom)
+  - Primer internado en agencia (en la que sea)
+  - Primer encuentro villano (League of Villains asalto USJ, o Kamino, o custom)
   - Custom total
 - **Razón del arco:** *(por qué ese, no otro)*
 
