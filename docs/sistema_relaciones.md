@@ -70,9 +70,20 @@ Y hay vínculos donde el deseo **podría** abrirse pero **a su tiempo, nunca a d
 
 > En corto: **18+ habilita, no obliga.** Que la campaña permita sexo explícito no significa que todo vínculo tenga eje sexual. La mayoría de los vínculos profundos de una vida no lo tienen.
 
-### En el registro
+### En el registro — perfil multidimensión
 
-En `registros/relaciones.csv`: `closeness` = afecto (0–10); `deseo` = eje íntimo (`0–10` si está abierto, `—` si no aplica/cerrado). El **anclaje** (régimen estable, ver abajo) se mide sobre el **afecto** —es el vínculo emocional el que perdura en el tiempo—.
+`registros/relaciones.csv` no guarda un solo número, sino un **perfil** por vínculo con **vocabulario controlado** (lo valida `tools/validar_estado.py`, capa 4). Columnas:
+
+- **closeness:** `0–10`, el eje **afecto** (cercanía emocional). Granularidad fina para la fase de construcción.
+- **deseo:** `— cerrado/no aplica · latente · abierto · voraz · asentado` (eje íntimo; `—` es la salvaguarda — una madre/abuela/duelo nunca lleva contador sexual).
+- **confianza:** `baja · media · alta · total`.
+- **compromiso:** `ninguno · casual · pareja · juramento`.
+- **regimen:** `volátil · anclado` (el anclaje se mide sobre el afecto/closeness).
+- **marco:** `exclusiva · casual · roce-no-romance · sombra-secreto · frontera-con-X · —` (coherencia multi-pareja).
+- **dificultad:** `1–10` (cortejo desde cero — ventaja de la fase actual de Akari).
+- **hitos:** eventos fechados que justifican el estado (trazabilidad; capa 3).
+
+Alineado con la plantilla genérica `/opt/plantilla_reglas_sexoafectivas.md`. El detalle largo de cada NPC vive en `docs/npc_canon.md` y las notas; el CSV resume y se escanea de un vistazo.
 
 ---
 
@@ -162,6 +173,17 @@ Con varias relaciones abiertas a la vez (el PC tiene muchas potenciales declarad
 
 ---
 
+## Coherencia multi-pareja (marco radial)
+
+Akari va de **harem** ("instituto de conquista", muchas potenciales). El día que sostenga **varias relaciones a la vez**, hace falta una estructura que las haga coexistir sin convertirlas en una lista de conquistas. Esta doctrina está **disponible, no activa** (en día 0 todo está en closeness 0); se enciende cuando Akari tenga dos o más líneas en marcha. *(Importada de la campaña hermana, que la tiene muy rodada.)*
+
+- **Marco radial.** Akari es el **eje**; cada relación vive en **su propio radio**. Por defecto, las parejas **no tienen contacto íntimo entre sí sin Akari presente** — protege a cada una de obligaciones que no aceptó. Es radial, **no jerárquico**: ninguna está obligada a cruzarse con otra.
+- **Fronteras.** Reglas explícitas entre NPCs concretas que **no** cruzan. En MHA esto importa: hay **hermanas/familia** (Fuyumi y la familia Todoroki), **compañeras de clase** que conviven en los dormitorios, **profesoras**. Si dos no quieren compartir, se anota como `frontera-con-X` en su fila y se respeta.
+- **Exclusividad por vínculo.** Cada relación lleva **su propio marco** en la columna `marco`: abierta, exclusiva pedida, casual, roce-no-romance, sombra-secreto. El marco de cada una manda sobre los defaults.
+- **El amor suma, no se divide** (ver Filosofía): sostener varias no resta a ninguna. El recurso escaso es el **tiempo y la atención** para cuidar cada una, no el afecto.
+
+---
+
 ## Obstáculos típicos por arquetipo (resumen)
 
 ### Alumnos UA (compañeros)
@@ -185,6 +207,16 @@ Con varias relaciones abiertas a la vez (el PC tiene muchas potenciales declarad
 - **Peligrosos físicamente** (AFO, Overhaul): literalmente pueden matar al PC.
 - **Con trauma o problemas mentales severos** (Twice, Toga): la relación puede ser dañina para ambos.
 - **Riesgo de conversión** (la Liga recluta): entrar en relación con un villano puede ser leída como traición por UA/Comisión.
+
+---
+
+## Filosofía del vínculo
+
+El sistema no es solo "qué no hacer" (ver abajo). Tiene un credo en positivo que le da alma al harem y lo separa de una lista de conquistas:
+
+- **Amar es dar y liberar, no poseer y atar.** Akari quiere ser **elegido**, no retener. Cada NPC tiene siempre cómo desengancharse. El control "por tu bien" —decidir por la otra a sus espaldas— es la línea roja, no el deseo.
+- **El amor suma, no se divide.** Varias relaciones no se restan entre sí; cada una se vive entera en su registro. Lo que se reparte es el **tiempo y la memoria** para cuidarlas, no el cariño.
+- **Cada vínculo en su propia verdad.** No hay un "ranking" que acertar (quién quiere más a quién). Hay una constelación; el grado **describe, no clasifica**.
 
 ---
 
@@ -263,6 +295,6 @@ En la práctica: el jugador puede iniciar una relación con cualquier NPC mujer 
 ## Próximos pasos
 
 - [ ] Revisar `docs/npc_canon.md` para que cada NPC tenga su `Dificultad` y razón.
-- [x] Crear `registros/relaciones.csv` con las columnas `closeness` y `anclado`.
-- [ ] Implementar checks de consistencia en `tools/validar_estado.py` para que el CSV exista.
+- [x] Crear `registros/relaciones.csv` — perfil multidimensión (closeness/deseo/confianza/compromiso/regimen/marco/dificultad/hitos).
+- [x] Implementar checks de consistencia (capa 4) en `tools/validar_estado.py`.
 - [ ] Decidir con el jugador las líneas y velos generales en `sesion_cero.md`.

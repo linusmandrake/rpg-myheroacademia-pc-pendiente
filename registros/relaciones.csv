@@ -1,27 +1,27 @@
-id,npc,relacion,closeness,deseo,anclado,dificultad_canon,estado,ultimo_cambio,notas
-momo-001,Yaoyorozu Momo,target principal,0,0,no,6,activo,2026-06-29,Preferencia del jugador: target #1. Si solo una, Momo. El GM construye la Momo-arc como línea romántica central sin forzarla.
-jiro-001,Jirō Kyōka,target secundario,0,0,no,5,activo,2026-06-29,Preferencia del jugador: target #2. Si Momo no funciona, Jirō es la siguiente. Compatible con humor seco del PC.
-ashido-001,Ashido Mina,target terciario,0,0,no,3,activo,2026-06-29,Preferencia del jugador: target #3. Interés de transición o relleno. Fácil, extrovertida, "puente".
-hagakure-001,Hagakure Tōru,potencial,0,0,no,4,disponible,2026-06-29,Declarada potencial por el jugador. Chica invisible de 1-A, bromista, social. La invisibilidad complica logística, no emocional.
-midnight-001,Nemuri Kayama (Midnight),potencial,0,0,no,6,disponible con tabú,2026-06-29,Declarada potencial por el jugador. Profesora de UA, femme fatale. Tabú social profesora-alumno; la campaña es 18+ y el jugador la ha declarado como potencial. Confirmar en sesión 1.
-shiozaki-001,Ibara Shiozaki,potencial,0,0,no,4,disponible,2026-06-29,Declarada potencial por el jugador. Chica de las vides de 1-B, pacifista, religiosa, mística. El jugador encuentra atractiva su estética pero no comparte su faceta mística. **El GM mantiene el carácter canon de Shiozaki.** No se atenúa su carácter. Si la relación se desarrolla, su espiritualidad es parte de quién es.
-uraraka-001,Uraraka Ochaco,potencial abierta,0,0,no,5,disponible,2026-06-29,Potencial abierta (instinto de conquista). Cercana en edad y energía, accesible. Si Momo no funciona o el PC quiere ampliar, Uraraka está disponible.
-asui-001,Asui Tsuyu (Froppy),potencial abierta,0,0,no,5,disponible,2026-06-29,Potencial abierta. Honesta, práctica, directa. Le gustan las cosas claras. Compatible con el PC si busca algo sin juegos.
-kendo-001,Itsuka Kendo,potencial abierta,0,0,no,4,disponible,2026-06-29,Potencial abierta. Líder de facto de 1-B, accesible, adulta con peso del liderazgo. Conoce a Aizawa.
-tokage-001,Setsuna Tokage (Lizardy),potencial abierta,0,0,no,4,disponible,2026-06-29,Potencial abierta. Accesible, vida propia, puede desarmar su cuerpo (interesante visualmente).
-komori-001,Kinoko Komori (Mushroom),potencial abierta,0,0,no,4,disponible,2026-06-29,Potencial abierta. Amable, sensible a presión social. Su quirk libera esporas.
-camie-001,Camie Utsushimi,potencial abierta,0,0,no,4,disponible,2026-06-29,Potencial abierta. Shiketsu, extrovertida, sociable, glamur. Si la campaña toca Shiketsu.
-saiko-001,Saiko Intelli,potencial abierta,0,0,no,5,disponible,2026-06-29,Potencial abierta. Seijin, genio, accesible con presión familiar pesada. Si la campaña toca Seijin.
-habuko-001,Habuko Mongoose,potencial abierta,0,0,no,4,disponible,2026-06-29,Potencial abierta. Ketsubutsu, apariencia de mangosta, simpática, directa. Provisional License Exam.
-msjoke-001,Emi Fukukado (Ms. Joke),potencial abierta,0,0,no,5,disponible,2026-06-29,Potencial abierta. Profesora, bromista, cálida. Su risa es un shock paralizante (Quirk: Outburst). Tabú social profesora-alumno.
-mirko-001,Mirko (Usagiyama Rumi),potencial abierta,0,0,no,5,disponible,2026-06-29,Potencial abierta. Pro-hero top, brash, no-nonsense. Si la campaña toca agencias pro.
-ryukyu-001,Ryukyu (Tatsumi Ryuko),potencial abierta,0,0,no,6,disponible,2026-06-29,Potencial abierta. Pro-hero, dragon quirk, seria, busy. Accesible con esfuerzo.
-mtlady-001,Mt. Lady (Yu Takeyama),potencial abierta,0,0,no,4,disponible,2026-06-29,Potencial abierta. Pro-hero, giant quirk, glamurosa, algo vanidosa. Fácil acceso; reto es la profundidad.
-burnin-001,Burnin,potencial abierta,0,0,no,4,disponible,2026-06-29,Potencial abierta. Sidekick en Endeavor Agency, simpática, directa, divertida. Cercana a Endeavor (complicado).
-pixie-001,Pixie-Bob,potencial abierta,0,0,no,4,disponible,2026-06-29,Potencial abierta. Pussycats, adulta, esposa de Vlad King (complicado). Earth Beasts quirk.
-tiger-001,Tiger,potencial abierta,0,0,no,5,disponible,2026-06-29,Potencial abierta. Pussycats, adulta, puede transformarse en tigre. Más reservada.
-mandalay-001,Mandalay,potencial abierta,0,0,no,5,disponible,2026-06-29,Potencial abierta. Pussycats, adulta, telépata. Útil en misiones; siente al PC a distancia.
-mei-001,Mei Hatsume,potencial abierta,0,0,no,4,disponible,2026-06-29,Potencial abierta. Support, inventora obsesionada, sexual directa, extrovertida. Útil para gadgets.
-inko-001,Inko Midoriya,potencial abierta,0,0,no,5,disponible con tabú,2026-06-29,Potencial abierta. Madre de Izuku, adulta ~40. **No parentesco con el PC** (PC homebrew, no es hijo de Inko). Tabú social: madre de compañero. El PC la encuentra atractiva. La campaña es 18+ y el jugador la ha declarado como potencial.
-fuyumi-001,Fuyumi Todoroki,potencial abierta,0,0,no,5,disponible,2026-06-29,Potencial abierta. Hermana de Shōto, pro-hero/enseñanza, adulta. **No parentesco con el PC.** Si la campaña toca la familia Todoroki.
-toga-001,Toga Himiko,potencial abierta,0,0,no,8,línea y velo sí-a-todo,2026-06-29,Línea y velo confirmada: las 5 preguntas de Toga están como "sí a todo". Único límite: no escenas sin consentimiento del PC. Si la campaña la desarrolla, está disponible. Como villana activa, hay tensión narrativa adicional.
+id,npc,tipo,closeness,deseo,confianza,compromiso,regimen,marco,dificultad,ultimo_cambio,hitos,notas
+momo-001,Yaoyorozu Momo,romántico,0,latente,baja,ninguno,volátil,—,6,2026-06-29,,Target #1 del jugador. Si solo una, Momo. El GM construye la Momo-arc como línea romántica central sin forzarla.
+jiro-001,Jirō Kyōka,romántico,0,latente,baja,ninguno,volátil,—,5,2026-06-29,,Target #2. Si Momo no funciona, Jirō es la siguiente. Compatible con humor seco del PC.
+ashido-001,Ashido Mina,romántico,0,latente,baja,ninguno,volátil,—,3,2026-06-29,,Target #3. Interés de transición o relleno. Fácil, extrovertida, puente.
+hagakure-001,Hagakure Tōru,romántico,0,latente,baja,ninguno,volátil,—,4,2026-06-29,,Declarada potencial. Chica invisible de 1-A, bromista, social. La invisibilidad complica logística, no emocional.
+midnight-001,Nemuri Kayama (Midnight),romántico,0,latente,baja,ninguno,volátil,—,6,2026-06-29,,Declarada potencial. Profesora de UA, femme fatale. Tabú social profesora-alumno; 18+. Confirmar en sesión 1.
+shiozaki-001,Ibara Shiozaki,romántico,0,latente,baja,ninguno,volátil,—,4,2026-06-29,,Declarada potencial. Vides de 1-B, pacifista, religiosa, mística. **El GM mantiene su carácter canon.** No se atenúa.
+uraraka-001,Uraraka Ochaco,romántico,0,latente,baja,ninguno,volátil,—,5,2026-06-29,,Potencial abierta (instinto de conquista). Cercana en edad y energía, accesible.
+asui-001,Asui Tsuyu (Froppy),romántico,0,latente,baja,ninguno,volátil,—,5,2026-06-29,,Potencial abierta. Honesta, práctica, directa. Le gustan las cosas claras.
+kendo-001,Itsuka Kendo,romántico,0,latente,baja,ninguno,volátil,—,4,2026-06-29,,Potencial abierta. Líder de facto de 1-B, accesible, adulta con peso del liderazgo.
+tokage-001,Setsuna Tokage (Lizardy),romántico,0,latente,baja,ninguno,volátil,—,4,2026-06-29,,Potencial abierta. Accesible, vida propia, puede desarmar su cuerpo.
+komori-001,Kinoko Komori (Mushroom),romántico,0,latente,baja,ninguno,volátil,—,4,2026-06-29,,Potencial abierta. Amable, sensible a presión social. Su quirk libera esporas.
+camie-001,Camie Utsushimi,romántico,0,latente,baja,ninguno,volátil,—,4,2026-06-29,,Potencial abierta. Shiketsu, extrovertida, sociable, glamur. Si la campaña toca Shiketsu.
+saiko-001,Saiko Intelli,romántico,0,latente,baja,ninguno,volátil,—,5,2026-06-29,,Potencial abierta. Seijin, genio, accesible con presión familiar pesada.
+habuko-001,Habuko Mongoose,romántico,0,latente,baja,ninguno,volátil,—,4,2026-06-29,,Potencial abierta. Ketsubutsu, apariencia de mangosta, simpática, directa.
+msjoke-001,Emi Fukukado (Ms. Joke),romántico,0,latente,baja,ninguno,volátil,—,5,2026-06-29,,Potencial abierta. Profesora, bromista, cálida. Risa = shock paralizante. Tabú profesora-alumno.
+mirko-001,Mirko (Usagiyama Rumi),romántico,0,latente,baja,ninguno,volátil,—,5,2026-06-29,,Potencial abierta. Pro-hero top, brash, no-nonsense. Si la campaña toca agencias pro.
+ryukyu-001,Ryukyu (Tatsumi Ryuko),romántico,0,latente,baja,ninguno,volátil,—,6,2026-06-29,,Potencial abierta. Pro-hero, dragon quirk, seria, busy. Accesible con esfuerzo.
+mtlady-001,Mt. Lady (Yu Takeyama),romántico,0,latente,baja,ninguno,volátil,—,4,2026-06-29,,Potencial abierta. Pro-hero, giant quirk, glamurosa, algo vanidosa. Reto es la profundidad.
+burnin-001,Burnin,romántico,0,latente,baja,ninguno,volátil,—,4,2026-06-29,,Potencial abierta. Sidekick en Endeavor Agency, simpática, directa. Cercana a Endeavor (complicado).
+pixie-001,Pixie-Bob,romántico,0,latente,baja,ninguno,volátil,—,4,2026-06-29,,Potencial abierta. Pussycats, adulta, esposa de Vlad King (complicado). Earth Beasts quirk.
+tiger-001,Tiger,romántico,0,latente,baja,ninguno,volátil,—,5,2026-06-29,,Potencial abierta. Pussycats, adulta, puede transformarse en tigre. Más reservada.
+mandalay-001,Mandalay,romántico,0,latente,baja,ninguno,volátil,—,5,2026-06-29,,Potencial abierta. Pussycats, adulta, telépata. Útil en misiones; siente al PC a distancia.
+mei-001,Mei Hatsume,romántico,0,latente,baja,ninguno,volátil,—,4,2026-06-29,,Potencial abierta. Support, inventora obsesionada, sexual directa. Útil para gadgets.
+inko-001,Inko Midoriya,romántico,0,latente,baja,ninguno,volátil,—,5,2026-06-29,,Potencial abierta declarada por el jugador (con tabú). Madre de Izuku, adulta ~40. **No parentesco con el PC.** Tabú social: madre de compañero.
+fuyumi-001,Fuyumi Todoroki,romántico,0,latente,baja,ninguno,volátil,—,5,2026-06-29,,Potencial abierta. Hermana de Shōto, pro-hero/enseñanza, adulta. **No parentesco con el PC.**
+toga-001,Toga Himiko,romántico,0,latente,baja,ninguno,volátil,sombra-secreto,8,2026-06-29,,Línea y velo sí-a-todo confirmada. Único límite: no escenas sin consentimiento del PC. Villana activa = tensión narrativa.

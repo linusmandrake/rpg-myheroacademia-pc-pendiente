@@ -27,7 +27,7 @@
 | `rutas_crecimiento.csv` | Caminos de subida activos | ruta |
 | `cronologia.csv` | Timeline canónico de la campaña | día/fecha |
 | `facciones_estado.csv` | Estado de cada facción | facción |
-| `relaciones.csv` | Relaciones del PC: eje afecto (closeness 0–10) + eje deseo (0–10 o —) + flag `anclado` | NPC |
+| `relaciones.csv` | Perfil multidimensión por vínculo: closeness (afecto 0–10) + deseo + confianza + compromiso + régimen + marco + dificultad + hitos | NPC |
 
 ## Archivos `.md` en `registros/`
 
