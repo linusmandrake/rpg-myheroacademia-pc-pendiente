@@ -224,15 +224,17 @@ El PC tiene un **pool de sangre** que es el combustible de su Quirk. **No es lo 
 
 ### Recuperación del pool
 
-| Acción de recuperación | Unidades |
+> **Ver sección "Mecánica detallada de recuperación de sangre" más abajo para el sistema completo.** Aquí está el resumen básico:
+
+| Acción | Unidades |
 |---|---|
-| Descanso completo (8 horas de sueño) | 50 |
-| Comida (desayuno, almuerzo, cena) | 20 por comida |
-| Hidratación (agua, bebida) | 10 |
-| Comida especial (carne roja, hierro) | 30 |
-| Transfusión externa (de un aliado compatible) | 40 |
-| Curación del simbionte (si está de buen humor) | 5 por día natural |
-| Marca narrativa de "descanso merecido" | 100 (recupera todo) |
+| Descanso completo (8h) | 50 |
+| Comida regular | 20 |
+| Comida rica en hierro | 30 |
+| Hidratación | 10 |
+| Transfusión externa (aliado compatible) | 40 |
+| Curación del simbionte (ánimo bueno) | 5/día |
+| Marca narrativa de "descanso merecido" | 100 (todo) |
 
 ### Reducción de coste por maestría
 
@@ -507,3 +509,272 @@ El GM usa estos momentos para dar peso narrativo a las relaciones, no para "faci
 - [ ] Actualizar `personaje_pc_pendiente.md` con los stats, backstory, y relaciones iniciales.
 - [ ] Crear `registros/equipo_pc.csv` con las capacidades del Quirk.
 - [ ] Primera sesión — el PC llega a UA, descubre que su simbionte es más complejo de lo que pensaba, y empieza a manifestar las proyecciones.
+
+---
+
+# Mecánica detallada de recuperación de sangre
+
+> **Principio rector:** la sangre se recupera con descanso, comida, hidratación, simbionte, atención médica, e intimidad. Todo es recuperable, todo es temático, todo encaja con el tono 18+ adulto.
+
+---
+
+## 1. Recuperación pasiva (base)
+
+El PC siempre está regenerando sangre lentamente, incluso sin hacer nada. Esto representa la producción natural de sangre del cuerpo, modulada por el simbionte.
+
+### Tasa pasiva
+
+- **Base:** **1 unidad por hora** (24 unidades al día solo por existir).
+- Esto significa que, en un día de descanso absoluto, el PC recupera 24 unidades pasivamente sin hacer nada más.
+- La tasa pasiva se **duplica a 2/h** si el PC está en un entorno seguro y relajado (casa, sala común, onsen).
+
+### Modificadores pasivos
+
+| Condición | Modificador |
+|---|---|
+| Durmiendo (sueño profundo) | +1/h (durante el sueño) |
+| Comida reciente (<4h) | +1/h (durante 4h) |
+| Hidratación reciente (<2h) | +1/h (durante 2h) |
+| Animo del simbionte aliado | +1/h (permanente mientras dure) |
+| Estrés emocional intenso | −1/h (permanente mientras dure) |
+| Hambre / sed | −1/h (hasta que coma/beba) |
+| Herida grave abierta | −2/h (hasta que cierre) |
+| Veneno / quirk supresor | −3/h (hasta que se cure) |
+
+**Ejemplo:** PC duerme 8h tras una comida pesada y está con simbionte aliado: 8h × (1 base + 1 sueño + 1 comida + 1 simbionte) = **32 unidades pasivas de las 8h de sueño**, sumadas a las 50 de "sueño completo" = **82 unidades en una noche de buen dormir**. Casi recupera todo el pool.
+
+---
+
+## 2. Recuperación activa (acciones específicas)
+
+### Comida
+
+La comida es la fuente principal de recuperación activa. No toda la comida es igual.
+
+| Tipo de comida | Unidades | Notas |
+|---|---|---|
+| **Comida regular** (desayuno de hotel, almuerzo rápido) | 20 | Suficiente para el día |
+| **Comida rica en hierro** (carne roja, hígado, espinacas, etc.) | 30 | +1/h pasivo durante 4h |
+| **Comida japonesa "de poder"** (katsudon, ramen de carne, gyudon) | 35 | Inspirada en el canon (katsudon de Deku). Bono extra: +1 a PWR_quirk durante 2h |
+| **Feast / celebración** (evento festivo, restaurante de calidad, comida compartida con seres queridos) | 50 | Bono extra: +1 a COO_quirk durante 4h (comunidad) |
+| **Comida con un interés romántico** (cita, cocinada por alguien) | 40 | Bono extra: −1 a memory scars activos (conexión emocional reduce disociación) |
+| **Comida rechazada / de hospital** (sabor institucional) | 15 | Sin bonus. Triste pero funcional |
+
+### Bebida
+
+| Tipo de bebida | Unidades | Notas |
+|---|---|---|
+| **Agua** | 10 | Lo básico. +1/h pasivo durante 2h |
+| **Té verde** (matcha, sencha) | 15 | +1 a ING_quirk durante 2h (claridad mental) |
+| **Bebida isotónica / deportiva** | 20 | +1 a TEC_quirk durante 2h |
+| **Café** | 10 | +1 a ING_quirk durante 1h. Si se abusa (>3 al día), −1 a ING_quirk (nerviosismo) |
+| **Alcohol** (sake, cerveza, etc.) | 5 | +1 a COO_quirk (relajación social) durante 1h. **Consecuencia:** resaca = −10 al día siguiente, hasta que se hidrate y coma |
+| **Jugo de frutas fresco** (naranja, granada) | 20 | +1 a regeneración pasiva durante 3h |
+
+### Sueño
+
+El sueño es la recuperación más eficiente. La calidad importa más que la cantidad.
+
+| Calidad de sueño | Unidades | Requisitos |
+|---|---|---|
+| **Sueño profundo completo** (8h) | 50 | Sin interrupciones, lugar seguro, simbionte cooperativo, sin heridas graves |
+| **Sueño ligero** (6h) | 35 | Interrupciones menores, sin bestias activas, sin Eco reciente |
+| **Siesta corta** (1–2h) | 15 | Lugar seguro, sin estrés, sin bestias activas |
+| **Siesta larga** (3–4h) | 25 | Idem siesta corta pero más tiempo |
+| **Sueño de 12h** (agotamiento total) | 75 | PC está al <20% del pool o <30% HP; necesita recuperación larga |
+| **Sueño interrumpido por pesadillas** (8h) | 20 | Pesadillas recurrentes por trauma, disociación. **Memoria scarred** |
+| **Sueño con simbionte aliado** (8h) | 65 | Bonus si simbionte está de buen humor: +1 a todas las recuperaciones del día siguiente |
+
+### Descanso activo (no dormir)
+
+| Actividad | Unidades | Notas |
+|---|---|---|
+| **Onsen / baño caliente** | 20 | Limpieza, calor, relajo. +1 a TEC_quirk durante 2h (músculos relajados) |
+| **Sauna** | 15 | Calor intenso. +1 a PWR_quirk durante 1h (vasodilatación) |
+| **Siesta en el pasto** (sin dormir profundamente) | 10 | Aire libre, sol. +1 a regeneración pasiva durante 3h |
+| **Meditación / yoga** | 15 | +1 a ING_quirk durante 2h. Bueno para el simbionte |
+| **Conversación profunda con un aliado** (íntima, emocional) | 15 | Reduce 1 memory scar activa (conexión emocional) |
+| **Acostarse en el regazo de alguien** (íntimo, sin sexo) | 10 | Recupera + reduce 1 memory scar |
+
+### Médico
+
+| Atención médica | Unidades | Notas |
+|---|---|---|
+| **Recovery Girl (quirk Heal)** | 60 | Quirk consume energía del paciente. PC sale con 60 sangre + cansancio (−1 a PWR por 1 día) |
+| **Hospitalización (cama,IV,descanso monitorizado)** | 80 | Requiere 1 día de reposo. Recupera también HP |
+| **Transfusión de sangre compatible** (aliado) | 40 | El aliado pierde 40 de su pool. Crea vínculo. **Requiere compatibilidad** (simbionte acepta la sangre ajena) |
+| **Hierro / vitaminas / suplemento dietético** | 10 | +1 a regeneración pasiva durante 24h |
+| **Transfusión de sangre del simbionte** (cuando está aliado) | 30 | El simbionte devuelve sangre al PC. Íntimo, ritual |
+
+---
+
+## 3. Modificadores globales de recuperación
+
+El porcentaje de recuperación base se modifica según el estado del PC:
+
+| Estado | Modificador |
+|---|---|
+| **Simbionte aliado** | +20% a TODA recuperación |
+| **Simbionte cooperativo** | +10% |
+| **Simbionte neutral** | 0% |
+| **Simbionte resentido** | −20% |
+| **Simbionte enemigo** | −40% (y algunas recuperaciones no aplican) |
+| **Bestias activas** | −5% por bestia activa (la sangre se va en mantenerlas) |
+| **Ecos activos en la sesión** | −5% por Eco reciente (memoria consumida) |
+| **PC rodeado de aliados de confianza** | +10% (apoyo social) |
+| **PC solo / aislado / en combate** | −10% (estrés, sin descanso) |
+| **PC en zona de confort** (casa, sala común) | +10% |
+| **PC en zona hostil** (combate,陌生的) | −10% |
+| **PC herido** (HP <50%) | −10% adicional |
+| **PC gravemente herido** (HP <20%) | −20% adicional |
+| **PC herido crónicamente / con TEPT** | −5% adicional permanente |
+
+**Ejemplo:** PC en onsen, simbionte aliado, HP 80%, 2 bestias activas:
+- 20 (onsen) × 1.20 (simbionte aliado) × 0.90 (bestias) = **21.6 unidades**.
+- A eso se suma 1.5/h pasivo (base 1 + aliado 0.5) × 2h en onsen = 3 unidades pasivas.
+- Total: ~25 unidades en 2h de onsen.
+
+---
+
+## 4. Recuperación por intimidad (con consentimiento)
+
+> **Esta sección integra el tono 18+ adulto de la campaña.** La intimidad es una fuente legítima y significativa de recuperación para el PC. El cuerpo se regenera con conexión.
+
+### Conexión emocional (no sexual)
+
+| Acción | Unidades | Notas |
+|---|---|---|
+| **Conversación íntima profunda** (vulnerabilidad compartida) | 15 | Reduce 1 memory scar activa |
+| **Confesión de sentimientos** (mutua) | 25 | Reduce 2 memory scars; +1 a COO_quirk durante 1 día |
+| **Abrazo prolongado** (con alguien querido) | 10 | Reduce 1 memory scar leve |
+| **Contacto físico tierno** (caricias, masajes, estar cerca) | 10 | +1 a regeneración pasiva durante 2h |
+| **Dormir abrazado/a con alguien** (sin sexo) | 30 | +1 a regeneración pasiva durante el sueño (recupera más) |
+| **Recibir cuidados médicos íntimos** (curar al PC con cuidado) | 20 | El cuidador pierde 10 unidades, PC gana 20 |
+
+### Sexo consensuado (con adulto, en el tono de la campaña)
+
+| Tipo de encuentro | Unidades (PC) | Bonus adicionales |
+|---|---|---|
+| **Sexo casual** (one-night-stand, conocido reciente) | 20 | +1 a PWR_quirk durante 2h (endorfinas); reduce 1 temporal scar |
+| **Sexo con interés romántico consolidado** (cita que progresa) | 35 | +1 a COO_quirk durante 1 día; reduce 2 memory scars |
+| **Sexo profundo / emocional** (con alguien con quien el PC tiene intimidad emocional) | 50 | +2 a COO_quirk durante 1 día; reduce todas las memory scars activas; +1 a regeneración pasiva durante 6h |
+| **Sexo en contexto de pós-combate / emocional** (alivio de tensión, trauma compartido) | 40 | +2 a ING_quirk durante 1 día (claridad post-traumática); reduce 2 memory scars |
+| **BDSM / kink consensuado** (con pacto previo, dentro de la línea y velo) | 30 + placer narrativo | Variable según intensidad y duración |
+| **Sexo con el Avatar Carmesí** (el PC consigo mismo, auto-erotismo) | 15 | Bonus: el simbionte observa, integración. Edge: el PC aprende sobre su propio cuerpo |
+| **Sexo con bestia del simbionte** (con consentimiento, dentro de la línea y velo) | 25 | Bonus: simbionte participa. Edge: comunicación simbiótica. **Línea y velo importante:** si la bestia tiene forma humanoide y consentimiento claro |
+
+### Notas sobre intimidad y recuperación
+
+- **La recuperación por intimidad es mecánica y narrativa.** El cuerpo del PC se regenera con la conexión emocional y física. No es solo "buen rollo" — es simbiosis: el simbionte también se beneficia de la conexión (el ánimo mejora).
+- **El consentimiento es clave.** Toda recuperación por intimidad requiere consentimiento real (no asumido). Si el PC fuerza a alguien, el simbionte se resiente y la recuperación se invierte (daño en lugar de recuperación).
+- **No es "transaccional".** El PC no "usa" a alguien para recuperar sangre. La conexión es genuina y la recuperación es un efecto secundario de la intimidad compartida. La campaña lo trata con respeto.
+
+---
+
+## 5. Topes y caps de recuperación
+
+### Tope máximo del pool
+
+- **Pool base máximo:** 100 unidades (sin buffs especiales).
+- **Con simbionte aliado + marca narrativa:** hasta **120 unidades** (el simbionte "estira" el pool del PC).
+- **A endgame (M9–10):** el pool máximo sube a **150 unidades** (el cuerpo trasciende los límites humanos).
+- **Nunca se puede pasar de 150** sin buffs narrativos específicos (marcas de "trascendencia").
+
+### Recuperación rápida
+
+- **80% del pool en 1 día:** posible con simbionte aliado + comida rica + 8h sueño + intimidad.
+- **100% del pool en 1 día:** posible con simbionte aliado + comida rica + 8h sueño + intimidad profunda (o marca narrativa).
+- **Recuperación completa después de combate largo:** 1 día de descanso + simbionte aliado + intimidad significativa.
+
+### Recuperación lenta (coste bajo)
+
+- **5–10% del pool por hora en descanso:** posible con simbionte aliado.
+- **El PC se recupera SIEMPRE.** No hay estado de "sangre baja permanente" que no se solucione con descanso y cuidado.
+
+---
+
+## 6. Cosas que BLOQUEAN o REDUCEN significativamente la recuperación
+
+### Bloqueos duros (recuperación muy lenta o imposible)
+
+- **Veneno de quirks supresor** (Overhaul, AFO, etc.): −3/h pasivo hasta que se cure.
+- **Daño persistente** (herida que no cierra, quirk enemigo que drena): −2/h pasivo.
+- **Simbionte enemigo:** la sangre se regenera pero el simbionte no "coopera" con la regeneración (no boosts). El PC se recupera lento.
+- **Malnutrición severa** (PC no come en 3+ días): −2/h pasivo.
+- **Deshidratación severa** (PC no bebe en 1+ día): −2/h pasivo.
+
+### Reductores significativos
+
+- **Estrés emocional intenso:** −1/h pasivo. Se quita al resolver el estrés (conversación, sexo, descanso).
+- **Heridas graves:** −1/h pasivo por herida grave abierta.
+- **Disociación activa** (memory scars): −0.5/h pasivo por cada 2 scars.
+- **Falta de simbionte** (el simbionte se ha retraído temporalmente): sin bonus de simbionte.
+
+### Reductores leves (recuperación más lenta pero funcional)
+
+- **Frío extremo:** −0.5/h pasivo.
+- **Altitud:** −0.5/h pasivo.
+- **Falta de luz solar** (bestias y simbionte necesitan sol): −0.5/h pasivo.
+- **Comida chatarra** (no nutritiva): las comidas chatarra dan 5 unidades, no 20.
+
+---
+
+## 7. Estrategias de recuperación recomendadas
+
+### Para uso diario (el PC se mantiene en 70–100%)
+
+- Desayuno completo (20) + almuerzo (20) + cena (20) = 60 unidades.
+- 8h sueño con simbionte cooperativo = 50 + 2/h pasivo × 8h = 66 unidades.
+- 1h de onsen o descanso activo = 20 unidades.
+- **Total: 146 unidades** (más que suficiente; el pool se mantiene al máximo).
+
+### Para recuperación post-combate (1 día de descanso)
+
+- 12h de sueño profundo (75) + comida rica (30 × 2) + simbionte aliado = ~155 unidades. Recupera todo.
+- Si hubo bestias: alimentarlas y dejar que el simbionte descanse.
+- Si hubo rewind: descansar 8h extra (memory scars se quitan con descanso).
+
+### Para recuperación post-arco (semana de descanso)
+
+- 1 semana de bajo uso del Quirk.
+- Comida regular, sueño completo, intimidad con aliados.
+- Conexión con el simbionte: rituales, conversación, dejar que las bestias descansen.
+- El PC entra al siguiente arco al 100% con simbionte aliado y memory scars = 0.
+
+### Para recuperación de "reverie" (post desmayo por overuse)
+
+- Allies cuidan al PC durante el desmayo (8h).
+- Al despertar: el PC está a 30% del pool (recuperó pasivamente).
+- Comida + simbionte aliado + descanso adicional: recupera el 100% en otro día.
+- Las memory scars se quitan todas durante la "reverie".
+
+---
+
+## 8. Resumen ejecutivo
+
+| Método | Unidades base | Modificadores |
+|---|---|---|
+| **Sueño profundo 8h** | 50 | +2/h pasivo; +simbionte +20% |
+| **Comida regular** | 20 | +1/h pasivo durante 4h |
+| **Comida rica en hierro** | 30 | +1/h pasivo durante 4h |
+| **Katsudon / comida de poder** | 35 | +1 PWR_quirk 2h |
+| **Agua** | 10 | +1/h pasivo 2h |
+| **Café / té** | 10–15 | +1 ING_quirk 1–2h |
+| **Onsen / sauna** | 15–20 | +1 PWR/TEC_quirk 1–2h |
+| **Recovery Girl** | 60 | HP bajo, cansancio |
+| **Hospitalización** | 80 | 1 día, recupera HP también |
+| **Transfusión de aliado** | 40 | Aliado pierde 40 |
+| **Simbionte aliado (diario)** | 5 | +1/h pasivo permanente |
+| **Simbionte feeding back** | 30 | Íntimo |
+| **Conversación íntima profunda** | 15 | Reduce 1 memory scar |
+| **Confesión mutua** | 25 | Reduce 2 scars; +1 COO_quirk 1 día |
+| **Sexo casual** | 20 | +1 PWR_quirk 2h |
+| **Sexo romántico** | 35 | Reduce 2 scars; +1 COO_quirk 1 día |
+| **Sexo profundo / emocional** | 50 | Todas las scars; +2 COO_quirk 1 día; +1/h pasivo 6h |
+| **Marca narrativa "descanso merecido"** | 100 | Recupera todo |
+
+### Garantía de viabilidad
+
+Con las estrategias diarias recomendadas, **el PC puede mantener su pool al 80–100% sin esfuerzo**. Tras un combate, **un día de descanso + simbionte aliado + intimidad recupera todo**. Tras un arco largo, **una semana de descanso recupera todo y elimina memory scars**.
+
+**El PC NO puede morir por sangre baja.** El peor caso es desmayo (sangre 0%) o "reverie" (overuse de rewind/eco). Ambos son recuperables en 4–8h con aliados. La campaña puede usar estos momentos como recursos narrativos, no como finales.
