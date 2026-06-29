@@ -206,7 +206,24 @@ Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres a
 
 ### Mujeres villanas (opciones con peso y líneas y velos)
 
-- **Toga Himiko** — Transform. **Dificultad: 8 (Difícil) + línea y velo explícita.** Obsesión con la sangre, adulta. Aquí su obsesión puede tener lecturasadultas (fetichización del daño, del corte, etc.) que requieren negociación cuidadosa del consentimiento y líneas del jugador. **Si el jugador no quiere exploración de este tipo, Toga es no-opción.** Si se acepta, hay que definir de antemano cómo se trata la obsesión con la sangre (¿solo besarse y transformarse en la pareja? ¿escenas con cortes? ¿hasta dónde?).
+- **Toga Himiko** — Transform. **Dificultad: 8 (Difícil) + línea y velo explícita.**
+  - **Quirk:** Transform. Puede transformarse en otra persona después de **ingerir su sangre**. Cuanta más sangre, más tiempo mantiene la forma. La sangre se obtiene con **jeringas, cuchillos, o cortes directos** — ella es **obsesiva con el acto de sacar sangre** y con ver/manipular la sangre ajena.
+  - **Personalidad:** yandere-ish, le encantan las cosas "lindas" (incluyendo chicos lindos como Midoriya), confunde amor y violencia, ve el corte y la sangre como parte del romance. Sonríe mientras hiere. Extrovertida, ruidosa, carismática, manipuladora.
+  - **Obsesión canon con Midoriya:** Toga está enamorada de Midoriya en canon (lo encuentra "adorable" y quiere ser como él/amarlo). En la campaña puede proyectar esa obsesión hacia el PC si el PC le resulta "lindo" o si Midoriya está con Uraraka y Toga busca un "sustituto". También puede obsesionarse con alguien cercano al PC (como en canon ataca a Uraraka o a Ochaco por su cercanía a Midoriya — **en esta campaña puede atacar a una interés romántica del PC para acercarse**).
+  - **Comportamiento canónico relevante:** Toga ataca con cuchillo/jeringas a gente que le atrae (chicas lindas, Midoriya, otros), extrae sangre, la usa para transformarse, y en algunos casos la bebe directamente (en canon lo hace con Twice en escenas oscuras). Aquí la relación con el PC puede incluir esta dinámica: extracción de sangre, transformaciones, escenas con heridas, etc.
+  - **Línea y velo explícita:** la obsesión con la sangre y la fetichización del daño son temas que **requieren negociación previa con el jugador**. Definir antes de incluir a Toga en la campaña:
+    1. ¿Se permiten escenas de extracción de sangre explícitas? (jeringas, cortes, etc.)
+    2. ¿Se permiten escenas donde Toga bebe sangre del PC? (vampirismo consensuado)
+    3. ¿Se permite que Toga lastime al PC en escenas íntimas? (marcas, cortes leves, etc.)
+    4. ¿Se permite que Toga obsesione con alguien cercano al PC? (amiga, interés, etc.)
+    5. ¿Cuál es el límite absoluto? (p.ej. "no escenas de tortura", "no escenas donde el PC no consiente")
+  - **Si el jugador no quiere explorar este tipo de contenido, Toga es NO-OPCIÓN** y se trata como villanaenemiga pura. El sistema no fuerza al jugador a incluir este contenido.
+  - **Si se acepta:** la relación con Toga es un **arco entero de la campaña** con peso narrativo 3. Requiere:
+    - Confrontar su pasado (abuso en casa por su orientación hacia la violencia/sangre).
+    - Confrontar la Liga (que es su "familia").
+    - Negociar constantemente las líneas del PC con las de Toga.
+    - Aceptar que Toga no va a "curarse" ni "abandonar" la sangre; el PC acepta su naturaleza o la deja.
+  - **Dificultad 8** porque, además del contenido adulto: Toga es miembro activo de la Liga, persigue al PC con intención romántica-violenta, y la relación con ella implica cruzar líneas con la Comisión/UA.
 
 ---
 
