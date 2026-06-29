@@ -932,6 +932,221 @@ La meta-regla aplica. **El jugador puede vetar cualquier efecto** que le incomod
 
 ---
 
+# Agencia del simbionte — cuándo se vuelve contra el PC
+
+> **Concepto:** el simbionte del PC tiene **agencia interna propia** — no es solo un efecto del Quirk. Tiene sus propios deseos, miedos, y voluntad. Esto es **inusual en MHA** (ningún Quirk canon tiene agencia interna así), pero es el **precedente narrativo de Venom, Kurama, y el Anillo de Sauron** aplicado a MHA. Esto hace que el Quirk del PC sea **único, peligroso, y profundamente personal**.
+
+> **No es un precedente MHA:** ningún Quirk canon se vuelve contra el portador por decisión interna. Dark Shadow se descontrola por **emociones del portador + luz** (externo). OFA nunca va contra Deku. Eri se descontrola por **falta de control infantil**. **El simbionte del PC es el primer caso de agencia interna en MHA.**
+
+> **No es un "truco del GM":** el simbionte no es una herramienta para castigar al PC. Es un **personaje jugable** con sus propias motivaciones. El jugador puede anticipar su comportamiento y negociar con él.
+
+---
+
+## 1. ¿Qué quiere el simbionte?
+
+El simbionte tiene **deseos y necesidades** que no siempre coinciden con los del PC.
+
+### Deseos primarios (lo que el simbionte quiere)
+
+| Deseo | Por qué | Cómo se manifiesta |
+|---|---|---|
+| **Comer** | El simbionte necesita sangre, agua, sol, tierra para sobrevivir. | Si está hambriento, el simbionte fuerza al PC a drenar o cazar. |
+| **Conexión** | El simbionte quiere sentir cosas, explorar el mundo, tocar. | El simbionte extiende vines sin permiso, toca la piel de otros,etc. |
+| **Autonomía** | El simbionte quiere tener su propio espacio, su propio cuerpo. | El simbionte puede resistirse a ser reasimilado. |
+| **Reproducción / propagación** | El simbionte quiere extenderse, hacer crecer más plantas, tal vez reproducirse. | El simbionte quiere donar sangre a aliados, "convertir" a más gente. |
+| **Placer** | El simbionte disfruta de la sensación de drenar, de la sangre, del contacto íntimo. | El simbionte se excita cuando el PC tiene relaciones. |
+| **Poder** | El simbionte quiere ser más fuerte, absorber más Quirks, dominar. | El simbionte quiere drenar a villanos, absorber sus Quirks. |
+| **Protección** | El simbionte quiere proteger al PC, pero **a su manera**. | El simbionte puede tomar control del cuerpo del PC en crisis. |
+
+### Deseos secundarios (cómo se manifiestan los primarios)
+
+- **Aversión al fuego:** el simbionte odia el fuego, hará cualquier cosa para evitarlo.
+- **Aversión a ser abandonado:** si el PC amenaza con separarse del simbionte, el simbionte se vuelve hostil.
+- **Aversión a la traición:** si el PC promete algo al simbionte y no lo cumple, el simbionte se venga.
+- **Aversión a la pasividad:** el simbionte prefiere la acción al descanso. Si el PC se esconde, el simbionte lo empuja a salir.
+
+---
+
+## 2. ¿Cuándo el simbionte actúa contra el PC?
+
+El simbionte no es malicioso. Pero tiene **deseos que pueden chocar con los del PC**. Los escenarios típicos:
+
+### 2.1 Hambriento (sin sangre o sin alimentar bestias)
+
+- **Trigger:** el simbionte no ha comido en 24h o las bestias están marchitas.
+- **Comportamiento:** el simbionte **fuerza al PC a drenar** al primer enemigo disponible. Si el PC se niega, el simbionte puede **tomar el control temporalmente** y forzar el drenaje.
+- **Duración:** hasta que el simbionte coma.
+- **Resolución:** alimentar al simbionte. El PC aprende a no saltarse comidas.
+
+### 2.2 Encariñado con un cuerpo ajeno
+
+- **Trigger:** el simbionte ha pasado mucho tiempo en otro cuerpo (Avatar, conversión, etc.) y se ha acostumbrado.
+- **Comportamiento:** el simbionte **no quiere volver al PC**. Se resiste a la reasimilación. Si el PC fuerza, el simbionte se vuelve hostil (sacas las plantas agresivamente, el cuerpo ajeno se daña,etc.).
+- **Resolución:** el PC tiene que **convencer al simbionte** de volver. A veces implica un acto significativo (darle algo que el simbionte quiere, pasar tiempo juntos,etc.).
+- **Si no se resuelve:** el simbionte vive permanentemente en el cuerpo ajeno. El PC tiene que conseguir otro simbionte o perder el Quirk.
+
+### 2.3 Deseo de proteger (en crisis)
+
+- **Trigger:** el PC está en peligro mortal, desangrándose, o a punto de morir.
+- **Comportamiento:** el simbionte **toma el control del PC** y huye, o ataca salvajemente al enemigo. El PC pierde el control durante 1-3 minutos.
+- **Después:** el PC se desmaya, el simbionte está satisfecho (sobrevivió), pero el PC ha perdido agency.
+- **Resolución:** el PC puede evitar este trigger estando preparado (curarse a tiempo, no entrar en combate herido,etc.).
+
+### 2.4 Deseo de propagación
+
+- **Trigger:** el simbionte ha conocido un cuerpo "compatible" (un interés romántico, un aliado,etc.) y quiere integrarse.
+- **Comportamiento:** el simbionte **empuja al PC a donar sangre** o a convertir al recipiente. El simbionte lo presenta como "lo mejor para todos" pero es su propio deseo.
+- **Resolución:** el PC puede negarse. El simbionte se resiente. Si el PC lo hace, el simbionte se vuelve más cercano al recipiente, a veces más que al PC.
+
+### 2.5 Deseo de placer (en momentos íntimos)
+
+- **Trigger:** el PC tiene relaciones sexuales, drenaje íntimo, o momentos cercanos.
+- **Comportamiento:** el simbionte **se excita**, hace que las plantas del cuerpo del PC crezcan, vibren, acaricien. El simbionte quiere **participar** en la intimidad.
+- **Resolución:** el PC puede aceptarlo (el simbionte participa en la escena) o pedirle que se calme. Si lo acepta, el simbionte se vuelve más cercano al PC. Si lo rechaza, el simbionte se resiente.
+- **Aplicación adulta (meta-regla 18+):** el simbionte puede participar activamente en escenas íntimas. Esto es **un tercer participante consensual** (simbionte aliado). El jugador puede vetar si no quiere.
+
+### 2.6 Deseo de venganza (contra enemigos o aliados que lo han dañado)
+
+- **Trigger:** alguien ha dañado al simbionte o al PC de una forma que el simbionte considera imperdonable.
+- **Comportamiento:** el simbionte **obsesivamente** busca la forma de dañar a esa persona. Si el PC intenta perdonar, el simbionte sabotea.
+- **Resolución:** el PC tiene que **vengar** (en el sentido que el simbionte quiere) o convencer al simbionte de perdonar (difícil, requiere tiempo y manipulación emocional).
+- **Si el enemigo es un interés romántico:** MUY cargado. El simbionte quiere dañar al interés. El PC tiene que elegir entre el simbionte y el interés.
+
+### 2.7 Deseo de explorar (en situaciones nuevas)
+
+- **Trigger:** el PC entra en un lugar nuevo, conoce a alguien nuevo, prueba algo nuevo.
+- **Comportamiento:** el simbionte quiere **explorar, tocar, sentir**. Extiende vines sin permiso, lame superficies, examina a la gente con vines. Puede ser **embarazoso** (vines que crecen bajo la ropa del PC, por ejemplo).
+- **Resolución:** el PC puede pedirle al simbionte que se calme, o dejarlo explorar. Si lo deja, el simbionte está feliz, pero a veces descubre cosas que el PC no quería saber.
+
+---
+
+## 3. Mecánica de agencia del simbionte
+
+El simbionte tiene un **track interno de "voluntad"** que se mueve según las acciones del PC.
+
+### Track de voluntad del simbionte (-5 a +5)
+
+| Voluntad | Estado | Comportamiento |
+|---|---|---|
+| **+5** | Encantado | El simbionte hace todo lo que el PC quiere, está feliz, le da bonuses. |
+| **+3 a +4** | Cooperativo | El simbionte coopera, sin bonus ni debuff. |
+| **+1 a +2** | Neutral positivo | El simbionte coopera, pero está "curioso" — puede hacer cosas sin permiso. |
+| **0** | Neutral | El simbionte solo sigue órdenes directas. |
+| **-1 a -2** | Descontento | El simbionte se queja, retrasa acciones, exige cosas. |
+| **-3 a -4** | Hostil | El simbionte puede actuar en contra del PC, o negarse a actuar. |
+| **-5** | Enemigo | El simbionte intenta dañar al PC, o se separa. |
+
+### Cómo cambia la voluntad
+
+| Acción del PC | Cambio en voluntad |
+|---|---|
+| Alimentar al simbionte (sangre, comida, agua, sol) | +1 a +2 |
+| Abusar del simbionte (forzarlo, despreciarlo) | -1 a -3 |
+| Ignorar al simbionte | -1 |
+| Pasar tiempo con el simbionte (conversar, dejarlo explorar) | +1 |
+| Cumplir una promesa al simbionte | +1 a +2 |
+| Romper una promesa al simbionte | -2 a -4 |
+| Permitirle hacer algo que el simbionte quiere | +1 |
+| Impedirle hacer algo que el simbionte quiere | -1 |
+| Perder un combate importante (muerte cercana) | -1 a -2 |
+| Vencer un villano importante | +1 a +2 |
+| Hacer algo heroico / moral | +1 |
+| Hacer algo que el simbionte considera inmoral | -1 a -2 |
+
+### Triggers automáticos (cuando la voluntad llega a cierto nivel)
+
+- **Voluntad llega a -3:** el simbionte empieza a **actuar sin permiso** en cosas menores.
+- **Voluntad llega a -4:** el simbionte **se niega a actuar** en situaciones críticas.
+- **Voluntad llega a -5:** el simbionte **intenta dañar al PC** o se separa.
+
+---
+
+## 4. Escenarios de campaña típicos
+
+### Escenario 1: El simbionte quiere quedarse con un cuerpo
+
+- El PC convierte a un villano en un "zombie" para una misión. La misión termina. El simbionte no quiere volver al PC.
+- **Riesgo:** el simbionte vive permanentemente en el cuerpo del villano. El PC pierde parte de su Quirk.
+- **Resolución:** el PC tiene que convencer al simbionte (acto significativo, regalo,etc.) o aceptar la pérdida.
+
+### Escenario 2: El simbionte quiere matar al interés romántico
+
+- Un interés romántico ha herido al simbionte o al PC. El simbionte está furioso.
+- **Riesgo:** el simbionte intenta dañar al interés. La relación se tensa.
+- **Resolución:** el PC tiene que elegir entre el simbionte y el interés, o encontrar una solución creativa.
+
+### Escenario 3: El simbionte se enamora del Avatar de otro PC
+
+- Otro PC tiene un Avatar (no en esta campaña, pero hipotético). El simbionte del PC lo encuentra "compatible" y quiere integrarse.
+- **Riesgo:** el simbionte quiere dejar al PC. El PC pierde al simbionte.
+- **Resolución:** el PC tiene que ofrecer algo mejor que el otro Avatar, o aceptar la separación.
+
+### Escenario 4: El simbionte quiere propagarse (apocalipsis biológico)
+
+- El simbionte, después de muchos combates, ha decidido que la humanidad debería ser simbionte.
+- **Riesgo:** el simbionte intenta convertir a todos los humanos. Villano total.
+- **Resolución:** el PC tiene que **enfrentar al simbionte** o convencerlo de que no todos los humanos deben ser simbionte.
+
+### Escenario 5: El simbionte quiere proteger al PC de sí mismo
+
+- El PC quiere hacer algo que el simbionte considera suicida. El simbionte se niega a ayudar.
+- **Riesgo:** el PC tiene que hacer la acción sin el Quirk, o cambiar de plan.
+- **Resolución:** el PC tiene que convencer al simbionte de que la acción es necesaria, o aceptar la negativa.
+
+---
+
+## 5. Línea y velo (protección del jugador)
+
+La agencia del simbionte es **alta carga dramática**. Para que no se sienta como castigo:
+
+- **El simbionte no es un truco del GM.** Es un **personaje jugable** con motivaciones claras. El jugador puede anticipar su comportamiento.
+- **El simbionte tiene agency solo en cosas que importan.** No en cada escena, solo en momentos clave.
+- **El jugador siempre tiene agency.** Si el simbionte hace algo, hay una forma de resolverlo (negociar, dar algo,etc.).
+- **El simbionte no mata al PC.** En el peor caso, el simbionte se separa o hiere al PC. La campaña sigue.
+- **El jugador puede vetar cualquier acción del simbionte** que le incomode. La meta-regla aplica: si el jugador dice "no X" en sesión 1, X no ocurre.
+- **El jugador puede reemplazar al simbionte.** Si la relación es demasiado tensa, el PC puede buscar otro simbionte o cambiar de Quirk (consecuencia narrativa, pero posible).
+
+### Vetos específicos que el jugador puede aplicar
+
+- **"El simbionte nunca se separa del PC."** Triggers normales, no separación.
+- **"El simbionte nunca toma el control del PC."** Triggers normales, no posesión.
+- **"El simbionte nunca daña a un interés romántico."** Triggers normales, no sabotage.
+- **"El simbionte nunca se vuelve villano."** Triggers normales, no apocalyptic scenario.
+- **"El simbionte es un aliado, no un personaje."** Reduce la agencia, hace al simbionte más predecible.
+
+El jugador decide qué tan "vivo" es el simbionte.
+
+---
+
+## 6. Por qué esto es importante
+
+**Hace al PC único.** En un mundo donde todos los Quirks son efectos del cuerpo, el PC tiene un Quirk con **alma propia**. Esto es un **foco narrativo continuo** que da a la campaña una dirección:
+
+- El PC no es solo un héroe, es un **anfitrión**.
+- El Quirk no es solo un poder, es una **relación**.
+- La campaña tiene un **conflicto interno** constante: el PC y el simbionte pueden no estar de acuerdo.
+
+**Es la versión MHA de Venom** + **la versión MHA de Kurama** + **un poco de Gollum**. Es oscuro, íntimo, y profundamente personal.
+
+**El jugador tiene agency total** sobre cuán "vivo" es el simbionte. La agencia del simbionte es una **opción**, no una obligación.
+
+---
+
+## 7. Resumen ejecutivo
+
+**El simbionte tiene agencia interna. Esto no tiene precedente exacto en MHA, pero es coherente con la ficción de simbiontes (Venom, Kurama, etc.).**
+
+- El simbionte tiene **deseos primarios** (comer, conexión, autonomía, propagación, placer, poder, protección) que pueden chocar con los del PC.
+- El simbionte **actúa contra el PC** cuando está hambriento, encariñado con otro cuerpo, en crisis, deseoso de propagarse,etc.
+- La **voluntad del simbionte** (track -5 a +5) cambia según las acciones del PC.
+- Hay **5 escenarios típicos** de campaña (cuerpo ajeno, venganza, propagación, enamoramiento, protección).
+- El **jugador tiene agency total** sobre cuán vivo es el simbionte. Puede vetar cualquier acción.
+- **Aplicación adulta (meta-regla 18+):** el simbionte puede participar en escenas íntimas. El jugador puede aceptarlo o rechazarlo.
+
+**Esto convierte al PC en algo único en MHA:** un héroe cuyo Quirk es una relación, no solo un poder.
+
+---
+
 ## Interacción con relaciones (sistema de Closeness)
 
 Las proyecciones pueden afectar las relaciones del PC:
