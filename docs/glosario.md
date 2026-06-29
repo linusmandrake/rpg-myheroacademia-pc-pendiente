@@ -10,7 +10,7 @@
 - **Quirklessness (無個性):** carecer de quirk. Es la nueva "minoría".
 - **Hero / Pro-Hero:** usuario de quirk con licencia que ejerce como profesional. La **Comisión de Seguridad Pública** (Hero Public Safety Commission) regula el registro y ranking.
 - **Villain:** usuario de quirk que opera fuera de la ley. Puede ser organizado (Liga de Villanos) o independiente.
-- **UA (雄英, *Yūei*):** la escuela de héroes más prestigiosa. Alto nivel de ingreso, altísimo de graduación.
+- **UA (雄英, *Yūei*):** la escuela de héroes más prestigiosa. Alto nivel de ingreso y altísima exigencia hasta la graduación.
 - **U.A. High School** está en **Musutafu** (むさたふ, prefectura de Tokyo).
 - **Hero Course:** el programa estrella. 40 alumnos al año repartidos en 1-A y 1-B.
 - **Provisional Hero License:** licencia de prácticas. Se obtiene con un examen específico. Sin ella, el PC no puede operar como héroe.

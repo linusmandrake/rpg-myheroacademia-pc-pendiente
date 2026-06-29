@@ -10,11 +10,11 @@ Akari Hayami llega a UA como **matriculado a última hora en 1-A** (recomendaci�
 
 1. Leer `docs/sesion_cero.md` (decisiones de tono, líneas y velos confirmadas — la de Toga está cerrada como "sí a todo") + avisos de `CLAUDE.md` (campaña 18+, uncensored start con corrección reactiva).
 2. Leer la ficha del PC: `docs/personaje_akari_hayami.md` + `docs/quirk_pc.md` (Sanguine Verdant Echo) + `registros/pj.csv`.
-3. Confirmar con el jugador el **arco inicial** (es la decisión pendiente en `punto_cierre_actual.md`):
-   - **A. Primer día estándar** (presentación a 1-A, homeroom, ejercicio de medición de Quirk).
-   - **B. Llegada en medio de un incidente** (Akari aterriza el día de un simulacro/emergencia y se le mide en caliente).
+3. **Fecha de llegada (ya fijada en la ficha):** Akari llega **tras el asalto al USJ** — la clase ya tiene dinámica y trauma compartido; él no lo vivió y es "el nuevo" definitivo. No re-decidir esto.
+4. Confirmar con el jugador el **arco inicial** (la decisión pendiente en `punto_cierre_actual.md`):
+   - **A. Primer día estándar** (presentación a 1-A, homeroom con Aizawa, ejercicio de medición del Quirk).
+   - **B. Llegada en caliente** (Akari aterriza en medio de un simulacro/incidente y se le mide bajo presión).
    - **C. Custom** (lo que el jugador proponga).
-4. Confirmar **fecha de llegada** respecto al canon (¿antes o después del USJ? — afecta a qué eventos vivió la clase). Por defecto: inicio de curso, antes de incidentes mayores.
 
 ## Beats sugeridos de la sesión 1 (arco A)
 

@@ -10,10 +10,16 @@ El proyecto está en **esqueleto inicial con PC definido**. El PC es **Akari Hay
 
 ## Decisión pendiente del jugador
 
-PC ya definido (Akari Hayami). Hecho: carpeta renombrada a `rpg-myheroacademia-akari-hayami`, ficha en `docs/personaje_akari_hayami.md`, `registros/pj.csv` poblado.
+Todo listo para **jugar la sesión 1**. Contexto ya fijado (no hace falta re-decidir): Akari llega a **UA, clase 1-A**, como **matriculado a última hora**, **tras el asalto al USJ** —la clase ya tiene dinámica y trauma compartido; él es "el nuevo" definitivo—. Closeness **0** con todos. Líneas y velos confirmados en `sesion_cero.md` (Toga "sí a todo"); meta-regla uncensored start con corrección reactiva.
 
-**Pendiente:** decidir el **arco inicial** y **lanzar la primera sesión** (abrir `docs/sesion_cero.md` para confirmar tono, año de inicio y líneas/velos).
+**Única decisión para arrancar: el arco de la sesión 1.**
+
+**A**. **Primer día estándar** — llegada a UA, homeroom con Aizawa, presentación ante 1-A y primera medición/ejercicio del Quirk. Compañeros y senseis le toman la medida.
+**B**. **Llegada en caliente** — Akari aterriza en medio de un simulacro o incidente y se le mide bajo presión real desde el primer minuto.
+**C**. **Otra cosa** — el arranque que el jugador proponga.
+
+(Guion de apoyo en `docs/guia_sesion_01.md`.)
 
 ## Próxima sesión
 
-*(Por programar, una vez definido el PC.)*
+**Sesión 1** — primer día de Akari en UA. Tras elegir A/B/C, jugar; al cerrar, usar la skill `cierre-sesion-mha` (crea `sesion_01.md`, actualiza registros y regenera este punto de cierre).
