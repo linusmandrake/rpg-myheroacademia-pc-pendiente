@@ -1,0 +1,63 @@
+# Registros de campaña — RPG MHA Custom
+
+> Convenciones de los registros persistentes. Todo lo que cambia sesión a sesión va aquí.
+
+## Principio rector
+
+**Un CSV por concepto, una fila por entidad.** Los CSVs son la fuente de verdad operativa. Los `.md` narrativos complementan, pero los datos numéricos viven en CSV.
+
+## CSVs en `registros/`
+
+| Archivo | Contenido | Una fila por… |
+|---|---|---|
+| `pj.csv` | Ficha del PC (stats, quirk, equipo, finanzas) | PC |
+| `companeros.csv` | Compañeros de clase / aliados cercanos | NPC aliado |
+| `mentores.csv` | Profesores, maestros, senseis | mentor |
+| `equipo_pc.csv` | Equipo del PC (costume, gadgets, apoyo) | ítem |
+| `finanzas.csv` | Ingresos, gastos, deudas, becas | movimiento |
+| `reputacion.csv` | Cobertura mediática, ranking,粉丝/haters | evento |
+| `entrenamientos.csv` | Sesiones de entrenamiento,汗 | sesión |
+| `misiones.csv` | Misiones de实习, patrullaje, rescate | misión |
+| `examenes.csv` | Exámenes UA, license exam, simulacros | examen |
+| `incidentes.csv` | Incidentes villanos,袭击,报警 | incidente |
+| `enemigos.csv` | Villanos conocidos, amenazas | villano |
+| `conocimientos.csv` | Cosas que el PC sabe o ha aprendido | conocimiento |
+| `progreso_narrativo.csv` | Marcas narrativas (peso 1/2/3) | marca |
+| `hitos_progresion.csv` | Subidas concedidas | subida |
+| `rutas_crecimiento.csv` | Caminos de subida activos | ruta |
+| `cronologia.csv` | Timeline canónico de la campaña | día/fecha |
+| `facciones_estado.csv` | Estado de cada facción | facción |
+
+## Archivos `.md` en `registros/`
+
+| Archivo | Contenido |
+|---|---|
+| `agenda.md` | Tareas/mejoras de campaña |
+| `estado_actual.md` | Resumen del estado al cierre de la última sesión |
+| `punto_cierre_actual.md` | Estado narrativo exacto + decisión pendiente del jugador (clave para abrir sesión) |
+| `deudas_favores.md` | Quién le debe qué a quién |
+| `eventos_calendario.md` | Fechas importantes (examen final, festival, etc.) |
+| `calendario_referencia.md` | Calendario académico UA |
+
+## Sesiones de agente
+
+- Carpeta: `registros/_opencode_sessions/`
+- Una subcarpeta por sesión con nombre aleatorio.
+- **NO se commitea** (ver `.gitignore`).
+
+## Regla de oro
+
+**Si cambia, va a CSV.** Si es narrativo extenso, va a `.md` enlazando al CSV.
+
+## Procedimiento de cierre de sesión
+
+1. Auditar el estado (ver `tools/validar_estado.py`).
+2. Actualizar CSVs.
+3. Reescribir `punto_cierre_actual.md`.
+4. Crear/extender `sesion_XX.md` en `registros/_opencode_sessions/`.
+
+## Procedimiento de apertura de sesión
+
+1. Leer `punto_cierre_actual.md`.
+2. Leer cabecera de `AGENTS.md` y avisos en `CLAUDE.md`.
+3. Saludar al jugador con cabecera 📅 + resumen breve + decisión pendiente.

@@ -1,0 +1,10 @@
+# Worktrees creados por la sesión de agente (no deben rastrearse en el repo)
+.claude/worktrees/
+
+# Sesiones privadas y datos sensibles
+registros/_opencode_sessions/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
