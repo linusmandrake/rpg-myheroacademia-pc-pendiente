@@ -22,9 +22,9 @@
 
 ---
 
-## Track de "Closeness" (0–10)
+## Track de "Closeness" (0–10) — el eje de afecto
 
-Por cada NPC relevante, el PC lleva un track de **Closeness** (cercanía emocional/sexual). Es un valor 0–10 que el GM actualiza en `registros/relaciones.csv`.
+Por cada NPC relevante, el PC lleva un track de **Closeness**: la **cercanía emocional (afecto)** —confianza, cariño, amor, lealtad—. Es un valor 0–10 que el GM actualiza en `registros/relaciones.csv`. La dimensión íntima/sexual va en un **eje aparte** (ver "Dos ejes: afecto y deseo"), porque no todos los vínculos la tienen.
 
 > **Importante:** como el PC es **homebrew y llega tarde o como intercambio**, todos los NPCs de la clase empiezan con **closeness 0** (desconocido). La construcción de cada relación es el trabajo narrativo principal de la campaña.
 
@@ -36,6 +36,43 @@ Por cada NPC relevante, el PC lleva un track de **Closeness** (cercanía emocion
 | 5–6 | Interés romántico | Coqueteo, citas, conversaciones íntimas. |
 | 7–8 | Relación establecida | Novios / pareja formal. |
 | 9–10 | Relación profunda | Compromiso serio (matrimonio, convivencia, etc.). |
+
+---
+
+## Dos ejes: afecto (emocional) y deseo (íntimo)
+
+Closeness no es un solo número que "sube hacia el sexo". Un vínculo tiene **dos ejes independientes**, y **no todos los vínculos tienen los dos**:
+
+| Eje | Qué mide | A quién aplica |
+|---|---|---|
+| **Afecto** (0–10) | cercanía emocional: confianza, cariño, lealtad, amor (romántico o no) | **a todos** los vínculos |
+| **Deseo** (0–10 o **—**) | atracción / dimensión íntima-sexual | **solo** donde tiene sentido, y **solo si la ficción lo abre** |
+
+El track de Closeness (arriba y abajo) es el **eje de afecto**. El **deseo es un eje aparte y opcional**.
+
+### El deseo NO se abre por defecto
+
+Regla dura: el eje de deseo arranca en **— (no aplica)** para todo vínculo. Solo se "abre" (pasa a 0–10) cuando **a la vez**:
+
+1. el **tipo de vínculo** lo admite (no toda relación es romántica/sexual),
+2. la **ficción lo justifica** en escena, y
+3. respeta el **rol y el estado del NPC**.
+
+Hay vínculos donde el deseo **nunca se abre**, por mucho que la campaña sea 18+:
+
+- **Figura materna / abuela / familiar de cariño:** afecto sí —puede ser altísimo y anclado—, deseo **—** por principio. No se le pone "contador sexual" a una madre o a una abuela.
+- **Mentora / maestra-figura de respeto:** afecto y respeto sí, deseo **—**.
+- **Amistad:** afecto sí, deseo **—**.
+
+Y hay vínculos donde el deseo **podría** abrirse pero **a su tiempo, nunca a destiempo**:
+
+- **Recién enviudada / persona en duelo:** el afecto crece como **apoyo y consuelo**; el deseo permanece **—** mientras el duelo esté vivo. El sistema **no empuja**: forzar el eje íntimo sobre alguien en duelo rompe el tono y, en la ficción, es una agresión. Solo si la persona ha sanado y lo desea, el eje se abre.
+
+> En corto: **18+ habilita, no obliga.** Que la campaña permita sexo explícito no significa que todo vínculo tenga eje sexual. La mayoría de los vínculos profundos de una vida no lo tienen.
+
+### En el registro
+
+En `registros/relaciones.csv`: `closeness` = afecto (0–10); `deseo` = eje íntimo (`0–10` si está abierto, `—` si no aplica/cerrado). El **anclaje** (régimen estable, ver abajo) se mide sobre el **afecto** —es el vínculo emocional el que perdura en el tiempo—.
 
 ---
 
@@ -114,6 +151,17 @@ Un vínculo anclado **solo baja por un evento con peso real**: traición, abando
 
 ---
 
+## Red social: los vínculos no existen en el vacío
+
+Con varias relaciones abiertas a la vez (el PC tiene muchas potenciales declaradas), los NPCs **no son islas**. Esta capa es **cualitativa** —el GM la juega a criterio, sin números nuevos— pero es lo que da peso real a un harem y lo que evita que sea una lista de conquistas sin consecuencias:
+
+- **Se enteran.** Lo que pasa en público, en el campus o entre gente que se conoce, circula. Las chicas de 1-A comparten dormitorio; lo que el PC hace con una puede llegar a otra.
+- **Reaccionan según personalidad y régimen.** Una NPC con afecto **volátil** puede enfriarse o retirarse al saber que es "una más". Una NPC **anclada** y segura puede tolerarlo, negociarlo o exigir exclusividad —según quién sea—. Momo (orgullosa, insegura) no reacciona igual que Mina (extrovertida, relajada) o Toga (sin nociones convencionales de exclusividad).
+- **La exclusividad se vuelve explícita al formalizar.** Si una relación pasa a formal (Closeness 7+, noviazgo), seguir persiguiendo a otras es una **traición** en cuanto se sepa: evento con peso que puede dañar incluso un vínculo anclado.
+- **El GM no bloquea el harem; lo hace *costar*.** No se trata de impedir relaciones simultáneas, sino de que generen fricción, drama y decisiones —que es donde está lo interesante—.
+
+---
+
 ## Obstáculos típicos por arquetipo (resumen)
 
 ### Alumnos UA (compañeros)
@@ -142,23 +190,30 @@ Un vínculo anclado **solo baja por un evento con peso real**: traición, abando
 
 ## Lo que NO es este sistema
 
-- **No es un sistema de "conquista"** ni de "perseguir hasta que digan sí". El NPC tiene agencia, y decir "no" es una respuesta válida y narrativa.
+> **Sobre el "instituto de conquista".** El jugador ha declarado que *todas* las mujeres del canon son potenciales y que el PC tiene "instinto de conquista" (ver `docs/personaje_akari_hayami.md`). Eso define la **amplitud**: el PC puede coquetear, seducir o perseguir a quien quiera, y el GM le da oportunidades para conectar. Lo de abajo define el **cómo**: esa amplitud convive con la agencia del NPC. "Todas son potenciales" significa *el PC puede intentarlo con cualquiera*, no *cualquiera dirá que sí*. Conquistar aquí es **ofrecer y conectar**, no insistir hasta vencer.
+
+- **El éxito no está garantizado.** Que una NPC sea "potencial" no la hace fácil: mandan su Dificultad y su personalidad. El "no" es una respuesta válida y narrativa.
 - **No es un dating sim.** Las relaciones son una dimensión más, no el centro de la campaña.
-- **No recompensa la insistencia.** La insistencia baja Closeness o la congela.
+- **No recompensa la insistencia.** Presionar a quien ya ha marcado un límite baja Closeness o la congela. Perseguir ≠ acosar.
 - **No convierte a NPCs problemáticos en parejas "fáciles"** por el hecho de ser jugables. Endeavor es un abusador. Mineta es un acosador adulto. La campaña puede tratar de confraternizar con ellos, pero el sistema refleja las consecuencias de elegir esas rutas.
 
 ---
 
 ## Cómo lo usa el GM
 
-1. Antes de la sesión, revisar las relaciones activas del PC en `registros/relaciones.csv`.
+1. Antes de la sesión, revisar las relaciones activas del PC en `registros/relaciones.csv` — mirar `closeness` **y** `anclado`.
 2. Cuando el PC interactúa con un NPC, sopesar:
    - ¿La acción del PC coincide con la personalidad del NPC?
    - ¿La dificultad del NPC sugiere cuánto esfuerzo requiere?
    - ¿Hay obstáculos externos (ética, facciones, ley)?
-3. Ajustar Closeness de 0 a +2 o -2 según el resultado.
-4. Si la escena es un hito emocional, asignar peso narrativo (0/1/2/3) y registrarlo en `progreso_narrativo.csv`.
-5. **No permitir escenas que violen las líneas y velos acordados con el jugador en `sesion_cero.md`.** Si la escena las cruza, parar y reconducir.
+3. Ajustar Closeness de 0 a +2 o −2 según el resultado de la escena.
+4. **Comprobar el régimen (tiempo vs. evento):**
+   - Vínculo **volátil** + desatención prolongada desde la última vez → aplicar enfriamiento (−1, más si la elipsis es larga).
+   - Vínculo **anclado** → **no** aplicar enfriamiento por tiempo; solo se mueve por eventos en escena.
+   - Si en esta escena ocurre el **hito de sinceridad**, marcar `anclado=si` y anotar la fecha en `ultimo_cambio`.
+5. Si la escena es un hito emocional, asignar peso narrativo (0/1/2/3) y registrarlo en `progreso_narrativo.csv`.
+6. Si hay otras relaciones afectadas (alguien se entera, celos, exclusividad rota), aplicar la capa de **red social** a criterio.
+7. **No permitir escenas que violen las líneas y velos acordados con el jugador en `sesion_cero.md`.** Si la escena las cruza, parar y reconducir.
 
 ---
 
@@ -208,6 +263,6 @@ En la práctica: el jugador puede iniciar una relación con cualquier NPC mujer 
 ## Próximos pasos
 
 - [ ] Revisar `docs/npc_canon.md` para que cada NPC tenga su `Dificultad` y razón.
-- [ ] Crear `registros/relaciones.csv` con la columna `closeness`.
+- [x] Crear `registros/relaciones.csv` con las columnas `closeness` y `anclado`.
 - [ ] Implementar checks de consistencia en `tools/validar_estado.py` para que el CSV exista.
 - [ ] Decidir con el jugador las líneas y velos generales en `sesion_cero.md`.
