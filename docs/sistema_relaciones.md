@@ -39,6 +39,35 @@ Por cada NPC relevante, el PC lleva un track de **Closeness** (cercanía emocion
 
 ---
 
+## Dos regímenes: afecto volátil y afecto anclado
+
+El track de Closeness **no se comporta igual en toda su extensión**. Tiene dos regímenes separados por un **umbral de sinceridad**. Esto es lo que da estabilidad al sistema y evita que las relaciones profundas se evaporen por el paso del tiempo.
+
+### Régimen volátil (afecto aún no sincero)
+
+Mientras el vínculo es tentativo —conocido, simpatía incipiente, coqueteo, amistad a medio hacer, atracción sin compromiso—, **el tiempo lo erosiona**. Si el PC deja de cultivarlo (no aparece, lo da por hecho, lo desatiende durante arcos largos), la Closeness **baja sola**: lo que no se riega, se enfría. Es normal y realista: los conocidos y los amores a medias se pierden si no se invierte en ellos.
+
+Aquí el **tiempo/atención es un recurso de construcción**: hay que gastarlo para subir y para no retroceder.
+
+### Umbral de sinceridad → el vínculo se *ancla*
+
+El vínculo cruza al régimen estable cuando ocurre un **hito de sinceridad genuina y recíproca**, **no cuando alcanza un número**. Es el momento en que el afecto deja de ser tanteo y se vuelve real:
+
+- **Romance:** confesión mutua de sentimientos sinceros (no solo química o coqueteo), o un momento de verdad compartido que ambos reconocen.
+- **Amistad:** el punto en que dejan de ser "colegas" y son amigos de verdad —lealtad probada, un "cuenta conmigo" que va en serio.
+
+Cuando ocurre, el GM marca el vínculo como **anclado** (`anclado=si` en `registros/relaciones.csv`) y anota la fecha.
+
+> **Clave:** el ancla la dispara el **hito**, no el número. Se puede tener Closeness alta y *seguir siendo volátil* (mucha química, ningún compromiso sincero → todavía se enfría con el tiempo), y se puede anclar con un número modesto (una amistad sincera de las que duran toda la vida sin ser una pasión). El número mide **intensidad**; el ancla mide si es **de verdad**.
+
+### Régimen anclado (afecto sincero)
+
+Una vez anclado, **el tiempo deja de morder**. Da igual cuánto pase sin verse: al reencontrarse, el vínculo retoma su intensidad *como si no hubiera pasado el tiempo*. La desatención y la elipsis **ya no bajan** la Closeness.
+
+Un vínculo anclado **solo baja por un evento con peso real**: traición, abandono auténtico, daño grave, ruptura. Nunca por el mero paso del tiempo. Y aun así rara vez cae a 0 de golpe: deja **marca** (un afecto roto no es lo mismo que un afecto que nunca existió).
+
+---
+
 ## Cómo se mueve la Closeness
 
 ### Acciones que suben Closeness
@@ -51,11 +80,13 @@ Por cada NPC relevante, el PC lleva un track de **Closeness** (cercanía emocion
 
 ### Acciones que bajan Closeness
 
-- **Forzar cercanía** sin que el NPC esté listo. Si Bakugo te dice "lárgate", te vas.
-- **Insultar valores del NPC.** Bakugo odia la compasión sin fuerza; Todoroki reacciona mal a quienes trivializan el trauma.
-- **Acoso o presión sexual.** El sistema lo detecta y aplica **reset o congelación** de la Closeness, además de consecuencias narrativas (denuncia, rechazo público, agresión).
-- **Ignorar al NPC durante arcos importantes.** Si Deku está袭击 USJ y no le hablas, baja.
-- **Ruptura de confianza.** Mentirle al NPC sobre algo importante = -2 o -3.
+> Las primeras cuatro son **eventos con peso** y aplican en **cualquier régimen** (sí pueden dañar un vínculo anclado). La última, el enfriamiento por desatención, **solo aplica en régimen volátil**.
+
+- **Forzar cercanía** sin que el NPC esté listo. Si Bakugo te dice "lárgate", te vas. *(Cualquier régimen.)*
+- **Insultar valores del NPC.** Bakugo odia la compasión sin fuerza; Todoroki reacciona mal a quienes trivializan el trauma. *(Cualquier régimen.)*
+- **Acoso o presión sexual.** El sistema lo detecta y aplica **reset o congelación** de la Closeness, además de consecuencias narrativas (denuncia, rechazo público, agresión). *(Cualquier régimen.)*
+- **Ruptura de confianza / traición.** Mentir o traicionar sobre algo importante = −2 o −3, más si es grave. *(Cualquier régimen — es el tipo de evento que sí daña un vínculo anclado.)*
+- **Desatención prolongada — solo en régimen volátil.** Ignorar al NPC, darlo por hecho o no aparecer durante arcos importantes enfría un vínculo **aún no anclado** (si Deku está en el USJ y no le hablas, baja). Una vez el vínculo está **anclado**, la desatención **no** lo baja: el tiempo deja de morder.
 
 ### Cómo la dificultad afecta el ritmo
 
