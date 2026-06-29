@@ -138,6 +138,19 @@ Por cada NPC relevante, el PC lleva un track de **Closeness** (cercanía emocion
 3. Recordar: la dificultad no es un muro, es una indicación de cuánto trabajo hay que hacer. Si la dificultad es 8, eso no significa "no se puede", significa "esto es un arco".
 4. **Líneas y velos propios:** el jugador puede vetar tramas (p.ej. "no quiero romance con Toga por su obsesión con sangre") y el GM debe respetarlo.
 
+## Meta-regla operativa
+
+> **Uncensored start, corrección reactiva.** Ver `AGENTS.md`, `CLAUDE.md`, `sesion_cero.md`.
+
+El sistema de relaciones opera bajo la meta-regla: el juego es uncensored de inicio, las restricciones se ponen a posteriori, el jugador es soberano de su experiencia. Esto significa que:
+
+- No se requiere que el jugador defina todas las líneas y velos antes de jugar.
+- Si durante una escena con un NPC (sea cual sea su dificultad) algo molesta al jugador, se para y se corrige.
+- La meta-regla **no quita** la soberanía del jugador — al contrario, la aumenta. Si en cualquier momento el jugador quiere parar, redirigir, o ajustar, el GM lo hace.
+- Las líneas y velos explícitas (como las de Toga) son **referencia**, no gates. Documentan decisiones que ya se han tomado, pero no son requisitos pre-vetados para cada NPC.
+
+En la práctica: el jugador puede iniciar una relación con cualquier NPC mujer del sistema, y el sistema no va a preguntar "¿estás seguro?". El sistema narra la relación con todo el peso del tono, y si surge algo que molesta, se reconduce.
+
 ## Aplicación por género del NPC
 
 ### NPCs mujeres (opción romántica/sexual)

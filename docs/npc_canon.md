@@ -295,4 +295,18 @@ Aizawa y Present Mic son pareja en canon. No son opción romántica para el PC e
 
 ## Líneas y velos
 
-Definir con el jugador al inicio de la campaña (ver `sesion_cero.md`). El jugador puede vetar tramas específicas (p.ej. "no Toga por su obsesión con sangre", "no pro-heroines casadas", "no profesoras", "no Inko porque me incomoda el tabú social") y el GM debe respetarlo en cualquier momento de la campaña.
+> **Meta-regla de la campaña:** uncensored start, corrección reactiva. Ver `AGENTS.md`, `CLAUDE.md`, `sesion_cero.md`.
+
+La meta-regla implica que las líneas y velos no se definen todas al inicio; se acumulan orgánicamente con el tiempo. Si durante la sesión algo molesta al jugador, se anota y se respeta en sesiones futuras.
+
+**Estado actual de líneas y velos explícitas:**
+
+- **Toga Himiko: "sí a todo".** Las 5 preguntas de su línea y velo (extracción de sangre, vampirismo, daño íntimo, obsesión con terceros) están confirmadas como sí. Único límite absoluto: no escenas sin consentimiento del PC.
+
+**Si en el futuro el jugador añade líneas o velos, se documentan aquí:**
+
+- *(vacío por ahora — la lista crece con el tiempo según la meta-regla)*
+
+**Si el jugador quiere vetar tramas específicas de inicio, se anotan aquí (opcional, no bloqueante):**
+
+- *(vacío por ahora — el jugador puede vetar en cualquier momento, no requiere definir al inicio)*
