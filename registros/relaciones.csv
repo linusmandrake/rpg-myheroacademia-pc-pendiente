@@ -1,5 +1,9 @@
 id,npc,relacion,closeness,dificultad_canon,estado,ultimo_cambio,notas
-# Track de relaciones del PC. closeness 0-10 (ver docs/sistema_relaciones.md).
-# dificultad_canon = 1-10, viene de docs/npc_canon.md.
-# relacion: interes / cita / pareja / ex / complicado / desconocido / etc.
-# estado: activo / congelado / roto / fallecido.
+momo-001,Yaoyorozu Momo,target principal,0,6,activo,2026-06-29,Preferencia del jugador: target #1. Si solo una, Momo. El GM construye la Momo-arc como línea romántica central sin forzarla.
+jiro-001,Jirō Kyōka,target secundario,0,5,activo,2026-06-29,Preferencia del jugador: target #2. Si Momo no funciona, Jirō es la siguiente. Compatible con humor seco del PC.
+ashido-001,Ashido Mina,target terciario,0,3,activo,2026-06-29,Preferencia del jugador: target #3. Interés de transición o relleno. Fácil, extrovertida, "puente".
+hagakure-001,Hagakure Tōru,potencial,0,4,disponible,2026-06-29,Declarada potencial por el jugador. Chica invisible de 1-A, bromista, social.
+midnight-001,Nemuri Kayama (Midnight),potencial,0,6,disponible con tabú,2026-06-29,Declarada potencial por el jugador. Profesora de UA, femme fatale. Tabú social profesora-alumno; la campaña es 18+ y el jugador la ha declarado como potencial. Confirmar en sesión 1.
+shiozaki-001,Ibara Shiozaki,potencial,0,4,disponible,2026-06-29,Declarada potencial por el jugador. Chica de las vides de 1-B, pacifista y religiosa. El jugador encuentra atractiva su estética pero no comparte su faceta mística. **El GM mantiene el carácter canon de Shiozaki** (mística, religiosa, pacifista). No se atenúa su carácter. Si la relación se desarrolla, su espiritualidad es parte de quién es.
+uraraka-001,Uraraka Ochaco,opcional,0,5,disponible,2026-06-29,No es target principal, pero el GM puede usarla en escenas si la campaña lo desarrolla. Cercana en edad y energía.
+toga-001,Toga Himiko,opcional,0,8,línea y velo sí-a-todo,2026-06-29,Línea y velo confirmada: las 5 preguntas de Toga están como "sí a todo". Único límite: no escenas sin consentimiento del PC. El GM puede usarla si la campaña lo desarrolla.

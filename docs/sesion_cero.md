@@ -53,13 +53,20 @@ Esta meta-regla es la operativa de la campaña. Sustituye la idea tradicional de
 
 > Ver `docs/sistema_relaciones.md` y `docs/npc_canon.md` (campo "Dificultad de relación" para mujeres, "Vínculo" para hombres).
 
-- **Aplicar regla de campaña (mujeres = romance/sexo, hombres = amistad/rivalidad/mentor):** *(sí / no / con ajustes)*
-- **Orientación / preferencias del PC:** *(definir)*
-- **NPCs con dificultad alta que el PC quiere intentar (8+):** *(lista — requieren esfuerzo de meses in-game)*
-- **NPCs vetados por el jugador (líneas y velos opcionales, no bloqueantes):** *(lista — la meta-regla dice que se veta en sesión cuando surge, no antes. Pero si el jugador tiene preferenciasclaras de inicio, se anotan.)*
-- **Tipo de exploración preferido:** *(sweet / spicy / explicit / fade-to-black / etc.)*
-- **Ritmo de las relaciones:** *(rápido / lento / realista / dejar que la historia marque)*
-- **Tolerancia a triángulos, rupturas, drama:** *(definir)*
+- **Aplicar regla de campaña (mujeres = romance/sexo, hombres = amistad/rivalidad/mentor):** **SÍ**.
+- **Orientación / preferencias del PC:** **heterosexual** (varón).
+- **Target principal (declarado por el jugador):** **Yaoyorozu Momo (Dificultad 6).** Si solo pudiera ser una, sería Momo. La Momo-arc es la línea romántica central. El GM la pone en escenas con el PC, le da oportunidades para conectar, y construye su arco emocional sin forzar. Si la Momo-arc no funciona, Jirō y Ashido son las siguientes.
+- **Orden de preferencia del jugador:**
+  1. **Yaoyorozu Momo** (Dificultad 6) — target principal
+  2. **Jirō Kyōka** (Dificultad 5) — target secundario
+  3. **Ashido Mina** (Dificultad 3) — target terciario
+- **NPCs con dificultad alta que el PC quiere intentar (8+):** Toga Himiko (8) — la línea y velo de Toga está confirmada como "sí a todo". Si la campaña la desarrolla, está disponible.
+- **NPCs vetados por el jugador (líneas y velos opcionales, no bloqueantes):** *(a definir en sesión 1; por ahora ninguno explícito)*
+- **Tipo de exploración preferido:** *(a definir en sesión 1)*
+- **Ritmo de las relaciones:** *(a definir en sesión 1)*
+- **Tolerancia a triángulos, rupturas, drama:** *(a definir en sesión 1)*
+
+## Línea y velo de Toga Himiko (confirmada)
 
 ## Línea y velo de Toga Himiko (confirmada)
 

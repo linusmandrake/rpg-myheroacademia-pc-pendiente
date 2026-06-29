@@ -106,14 +106,19 @@ El Quirk del PC (Sanguine Verdant Echo) se manifestó a los **14 años** — **t
 ## Vínculos románticos (sistema de Closeness)
 
 > **Regla de la campaña:** mujeres opción romántica, hombres amistad/rivalidad/mentor. Ver `docs/sistema_relaciones.md`.
+>
+> **Preferencia del jugador (declarada antes de la campaña):** **Yaoyorozu Momo es la target principal.** Si solo pudiera ser una, sería Momo. Las otras son secundarias si el harem no funciona o si la Momo-arc no se desarrolla. **El GM construye la Momo-arc como la línea romántica central**, sin forzarla: la deja crecer orgánicamente, dando oportunidades al PC para conectar con ella, y respetando la agencia del PC y de Momo. Si la Momo-arc no funciona, Jirō y Ashido son las siguientes.
 
 - **Closeness con todos los NPCs:** 0 al inicio. Se construye sesión a sesión.
-- **Intereses románticos potenciales** (con la regla de mujeres, dificultad 1–10):
-  - **Uraraka Ochaco** (Dificultad 5) — cercana en edad y energía, accesible, tiene sustancia. Es el interés "amigable" del canon.
-  - **Yaoyorozu Momo** (Dificultad 6) — igual de insegura que el PC, podrían entenderse. Es el interés "intelectual".
-  - **Ashido Mina** (Dificultad 3) — extrovertida que podría ser "puente" con el PC. Es el interés "fácil y divertida".
-  - **Jirō Kyōka** (Dificultad 5) — punk, sarcástica, podría ser el interés "alternativo".
-  - Cualquier otra mujer del canon puede convertirse en interés si la campaña lo desarrolla.
+- **Orden de preferencia del jugador (target romántica):**
+  1. **Yaoyorozu Momo** (Dificultad 6) — target principal. La inseguridad compartida con el PC, su lucha con la responsabilidad y la expectativa, su intelecto y su profundidad emocional la hacen la conexión más coherente con el arco del PC. El GM la pone en escenas con el PC, le da oportunidades para conectar, y construye su arco emocional.
+  2. **Jirō Kyōka** (Dificultad 5) — secundaria. Punk, sarcástica, alternativa. Compatible con el humor seco del PC. Si Momo no funciona, Jirō es la siguiente.
+  3. **Ashido Mina** (Dificultad 3) — terciaria. Fácil, extrovertida, "puente" con el PC. Funciona como interés de transición o de relleno.
+- **Otras mujeres del canon declaradas potenciales por el jugador:**
+  - **Hagakure Tōru** (Dificultad 4) — la chica invisible de 1-A. Bromista, social. La invisibilidad complica logística, pero no emocional.
+  - **Nemuri Kayama / Midnight** (Dificultad 6) — profesora de UA. Femme fatale, sensual, extrovertida. **Como adulta y profesora, hay tabú social (profesora-alumno), pero la campaña es 18+ y el jugador la ha declarado como potencial.** El GM puede usarla en escenas adultas si el jugador lo confirma en sesión 1.
+  - **Ibara Shiozaki** (Dificultad 4) — la chica de las vides de 1-B. Amable, pacifista, espiritual, religiosa. El jugador la encuentra atractiva pero no comparte su faceta mística/religiosa. **El GM mantiene el carácter canon de Shiozaki** (mística, religiosa, pacifista). Si la relación se desarrolla, la espiritualidad de Shiozaki es parte de quién es; el PC la acepta o no. No se atenúa su carácter.
+- **Otras mujeres del canon (opcionales si la campaña lo desarrolla):** Uraraka (5), Kendo (4), Shiozaki (4), Tokage (4), Komori (4), Mei Hatsume (4), Mirko (5), Ryukyu (6), Mt. Lady (4), Burnin (4), Pixie-Bob (4), Tiger (5), Mandalay (5), Inko (5), Fuyumi Todoroki (5), Saiko Intelli (5), Camie (4), Habuko Mongoose (4). Toga (8) con la línea y velo confirmada de "sí a todo".
 - **El PC no está enamorado de nadie al inicio.** Las relaciones se construyen.
 
 ## Aplicación adulta (integrada con la meta-regla 18+)
