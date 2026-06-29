@@ -1,5 +1,7 @@
 # AGENTS.md — Directrices para agentes y GM
 
+> **CAMPAÑA PARA ADULTOS (18+).** Todos los personajes (PC, NPCs canon, NPCs custom) tienen **18 años o más**. La campaña incluye **violencia explícita** y **sexualidad explícita** sin eufemismos. Si el jugador no es mayor de edad o no quiere este tono, esta no es su campaña. Ver `CLAUDE.md` para los avisos activos.
+
 Este fichero define cómo debe comportarse un agente al dirigir, narrar o asistir en esta campaña.
 
 ---
