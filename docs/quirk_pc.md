@@ -179,6 +179,315 @@ El Quirk está **diseñado** para generar contenido adulto con sustancia narrati
 
 ---
 
+# Mecánica detallada — Sangre, Rewind, Bestias, Ecos, Simbionte
+
+> **Principio rector:** los costes son **presión narrativa**, no sentencia de muerte. Todo se recupera, todo tiene cap blando, todo se reduce con maestría. El PC puede completar todos los arcos argumentales sin quedar inútil por usar su propio Quirk.
+
+---
+
+## 1. Sistema de Sangre (Pool)
+
+### Concepto
+
+El PC tiene un **pool de sangre** que es el combustible de su Quirk. **No es lo mismo que la HP** (que es daño de combate). La sangre se gasta al usar aspectos del Quirk y se recupera con descanso, comida, hidratación, y el simbionte.
+
+### Pool inicial (al inicio de la campaña)
+
+- **Tamaño del pool: 100 unidades** (base, modificable por PWR y maestría).
+- **Pool efectivo = 100 + (PWR × 5) + (maestría × 2)**. Un PC con PWR 3 y M1 tiene 100 + 15 + 2 = 117 unidades.
+
+### Estados del pool y efectos
+
+| % Pool | Estado | Efecto mecánico | Efecto narrativo |
+|---|---|---|---|
+| **80–100%** | Lleno | Sin debuff | El PC se siente bien, ojos brillantes |
+| **50–79%** | Alto | Sin debuff | El PC está activo, plantasangre frondosa |
+| **30–49%** | Medio | **−1 a PWR_quirk** | El PC nota cansancio, las bestias están más pequeñas |
+| **10–29%** | Bajo | **−2 a PWR_quirk, −1 a TEC_quirk**, nosebleed visible | El PC sangra por la nariz, las bestias se quejan, el simbionte pide comida |
+| **1–9%** | Crítico | **−3 a PWR_quirk, −2 a TEC_quirk**, posible desmayo | El PC tiembla, las bestias se marchitan, el simbionte se retrae |
+| **0%** | Vacío | **Desmayo automático**, simbionte hiberna, bestias se mueren | El PC colapsa. Sin simbionte activo, no puede reanimar por sí mismo. Necesita ayuda externa (aliado, transfusión, comida) |
+
+### Coste de aspectos (en unidades de sangre)
+
+| Acción | Coste |
+|---|---|
+| Invocar Avatar Carmesí | 20 |
+| Mantener Avatar (por hora de actividad) | 5 |
+| Invocar 1 bestia | 10 |
+| Mantener bestia (por hora) | 3 |
+| Invocar 1 Eco Temporal | 10 |
+| Rewind personal | 15 |
+| Manipulación básica de sangre (arma, escudo) | 5 por uso |
+| Proyectar plantasangre (1 vine, 1 thorn) | 2 por uso |
+| Curación simbiótica (a sí mismo o aliado) | 10 por herida grave |
+| **Terraformer** (a endgame, una vez por día) | 50 |
+
+### Recuperación del pool
+
+| Acción de recuperación | Unidades |
+|---|---|
+| Descanso completo (8 horas de sueño) | 50 |
+| Comida (desayuno, almuerzo, cena) | 20 por comida |
+| Hidratación (agua, bebida) | 10 |
+| Comida especial (carne roja, hierro) | 30 |
+| Transfusión externa (de un aliado compatible) | 40 |
+| Curación del simbionte (si está de buen humor) | 5 por día natural |
+| Marca narrativa de "descanso merecido" | 100 (recupera todo) |
+
+### Reducción de coste por maestría
+
+La maestría reduce el coste de uso de los aspectos:
+
+| Maestría | Reducción general |
+|---|---|
+| **M1–2** (early) | Coste ×1.0 (full) |
+| **M3–4** (mid) | Coste ×0.7 |
+| **M5–6** (mid-end) | Coste ×0.5 |
+| **M7–8** (endgame early) | Coste ×0.3 |
+| **M9–10** (endgame) | Coste ×0.1, recuperación ×2 |
+
+**Ejemplo a M5:** invocar Avatar cuesta 20 × 0.5 = **10 unidades** en vez de 20. Mantener Avatar 5 × 0.5 = **2.5/h** en vez de 5. Rewind 15 × 0.5 = **7.5 unidades** en vez de 15.
+
+### Garantía de viabilidad
+
+Con maestría M3 (al final del Arco 1), el PC puede:
+- Invocar 1 Avatar + 1 bestia + 1 rewind por día sin pasar del 50% del pool.
+- Recuperarse con una noche de sueño y dos comidas.
+- Mantener un Avatar activo durante 4 horas de combate seguidas sin desmayarse.
+
+Con maestría M7 (al inicio del endgame), el PC puede invocar 2 Avatares + 5 bestias + 3 rewinds por día con un pool que se regenera el doble de rápido. La sangre deja de ser un límite operativo.
+
+---
+
+## 2. Sistema de Rewind
+
+### Concepto
+
+El PC puede "guardar" un momento reciente y "cargarlo" si recibe daño o falla una acción. El rewind afecta solo al PC. Cada rewind deja un **memory scar** (cicatriz de memoria) que es un debuff **recuperable**, no permanente.
+
+### Lo que el rewind hace
+
+- **Cuerpo del PC** vuelve a un estado de hace 5–10 segundos (early) hasta 1 minuto (endgame).
+- **Posición** se restaura.
+- **Heridas recientes** se "deshacen" (el cuerpo vuelve al estado pre-golpe).
+- **Acciones** se pueden reintentar.
+- **El entorno no se restaura** (si una pared se rompió antes del rewind, sigue rota). Solo el PC se restaura.
+
+### Coste del rewind
+
+| Maestría | Coste (sangre) | Memory scar (debuff) | Cap de scars activas |
+|---|---|---|---|
+| **M1–2** | 15 unidades | −2 a ING, 4h de duración | 2 scars = "reverie" (8h desmayo) |
+| **M3–4** | 12 unidades | −1 a ING, 3h de duración | 3 scars = "reverie" (6h desmayo) |
+| **M5–6** | 8 unidades | −1 a ING, 2h de duración | 4 scars = "reverie" (4h desmayo) |
+| **M7–8** | 4 unidades | −0.5 a ING, 1h de duración | 5 scars = "reverie" (2h desmayo) |
+| **M9–10** | 0 unidades | 0 (sin scar) | Sin cap |
+
+### Recuperación de memory scars
+
+| Acción | Scars recuperadas |
+|---|---|
+| Descanso completo (8h) | Todas las scars |
+| Siesta (4h) | La mitad (redondeo arriba) |
+| Comida copiosa | 1 scar |
+| Hidratación + comida ligera | 1 scar |
+| Marca narrativa de "tiempo de descanso" | Todas las scars + bonus |
+| "Reverie" (desmayo completo) | Todas las scars (tras 4–8h de inconsciencia) |
+| Allies cuidan al PC durante el desmayo | +1 a stats temporales al despertar |
+
+### Garantía de viabilidad
+
+**El PC NO muere por rewind.** En el peor caso, acumula scars, entra en "reverie" (desmayo controlado de 4–8h), y despierta sin scars. Esto es un **recurso narrativo**, no un game over. La campaña puede usar el desmayo del PC como punto de inflexión (los allies tienen que actuar, alguien tiene que protegerle mientras está inconsciente,etc.).
+
+A M5+, el PC puede usar rewind regularmente sin riesgo real. La "reverie" se reserva para cuando el PC se excede claramente (3+ rewinds en un solo combate crítico).
+
+---
+
+## 3. Sistema de Bestias del Simbionte
+
+### Concepto
+
+Las bestias son criaturas del simbionte. Tienen coste de invocar, coste de mantenimiento, y necesidades de alimentación. **No mueren permanentemente** a menos que el simbionte abandone al PC.
+
+### Coste de invocación y mantenimiento
+
+| Acción | Coste |
+|---|---|
+| Invocar 1 bestia | 10 unidades de sangre |
+| Mantener bestia (por hora) | 3 unidades |
+| Bestia human complejo (a mid-game) | 25 unidades de sangre + 5/h |
+| Enjambre de 5 bestias (a endgame) | 50 unidades de sangre + 15/h |
+
+### Necesidades de las bestias (alimentación)
+
+| Necesidad | Frecuencia | Si se descuida |
+|---|---|---|
+| Sangre del PC | Diaria (pequeña cantidad) | Bestia pierde vitalidad, se debilita |
+| Agua | Diaria | Bestia se marchita en 24h |
+| Luz solar | Diaria (mínimo 1h) | Bestia pierde color, se vuelve pálida |
+| Tierra / nutrientes | Semanal | Bestia se atrofia, no crece |
+
+### Debuffs de las bestias
+
+- **Bien alimentadas y cuidadas:** +1 a TEC_quirk, son leales, pueden tener iniciativa.
+- **Descuidadas 1 día:** neutral, sin bonus.
+- **Descuidadas 2+ días:** −1 a TEC_quirk, se quejan, se mueven más lento.
+- **Descuidadas 1+ semana:** pueden marchitarse y morir (temporalmente — el simbionte las puede revivir si la relación symbionte-PC es buena).
+
+### Garantía de viabilidad
+
+Si el PC cuida a las bestias (sangre diaria, agua diaria, sol), no hay debuff. Si se descuida, los debuffs son recuperables (alimentar bien recupera). Las bestias no mueren permanentemente a menos que el simbionte abandone al PC (lo cual requiere PC muy abusivo).
+
+---
+
+## 4. Sistema de Ecos Temporales
+
+### Concepto
+
+Los Ecos son manifestaciones del PC en momentos pasados. Cada Eco deja un **temporal scar** (cicatriz temporal) que es recuperable.
+
+### Coste de invocar
+
+| Maestría | Coste (sangre) | Temporal scar | Cap de scars activas |
+|---|---|---|---|
+| **M1–2** | 10 unidades | −2 a ING, 2h de duración | 2 scars = "reverie" (6h) |
+| **M3–4** | 8 unidades | −1 a ING, 1.5h | 3 scars = "reverie" (4h) |
+| **M5–6** | 5 unidades | −1 a ING, 1h | 4 scars = "reverie" (3h) |
+| **M7–8** | 3 unidades | −0.5 a ING, 30min | 5 scars = "reverie" (2h) |
+| **M9–10** | 0 unidades | 0 (sin scar) | Sin cap |
+
+### Diferencia entre Eco y Rewind
+
+- **Rewind** afecta al **cuerpo** del PC. Memory scar afecta a ING.
+- **Eco** afecta a un **copia del PC** de un momento pasado. Temporal scar también afecta a ING.
+- Ambos dejan scars, pero los Ecos son "menos invasivos" porque no alteran el cuerpo del PC, solo crean un duplicado.
+
+### Recuperación de temporal scars
+
+Igual que memory scars: descanso, comida, hidratación, "reverie" si se excede.
+
+### Garantía de viabilidad
+
+Igual que rewind: el PC NO muere por scars de Eco. La "reverie" es un desmayo controlado, no un game over.
+
+---
+
+## 5. Sistema de Simbionte (relación simbiótica)
+
+### Concepto
+
+El simbionte tiene **voluntad propia** y **estado de ánimo**. La calidad de la relación PC-simbionte afecta la eficiencia del Quirk y la disponibilidad de los aspectos.
+
+### Estados de ánimo del simbionte
+
+| Ánimo | Bono/penalización | Cómo se logra |
+|---|---|---|
+| **Aliado** (best) | +2 a todas las acciones de Quirk, las bestias son más fuertes, los Ecos son más estables, el rewind tiene menos scar | PC cuida al simbionte (le da sangre, agua, sol, atención, lo trata como parte de sí mismo) |
+| **Cooperativo** | +1 a todas las acciones de Quirk, sin debuff | PC trata al simbionte con respeto, no abusa, mantiene necesidades básicas |
+| **Neutral** | Sin bono ni penalización | Estado por defecto al inicio de la campaña |
+| **Resentido** | −1 a todas las acciones de Quirk, las bestias se quejan, los Ecos parpadean, el rewind tiene más scar | PC ha descuidado al simbionte o lo ha usado para algo que el simbionte no aprueba |
+| **Enemigo** | −2 a todas las acciones, las bestias pueden negarse a actuar, los Ecos pueden rebelarse, el rewind puede fallar | PC ha abusado gravemente del simbionte (lo ha forzado a hacer cosas contrarias a su naturaleza, lo ha dañado, lo ha despreciado) |
+
+### Cómo recuperar al simbionte si está resentido o enemigo
+
+| Estado | Tiempo de recuperación | Acción |
+|---|---|---|
+| **Resentido** | 1–2 días de "buen comportamiento" | PC alimenta al simbionte, le da agua, sol, atención, le habla (incluso internamente), no lo fuerza |
+| **Enemigo** | 1–2 semanas de "reconciliación activa" | PC tiene que pedir perdón simbióticamente, dejar que el simbionte descanse sin usarlo, hacer algo significativo por el simbionte (darle algo que el simbionte quiere — p.ej. tiempo con las bestias, un "regalo" simbólico,etc.) |
+
+### Garantía de viabilidad
+
+El simbionte es un **aliado a largo plazo**, no un enemigo. La campaña se construye sobre la relación PC-simbionte, y el sistema recompensa la cooperación. Pero el simbionte tiene dientes: si el PC lo abusa, el simbionte responde. Esto crea narrativa sin matar al PC.
+
+---
+
+## 6. HP vs Sangre — la diferencia
+
+### HP (Health Points)
+
+- **Qué es:** la salud del PC en combate.
+- **Cómo se pierde:** daño físico de ataques (puñetazos, quirks enemigos, etc.).
+- **Cómo se recupera:** curación médica,Recovery Girl, simbionte, descanso largo.
+- **Si llega a 0:** el PC está en estado crítico. **Esto es lo que puede matar al PC.**
+
+### Sangre (Pool)
+
+- **Qué es:** el combustible del Quirk.
+- **Cómo se pierde:** uso del Quirk (Avatar, bestias, rewind, etc.).
+- **Cómo se recupera:** descanso, comida, hidratación, simbionte.
+- **Si llega a 0:** el PC **se desmaya**, no muere. El simbionte hiberna hasta que el PC recupere sangre.
+
+### Interacción
+
+- Si HP está bajo, el PC no puede usar el Quirk efectivamente (debuff a todas las acciones de Quirk).
+- Si Sangre está baja, el PC está cansado y no combate bien.
+- Si ambas están bajas, el PC está en mal estado general.
+
+### Garantía de no-muerte-por-Quirk
+
+**El PC NO muere por usar su Quirk.** Solo muere si HP llega a 0 (combate, accidente,etc.). Los costes del Quirk (sangre, scars, ánimo del simbionte) son **presiones narrativas**, no letales. El PC puede completar todos los arcos argumentales sin riesgo de muerte por uso del Quirk.
+
+---
+
+## 7. Resumen ejecutivo
+
+| Sistema | Coste | Recuperación | Soft cap | Muerte por uso del Quirk |
+|---|---|---|---|---|
+| **Sangre** | Unidades por uso del Quirk | Descanso, comida, hidratación, simbionte | 0% = desmayo (no muerte) | **No** |
+| **Rewind** | 15 sangre + 1 memory scar | 8h descanso | "Reverie" = 4–8h desmayo | **No** |
+| **Bestias** | Sangre + alimentación diaria | Cuidado, atención | Marchitar = 1 semana sin comer | **No** |
+| **Ecos** | Sangre + 1 temporal scar | Descanso | "Reverie" = desmayo | **No** |
+| **Simbionte** | Animo del simbionte | Tiempo + buen trato | Enemigo = 1–2 semanas de reconciliación | **No** |
+| **HP** | Daño de combate | Curación médica | 0 HP = crítico (puede morir) | **Sí** (si llega a 0) |
+
+---
+
+## 8. Viabilidad del PC a lo largo de la campaña
+
+### Arco 1 (D1–D30, M1–2)
+
+- **Uso típico del Quirk:** 1–2 bestias al día, 0–1 Avatar por combate, 0 rewinds.
+- **Pool de sangre:** se mantiene en 50–100% con descanso + 2 comidas.
+- **Riesgo:** bajo. El PC está aprendiendo.
+- **Mastery al final del arco:** M1–2 → M2.
+
+### Arco 2 (D31–D60, M3–4)
+
+- **Uso típico:** 1 Avatar + 2–3 bestias por combate, 1 rewind en momentos clave, 1 Eco en escenas importantes.
+- **Pool de sangre:** 30–80% durante el día, recuperado de noche.
+- **Riesgo:** moderado. Si el PC usa 3+ rewinds en un día, puede entrar en "reverie" y desmayarse 4–6h.
+- **Mastery al final del arco:** M3–4.
+
+### Arco 3 (D61–D90, M5–6)
+
+- **Uso típico:** 1–2 Avatares + 5 bestias + 2 rewinds + 1–2 Ecos por día.
+- **Pool de sangre:** se mantiene estable por la maestría. Costes ×0.5.
+- **Riesgo:** bajo. La "reverie" requiere 4 scars acumuladas, lo cual el PC puede evitar.
+- **Mastery al final del arco:** M5–6.
+
+### Endgame (M7–10)
+
+- **Uso típico:** 2–3 Avatares + 10 bestias + rewinds libres + Ecos múltiples.
+- **Pool de sangre:** ×0.1 coste, ×2 recuperación. La sangre deja de ser un límite.
+- **Riesgo:** ninguno operativo. Los costes son presión narrativa, no mecánica.
+- **Mastery al final:** M9–10. Trascendencia.
+
+**Conclusión:** con esta mecánica, **el PC puede completar todos los arcos argumentales sin riesgo de muerte por uso del Quirk**. Los costes están diseñados para crear **dramatismo narrativo** (desmayos controlados, "reverie", simbionte resentido), no para matar al PC.
+
+---
+
+## 9. Lo que la campaña puede hacer con estos sistemas
+
+- **Escenas de "reverie":** el PC se desmaya por overuse del Quirk, los allies tienen que protegerle. Esto es un recurso narrativo — la cámara cambia a los allies durante un rato.
+- **Escenas de simbionte resentido:** el simbionte se niega a cooperar con el Avatar Carmesí justo cuando el PC lo necesita. El PC tiene que convencerlo o improvisar.
+- **Escenas de bestias hambrientas:** las bestias piden comida en medio de un combate. El PC tiene que alimentarlas o luchar sin ellas.
+- **Escenas de disociación narrativa:** los memory scars se manifiestan como flashbacks del PC. La cámara muestra el momento alternativo que ya no ocurrió.
+- **Escenas de sangre visible:** el PC tiene sangre saliendo por la nariz, los ojos, las orejas. Visualmente impactante. NPCs reaccionan.
+
+Estos son **momentos de campaña**, no penalizaciones. El GM los usa para crear tensión, no para frustrar al jugador.
+
+---
+
 ## Interacción con relaciones (sistema de Closeness)
 
 Las proyecciones pueden afectar las relaciones del PC:
