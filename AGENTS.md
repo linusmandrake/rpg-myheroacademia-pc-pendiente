@@ -207,14 +207,16 @@ Si la campaña los cubre, son marcas con peso narrativo real.
 
 ---
 
-## Lugar del PC-pendiente
+## El PC: Akari Hayami "Sanguine"
 
-Esta carpeta está marcada como `pc-pendiente` mientras el PC no está definido. Los archivos del PC (ficha, equipo, quirk) están en blanco o como placeholder. **Cuando el PC se defina:**
+El PC está **definido**: **Akari Hayami (明里 速水), "Sanguine"**, homebrew de 18 años con el Quirk *Sanguine Verdant Echo*. Ficha completa en `docs/personaje_akari_hayami.md`; CSV en `registros/pj.csv`. La carpeta se renombró de `rpg-myheroacademia-pc-pendiente` a `rpg-myheroacademia-akari-hayami`.
 
-1. Renombrar carpeta: `rpg-myheroacademia-pc-pendiente` → `rpg-myheroacademia-<nombre-pc>`.
-2. Rellenar `docs/personaje_pc_pendiente.md` y renombrarlo a `docs/personaje_<nombre-pc>.md`.
-3. Poblar `registros/pj.csv` con la ficha inicial.
-4. Ejecutar el primer paso de `docs/sesion_cero.md`.
+Pasos de integración ya completados:
+
+1. ✅ Carpeta renombrada a `rpg-myheroacademia-akari-hayami`.
+2. ✅ Ficha en `docs/personaje_akari_hayami.md` (`personaje_pc_pendiente.md` se conserva como índice histórico).
+3. ✅ `registros/pj.csv` poblado con la ficha inicial.
+4. ⏳ Pendiente: ejecutar el primer paso de `docs/sesion_cero.md` (primera sesión).
 
 ---
 

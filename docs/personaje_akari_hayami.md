@@ -1,6 +1,6 @@
 # Akari Hayami (明里 速水) — "Sanguine"
 
-> **PC definido.** Campaña `rpg-myheroacademia-pc-pendiente`. PC homebrew, sin parentesco con NPCs canon. Llega a UA como **matriculado a última hora en 1-A** por recomendación especial. Tono 18+ adulto, sin censura inicial con corrección reactiva.
+> **PC definido.** Campaña `rpg-myheroacademia-akari-hayami`. PC homebrew, sin parentesco con NPCs canon. Llega a UA como **matriculado a última hora en 1-A** por recomendación especial. Tono 18+ adulto, sin censura inicial con corrección reactiva.
 
 ## Identidad
 

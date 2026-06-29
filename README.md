@@ -6,7 +6,7 @@ Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** 
 
 ## Estado actual
 
-**Esqueleto inicial.** La carpeta está marcada como `pc-pendiente` mientras el personaje del jugador no está definido. Los `docs/` tienen estructura y placeholders; los `registros/` están vacíos; no hay sesión jugada todavía.
+**Esqueleto inicial.** PC definido: **Akari Hayami "Sanguine"** (carpeta `rpg-myheroacademia-akari-hayami`). Los `docs/` tienen estructura y placeholders; los `registros/` se están poblando; no hay sesión jugada todavía.
 
 ## Archivos principales
 
@@ -14,7 +14,7 @@ Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** 
 - `CLAUDE.md`: avisos puntuales de alta prioridad (estado actual del proyecto).
 - `docs/sesion_cero.md`: primera sesión — definición del PC, tono, límites, decisiones iniciales.
 - `docs/trasfondo_pc.md`: opciones de homebrew / intercambio / llegada tardía, con ejemplos.
-- `docs/personaje_pc_pendiente.md`: ficha en blanco del PC (renombrar cuando se defina).
+- `docs/personaje_akari_hayami.md`: ficha completa del PC (`personaje_pc_pendiente.md` se conserva como índice histórico).
 - `docs/sistema_juego.md`: sistema determinista de atributos, quirks, combate, entrenamiento y progresión.
 - `docs/sistema_relaciones.md`: reglas de romance/sexo (mujeres = opción, hombres = amistad/rivalidad/mentor) con dificultad 1–10 y track de Closeness.
 - `docs/registros_campania.md`: guía de registros persistentes de campaña (CSVs, índices, estados).
@@ -58,8 +58,8 @@ Base de campaña TTRPG custom ambientada en el universo de **My Hero Academia** 
 
 ## Convención de naming
 
-- Descriptor placeholder actual: `pc-pendiente`.
-- Cuando se defina el PC: renombrar a `rpg-myheroacademia-<nombre-pc-kebab-case>`.
+- Descriptor actual: `akari-hayami` (carpeta `rpg-myheroacademia-akari-hayami`).
+- Convención: `rpg-myheroacademia-<nombre-pc-kebab-case>`.
 - Reglas de kebab-case: minúsculas, sin acentos, guiones entre palabras.
 
 ## Cómo empezar

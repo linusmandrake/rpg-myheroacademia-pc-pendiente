@@ -4,10 +4,10 @@ Tareas pendientes para terminar de armar el esqueleto inicial. Marcar con `[x]` 
 
 ## PC y ambientación
 
-- [ ] Definir PC: nombre, curso UA, quirk (tipo/nombre/mecánica custom/limitaciones), backstory corta
-- [ ] Renombrar carpeta `rpg-myheroacademia-pc-pendiente` → `rpg-myheroacademia-<nombre>`
-- [ ] Renombrar `docs/personaje_pc_pendiente.md` → `docs/personaje_<nombre>.md` y rellenar
-- [ ] Crear `registros/pj.csv` con ficha inicial del PC
+- [x] Definir PC: nombre, curso UA, quirk (tipo/nombre/mecánica custom/limitaciones), backstory corta — **Akari Hayami "Sanguine"**
+- [x] Renombrar carpeta `rpg-myheroacademia-pc-pendiente` → `rpg-myheroacademia-akari-hayami`
+- [x] Renombrar `docs/personaje_pc_pendiente.md` → `docs/personaje_akari_hayami.md` y rellenar (el original se conserva como índice histórico)
+- [x] Crear `registros/pj.csv` con ficha inicial del PC
 - [ ] Crear `registros/companeros.csv` con compañeros de clase canon relevantes
 
 ## Sistema
