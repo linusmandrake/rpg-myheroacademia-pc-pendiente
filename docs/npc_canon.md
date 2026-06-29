@@ -136,6 +136,11 @@ Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres a
 - **Ashido Mina (Pinky)** — Acid. **Dificultad: 3 (Fácil).** Divertida, extrovertida, abierta. Fácil acceso; un poco superficial al inicio.
 - **Hagakure Tooru (Invisible Girl)** — invisibility. **Dificultad: 4 (Fácil).** Bromista, social. La invisibilidad complica logística, pero no es emocional. Fácil acceso; un poco superficial.
 
+### Curso Support (aliadas, no compañeros directos)
+
+- **Mei Hatsume** (F) — Quirk: Zoom. Puede hacer zoom con los ojos. **Dificultad: 4 (Fácil).** Inventoragenio, obsesionada con sus inventions, sexual muy directa, extrovertida, despreocupada por las consecuencias. **Como interés romántico/sexual es accesible, divertida, sin juegos.** El reto: su obsesión con el trabajo y la falta de filtro social. La campaña puede usarla como amiga con tensión sexual, interés formal, o un one-night-stand memorable.
+- Otros alumnos de Support son NPCs secundarios, no centrales.
+
 ---
 
 ## Estudiantes 1-B (si el PC está en 1-B, o en interacciones con 1-B)
@@ -154,7 +159,7 @@ Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres a
 - **Kendo Itsuka** — Big Fist. **Dificultad: 4 (Fácil).** Líder de facto de 1-B, accesible, adulta con peso del liderazgo.
 - **Shiozaki Ibara** — Vines. **Dificultad: 4 (Fácil).** Pacifista, religiosa. La fe tiene peso; el PC tiene que respetarla.
 - **Tokage Setsuna (Lizardy)** — Lizard Tail Splitter. **Dificultad: 4 (Fácil).** Accesible, vida propia.
-- **Yoneda Kinoko (Mushroom)** — Mushroom. **Dificultad: 4 (Fácil).** Amable, rara, presión social.
+- **Komori Kinoko (Mushroom)** — Mushroom. **Dificultad: 4 (Fácil).** Amable, rara, sensible a la presión social. Su quirk libera esporas que confunden. Accessible, leal cuando confía, le cuesta abrirse al inicio.
 
 ---
 
@@ -244,6 +249,17 @@ Las edades de referencia son una sugerencia (la mayoría ~18–22). Si quieres a
 - **Fuyumi Todoroki (hermana de Shōto)** — F. Adulta. Pro-hero (enseñanza). En el canon es adulta con trabajo propio. **Dificultad 5 (Moderado).** Si el PC se acerca a la familia Todoroki con cuidado, Fuyumi es accesible.
 - **Natsuo Todoroki (hermano de Shōto)** — M. Adulto. Estudiante de medicina, separado de la familia por el abuso. **Vínculo: aliadoadulto / contacto familiar.** No opción romántica.
 - **Inko Midoriya, Recovery Girl, etc. — Notas:** pueden aparecer como NPCscontextuales (familia, mentores adultos, staff) sin que sean opción romántica — **excepto Inko, que sí es opción adulta** (ver arriba).
+
+### Casos especiales a discutir con el jugador
+
+Estos personajes son **icónicos** del canon, pero su inclusión como opción románticaadulta es **discutible** y depende del acuerdo con el jugador. Por defecto, **N/A o con línea y velo explícita**. Discutir antes de incluir.
+
+- **Eri** (F) — Rewind. **Caso especial.** En canon es una niña pequeña (6–7 años). En esta campaña tiene 18+ por la regla general, pero su backstory es de **trauma infantil severo** (Chisaki la usó como fuente de quirk-erasing bullets durante años). Aunque la edad legal sea 18+, su desarrollo emocional/social puede ser muy atrasado. **Por defecto: N/A o NPC de arco personal, no opción romántica.** El jugador puede vetar o permitir si quiere explorar el tema; el GM debe ser muy cuidadoso. Si la campaña decide incluirla como adulta, el tratamiento debe ser con la seriedad del trauma, no con ligereza.
+- **Melissa Shield** (F) — Quirk: Shield. Aparece en la película "Two Heroes". Hija de David Shield. Americana. **Dificultad 5 (Moderado).** Pro-heroamericana, inteligente, accesible. Si la campaña la incluye (p.ej. visita a I-Island), puede ser interés. **Solo aparece si la campaña toca I-Island.**
+- **Nana Shimura** (F) — Quirk: Float. **Fallecida en canon.** Séptimo usuario de OFA, predecesora de All Might, maestra de Aizawa. Como fallecida, no opción. Puede aparecer en flashbacks, sueños, o como fantasma narrativo.
+- **Hana (Spider)** — Villana, miembro de Eight Bullets de Moonfish. **N/A: villana adulta, no opción.**
+- **Curious** — Villana, miembro de los Eight Bullets. Trans, mujer trans. **N/A: villana activa, no opción.**
+- **Moonfish, Muscular, etc.** — **N/A: villanos hombres, no opción.**
 
 ### Aizawa's wife / present-mic partner
 
