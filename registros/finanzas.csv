@@ -1,2 +1,9 @@
 timestamp,concepto,id_entidad,descripcion,cantidad,tipo
-# pendiente: poblar tras la primera sesión
+C1-T1-D1,saldo_inicial,—,Ahorros traídos de Osaka (ESTIMADO; ajustar si el jugador define otra cifra),50000,saldo_inicial
+C1-T1-D1,comida,izakaya-musutafu,Cena rica en hierro (hígado/ternera/espinacas) para reponer pool de sangre,-1800,gasto
+C1-T1-D1,comida,kettle-and-vine,Cappuccino + croissant + coca-cola (la lata acabó usada como proyectil),-1200,gasto
+C1-T1-D2,comida,konbini,Carne + morcilla (reposición pool) e ingredientes de 2 bentos (uno para Momo),-2500,gasto
+# Saldo al cierre S1: ~¥44.500
+# Katsudon de la cena: lo pagó Kendo (NO gasto de Akari).
+# Alojamiento: hostal Minato cubierto por UA hasta el VIERNES (ayuda de reubicación de urgencia). A partir del lunes, sin techo si no resuelve piso.
+# PENDIENTE/INGRESO POTENCIAL: beca de manutención del Hero Course SIN TRAMITAR (papeleo de urgencia la dejó bloqueada). Reclamable en asuntos estudiantiles / director Nezu. UA prohíbe trabajar (expulsión) → la beca es la única vía legal de ingresos.

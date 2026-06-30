@@ -1,2 +1,8 @@
 id,rasgo,peso,marca,otorgada,sesion
-# Pendiente: el PC aún no está definido. Marcas se otorgan al cierre de arco o tras hito cumbre.
+pm-001,maestria_quirk,2,"Administración del pool en el circuito de resistencia: dosificó la savia y llegó con reserva donde los demás llegaron vacíos. Aizawa lo validó. (PC actuó + coste/esfuerzo + cambió la lectura del mentor + decisión activa).",no,1
+pm-002,maestria_quirk,2,"Primer uso consciente de una Bestia + hallazgo de que la savia se aquieta con conexión emocional, no con disciplina. Avance real de comprensión del Quirk.",no,1
+pm-003,COO,3,"Primer rescate real (Naka-ku sur): coordinación punta/rescate con Kendo, aguante disciplinado sin Quirk visible, 2 civiles salvados frente a un villano con Trigger. Hito heroico (coste físico real, riesgo, cambió el mundo).",no,1
+pm-004,TEC_quirk,1,"Detección de Trigger en la sangre del villano a distancia: uso táctico de la percepción sanguínea para predecir el colapso del enemigo.",no,1
+pm-005,TEC_quirk,1,"Refuerzo INTERNO de Cuerpo (sin manifestación externa) para encajar un derrumbe sin dejar evidencia grabable. Control fino y consciente del aspecto Cuerpo.",no,1
+pm-006,carácter_voluntad,2,"Se contuvo de drenar al villano inconsciente pese a que la savia lo 'pedía'. Decisión de carácter: 'no quiero que el hambre decida por mí'.",no,1
+# NOTA: marcas REGISTRADAS, ninguna convertida en subida todavía (otorgada=no). Arco 1, Día 1: se respeta la curva de poder (stats 3-4). Las marcas se acumulan para conceder subidas en cierre de arco o tras hito cumbre, según docs/progresion_narrativa.md. Maestría del Quirk se mantiene en 2 (el entrenamiento dedicado con Aizawa aún no se ha jugado).
