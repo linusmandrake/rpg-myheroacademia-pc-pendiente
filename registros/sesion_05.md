@@ -29,7 +29,7 @@ Tercero, el **entrenamiento con Aizawa** (campo Gamma), el corazón de la sesió
 
 ## Reputación y facciones
 - Sin cambio de reputación mediática ni de simpatía de facciones esta mañana.
-- Interna: refuerza su perfil de íntegro/eficiente. Bakugo lo reubica como rival digno (privado).
+- Interna: refuerza su perfil de íntegro. Bakugo lo reubica en privado como rival sano con condición de futuro ("el día que puedas devolverme una y hacerla mejor, ven a buscarme"); Akari se declaró "no rival digno, no aún".
 - Gobierno/"arriba": la estrategia de maestría congelada es precisamente para **no darle titulares** a la amenaza del borrado.
 
 ## Stats y Quirk al cierre
@@ -63,7 +63,7 @@ Tercero, el **entrenamiento con Aizawa** (campo Gamma), el corazón de la sesió
 |---|---|
 | PWR / VEL / TEC / ING / COO | 3 / 3 / 4 / 4 / 3 |
 | Quirk (potencial/maestría) | 5 / 4 (congelada a propósito) |
-| Salud / heridas | Bien; cansado-satisfecho; pool de sangre ~40% |
+| Salud / heridas | Bien; cansado-satisfecho; pool de sangre ~40% (llegó al 12% crítico en el drill y rellenó al 40% por orden de Aizawa, "no te acostumbres a ir lleno") |
 | Saldo (yenes) | ~¥29.650 (pendiente beca ¥100.000/mes; resto del hotel ~¥11.800 el domingo) |
 | Reputación heroica | Interna alta; Bakugo lo reubica como rival digno |
 | Facciones (UA/Comisión/Liga) | UA muy positiva / Comisión vigilante (amenaza borrado latente) / Liga sin contacto |

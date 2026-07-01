@@ -5,7 +5,7 @@
 - Ubicación: Musutafu — **UA, campo Gamma**, Akari acaba de terminar el entrenamiento de la mañana con Aizawa.
 - Hora narrativa: **Día 5 (viernes 17 may) ~07:32** — media hora antes de que llegue el resto de 1-A a clase.
 - Presentes en escena: Akari (Aizawa acaba de irse; Bakugo quedó atrás en el campo Beta).
-- Última acción de Akari: selló su línea roja anti-Drácula ante Aizawa, estrenó a Blackroot en combate, sobrevivió al Erase en bruto y aprendió a leer su pool desde dentro; quedó de pie al 40%, cansado-satisfecho.
+- Última acción de Akari: selló su línea roja anti-Drácula ante Aizawa, estrenó a Blackroot en combate, sobrevivió al Erase en bruto (quedó al **12%**, pool crítico, nariz sangrando, tras 4 borrados) y aprendió a leer su pool desde dentro; luego rellenó **hasta el 40% por orden expresa de Aizawa** ("ni una gota más: hoy no te vas a acostumbrar a ir lleno"). Cansado-satisfecho.
 - **Próxima decisión pendiente del jugador (cómo sigue la mañana, media hora libre)**:
   - **A**. Ducha en vestuarios + desayunar su bento + llegar entero al aula 1-A antes que nadie (¿cruzarse con quién madrugue? ¿Momo con su bento?).
   - **B**. Quedarse a solas en el campo: sacar otra vez a Blackroot, ahora en paz, a acariciarle el musgo, y dejar asentar lo que acaba de sellar sobre quién elige ser.
@@ -19,7 +19,7 @@
 - Salud: bien, cansado-satisfecho.
 
 ## Reputación y facciones
-- Interna alta (el que ablandó a Todoroki, fundó la mesa de guardianes, aptitud matemática). Bakugo lo reubica en privado como **rival digno**. UA muy positiva (Aizawa figura paterna, Nezu aliado). Gobierno/avalista: amenaza del borrado latente — la maestría congelada es la respuesta táctica para no alimentarla. Coleccionista: radar futuro. Liga sin contacto.
+- Interna alta (el que ablandó a Todoroki, fundó la mesa de guardianes, aptitud matemática). Bakugo lo reubica en privado como **rival sano con condición de futuro** (Akari dijo "no soy un rival digno para ti, no aún"; Bakugo: "el día que puedas devolverme una y hacerla mejor, ven a buscarme"). UA muy positiva (Aizawa figura paterna, Nezu aliado). Gobierno/avalista: amenaza del borrado latente — la maestría congelada es la respuesta táctica para no alimentarla. Coleccionista: radar futuro. Liga sin contacto.
 
 ## Equipamiento clave activo
 - Costume: el de dotación UA. Sin support items nuevos (Mei pendiente en el futuro). Bolsa de transfusión de enfermería usada en el drill (de Aizawa).
@@ -52,7 +52,7 @@
 - Aizawa, ética underground compartida: "Los que valen hacen el máximo daño con el mínimo ruido y no salen en la tele. Tú ya piensas así." Y el sello: "Esa cabeza tuya vale más que tu sangre. Cuídala igual."
 
 ## Información que los NPCs tienen sobre Akari (perfil acumulado)
-- Aizawa: TODO (Quirk + borrado + línea roja anti-Drácula, de la que es testigo/fiador). Nezu: todo (aliado). Momo: TODO (confidente total). Ibara: savia + experimento pendiente. Jirō: su música. Hagakure: SOSPECHA que la percibe. Kendo: intuye que 'hay alguien más'. **Bakugo: ahora sabe que Akari es eficiente, íntegro y no manipulador — lo respeta como rival, no ha visto sus aspectos (Akari no le enseñó nada).** Clase: 'el que ablanda muros', aptitud matemática. NADIE sabe de la relación con Momo (secreta).
+- Aizawa: TODO (Quirk + borrado + línea roja anti-Drácula, de la que es testigo/fiador); es quien VIO la eficiencia de Akari (pelea al ras, nunca sacó el Avatar por su cuenta). Nezu: todo (aliado). Momo: TODO (confidente total). Ibara: savia + experimento pendiente. Jirō: su música. Hagakure: SOSPECHA que la percibe. Kendo: intuye que 'hay alguien más'. **Bakugo: NO ha visto ningún aspecto (Akari no le enseñó nada); solo le oyó decir que su Quirk es "inestable y el coste alto", que madruga, y que no es un manipulador — y por no defenderse ni presumir, lo respeta como rival. La eficiencia la infiere Aizawa, no Bakugo.** Clase: 'el que ablanda muros', aptitud matemática. NADIE sabe de la relación con Momo (secreta).
 
 ## Progresión narrativa activa
 - `hitos_progresion.csv`: M2→3 (S2), M3→4 (S3). **Sin subidas en S5.** Maestría CONGELADA en 4 a propósito.
