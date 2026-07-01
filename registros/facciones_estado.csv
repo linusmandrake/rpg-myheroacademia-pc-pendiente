@@ -1,6 +1,6 @@
 id,faccion,simpatia,influencia,ultimo_cambio,notas
-fac-001,UA (profesorado),ligeramente positiva,baja,2026-06-30,"Aizawa (tutor) lo respeta y lo entrena. Akari es alumno de pleno derecho pero con papeleo de urgencia incompleto (beca/residencia bloqueadas). El director Nezu custodia el secreto del avalista."
-fac-002,Avalista / observador externo (¿Comisión?),vigilante / desconocida,desconocida,2026-06-30,"Pro-hero sin nombre que metió a Akari en UA y exige informes trimestrales de su Quirk. Vigila desde detrás de la confidencialidad. Posible conexión con la Comisión de Seguridad. Aizawa, escéptico, del lado de Akari."
-fac-003,Pro-heroes de zona (Naka-ku sur),neutral-cauto,baja,2026-06-30,"'El Sabueso' (Kuroda) sospecha de Akari tras el incidente del Trigger. Relación de aviso, no hostil. Reactivable si Akari vive en su zona."
-fac-004,Comisión de Seguridad Pública,sin contacto directo,—,2026-06-30,"Sin contacto explícito en S1. Posible sombra detrás del avalista."
-fac-005,Liga de Villanos,sin contacto,—,2026-06-30,"Sin contacto en S1. El ataque del USJ (9 días antes de la llegada de Akari) marca el trasfondo de 1-A."
+fac-001,UA (profesorado),positiva,baja-media,2026-07-01,"Aizawa (tutor) lo entrena y lo respeta. Present Mic (inglés) lo respeta tras lo del oído musical. Cita con el director Nezu el miércoles (Día 3). Akari va ganando aliados en el claustro."
+fac-002,Avalista / observador externo (¿Comisión?),vigilante / amenaza latente,desconocida,2026-07-01,"Pro-hero sin nombre que metió a Akari en UA y exige informes trimestrales del Quirk. HALLAZGO S2/D2: encaja en el patrón histórico de usuarios de Quirks temporales, casi todos 'bajo tutela de la Comisión de Seguridad' o con registro cerrado. Alta probabilidad de vínculo con la Comisión. Trata a Akari como activo a monitorizar. Nezu (Día 3) puede empezar a destaparlo."
+fac-003,Pro-heroes de zona (Naka-ku sur),neutral-cauto,baja,2026-06-30,"'El Sabueso' (Kuroda) sospecha de Akari. Reactivable si vive en su zona. Sin aparición en D2."
+fac-004,Comisión de Seguridad Pública,sombra creciente,—,2026-07-01,"Sin contacto directo, pero el patrón de los Quirks temporales (bajo su tutela) apunta a que la Comisión podría estar detrás del avalista. Sombra a vigilar."
+fac-005,Liga de Villanos,sin contacto,—,2026-06-30,"Sin contacto. Trasfondo post-USJ."

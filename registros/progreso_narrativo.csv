@@ -1,8 +1,12 @@
 id,rasgo,peso,marca,otorgada,sesion
-pm-001,maestria_quirk,2,"Administración del pool en el circuito de resistencia: dosificó la savia y llegó con reserva donde los demás llegaron vacíos. Aizawa lo validó. (PC actuó + coste/esfuerzo + cambió la lectura del mentor + decisión activa).",no,1
-pm-002,maestria_quirk,2,"Primer uso consciente de una Bestia + hallazgo de que la savia se aquieta con conexión emocional, no con disciplina. Avance real de comprensión del Quirk.",no,1
-pm-003,COO,3,"Primer rescate real (Naka-ku sur): coordinación punta/rescate con Kendo, aguante disciplinado sin Quirk visible, 2 civiles salvados frente a un villano con Trigger. Hito heroico (coste físico real, riesgo, cambió el mundo).",no,1
-pm-004,TEC_quirk,1,"Detección de Trigger en la sangre del villano a distancia: uso táctico de la percepción sanguínea para predecir el colapso del enemigo.",no,1
-pm-005,TEC_quirk,1,"Refuerzo INTERNO de Cuerpo (sin manifestación externa) para encajar un derrumbe sin dejar evidencia grabable. Control fino y consciente del aspecto Cuerpo.",no,1
-pm-006,carácter_voluntad,2,"Se contuvo de drenar al villano inconsciente pese a que la savia lo 'pedía'. Decisión de carácter: 'no quiero que el hambre decida por mí'.",no,1
-# NOTA: marcas REGISTRADAS, ninguna convertida en subida todavía (otorgada=no). Arco 1, Día 1: se respeta la curva de poder (stats 3-4). Las marcas se acumulan para conceder subidas en cierre de arco o tras hito cumbre, según docs/progresion_narrativa.md. Maestría del Quirk se mantiene en 2 (el entrenamiento dedicado con Aizawa aún no se ha jugado).
+pm-001,maestria_quirk,2,"S1: administración del pool en el circuito de resistencia; Aizawa lo validó.",no,1
+pm-002,maestria_quirk,2,"S1: primer uso consciente de una Bestia + hallazgo de que la savia se aquieta con conexión.",no,1
+pm-003,COO,3,"S1: primer rescate real (Naka-ku sur), coordinación punta/rescate, 2 civiles salvados. Hito heroico.",no,1
+pm-004,TEC_quirk,1,"S1: detección de Trigger en sangre a distancia (uso táctico de la percepción).",no,1
+pm-005,TEC_quirk,1,"S1: refuerzo INTERNO de Cuerpo sin evidencia (control fino).",no,1
+pm-006,carácter_voluntad,2,"S1: se contuvo de drenar al villano pese a que la savia lo pedía.",no,1
+pm-007,maestria_quirk,3,"S2: entrenamiento dedicado del Eco con Aizawa. Descubrió las DOS anclas (bestia=anti-soledad, música=anti-Eco/tiempo), manifestó y nombró a Blackroot (bestia-guardián definida), y RETRASÓ el Eco por primera vez (primer control consciente del umbral). → CONVERTIDA en subida de maestría 2→3 (ver hitos-progresion).",si,2
+pm-008,TEC_quirk,1,"S2: primer uso romántico/control fino de plantasangre — germinó una rosa carmesí viva (late con su pulso) desde la palma.",no,2
+pm-009,ING,1,"S2: se puso al día de medio trimestre de temario descolgado (estudio metódico, rotando materias); resolvió al vuelo el reto musical de Present Mic.",no,2
+pm-010,COO,1,"S2: gestión social fina — zanjó el roce con Kaminari sin drama, dio la cara por él ante Present Mic (lealtad), desactivó a Monoma con guasa, ganó a Present Mic con su oído musical.",no,2
+# NOTA: pm-007 CONCEDIDA (maestría 2→3) por día de entrenamiento dedicado (regla docs/progresion_narrativa.md). El resto son marcas REGISTRADAS que se acumulan (Arco 1: stats se mantienen 3-4, no romper la curva; subidas de stat por hitos cumbre/cierre de arco).
