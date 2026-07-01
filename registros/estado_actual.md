@@ -1,44 +1,40 @@
 # Estado actual — RPG MHA Custom
-> Última actualización: 2026-06-30 · sesión 1.
+> Última actualización: 2026-07-01 · sesión 2 (fin del Día 2).
 
 ## En una frase
-Akari Hayami, recién matriculado en 1-A, cierra un primer día redondo (evaluación superada, vínculos plantados, un rescate real) y se presenta al amanecer del Día 2 al entrenamiento del Eco con Aizawa, con una sombra sin nombre vigilándole y el reloj del alojamiento corriendo.
+Akari cierra su segundo día en UA —el más intenso de su vida: maestría del Quirk a 3, Momo hecha pareja de facto con rosa de savia incluida, y un hallazgo que pinta a su avalista como una sombra de la Comisión— y duerme antes de un Día 3 con cita decisiva ante el director Nezu.
 
 ## PC
-Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk *Sanguine Verdant Echo*, potencial 5 / maestría 2. Herido leve (ceja cosida, magulladuras). Saldo ~¥44.500.
+Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk *Sanguine Verdant Echo*, potencial 5 / **maestría 3**. Bestia-guardián: **Blackroot**. Anclas del Eco: bestia (anti-soledad) + música (anti-Eco). Herido leve. Saldo ~¥43.850.
 
 ## Arcos abiertos
-- **Integración en 1-A**: en marcha, muy bien encaminada.
-- **Dominar el Eco**: entrenamiento con Aizawa (empieza D2 06:30) + con Ibara (savia).
-- **El avalista sin nombre**: pro-hero confidencial que metió a Akari en UA y exige informes trimestrales de su Quirk. Misterio central.
-- **Supervivencia adulta**: beca sin tramitar + piso antes del lunes (hostal solo hasta el viernes; UA prohíbe trabajar).
+- **Control del Eco**: entrenamiento con Aizawa (anclas descubiertas) + con Ibara (savia, empieza miércoles).
+- **La Momo-arc**: pareja de facto, anclada, secreta. Obstáculo: familia Yaoyorozu (abismo social).
+- **El avalista sin nombre**: sombra que sabe lo raro de su Quirk (patrón de Quirks temporales bajo tutela de la Comisión). Cita con Nezu (Día 3) puede destaparlo.
+- **Supervivencia adulta**: beca casi destrabada (Nezu la valida hoy); prórroga de alojamiento a pedir; piso pendiente.
 
-## Misiones / internado activas
-- Entrenamiento del Eco con Aizawa (D2 06:30).
-- Cita de biblioteca con Momo (D2 tarde).
-- Tramitar beca + buscar piso (deadline lunes).
-- Entrenamiento con Ibara (miér/vier).
+## Misiones / activas
+- ⭐ Cita con Nezu (miér 13:00): beca + prórroga + avalista.
+- Entrenamientos: Eco (Aizawa, diario 06:30), savia (Ibara, miér+vier).
+- Ponerse al día del temario (exámenes acercándose).
+- Viernes: sala 3 de Jirō + fin del hostal + salida del Bakusquad.
 
-## Hilos narrativos
-- **Kendo (closeness 4)**: vínculo más fuerte; pacto "verdad del Quirk = café"; sabe que esconde algo.
-- **Momo (3)**: cita de biblioteca; bento de lípidos pendiente de entregar.
-- **Jirō (3)**: canal nocturno; "ganarse" escucharla tocar; le debe la historia del incidente.
-- **Ibara (2)**: resonancia savia-savia bajo marco de respeto.
-- **Todoroki**: muro entreabierto (cuerda tendida).
-- **El Sabueso**: pro de zona que sospecha de Akari.
+## Hilos narrativos (vínculos)
+- **Momo (6, anclada)**: pareja de facto, secreta, deseo abierto no consumado; obstáculo familiar.
+- **Kendo (5, anclada)**: hermana de armas + 'lo otro'; café cruzado pendiente.
+- **Jirō (5)**: viernes sala 3 (santuario); 'te cogeré de la mano'.
+- **Mina (3)**, **Hagakure (2, slow-burn)**, **Ibara (2, savia hoy)**.
+- Amistades: Todoroki (muro entreabierto), Kaminari (leal), Tokoyami (hermandad metal), Aizawa/Present Mic (profesores).
 
 ## Economía
-- Saldo ~¥44.500. Beca de manutención SIN tramitar (única vía legal de ingresos). Hostal pagado por UA hasta el viernes.
+- Saldo ~¥43.850. Beca en validación (primer pago 5-7 días). Hostal hasta viernes. UA prohíbe trabajar.
 
 ## Reputación y facciones
-- Interna positiva-curiosa (1-A y 1-B). Foto del incidente circulando. UA + (Aizawa). Observador externo vigilante. Sabueso cauto. Liga sin contacto.
+- Interna alta. UA + (Aizawa, Present Mic, Nezu). Avalista/¿Comisión? vigilante. Liga sin contacto.
 
-## Hitos conseguidos (S1)
-- Primer día en 1-A; evaluación de aptitud superada en administración del Quirk.
-- Primer uso consciente de una Bestia + hallazgo emocional del Quirk (se aquieta con conexión).
-- Primer rescate real (Naka-ku sur) con coordinación, sin Quirk visible.
-- Pacto de mentoría con Aizawa; aliado contra el avalista.
-- 7 vínculos románticos plantados (Kendo, Momo, Jirō, Ibara, Mina, Hagakure, Tsuyu) + Todoroki/Midoriya (amistad).
+## Hitos conseguidos
+- S1: 1er día, evaluación, 1er rescate, pacto Aizawa, 7 vínculos plantados.
+- S2: maestría 2→3, Blackroot nombrado, 2 anclas del Eco, Momo (primer beso/declaración/rosa/anclaje), beca encarrilada, hermandades masculinas (Kaminari/Tokoyami), Present Mic ganado, hallazgo del avalista/Comisión.
 
 ## Decisiones pendientes del jugador
-- **A (ya inclinada)**: contarle a Aizawa TODO en crudo (la bestia, la soledad, el factor emocional) y arrancar el entrenamiento del Eco. (B: solo lo técnico. C: devolverle una pregunta antes.)
+- **Día 3 (miércoles)**: arrancar la jornada — Aizawa 06:30, clases, **Nezu 13:00** (beca + prórroga + ¿preguntar por el avalista?), Ibara por la tarde. Y el debate de fondo: entregarse a Momo vs el camino de harem de la campaña.
