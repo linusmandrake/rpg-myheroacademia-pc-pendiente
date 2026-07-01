@@ -1,79 +1,72 @@
-# Punto de cierre — sesión 3 · Curso 1 · Trimestre 1 · Día 3 (miércoles 15 may) · 21:10
+# Punto de cierre — sesión 4 · Curso 1 · Trimestre 1 · Día 4 (jueves 16 may) · 21:15
 > Auto-generado al cierre. Léase al abrir sesión nueva (junto a MEMORY.md + cabecera AGENTS.md + avisos CLAUDE.md).
 
 ## Estado narrativo exacto
-- Ubicación: Musutafu — **hostal Minato**, Akari acaba de acostarse tras el día más intenso emocionalmente de su vida.
-- Hora narrativa: fin del **Día 3 (miércoles 15 may) ~21:10** → arranca el **Día 4 (jueves 16 may)**.
-- Última acción de Akari: tras confesarle a Momo su naturaleza de bosque/harem y ofrecerle sacrificarlo todo por ella (dejándola con un dilema abierto), regó su red con mensajes de conexión (Kendo, Jirō, Tokoyami, Mina — a Momo NO, le da espacio) y se durmió.
-- **Próxima decisión / arranque del Día 4 (jueves)**: día lectivo normal en la superficie, pero cargado por debajo:
-  - **06:30 — entrenamiento del Eco con Aizawa** (dominar el "dos tiempos" sin scar; maestría 4).
-  - **Momo está PENSANDO el dilema** (bosque vs exclusividad); escribirá cuando decida — puede que no de inmediato. Akari NO debe presionarla.
-  - Pendiente: contarle a Momo **el Quirk completo "entre muros de UA"** cuando ella retome contacto.
-  - Llamar para **visitar el piso favorito** (Naka-ku centro, plaza).
-  - Primera decisión del jugador: cómo encara el Día 4 (madruga a Aizawa; cómo lleva el silencio de Momo; el resto de la red).
+- Ubicación: Musutafu — **hostal Minato**, Akari acaba de acostarse tras el día más grande de la campaña.
+- Hora narrativa: fin del **Día 4 (jueves 16 may) ~21:15** → arranca el **Día 5 (viernes 17 may)**.
+- Última acción de Akari: tras resolver el dilema del bosque con Momo (y planear el hotel del domingo), cenó ramen con Jirō, la acompañó a casa y le dio un abrazo de puro sentimiento (casi-beso guardado para la sala 3 de mañana). Volvió al hostal y se durmió.
+- **Próxima decisión / arranque del Día 5 (VIERNES — día cargado)**:
+  - **06:30 — entrenamiento con Aizawa** (consolidar M4; no forzar M5).
+  - ⭐ **SALA 3 de JIRÓ** (al acabar clases o cuando cuadre): su santuario, cantará/tocará lo que no enseña a nadie. Posible FLORECER (beso) → si florece, Akari debe contárselo a Momo (condición 1 de su marco).
+  - **Salida del Bakusquad** (viernes por la noche, Kaminari lo invitó).
+  - **Entrenamiento de savia con Ibara** (viernes tras clase).
+  - Pendientes del día: conseguir el número de Hagakure; reservar el hotel del domingo para Momo; la nota a Nezu.
+  - Primera decisión del jugador: cómo encara el viernes.
 
 ## Stats, Quirk y economía al cierre
 - PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3.
-- Quirk **Sanguine Verdant Echo**: potencial 5 / **maestría 4**. Aspectos: Cuerpo (plantasangre fina, ej. rosa) · Avatar (empezando a "pelear en dos tiempos") · Bestias (**Blackroot**) · Ecos (control creciente; roza dos acciones en dos instantes). Anclas del Eco: bestia (anti-soledad) + música (anti-Eco). Control de savia por "escucha" (aprendido con Ibara).
-- Saldo ~¥38.650. Beca VALIDADA por Nezu (primer pago 5-7 días). Prórroga de alojamiento CONCEDIDA (techo asegurado). Deudas: ninguna.
-- Salud: bien; 1 memory scar residual que se cura durmiendo (despierta limpio).
+- Quirk **Sanguine Verdant Echo**: potencial 5 / **maestría 4 (CONGELADA)**. Sostiene los "dos tiempos" limpio. Aspectos: Cuerpo (plantasangre fina), Avatar (dos tiempos), Bestias (Blackroot), Ecos (control creciente). Anclas: bestia + música. Escucha de savia (Ibara). **RALENTIZAR la curva de maestría** (Aizawa avisó del ritmo; M4→M5 exigirá más que un día).
+- Saldo ~¥34.650. Beca **¥100.000/mes**, validada (primer pago 5-7 días). Prórroga de hostal (gratis). Sin deudas.
+- Salud: bien.
 
 ## Reputación y facciones
-- Interna alta (íntegro, culto, brillante en mates). UA muy positiva: **Nezu ALIADO TÁCITO**, Aizawa, Present Mic, Ectoplasm. Avalista institucional vigilante (¿Comisión?). **Coleccionista de Quirks de las sombras = amenaza futura mayor** (Nezu advirtió). Liga sin contacto.
-
-## Equipamiento clave
-- Costume: ninguno aún. Móvil con contactos (Momo 🌹, Jirō, Kendo, Tokoyami, Mina + grupo Bakusquad). Libro en préstamo de Quirks temporales.
+- Interna muy alta ('el que ablandó a Todoroki', fundó la mesa de guardianes, aptitud matemática). UA muy positiva (Nezu, Aizawa=figura paterna, Present Mic, Ectoplasm, Iida). Gobierno/avalista: vigilante + **AMENAZA DIRECTA del borrado** si Akari se estanca. Coleccionista de las sombras: amenaza futura. Liga sin contacto.
 
 ## Misiones / objetivos abiertos
-- 🖤 **DILEMA de Momo** (HILO CENTRAL): decide bosque vs exclusividad; escribirá cuando decida.
-- Contarle a Momo el Quirk completo "entre muros".
-- Visitar el piso favorito (Naka-ku centro) — llamar.
-- Entrenamientos: Eco (Aizawa, diario 06:30), savia (Ibara, viernes).
-- **Viernes (Día 5)**: sala 3 de Jirō (santuario) + Bakusquad + Ibara.
-- Exámenes en ~2 semanas (mates su fuerte).
+- ⭐ VIERNES: sala 3 de Jirō (posible florecer) + Bakusquad + Ibara.
+- SÁBADO: centro comercial con 1-A + Hagakure estilista (+ 'secreto que arrancar').
+- DOMINGO: hotel day-use con Momo = primera vez (Akari reserva + confirma día).
+- Dormitorios de UA (Heights Alliance, ~semanas) = techo definitivo. Cita con Nezu (dormitorios + entre muros).
+- Conseguir número de Hagakure. Exámenes en ~2 semanas (elefante a 2/3, mates dominado).
 
 ## Decisiones de carácter recientes que pesan
-- **Honestidad máxima**: confesó a Momo su naturaleza de harem pudiendo mentirle; eligió la verdad sobre el engaño (marca de carácter cumbre).
-- Ofreció sacrificar Quirk/heroísmo por Momo (ella por encima de todo).
-- Con Ibara: honesto sobre su hambre + respeto a su fe.
-- Con Todoroki: comprensión sin empujar. Con Kaminari: lealtad. Ante Nezu: agencia, no sumisión.
+- **Honestidad máxima**: le contó a Momo TODO (Quirk + borrado) pudiendo mentir; rechazó rebobinarle la memoria (agencia = línea roja). Ofreció sacrificar Quirk/heroísmo por ella.
+- Elige NO ser Drácula (vigila el hambre de sangre de su savia).
+- Funda comunidad para los del margen (guardianes). Cuida sin presionar (bento a Momo, té a Todoroki). Da la cara, no vende a nadie.
+- Sintió por 1ª vez el calor de ser protegido (Aizawa) — se está dejando cuidar.
 
 ## Continuidad emocional y red sexoafectiva (harem / OPSEC)
-- **Momo (closeness 7, ANCLADA, deseo abierto, DILEMA ABIERTO)**: pareja de facto, amor mutuo confirmado, primer toque de pecho. Akari le confesó el harem (ella = árbol madre, por encima de todo; ahora solo está ella, marco teórico). Momo pidió TIEMPO para decidir si acepta el bosque o necesita exclusividad. NO roto — en pausa reflexiva. El amor sigue. Relación SECRETA (clase no lo sabe; familia Yaoyorozu = obstáculo). NO presionarla; ella escribirá.
-- **Ibara (3, deseo abierto, cortejo lento a la luz)**: entrenamiento de savia miér+vier; tracción admitida mutuamente; marco de contención por su fe. Momo sabe que "entrena savia con Shiozaki" (no de la tracción).
-- **Jirō (5, latente)**: VIERNES sala 3 (su santuario, tocará lo que no enseña a nadie). "Te cogeré de la mano" pendiente. Cercana a Momo.
-- **Kendo (5, anclada)**: hermandad de armas + "lo otro"; café cruzado.
-- **Mina (3)**, **Hagakure (2, percepción slow-burn)**.
-- REGLA (memoria [[manejo-harem-sin-culpa]]): solo Momo es relación consumada; Jirō/Kendo/Ibara son intención latente/no consumada. NO imponer culpa. El coste del harem se está cobrando AHORA en el dilema de Momo (fricción real, no juicio moral).
-
-## Detalles emocionales sutiles
-- "Vientos de primavera" = sello con Momo. "Árbol madre / bosque" = el marco con que Akari le explicó su forma de amar.
-- "Elección de familia": el beso frente al piso favorito sanó la herida de ambos (él abandonado, ella temida-por-conveniencia).
-- Con Momo, Akari es primerizo también (se lo confesó). Cada paso íntimo lo descubren juntos.
+- **Momo (closeness 8, ANCLADA, deseo abierto): PAREJA CONSOLIDADA, DILEMA RESUELTO.** Acepta ser el ÁRBOL MADRE/eje del bosque. Su MARCO (3 raíces, NO cadenas): (1) HONESTIDAD — Akari se lo cuenta cuando una flor FLORECE (se consuma/beso), con nombre, ella antes que nadie; no cada semilla latente. (2) DIGNIDAD — su lugar claro, sin humillación; las flores saben que hay 'un árbol' SIN saber que es Momo (secreto/padre protegidos). (3) CERTEZA — abrazarla cuando le duela, recordarle que es el centro. Relación SECRETA. Primera vez planeada: HOTEL DOMINGO. Obstáculo: familia Yaoyorozu.
+- **Jirō (6, deseo abierto, volátil)**: cena, meñique, abrazo, casi-beso GUARDADO. VIERNES sala 3 = su santuario; si hay beso, es un FLORECER → contárselo a Momo. 'Nightfall' reservada.
+- **Ibara (4, deseo abierto, cortejo lento)**: rosas de savia en su jazmín; experimento del drenaje pendiente; savia miér+vier.
+- **Kendo (5, anclada, PUERTA ENTORNADA)**: decidirá con info completa cuando Akari 'sepa qué es y qué puede darle' (ya lo sabe: su círculo único). Café cruzado.
+- **Hagakure (3, deseo abierto)**: proyecto de estilismo (sábado), coqueteo del beso, SOSPECHA que la 've' (slow-burn en el filo). Akari NO tiene su número.
+- **Uraraka (1)**, **Mina (3)**.
+- REGLA [[manejo-harem-sin-culpa]]: solo Momo consumada; el resto intención latente. Momo pidió saber cuando algo FLOREZCA (beso/consumación), no cada semilla. Riesgo latente: Momo↔Jirō↔Kendo se conocen.
 
 ## Información que los NPCs tienen sobre Akari
-- Aizawa: el Eco, anclas, Blackroot, el "dos tiempos". Nezu: TODO lo del avalista/Quirk temporal (aliado). Momo: casi todo (Eco, avalista versión pública; el Quirk completo pendiente "entre muros"; y su naturaleza de harem). Ibara: entrena su savia (no el detalle del Eco). Jirō: su música. Ectoplasm/clase: su aptitud matemática. NADIE sabe de la relación con Momo (secreta).
+- Aizawa: todo el Quirk + el borrado (figura protectora). Nezu: todo (aliado). Momo: TODO (Quirk + borrado + naturaleza de bosque; su confidente total). Ibara: savia + que hay un 'experimento' pendiente. Jirō: su música. Hagakure: SOSPECHA que la percibe. Kendo: intuye que 'hay alguien más'. Clase: 'el que ablanda muros', aptitud matemática; Bakugo lo ficha como amenaza. NADIE sabe de la relación con Momo (secreta).
 
 ## Progresión narrativa activa
-- `hitos_progresion.csv`: hp-001 (maestría 2→3, S2), hp-002 (maestría 3→4, S3).
-- `progreso_narrativo.csv`: marcas acumuladas (maestría ya al día; COO peso 3 del rescate, ING peso 2 mates, carácter peso 3 honestidad). Arco 1: stats se mantienen 3/3/4/4/3.
-- `rutas_crecimiento.csv`: Eco, savia, coordinación, académico — activas.
-- Maestría 4 (+1 por día de entrenamiento dedicado; ojo a no romper la curva de Arco 1 con subidas demasiado rápidas — valorar ralentizar).
+- `hitos_progresion.csv`: M2→3 (S2), M3→4 (S3). Maestría CONGELADA en 4 (S4).
+- `progreso_narrativo.csv`: marcas fuertes acumuladas — carácter_voluntad ×2 (peso 3: honestidad con Momo, no cruzar la línea roja), COO/liderazgo (peso 3: mesa de guardianes). Stats 3/3/4/4/3 (Arco 1). Valorar subida de COO en cierre de arco.
+- `rutas`: Eco, savia, coordinación/liderazgo, académico, y drenaje (inactiva, sembrada).
+- `conocimientos`: incluye el borrado, el drenaje 'poquito de muchas', los dormitorios.
 
 ## NPCs menores con potencial futuro
-- Nezu (aliado), Ectoplasm/Present Mic (profesores), Sabueso (zona), Mei Hatsume (support/costume), 1-B (Monoma, Tetsutetsu).
+- La mesa de los guardianes (Todoroki, Tokoyami, Kōda, Aoyama, Midoriya) — comunidad activable. Iida (aliado). Nezu (cita pendiente). Mei Hatsume (costume futuro). Bakugo (choque pendiente).
 
 ## Coincidencias narrativas entre NPCs
-- Momo↔Jirō (cercanas), Jirō↔Kendo (amigas), Bakugo↔Midoriya (falla), Uraraka↔Midoriya (terreno minado). RIESGO latente: Momo, Jirō y Kendo se conocen entre sí.
+- Momo↔Jirō (cercanas), Jirō↔Kendo (amigas), Bakugo↔Midoriya (falla), Uraraka↔Midoriya. RIESGO: Momo, Jirō, Kendo se conocen entre sí.
 
 ## Relojes de facción activos
-- Avalista/¿Comisión?: informes sobre el Quirk. Coleccionista de las sombras: amenaza futura (radar cuando oiga de su Quirk). Liga: latente. UA: Nezu protege bajo sus muros.
+- Gobierno/avalista: vigila; amenaza del borrado si Akari se estanca. Coleccionista: radar futuro. UA (Nezu): protege bajo sus muros; dormitorios en obras. Liga: latente.
 
 ## Memorias de feedback (MEMORY.md)
-- [[roles-clase-1a]] · [[ritmo-narrativo-jugador]] · [[worldbuilding-ua-economia]] · [[niebla-informacion-npc]] · [[manejo-harem-sin-culpa]].
+- [[roles-clase-1a]] · [[ritmo-narrativo-jugador]] · [[worldbuilding-ua-economia]] · [[niebla-informacion-npc]] · [[manejo-harem-sin-culpa]] · [[pov-mas-interesante]] · [[voz-clase-1a]].
 
 ## Para reanudar la sesión nueva
 1. Leer este archivo + MEMORY.md + cabecera de AGENTS.md + avisos de CLAUDE.md.
-2. Saludar con cabecera 📅 (Curso 1 · T1 · Día 4 · jueves 16 may · [hora] · Musutafu — hostal/UA).
-3. Confirmar el punto: Akari despierta el Día 4 con el dilema de Momo en el aire (ella pensando, sin presionar), entrenamiento con Aizawa, y el día lectivo.
-4. Presentar cómo arranca el Día 4 como primer turno. NO forzar que Momo escriba ya; el silencio reflexivo es parte del hilo.
+2. Saludar con cabecera 📅 (Curso 1 · T1 · Día 5 · viernes 17 may · [hora] · Musutafu — hostal/UA).
+3. Confirmar el punto: Akari despierta el VIERNES, día cargado — Aizawa 06:30, y sobre todo la SALA 3 de Jiró (su santuario), el Bakusquad e Ibara. Con Momo ya consolidada (marco definido), el hotel del domingo por reservar.
+4. Presentar cómo arranca el Día 5 como primer turno.

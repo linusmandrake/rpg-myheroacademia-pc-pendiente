@@ -1,12 +1,11 @@
 timestamp,concepto,id_entidad,descripcion,cantidad,tipo
-C1-T1-D1,saldo_inicial,—,Ahorros de Osaka (ESTIMADO; ajustable),50000,saldo_inicial
-C1-T1-D1,comida,izakaya-musutafu,Cena rica en hierro,-1800,gasto
-C1-T1-D1,comida,kettle-and-vine,Cappuccino + croissant + coca-cola,-1200,gasto
-C1-T1-D2,comida,konbini,Carne/morcilla + ingredientes 2 bentos,-2500,gasto
-C1-T1-D2,bebida,maquina-ua,Té de cebada para Todoroki,-150,gasto
-C1-T1-D2,comida,cafeteria-ua,Almuerzo en UA,-500,gasto
-C1-T1-D3,comida,konbini,Ingredientes 2 bentos (morcilla/sangre para él, grasas para Momo),-2200,gasto
-C1-T1-D3,comida,izakaya-musutafu,Cena de la cita con Momo,-3000,gasto
-# Saldo al cierre S3/D3: ~¥38.650
-# BECA: VALIDADA por el director Nezu (S3/D3). Primer pago: 5-7 días hábiles. PRÓRROGA de alojamiento CONCEDIDA (hostal cubierto hasta que entre el pago y pueda alquilar).
-# PISO FAVORITO identificado: Naka-ku centro, edificio de esquina con plaza y árbol. Visita por dentro pendiente (llamar). UA prohíbe trabajar.
+C1-T1-D1,saldo_inicial,—,Ahorros de Osaka (ESTIMADO),50000,saldo_inicial
+C1-T1-D1,comida,varios,Cena izakaya + cafetería (D1),-3000,gasto
+C1-T1-D2,comida,varios,Bentos + té Todoroki + almuerzo (D2),-3150,gasto
+C1-T1-D3,comida,varios,Bentos + cena de la cita con Momo (D3),-5200,gasto
+C1-T1-D4,comida,konbini,Bentos de madrugada (uno para Momo),-2200,gasto
+C1-T1-D4,comida,ramen-cortina-roja,Cena de ramen con Jirō (2 raciones),-1800,gasto
+# Saldo al cierre S4/D4: ~¥34.650
+# BECA: VALIDADA por Nezu. Importe: ¥100.000/mes (manutención Hero Course). Primer pago: 5-7 días hábiles. PRÓRROGA de alojamiento concedida (hostal gratis mientras dura).
+# PISO FAVORITO (Naka-ku centro, 65.000/mes) INASEQUIBLE ahora: entrada de ~¥260.000 (shikikin+reikin+1er mes+comisión) + GARANTE familiar (que Akari no tiene). PLAN: esperar los DORMITORIOS de UA (Heights Alliance, en construcción, ~semanas, subvencionados/gratis) = techo digno sin entrada ni garante ni exponer a nadie.
+# HOTEL del DOMINGO (day-use ~14-20h) para la primera vez con Momo: gasto asequible una tarde (~¥15-30.000). Akari busca sitio bonito. Pendiente de reservar.

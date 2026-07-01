@@ -1,15 +1,11 @@
 id,rasgo,peso,marca,otorgada,sesion
-pm-001,maestria_quirk,2,"S1: administración del pool en el circuito; Aizawa lo validó.",no,1
-pm-002,maestria_quirk,2,"S1: 1er uso consciente de Bestia + hallazgo (savia se aquieta con conexión).",no,1
 pm-003,COO,3,"S1: 1er rescate real (Naka-ku sur), coordinación, 2 civiles salvados.",no,1
-pm-004,TEC_quirk,1,"S1: detección de Trigger en sangre.",no,1
-pm-005,TEC_quirk,1,"S1: refuerzo interno invisible.",no,1
 pm-006,carácter_voluntad,2,"S1: se contuvo de drenar al villano.",no,1
-pm-007,maestria_quirk,3,"S2: 1er entrenamiento dedicado del Eco (2 anclas, Blackroot, retrasó el Eco). → maestría 2→3.",si,2
-pm-008,TEC_quirk,1,"S2: rosa de savia (control fino de plantasangre).",no,2
-pm-009,ING,1,"S2: puesta al día del temario descolgado.",no,2
-pm-010,COO,1,"S2: gestión social (Kaminari, Present Mic, Monoma).",no,2
-pm-011,maestria_quirk,3,"S3: día de doble entrenamiento dedicado — con Aizawa empezó a CONTROLAR el Eco y rozó 'pelear en dos tiempos'; con Ibara aprendió a 'escuchar' la savia. → maestría 3→4.",si,3
-pm-012,ING,2,"S3: brilló en matemáticas (resolvió por caminos elegantes de curso superior pese a ir descolgado). Aptitud analítica confirmada.",no,3
-pm-013,carácter_voluntad,3,"S3: HONESTIDAD MÁXIMA — confesó a Momo su naturaleza de bosque/red pudiendo mentirle, y le ofreció sacrificarlo todo (Quirk, ser héroe) menos a ella. Decisión de carácter de peso cumbre (coste emocional real, riesgo de perderla, verdad sobre engaño).",no,3
-# NOTAS: pm-007 (S2) y pm-011 (S3) CONCEDIDAS como subidas de maestría (2→3→4) por días de entrenamiento dedicado. Resto = marcas acumuladas. Arco 1: STATS se mantienen 3/3/4/4/3 (no romper la curva; subidas de stat por hitos cumbre/cierre de arco).
+pm-007,maestria_quirk,3,"S2: 1er entrenamiento dedicado (2 anclas, Blackroot). → maestría 2→3.",si,2
+pm-011,maestria_quirk,3,"S3: doble entrenamiento (control del Eco + escuchar savia). → maestría 3→4.",si,3
+pm-013,carácter_voluntad,3,"S3: honestidad máxima — confesó a Momo su naturaleza de bosque pudiendo mentir.",no,3
+pm-014,maestria_quirk,2,"S4: sostuvo los 'dos tiempos' LIMPIO (sin scar) — consolidación de M4. NO se concede subida: Aizawa avisa que el Quirk crece demasiado rápido; se RALENTIZA la curva. Marca acumulada hacia M5 (que exigirá más que un día de entrenamiento).",no,4
+pm-015,carácter_voluntad,3,"S4: HONESTIDAD MÁXIMA — le contó a Momo TODO el Quirk + lo del borrado, resolviendo el dilema; rechazó rebobinarle la memoria (respetó su agencia = línea roja no cruzada). Marca cumbre de carácter.",no,4
+pm-016,COO / liderazgo,3,"S4: FUNDÓ la mesa de los guardianes — dio identidad y pertenencia a los del margen (Todoroki, Kōda, Aoyama, Tokoyami, Midoriya); ablandó a Todoroki (pacto de amistad público); ganó a Iida. Liderazgo social de peso.",no,4
+pm-017,ING,1,"S4: elefante académico a 2/3, mates dominado.",no,4
+# NOTA: maestría CONGELADA en 4 (S4). Subidas concedidas hasta ahora: M2→3 (S2), M3→4 (S3). A partir de M4, RALENTIZAR (Aizawa lo avisó). Stats se mantienen 3/3/4/4/3 (Arco 1). Marcas de carácter y COO acumulándose (peso alto) — valorar subida de stat social (COO) en cierre de arco.

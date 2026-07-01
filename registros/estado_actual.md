@@ -1,40 +1,37 @@
 # Estado actual — RPG MHA Custom
-> Última actualización: 2026-07-01 · sesión 3 (fin del Día 3).
+> Última actualización: 2026-07-01 · sesión 4 (fin del Día 4).
 
 ## En una frase
-Akari cierra su tercer día —maestría del Quirk a 4, a Nezu como aliado, la beca y el techo asegurados, y a Ibara en cortejo lento— tras confesarle a Momo su naturaleza de harem y ofrecerle sacrificarlo todo por ella: ahora ella decide, en silencio, si acepta ser el árbol madre de un bosque o necesita un jardín de uno solo.
+Akari cierra su cuarto día —el más grande hasta ahora: fundó la mesa de los guardianes, ganó a Todoroki, supo por Aizawa que el gobierno podría eliminarlo si se debilita, y sobre todo resolvió el dilema con Momo (que acepta ser el árbol madre de su bosque)— con una cena y un abrazo que acercan a Jiró, la noche antes de que ella le abra su santuario.
 
 ## PC
-Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk *Sanguine Verdant Echo*, potencial 5 / **maestría 4**. Blackroot; anclas del Eco (bestia + música); control de savia por "escucha"; roza "pelear en dos tiempos". Saldo ~¥38.650 (beca en camino).
+Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk *Sanguine Verdant Echo*, potencial 5 / **maestría 4 (congelada — ralentizar)**. Blackroot; anclas del Eco; sostiene los "dos tiempos" limpio; escucha de savia. Saldo ~¥34.650 (beca ¥100k/mes en camino).
 
 ## Arcos abiertos
-- **La Momo-arc (HILO CENTRAL)**: pareja de facto anclada, amor mutuo, pero DILEMA abierto — Momo decide bosque (harem) vs exclusividad. Obstáculo: familia Yaoyorozu.
-- **Control del Eco**: con Aizawa (dos tiempos) + Ibara (savia).
-- **El avalista / las sombras**: avalista institucional (no el coleccionista); pero un Quirk temporal como el suyo atraerá a las sombras. Nezu = aliado.
-- **Supervivencia adulta**: beca validada + techo asegurado; piso favorito por visitar.
+- **La Momo-arc**: RESUELTA en su dilema — pareja consolidada, Momo el árbol madre del bosque, marco de 3 raíces (honestidad al florecer, dignidad, certeza). Primera vez: hotel domingo. Obstáculo: familia Yaoyorozu.
+- **La red y la mesa de guardianes**: comunidad fundada (Todoroki, Tokoyami, Kōda, Aoyama, Midoriya). Vínculos: Jiró (sala 3 mañana), Ibara (cortejo lento), Hagakure (estilismo + sospecha), Kendo (puerta entornada), Uraraka.
+- **La amenaza (avalista / borrado / coleccionista)**: el gobierno podría eliminar a Akari si se estanca; el coleccionista lo codiciará. Blindaje: fuerza + red. Nezu y Aizawa de su lado.
+- **Supervivencia adulta**: beca validada; techo por la vía de los dormitorios de UA (~semanas).
 
 ## Misiones / activas
-- Dilema de Momo (ella escribirá cuando decida; no presionar).
-- Contarle a Momo el Quirk completo "entre muros".
-- Visitar piso favorito (Naka-ku centro).
-- Entrenamientos: Eco (Aizawa, 06:30), savia (Ibara, viernes).
-- Viernes: sala 3 de Jirō + Bakusquad + Ibara.
-- Exámenes en ~2 semanas (mates su fuerte).
+- VIERNES: sala 3 de Jirō (posible florecer) + Bakusquad + Ibara.
+- SÁBADO: centro comercial + Hagakure estilista. DOMINGO: hotel con Momo (primera vez).
+- Reservar el hotel; conseguir número de Hagakure; cita con Nezu (dormitorios + entre muros).
+- Exámenes en ~2 semanas (elefante a 2/3, mates dominado).
 
 ## Hilos narrativos (vínculos)
-- **Momo (7, dilema)**, **Kendo (5, anclada)**, **Jirō (5, viernes sala 3)**, **Ibara (3, cortejo lento)**, **Mina (3)**, **Hagakure (2, slow-burn)**.
-- Amistades: Todoroki (muro entreabierto), Kaminari (leal), Tokoyami (metal), Aizawa/Nezu/Present Mic/Ectoplasm (profesores/dirección).
+- **Momo (8, pareja consolidada, dilema resuelto)** · **Jirō (6, sala 3 mañana)** · **Ibara (4, cortejo lento)** · **Kendo (5, puerta entornada)** · **Hagakure (3, sospecha)** · **Uraraka (1)** · **Mina (3)**.
+- Amistades: Todoroki (pacto de muros), Iida, Kōda, Aoyama, Tokoyami, Midoriya, Kaminari; Aizawa/Nezu (mentores/aliados).
 
 ## Economía
-- ~¥38.650. Beca validada (primer pago 5-7 días). Prórroga de alojamiento. UA prohíbe trabajar.
+- ~¥34.650. Beca ¥100.000/mes (primer pago 5-7 días). Piso favorito inasequible → dormitorios. Hotel domingo asumible.
 
 ## Reputación y facciones
-- Interna alta. UA muy positiva (Nezu aliado). Avalista vigilante. Coleccionista = amenaza futura. Liga sin contacto.
+- Interna muy alta. UA muy positiva (Nezu, Aizawa, Iida). Gobierno/avalista vigilante + amenaza del borrado. Coleccionista amenaza futura. Liga sin contacto.
 
 ## Hitos conseguidos
-- S1: 1er día, evaluación, 1er rescate, pacto Aizawa.
-- S2: maestría→3, Blackroot, 2 anclas, Momo (beso/declaración/rosa), hallazgo avalista.
-- S3: maestría→4, roza "dos tiempos", Nezu aliado (beca+techo), Ibara (savia+cortejo), mates su fuerte, y la CONFESIÓN del harem a Momo → dilema central abierto.
+- S1-S3: 1er día, evaluación, rescate, maestría→4, Nezu aliado, Momo (beso/declaración/rosa), hallazgo del avalista.
+- S4: M4 consolidado, amenaza del borrado, Todoroki (pacto público), MESA DE LOS GUARDIANES, Uraraka/Iida/Kōda/Aoyama, DILEMA DE MOMO RESUELTO + marco, hotel domingo, Jirō (meñique/abrazo).
 
 ## Decisiones pendientes del jugador
-- **Día 4 (jueves)**: arrancar la jornada (Aizawa 06:30, clases) llevando el silencio reflexivo de Momo (sin presionarla). Y de fondo, el gran hilo: qué decidirá Momo, y cómo Akari sostiene su red mientras espera.
+- **Día 5 (viernes)**: arrancar el día cargado — Aizawa 06:30, clases, ⭐ SALA 3 de Jirō (su santuario), Bakusquad, Ibara. Y de fondo: reservar el hotel del domingo, y el peso de la amenaza del borrado.
