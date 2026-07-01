@@ -193,7 +193,7 @@ Si la campaña los cubre, son marcas con peso narrativo real.
 
 ---
 
-## Skills específicas del proyecto (en `.claude/skills/` cuando se creen)
+## Skills específicas del proyecto (creadas y operativas)
 
 - `apertura-sesion-mha` — apertura limpia de sesión.
 - `cierre-sesion-mha` — cierre limpio de sesión.
@@ -202,8 +202,9 @@ Si la campaña los cubre, son marcas con peso narrativo real.
 - `que-tengo-a-punto-mha` — digest rápido de progresión.
 - `evaluar-progresion-mha` — evaluar marcas y conceder subidas.
 - `rutas-crecimiento-mha` — generar rutas para subir rasgos.
+- `validar-estado-mha` — auditoría de consistencia de registros (script + reconciliación).
 
-(Estas skills se crearán cuando la campaña tenga suficiente estado. Por ahora, el esqueleto está vacío.)
+(Todas creadas y en uso desde la sesión 1.)
 
 ---
 
@@ -216,10 +217,10 @@ Pasos de integración ya completados:
 1. ✅ Carpeta renombrada a `rpg-myheroacademia-akari-hayami`.
 2. ✅ Ficha en `docs/personaje_akari_hayami.md` (`personaje_pc_pendiente.md` se conserva como índice histórico).
 3. ✅ `registros/pj.csv` poblado con la ficha inicial.
-4. ⏳ Pendiente: ejecutar el primer paso de `docs/sesion_cero.md` (primera sesión).
+4. ✅ Sesión cero ejecutada y campaña en marcha (sesiones 1-4 jugadas, Días 1-4 de ficción).
 
 ---
 
-## Aviso de placeholder
+## Estado de la campaña
 
-**Este es un esqueleto inicial.** La mayoría de `docs/` están vacíos o con placeholders. La campaña empieza cuando tú lo digas, con la primera sesión.
+**Campaña EN MARCHA** (el esqueleto inicial quedó atrás el 2026-07-01): 4 sesiones jugadas, `docs/` y `registros/` operativos. La fuente de verdad del estado vivo es `registros/` (punto_cierre_actual.md + CSVs); NPCs custom en `docs/npc_custom.md`.

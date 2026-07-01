@@ -7,7 +7,7 @@
 - Última acción de Akari: tras resolver el dilema del bosque con Momo (y planear el hotel del domingo), cenó ramen con Jirō, la acompañó a casa y le dio un abrazo de puro sentimiento (casi-beso guardado para la sala 3 de mañana). Volvió al hostal y se durmió.
 - **Próxima decisión / arranque del Día 5 (VIERNES — día cargado)**:
   - **06:30 — entrenamiento con Aizawa** (consolidar M4; no forzar M5).
-  - ⭐ **SALA 3 de JIRÓ** (al acabar clases o cuando cuadre): su santuario, cantará/tocará lo que no enseña a nadie. Posible FLORECER (beso) → si florece, Akari debe contárselo a Momo (condición 1 de su marco).
+  - ⭐ **SALA 3 de JIRŌ** (al acabar clases o cuando cuadre): su santuario, cantará/tocará lo que no enseña a nadie. Posible FLORECER (beso) → si florece, Akari debe contárselo a Momo (condición 1 de su marco).
   - **Salida del Bakusquad** (viernes por la noche, Kaminari lo invitó).
   - **Entrenamiento de savia con Ibara** (viernes tras clase).
   - Pendientes del día: conseguir el número de Hagakure; reservar el hotel del domingo para Momo; la nota a Nezu.
@@ -44,6 +44,15 @@
 - **Uraraka (1)**, **Mina (3)**.
 - REGLA [[manejo-harem-sin-culpa]]: solo Momo consumada; el resto intención latente. Momo pidió saber cuando algo FLOREZCA (beso/consumación), no cada semilla. Riesgo latente: Momo↔Jirō↔Kendo se conocen.
 
+## Detalles emocionales sutiles (rescatados del transcript S4)
+- Aizawa, frase-sello de la figura paterna: **"acostúmbrate a que te cuiden, que es lo normal; lo raro era lo otro"** — a Akari le escuece en los ojos (y no es el scar).
+- Hagakure se sonroja "a salvo de que la vean" (no tiene cara): su alivio íntimo es poder estar colada sin exponerse. Por eso "preciosa cuando te emocionas" la desmonta — eso no es fijarse, es VER.
+- Momo POV: su pregunta real no es "¿le quiero?" sino **"¿soy lo bastante grande para amarlo a su manera sin encogerme yo?"**. Y su síntesis del marco: **"no control: CERTEZA"** (rechazó la imagen del "jardín de esclavas"; le pidió levantarse de rodillas "que te va a ver alguien sobre una mesa").
+- La hermandad con Kendo se completa a coro: él "we band of brothers" / ella "we happy few" — sagrado, por encima del romance.
+- Ibara, al recibir las rosas de sangre: "Alabado sea… está viva, late" — se llevó el jazmín-y-rosas a su cuarto ("voy a cuidar tu rojo como cuido mi blanco").
+- Jirō movió ELLA el meñique ("idiota considerado…"); necesitaba verlo "humano" (comer ramen, robar bambú) antes de abrirse en la sala 3.
+- Momo se fue 2-3h antes del toque de queda huyendo de su propio deseo ("no me mires así, que me conozco"); Akari eligió el domingo con "la responsabilidad más dulce y más aterradora del mundo".
+
 ## Información que los NPCs tienen sobre Akari
 - Aizawa: todo el Quirk + el borrado (figura protectora). Nezu: todo (aliado). Momo: TODO (Quirk + borrado + naturaleza de bosque; su confidente total). Ibara: savia + que hay un 'experimento' pendiente. Jirō: su música. Hagakure: SOSPECHA que la percibe. Kendo: intuye que 'hay alguien más'. Clase: 'el que ablanda muros', aptitud matemática; Bakugo lo ficha como amenaza. NADIE sabe de la relación con Momo (secreta).
 
@@ -68,5 +77,5 @@
 ## Para reanudar la sesión nueva
 1. Leer este archivo + MEMORY.md + cabecera de AGENTS.md + avisos de CLAUDE.md.
 2. Saludar con cabecera 📅 (Curso 1 · T1 · Día 5 · viernes 17 may · [hora] · Musutafu — hostal/UA).
-3. Confirmar el punto: Akari despierta el VIERNES, día cargado — Aizawa 06:30, y sobre todo la SALA 3 de Jiró (su santuario), el Bakusquad e Ibara. Con Momo ya consolidada (marco definido), el hotel del domingo por reservar.
+3. Confirmar el punto: Akari despierta el VIERNES, día cargado — Aizawa 06:30, y sobre todo la SALA 3 de Jirō (su santuario), el Bakusquad e Ibara. Con Momo ya consolidada (marco definido), el hotel del domingo por reservar.
 4. Presentar cómo arranca el Día 5 como primer turno.

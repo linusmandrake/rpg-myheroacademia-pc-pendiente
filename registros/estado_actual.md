@@ -2,14 +2,14 @@
 > Última actualización: 2026-07-01 · sesión 4 (fin del Día 4).
 
 ## En una frase
-Akari cierra su cuarto día —el más grande hasta ahora: fundó la mesa de los guardianes, ganó a Todoroki, supo por Aizawa que el gobierno podría eliminarlo si se debilita, y sobre todo resolvió el dilema con Momo (que acepta ser el árbol madre de su bosque)— con una cena y un abrazo que acercan a Jiró, la noche antes de que ella le abra su santuario.
+Akari cierra su cuarto día —el más grande hasta ahora: fundó la mesa de los guardianes, ganó a Todoroki, supo por Aizawa que el gobierno podría eliminarlo si se debilita, y sobre todo resolvió el dilema con Momo (que acepta ser el árbol madre de su bosque)— con una cena y un abrazo que acercan a Jirō, la noche antes de que ella le abra su santuario.
 
 ## PC
 Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk *Sanguine Verdant Echo*, potencial 5 / **maestría 4 (congelada — ralentizar)**. Blackroot; anclas del Eco; sostiene los "dos tiempos" limpio; escucha de savia. Saldo ~¥34.650 (beca ¥100k/mes en camino).
 
 ## Arcos abiertos
 - **La Momo-arc**: RESUELTA en su dilema — pareja consolidada, Momo el árbol madre del bosque, marco de 3 raíces (honestidad al florecer, dignidad, certeza). Primera vez: hotel domingo. Obstáculo: familia Yaoyorozu.
-- **La red y la mesa de guardianes**: comunidad fundada (Todoroki, Tokoyami, Kōda, Aoyama, Midoriya). Vínculos: Jiró (sala 3 mañana), Ibara (cortejo lento), Hagakure (estilismo + sospecha), Kendo (puerta entornada), Uraraka.
+- **La red y la mesa de guardianes**: comunidad fundada (Todoroki, Tokoyami, Kōda, Aoyama, Midoriya). Vínculos: Jirō (sala 3 mañana), Ibara (cortejo lento), Hagakure (estilismo + sospecha), Kendo (puerta entornada), Uraraka.
 - **La amenaza (avalista / borrado / coleccionista)**: el gobierno podría eliminar a Akari si se estanca; el coleccionista lo codiciará. Blindaje: fuerza + red. Nezu y Aizawa de su lado.
 - **Supervivencia adulta**: beca validada; techo por la vía de los dormitorios de UA (~semanas).
 

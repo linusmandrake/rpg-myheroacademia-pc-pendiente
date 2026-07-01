@@ -2,11 +2,14 @@
 """
 validar_estado.py — verifica consistencia de registros/.
 
-Estado: esqueleto. Comprueba CSVs vacíos, columnas esperadas, y cruces básicos.
+Comprueba CSVs vacíos, columnas esperadas, capa 4 sexoafectiva, saldo de
+finanzas contra el comentario de cierre, y sincronía del cierre de sesión
+(sesion_XX.md ↔ punto_cierre_actual.md ↔ cronologia.csv).
 """
 
 import csv
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -87,6 +90,76 @@ def validar_relaciones() -> list[str]:
     return avisos
 
 
+def validar_finanzas() -> list[str]:
+    """Suma finanzas.csv y la cuadra contra el comentario '# Saldo al cierre'."""
+    avisos: list[str] = []
+    path = REGISTROS / "finanzas.csv"
+    if not path.exists():
+        return avisos
+    saldo = 0
+    saldo_declarado = None
+    con_movimientos = False
+    with open(path, newline="", encoding="utf-8") as f:
+        for row in csv.reader(f):
+            if not row:
+                continue
+            if row[0].startswith("#"):
+                linea = ",".join(row)
+                m = re.search(r"saldo al cierre[^:]*:?\s*~?¥?\s*([\d.,]+)", linea, re.I)
+                if m:
+                    saldo_declarado = int(re.sub(r"[.,]", "", m.group(1)))
+                continue
+            if row[0] == "timestamp":
+                continue
+            try:
+                saldo += int(row[4])
+                con_movimientos = True
+            except (IndexError, ValueError):
+                avisos.append(f"[WARN] finanzas: cantidad no numérica en fila {row[:3]}")
+    if not con_movimientos:
+        return avisos
+    if saldo_declarado is not None and saldo != saldo_declarado:
+        avisos.append(f"[WARN] finanzas: la suma de movimientos da ¥{saldo:,} pero el "
+                      f"comentario de cierre declara ¥{saldo_declarado:,}".replace(",", "."))
+    return avisos
+
+
+def validar_sincronia_cierre() -> list[str]:
+    """El punto de cierre y las crónicas deben ir a la par de la última sesión jugada."""
+    avisos: list[str] = []
+    sesiones_md = set()
+    for p in REGISTROS.glob("sesion_*.md"):
+        m = re.match(r"sesion_(\d+)\.md$", p.name)
+        if m:
+            sesiones_md.add(int(m.group(1)))
+
+    # Sesiones que la cronología da por cerradas ("[SESIÓN N CERRADA]")
+    max_cerrada = 0
+    crono = REGISTROS / "cronologia.csv"
+    if crono.exists():
+        texto = crono.read_text(encoding="utf-8")
+        for m in re.finditer(r"SESI[ÓO]N\s+(\d+)\s+CERRADA", texto, re.I):
+            max_cerrada = max(max_cerrada, int(m.group(1)))
+
+    # Sesión que refleja el punto de cierre (cabecera "sesión N")
+    sesion_pc = None
+    pc = REGISTROS / "punto_cierre_actual.md"
+    if pc.exists():
+        primera = pc.read_text(encoding="utf-8").splitlines()[0] if pc.stat().st_size else ""
+        m = re.search(r"sesi[óo]n\s+(\d+)", primera, re.I)
+        if m:
+            sesion_pc = int(m.group(1))
+
+    ultima = max(sesiones_md | {max_cerrada}) if (sesiones_md or max_cerrada) else 0
+    if max_cerrada and max_cerrada not in sesiones_md:
+        avisos.append(f"[ERROR] cronologia.csv da la sesión {max_cerrada} por cerrada "
+                      f"pero falta registros/sesion_{max_cerrada:02d}.md")
+    if sesion_pc is not None and ultima and sesion_pc < ultima:
+        avisos.append(f"[ERROR] punto_cierre_actual.md es de la sesión {sesion_pc} pero la "
+                      f"última sesión jugada es la {ultima} (regenerar con cierre-sesion-mha)")
+    return avisos
+
+
 def validar_csv(nombre: str, columnas_esperadas: list[str]) -> list[str]:
     """Devuelve lista de warnings/errores para un CSV."""
     warnings = []
@@ -120,6 +193,11 @@ def main():
 
     # Capa 4: dashboard sexoafectivo
     for w in validar_relaciones():
+        print(w)
+        total_warnings += 1
+
+    # Saldo de finanzas y sincronía del cierre de sesión
+    for w in validar_finanzas() + validar_sincronia_cierre():
         print(w)
         total_warnings += 1
 

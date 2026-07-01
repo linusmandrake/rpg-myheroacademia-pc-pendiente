@@ -12,7 +12,7 @@
 | Día 2 | martes | 14 may | JUGADO (S2) — Eco (maestría→3), MOMO (beso/declaración/rosa), hallazgo avalista |
 | Día 3 | miércoles | 15 may | JUGADO (S3) — Eco (→4) + savia (Ibara); CITA NEZU; cita con Momo → confesión del bosque → dilema |
 | Día 4 | jueves | 16 may | JUGADO (S4) — Eco (M4 consolidado); amenaza del BORRADO (Aizawa); Todoroki + MESA DE GUARDIANES; Uraraka/Hagakure/Iida; DILEMA DE MOMO RESUELTO + marco; piso inasequible → dormitorios; HOTEL domingo planeado; cena+abrazo Jirō |
-| Día 5 | **viernes** | 17 may | PRÓXIMO — Aizawa 06:30; ⭐ **SALA 3 de JIRÓ** (su santuario, posible florecer/beso); salida del Bakusquad; entrenamiento con Ibara (savia) |
+| Día 5 | **viernes** | 17 may | PRÓXIMO — Aizawa 06:30; ⭐ **SALA 3 de JIRŌ** (su santuario, posible florecer/beso); salida del Bakusquad; entrenamiento con Ibara (savia) |
 | Día 6 | **sábado** | 18 may | (futuro) — SALIDA de 1-A al CENTRO COMERCIAL; Hagakure ESTILISTA de Akari + 'secreto que arrancar' |
 | Día 7 | **domingo** | 19 may | (futuro) — 💗 HOTEL day-use (14-20h) con MOMO = PRIMERA VEZ (Akari reserva; Momo 'no aparece' hasta 21h) |
 | Día 8 | lunes | 20 may | (futuro) — decir algo al agente del piso (Akari dijo 'para el lunes') |

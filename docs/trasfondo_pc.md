@@ -1,6 +1,6 @@
 # Trasfondo del PC — RPG MHA Custom (18+)
 
-> **Estado:** placeholder. Rellenar cuando se defina el PC. Es un complemento de `docs/sesion_cero.md` y `docs/personaje_pc_pendiente.md`.
+> **Estado:** guía genérica ya APLICADA — el PC está definido (Akari Hayami, "matriculado a última hora", ver `docs/personaje_akari_hayami.md`). Se conserva como referencia de diseño. Complemento de `docs/sesion_cero.md`.
 >
 > Este doc existe para que el jugador tenga un lugar donde aterrizar la **llegada a UA** del PC: si es intercambio, de dónde viene, por qué, y cómo se integra. La mecánica del sistema asume que el PC es homebrew, no canon, y que llega a una clase que ya tiene dinámica.
 
