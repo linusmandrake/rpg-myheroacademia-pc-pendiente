@@ -22,7 +22,7 @@ CSV_REQUERIDOS = {
     "progreso_narrativo.csv": ["id", "rasgo", "peso", "marca", "otorgada", "sesion"],
     "hitos_progresion.csv": ["id", "sesion", "marca_id", "rasgo", "de", "a", "motivo"],
     "rutas_crecimiento.csv": ["id", "rasgo_objetivo", "tipo", "descripcion", "requisitos", "coste_narrativo", "activa"],
-    "companeros.csv": ["id", "nombre", "tipo", "rol", "quirk", "relevancia", "estado"],
+    "companeros.csv": ["id", "nombre", "tipo", "rol", "quirk", "vinculo", "nivel", "regimen", "relevancia", "estado"],
     "mentores.csv": ["id", "nombre", "rol", "quirk", "relevancia", "estado"],
     "equipo_pc.csv": ["id", "nombre", "tipo", "quirk", "potencial", "maestria_inicial", "descripcion", "limitaciones"],
     "misiones.csv": ["id", "tipo", "descripcion", "lugar", "fecha_ficcion", "resultado", "recompensa"],
