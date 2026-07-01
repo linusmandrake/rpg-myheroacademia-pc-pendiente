@@ -1,32 +1,32 @@
 # Calendario de campaña — RPG MHA (Akari Hayami "Sanguine")
 
-> Control del paso del tiempo: día de la semana + fecha + eventos. Curso escolar japonés desde abril; USJ ~9 días antes de la llegada de Akari.
+> Control del tiempo: día de la semana + fecha + eventos. Curso desde abril; USJ ~9 días antes de la llegada de Akari.
 
 ## Ancla
-- **Día 1 de Akari = lunes 13 de mayo** (año académico en curso; año exacto abierto, MHA no lo canoniza).
-- **USJ**: ~sábado 4 de mayo (9 días antes).
+- **Día 1 de Akari = lunes 13 de mayo** (año abierto).
+- **USJ**: ~sábado 4 de mayo.
 - Cumpleaños de Akari: **3 de julio**.
 
 ## Mapa de días
 | Día camp. | Semana | Fecha | Estado |
 |---|---|---|---|
-| Día 1 | **lunes** | 13 may | JUGADO (sesión 1) — 1er día en 1-A, evaluación, rescate Naka-ku sur, vínculos |
-| Día 2 | **martes** | 14 may | JUGADO (sesión 2) — entrenamiento del Eco (maestría 2→3), clases, beca encarrilada, MOMO (beso/declaración/rosa/anclaje), hallazgo Quirks temporales/avalista |
-| Día 3 | **miércoles** | 15 may | PRÓXIMO — Aizawa 06:30; clases; ⭐ CITA con NEZU 13:00 (beca + prórroga + avalista); entrenamiento con Ibara (savia) tras clase |
-| Día 4 | jueves | 16 may | (futuro) |
-| Día 5 | **viernes** | 17 may | (futuro) — ⏰ acaba el hostal pagado · ensayo de Jirō (sala 3) · salida del Bakusquad · entrenamiento con Ibara |
-| Día 6 | sábado | 18 may | (futuro) — salida de 1-A al centro comercial (mencionada por Aizawa) |
+| Día 1 | lunes | 13 may | JUGADO (S1) — 1er día 1-A, evaluación, rescate Naka-ku sur |
+| Día 2 | martes | 14 may | JUGADO (S2) — entrenamiento Eco (maestría→3), beca encarrilada, MOMO (beso/declaración/rosa), hallazgo Quirks temporales |
+| Día 3 | miércoles | 15 may | JUGADO (S3) — entrenamiento Eco (maestría→4) + savia con Ibara; CITA NEZU (beca validada, avalista); cita con Momo (piso favorito, 1er toque) → CONFESIÓN del bosque/harem → DILEMA de Momo abierto |
+| Día 4 | **jueves** | 16 may | PRÓXIMO — Aizawa 06:30; clases; Momo pensando; llamar para visitar el piso favorito; contarle a Momo el Quirk 'entre muros' cuando ella escriba |
+| Día 5 | **viernes** | 17 may | (futuro) — ⏰ ensayo de Jirō (sala 3, su santuario) · salida del Bakusquad · entrenamiento con Ibara · el hostal habría acabado (ahora cubierto por la prórroga de Nezu) |
+| Día 6 | sábado | 18 may | (futuro) — salida de 1-A al centro comercial |
 | Día 7 | domingo | 19 may | (futuro) |
-| Día 8 | **lunes** | 20 may | (futuro) — ⏰ DEADLINE alojamiento (salvo prórroga de Nezu) |
+| Día 8 | lunes | 20 may | (futuro) |
 
-## Relojes activos (cuentas atrás)
-- ⭐ **Miércoles 15 may (Día 3) 13:00**: cita con Nezu — validar beca, pedir prórroga de alojamiento, preguntar por el avalista.
-- ⏰ **Viernes 17 may (Día 5)**: se acaba el hostal pagado + ensayo/santuario de Jirō (sala 3) + salida del Bakusquad. Día muy cargado.
-- ⏰ **Lunes 20 may (Día 8)**: deadline de alojamiento (salvo prórroga concedida por Nezu). Beca: primer pago 5-7 días tras validación (no llega para el viernes).
-- ⏰ **Exámenes de evaluación**: se acercan (fecha por confirmar; Akari poniéndose al día). Ventana probable: finales de mayo / principios de junio.
-- 🗓 **Entrenamientos fijos**: Aizawa (Eco) — mañanas 06:30 a diario. Ibara (savia) — miércoles y viernes tras clase (1º = miércoles Día 3).
+## Relojes activos
+- 🖤 **DILEMA de Momo** (abierto desde D3): decide si acepta ser 'árbol madre' de un harem o necesita exclusividad. Escribirá cuando decida (quizá no de inmediato). HILO CENTRAL.
+- 💬 Contarle a Momo el Quirk completo 'entre muros de UA' (pendiente, cuando ella retome contacto).
+- 🏠 Visitar el piso favorito (Naka-ku centro, plaza) por dentro — llamar. Beca validada, prórroga concedida.
+- 🎸 **Viernes 17 may (Día 5)**: sala 3 de Jirō (santuario) + Bakusquad + Ibara.
+- 📚 **Exámenes de evaluación en ~2 semanas** (≈ finales de mayo). Akari poniéndose al día; mates es su fuerte.
+- 🗓 Entrenamientos: Aizawa (Eco) diario 06:30. Ibara (savia) miér+vier.
 
 ## Reglas de control
 - Cada día nuevo se añade con su día de la semana correcto (ciclo lun→dom).
-- Eventos fechados (citas, deadlines, ensayos, exámenes) se anotan en su día.
-- Al cerrar sesión, actualizar el 'Estado' de los días jugados y mover los relojes.
+- Actualizar al cierre de sesión.

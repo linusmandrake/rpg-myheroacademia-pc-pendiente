@@ -1,11 +1,12 @@
 timestamp,concepto,id_entidad,descripcion,cantidad,tipo
-C1-T1-D1,saldo_inicial,—,Ahorros traídos de Osaka (ESTIMADO; ajustar si el jugador define otra cifra),50000,saldo_inicial
-C1-T1-D1,comida,izakaya-musutafu,Cena rica en hierro (reponer pool),-1800,gasto
+C1-T1-D1,saldo_inicial,—,Ahorros de Osaka (ESTIMADO; ajustable),50000,saldo_inicial
+C1-T1-D1,comida,izakaya-musutafu,Cena rica en hierro,-1800,gasto
 C1-T1-D1,comida,kettle-and-vine,Cappuccino + croissant + coca-cola,-1200,gasto
-C1-T1-D2,comida,konbini,Carne + morcilla e ingredientes de 2 bentos (uno para Momo),-2500,gasto
-C1-T1-D2,bebida,maquina-ua,Lata de té de cebada frío (mugicha) para Todoroki (regalo silencioso),-150,gasto
-C1-T1-D2,comida,cafeteria-ua,Almuerzo en UA (el katsudon de ayer lo pagó Kendo; hoy comida normal),-500,gasto
-# Saldo al cierre S2/D2: ~¥43.850
-# BECA: casi destrabada. Validación final con el director Nezu el miércoles Día 3 a las 13:00. Primer pago: 5-7 días hábiles TRAS la validación (no llega a tiempo para el viernes).
-# ALOJAMIENTO: hostal Minato cubierto hasta el VIERNES. Plan (idea de Momo): pedir a Nezu una PRÓRROGA del alojamiento de urgencia hasta que entre el primer pago de la beca (es derecho, no caridad, porque el atasco lo causó UA).
-# UA prohíbe trabajar (expulsión) → beca = única vía legal de ingresos.
+C1-T1-D2,comida,konbini,Carne/morcilla + ingredientes 2 bentos,-2500,gasto
+C1-T1-D2,bebida,maquina-ua,Té de cebada para Todoroki,-150,gasto
+C1-T1-D2,comida,cafeteria-ua,Almuerzo en UA,-500,gasto
+C1-T1-D3,comida,konbini,Ingredientes 2 bentos (morcilla/sangre para él, grasas para Momo),-2200,gasto
+C1-T1-D3,comida,izakaya-musutafu,Cena de la cita con Momo,-3000,gasto
+# Saldo al cierre S3/D3: ~¥38.650
+# BECA: VALIDADA por el director Nezu (S3/D3). Primer pago: 5-7 días hábiles. PRÓRROGA de alojamiento CONCEDIDA (hostal cubierto hasta que entre el pago y pueda alquilar).
+# PISO FAVORITO identificado: Naka-ku centro, edificio de esquina con plaza y árbol. Visita por dentro pendiente (llamar). UA prohíbe trabajar.
