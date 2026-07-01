@@ -12,7 +12,7 @@
 | Día 2 | martes | 14 may | JUGADO (S2) — Eco (maestría→3), MOMO (beso/declaración/rosa), hallazgo avalista |
 | Día 3 | miércoles | 15 may | JUGADO (S3) — Eco (→4) + savia (Ibara); CITA NEZU; cita con Momo → confesión del bosque → dilema |
 | Día 4 | jueves | 16 may | JUGADO (S4) — Eco (M4 consolidado); amenaza del BORRADO (Aizawa); Todoroki + MESA DE GUARDIANES; Uraraka/Hagakure/Iida; DILEMA DE MOMO RESUELTO + marco; piso inasequible → dormitorios; HOTEL domingo planeado; cena+abrazo Jirō |
-| Día 5 | **viernes** | 17 may | PRÓXIMO — Aizawa 06:30; ⭐ **SALA 3 de JIRŌ** (su santuario, posible florecer/beso); salida del Bakusquad; entrenamiento con Ibara (savia) |
+| Día 5 | **viernes** | 17 may | EN CURSO (S5 — solo mañana 05:10→07:32 jugada): bentos+rosa a Momo, HOTEL del domingo RESERVADO, encuentro con BAKUGO (rival sano), entreno con AIZAWA (línea roja sellada, Blackroot en combate, rutas capacidad+drenaje). PENDIENTE tarde/noche: ⭐ **SALA 3 de JIRŌ**; Bakusquad; savia con Ibara; nº de Hagakure; cita Nezu |
 | Día 6 | **sábado** | 18 may | (futuro) — SALIDA de 1-A al CENTRO COMERCIAL; Hagakure ESTILISTA de Akari + 'secreto que arrancar' |
 | Día 7 | **domingo** | 19 may | (futuro) — 💗 HOTEL day-use (14-20h) con MOMO = PRIMERA VEZ (Akari reserva; el DÍA es SORPRESA suya — Momo solo sabe 'no aparezcas hasta las 21h') |
 | Día 8 | lunes | 20 may | (futuro) — decir algo al agente del piso (Akari dijo 'para el lunes') |
@@ -20,7 +20,7 @@
 ## Relojes activos
 - ⭐ **Viernes 17 may (Día 5)**: SALA 3 de Jirō (su santuario, posible hito de anclaje/beso) + Bakusquad + Ibara.
 - 👗 **Sábado 18 may (Día 6)**: centro comercial con 1-A; Hagakure de estilista + el secreto que ella quiere arrancarle.
-- 💗 **Domingo 19 may (Día 7)**: hotel day-use con Momo = primera vez. Akari debe RESERVAR el sitio bonito; el día es SORPRESA (no desvelarlo a Momo).
+- 💗 **Domingo 19 may (Día 7)**: hotel day-use con Momo = primera vez. **RESERVADO** (Tsuki-no-Ma, suite, señal pagada; resto ~¥11.800 en recepción). El día es SORPRESA (no desvelarlo a Momo).
 - 🏠 **Dormitorios (Heights Alliance)**: en construcción, listos en ~semanas — techo definitivo de Akari (gratis, sin garante). Plantear a Nezu.
 - 📞 Conseguir el número de Hagakure (Día 5).
 - 🗓 Cita con Nezu (nota dejada): dormitorios + entre muros.

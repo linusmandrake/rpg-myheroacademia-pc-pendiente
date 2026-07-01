@@ -1,37 +1,41 @@
 # Estado actual — RPG MHA Custom
-> Última actualización: 2026-07-01 · sesión 4 (fin del Día 4).
+> Última actualización: 2026-07-01 · sesión 5 (Día 5, viernes 17 may, mañana).
 
 ## En una frase
-Akari cierra su cuarto día —el más grande hasta ahora: fundó la mesa de los guardianes, ganó a Todoroki, supo por Aizawa que el gobierno podría eliminarlo si se debilita, y sobre todo resolvió el dilema con Momo (que acepta ser el árbol madre de su bosque)— con una cena y un abrazo que acercan a Jirō, la noche antes de que ella le abra su santuario.
+Akari acaba de entrenar con Aizawa el viernes al alba —selló su línea roja anti-Drácula ante testigo y estrenó a Blackroot en combate— y le queda media hora antes de clase, con el día grande por delante (la sala 3 de Jirō) y el hotel del domingo con Momo ya reservado.
 
 ## PC
-Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk *Sanguine Verdant Echo*, potencial 5 / **maestría 4 (congelada — ralentizar)**. Blackroot; anclas del Eco; sostiene los "dos tiempos" limpio; escucha de savia. Saldo ~¥34.650 (beca ¥100k/mes en camino).
+Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk potencial 5 / **maestría 4 (congelada a propósito)**. Pool de sangre ~40%. Sabe leer su pool desde dentro; puede curar a terceros a M4.
 
 ## Arcos abiertos
-- **La Momo-arc**: RESUELTA en su dilema — pareja consolidada, Momo el árbol madre del bosque, marco de 3 raíces (honestidad al florecer, dignidad, certeza). Primera vez: hotel domingo. Obstáculo: familia Yaoyorozu.
-- **La red y la mesa de guardianes**: comunidad fundada (Todoroki, Tokoyami, Kōda, Aoyama, Midoriya). Vínculos: Jirō (sala 3 mañana), Ibara (cortejo lento), Hagakure (estilismo + sospecha), Kendo (puerta entornada), Uraraka.
-- **La amenaza (avalista / borrado / coleccionista)**: el gobierno podría eliminar a Akari si se estanca; el coleccionista lo codiciará. Blindaje: fuerza + red. Nezu y Aizawa de su lado.
-- **Supervivencia adulta**: beca validada; techo por la vía de los dormitorios de UA (~semanas).
+- Arco 1: integración en UA + cimientos del bosque (harem honesto con Momo de eje).
+- **Estrategia de crecimiento invisible**: maestría congelada (camuflaje anti-borrado); crecer por capacidad, economía de uso y drenaje disciplinado.
+- Amenaza del borrado (gobierno/avalista) + coleccionista de las sombras (radar futuro).
 
-## Misiones / activas
-- VIERNES: sala 3 de Jirō (posible florecer) + Bakusquad + Ibara.
-- SÁBADO: centro comercial + Hagakure estilista. DOMINGO: hotel con Momo (primera vez).
-- Reservar el hotel; conseguir número de Hagakure; cita con Nezu (dormitorios + entre muros).
-- Exámenes en ~2 semanas (elefante a 2/3, mates dominado).
+## Misiones / internado activas
+- **Hoy (resto D5)**: ⭐ sala 3 de Jirō (posible florecer) · Bakusquad (noche) · savia con Ibara (tarde) · nº de Hagakure · cita con Nezu.
+- Sábado: centro comercial + Hagakure estilista. Domingo: hotel Tsuki-no-Ma con Momo = primera vez (reservado). Lunes: agente del piso.
+- Dormitorios de UA (~semanas). Exámenes en ~2 semanas.
 
-## Hilos narrativos (vínculos)
-- **Momo (8, pareja consolidada, dilema resuelto)** · **Jirō (6, sala 3 mañana)** · **Ibara (4, cortejo lento)** · **Kendo (5, puerta entornada)** · **Hagakure (3, sospecha)** · **Uraraka (1)** · **Mina (3)**.
-- Amistades: Todoroki (pacto de muros), Iida, Kōda, Aoyama, Tokoyami, Midoriya, Kaminari; Aizawa/Nezu (mentores/aliados).
+## Hilos narrativos
+- **Momo (8, anclada)**: pareja consolidada y secreta; hotel del domingo reservado (día sorpresa); marco de 3 raíces vigente.
+- **Jirō (6)**: la sala 3 de hoy puede florecer en beso → hito pendiente clave.
+- **Ibara (4)**: savia esta tarde; el experimento del drenaje ya tiene marco ético (ruta-005).
+- **Bakugo**: reubicado como rival con respeto reticente (2→3); choque directo pendiente.
+- **Aizawa**: figura paterna consolidada, testigo/fiador de la línea roja de Akari.
 
 ## Economía
-- ~¥34.650. Beca ¥100.000/mes (primer pago 5-7 días). Piso favorito inasequible → dormitorios. Hotel domingo asumible.
+- Saldo ~¥29.650 · pendientes: beca ¥100.000/mes (primer pago 5-7 días); resto del hotel ~¥11.800 el domingo. Sin deudas.
 
 ## Reputación y facciones
-- Interna muy alta. UA muy positiva (Nezu, Aizawa, Iida). Gobierno/avalista vigilante + amenaza del borrado. Coleccionista amenaza futura. Liga sin contacto.
+- Interna alta; Bakugo lo respeta en privado. UA muy positiva. Comisión/gobierno: amenaza del borrado latente (contrarrestada tácticamente con la maestría congelada). Liga sin contacto.
 
 ## Hitos conseguidos
-- S1-S3: 1er día, evaluación, rescate, maestría→4, Nezu aliado, Momo (beso/declaración/rosa), hallazgo del avalista.
-- S4: M4 consolidado, amenaza del borrado, Todoroki (pacto público), MESA DE LOS GUARDIANES, Uraraka/Iida/Kōda/Aoyama, DILEMA DE MOMO RESUELTO + marco, hotel domingo, Jirō (meñique/abrazo).
+- Línea roja anti-Drácula sellada ante Aizawa como testigo.
+- Blackroot estrenado en combate (primera vez que la bestia sale a pelear, no a acariciar).
+- Aprende a leer su pool desde dentro; rutas de capacidad y drenaje AB activadas.
+- Hotel del domingo reservado (sitio bonito para la primera vez de Momo).
+- Rivalidad con Bakugo reconvertida en respeto reticente.
 
 ## Decisiones pendientes del jugador
-- **Día 5 (viernes)**: arrancar el día cargado — Aizawa 06:30, clases, ⭐ SALA 3 de Jirō (su santuario), Bakusquad, Ibara. Y de fondo: reservar el hotel del domingo, y el peso de la amenaza del borrado.
+- Cómo aprovechar la media hora antes de clase: ducha+aula / momento a solas con Blackroot / pendientes (Nezu, nº de Hagakure) / otra cosa. (Ver `punto_cierre_actual.md`.)
