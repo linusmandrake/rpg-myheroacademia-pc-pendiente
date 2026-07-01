@@ -1,40 +1,40 @@
 # Estado actual — RPG MHA Custom
-> Última actualización: 2026-07-01 · sesión 2 (fin del Día 2).
+> Última actualización: 2026-07-01 · sesión 3 (fin del Día 3).
 
 ## En una frase
-Akari cierra su segundo día en UA —el más intenso de su vida: maestría del Quirk a 3, Momo hecha pareja de facto con rosa de savia incluida, y un hallazgo que pinta a su avalista como una sombra de la Comisión— y duerme antes de un Día 3 con cita decisiva ante el director Nezu.
+Akari cierra su tercer día —maestría del Quirk a 4, a Nezu como aliado, la beca y el techo asegurados, y a Ibara en cortejo lento— tras confesarle a Momo su naturaleza de harem y ofrecerle sacrificarlo todo por ella: ahora ella decide, en silencio, si acepta ser el árbol madre de un bosque o necesita un jardín de uno solo.
 
 ## PC
-Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk *Sanguine Verdant Echo*, potencial 5 / **maestría 3**. Bestia-guardián: **Blackroot**. Anclas del Eco: bestia (anti-soledad) + música (anti-Eco). Herido leve. Saldo ~¥43.850.
+Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk *Sanguine Verdant Echo*, potencial 5 / **maestría 4**. Blackroot; anclas del Eco (bestia + música); control de savia por "escucha"; roza "pelear en dos tiempos". Saldo ~¥38.650 (beca en camino).
 
 ## Arcos abiertos
-- **Control del Eco**: entrenamiento con Aizawa (anclas descubiertas) + con Ibara (savia, empieza miércoles).
-- **La Momo-arc**: pareja de facto, anclada, secreta. Obstáculo: familia Yaoyorozu (abismo social).
-- **El avalista sin nombre**: sombra que sabe lo raro de su Quirk (patrón de Quirks temporales bajo tutela de la Comisión). Cita con Nezu (Día 3) puede destaparlo.
-- **Supervivencia adulta**: beca casi destrabada (Nezu la valida hoy); prórroga de alojamiento a pedir; piso pendiente.
+- **La Momo-arc (HILO CENTRAL)**: pareja de facto anclada, amor mutuo, pero DILEMA abierto — Momo decide bosque (harem) vs exclusividad. Obstáculo: familia Yaoyorozu.
+- **Control del Eco**: con Aizawa (dos tiempos) + Ibara (savia).
+- **El avalista / las sombras**: avalista institucional (no el coleccionista); pero un Quirk temporal como el suyo atraerá a las sombras. Nezu = aliado.
+- **Supervivencia adulta**: beca validada + techo asegurado; piso favorito por visitar.
 
 ## Misiones / activas
-- ⭐ Cita con Nezu (miér 13:00): beca + prórroga + avalista.
-- Entrenamientos: Eco (Aizawa, diario 06:30), savia (Ibara, miér+vier).
-- Ponerse al día del temario (exámenes acercándose).
-- Viernes: sala 3 de Jirō + fin del hostal + salida del Bakusquad.
+- Dilema de Momo (ella escribirá cuando decida; no presionar).
+- Contarle a Momo el Quirk completo "entre muros".
+- Visitar piso favorito (Naka-ku centro).
+- Entrenamientos: Eco (Aizawa, 06:30), savia (Ibara, viernes).
+- Viernes: sala 3 de Jirō + Bakusquad + Ibara.
+- Exámenes en ~2 semanas (mates su fuerte).
 
 ## Hilos narrativos (vínculos)
-- **Momo (6, anclada)**: pareja de facto, secreta, deseo abierto no consumado; obstáculo familiar.
-- **Kendo (5, anclada)**: hermana de armas + 'lo otro'; café cruzado pendiente.
-- **Jirō (5)**: viernes sala 3 (santuario); 'te cogeré de la mano'.
-- **Mina (3)**, **Hagakure (2, slow-burn)**, **Ibara (2, savia hoy)**.
-- Amistades: Todoroki (muro entreabierto), Kaminari (leal), Tokoyami (hermandad metal), Aizawa/Present Mic (profesores).
+- **Momo (7, dilema)**, **Kendo (5, anclada)**, **Jirō (5, viernes sala 3)**, **Ibara (3, cortejo lento)**, **Mina (3)**, **Hagakure (2, slow-burn)**.
+- Amistades: Todoroki (muro entreabierto), Kaminari (leal), Tokoyami (metal), Aizawa/Nezu/Present Mic/Ectoplasm (profesores/dirección).
 
 ## Economía
-- Saldo ~¥43.850. Beca en validación (primer pago 5-7 días). Hostal hasta viernes. UA prohíbe trabajar.
+- ~¥38.650. Beca validada (primer pago 5-7 días). Prórroga de alojamiento. UA prohíbe trabajar.
 
 ## Reputación y facciones
-- Interna alta. UA + (Aizawa, Present Mic, Nezu). Avalista/¿Comisión? vigilante. Liga sin contacto.
+- Interna alta. UA muy positiva (Nezu aliado). Avalista vigilante. Coleccionista = amenaza futura. Liga sin contacto.
 
 ## Hitos conseguidos
-- S1: 1er día, evaluación, 1er rescate, pacto Aizawa, 7 vínculos plantados.
-- S2: maestría 2→3, Blackroot nombrado, 2 anclas del Eco, Momo (primer beso/declaración/rosa/anclaje), beca encarrilada, hermandades masculinas (Kaminari/Tokoyami), Present Mic ganado, hallazgo del avalista/Comisión.
+- S1: 1er día, evaluación, 1er rescate, pacto Aizawa.
+- S2: maestría→3, Blackroot, 2 anclas, Momo (beso/declaración/rosa), hallazgo avalista.
+- S3: maestría→4, roza "dos tiempos", Nezu aliado (beca+techo), Ibara (savia+cortejo), mates su fuerte, y la CONFESIÓN del harem a Momo → dilema central abierto.
 
 ## Decisiones pendientes del jugador
-- **Día 3 (miércoles)**: arrancar la jornada — Aizawa 06:30, clases, **Nezu 13:00** (beca + prórroga + ¿preguntar por el avalista?), Ibara por la tarde. Y el debate de fondo: entregarse a Momo vs el camino de harem de la campaña.
+- **Día 4 (jueves)**: arrancar la jornada (Aizawa 06:30, clases) llevando el silencio reflexivo de Momo (sin presionarla). Y de fondo, el gran hilo: qué decidirá Momo, y cómo Akari sostiene su red mientras espera.
