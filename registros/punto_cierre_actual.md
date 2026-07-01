@@ -25,7 +25,7 @@
 ## Misiones / objetivos abiertos
 - ⭐ VIERNES: sala 3 de Jirō (posible florecer) + Bakusquad + Ibara.
 - SÁBADO: centro comercial con 1-A + Hagakure estilista (+ 'secreto que arrancar').
-- DOMINGO: hotel day-use con Momo = primera vez (Akari reserva + confirma día).
+- DOMINGO: hotel day-use con Momo = primera vez. **OJO: el DÍA es SORPRESA de Akari** (lo eligió en su cabeza pero NO se lo dijo: "ya tengo el día pensado, pero no te lo digo"); Momo solo sabe el mecanismo ("tú no aparezcas hasta las 21h, sin excusa"). Hotel **SIN reservar** aún.
 - Dormitorios de UA (Heights Alliance, ~semanas) = techo definitivo. Cita con Nezu (dormitorios + entre muros).
 - Conseguir número de Hagakure. Exámenes en ~2 semanas (elefante a 2/3, mates dominado).
 
@@ -36,7 +36,7 @@
 - Sintió por 1ª vez el calor de ser protegido (Aizawa) — se está dejando cuidar.
 
 ## Continuidad emocional y red sexoafectiva (harem / OPSEC)
-- **Momo (closeness 8, ANCLADA, deseo abierto): PAREJA CONSOLIDADA, DILEMA RESUELTO.** Acepta ser el ÁRBOL MADRE/eje del bosque. Su MARCO (3 raíces, NO cadenas): (1) HONESTIDAD — Akari se lo cuenta cuando una flor FLORECE (se consuma/beso), con nombre, ella antes que nadie; no cada semilla latente. (2) DIGNIDAD — su lugar claro, sin humillación; las flores saben que hay 'un árbol' SIN saber que es Momo (secreto/padre protegidos). (3) CERTEZA — abrazarla cuando le duela, recordarle que es el centro. Relación SECRETA. Primera vez planeada: HOTEL DOMINGO. Obstáculo: familia Yaoyorozu.
+- **Momo (closeness 8, ANCLADA, deseo abierto): PAREJA CONSOLIDADA, DILEMA RESUELTO.** Acepta ser el ÁRBOL MADRE/eje del bosque. Su MARCO (3 raíces, NO cadenas): (1) HONESTIDAD — Akari se lo cuenta cuando una flor FLORECE (se consuma/beso), con nombre, ella antes que nadie; no cada semilla latente. (2) DIGNIDAD — su lugar claro, sin humillación; las flores saben que hay 'un árbol' SIN saber que es Momo (secreto/padre protegidos). (3) CERTEZA — abrazarla cuando le duela, recordarle que es el centro. Relación SECRETA. Primera vez planeada: HOTEL (día = sorpresa de Akari; ella solo sabe "no aparezcas hasta las 21h"). Obstáculo: familia Yaoyorozu.
 - **Jirō (6, deseo abierto, volátil)**: cena, meñique, abrazo, casi-beso GUARDADO. VIERNES sala 3 = su santuario; si hay beso, es un FLORECER → contárselo a Momo. 'Nightfall' reservada.
 - **Ibara (4, deseo abierto, cortejo lento)**: rosas de savia en su jazmín; experimento del drenaje pendiente; savia miér+vier.
 - **Kendo (5, anclada, PUERTA ENTORNADA)**: decidirá con info completa cuando Akari 'sepa qué es y qué puede darle' (ya lo sabe: su círculo único). Café cruzado.
@@ -50,7 +50,8 @@
 - Momo POV: su pregunta real no es "¿le quiero?" sino **"¿soy lo bastante grande para amarlo a su manera sin encogerme yo?"**. Y su síntesis del marco: **"no control: CERTEZA"** (rechazó la imagen del "jardín de esclavas"; le pidió levantarse de rodillas "que te va a ver alguien sobre una mesa").
 - La hermandad con Kendo se completa a coro: él "we band of brothers" / ella "we happy few" — sagrado, por encima del romance.
 - Ibara, al recibir las rosas de sangre: "Alabado sea… está viva, late" — se llevó el jazmín-y-rosas a su cuarto ("voy a cuidar tu rojo como cuido mi blanco").
-- Jirō movió ELLA el meñique ("idiota considerado…"); necesitaba verlo "humano" (comer ramen, robar bambú) antes de abrirse en la sala 3.
+- Jirō movió ELLA el meñique ("idiota considerado, me has invitado a cenar para que no piense y ahora pienso en tu mano"); y el abrazo del portal Akari lo PIDIÓ con permiso antes de sostenerle la cabeza ("nadie me abraza así. Nadie"). Necesitaba verlo "humano" (comer ramen, robar bambú) para que mañana, al cantar en la sala 3, no se sienta "desnuda delante de un desconocido intenso" sino protegida.
+- La ética anti-Drácula, formulación exacta de Akari: **"Drácula TOMABA. Tú vas a RECIBIR. Y esa preposición lo es todo."** — el núcleo moral de cada futura mordida/drenaje.
 - Momo se fue 2-3h antes del toque de queda huyendo de su propio deseo ("no me mires así, que me conozco"); Akari eligió el domingo con "la responsabilidad más dulce y más aterradora del mundo".
 
 ## Información que los NPCs tienen sobre Akari

@@ -14,13 +14,13 @@
 | Día 4 | jueves | 16 may | JUGADO (S4) — Eco (M4 consolidado); amenaza del BORRADO (Aizawa); Todoroki + MESA DE GUARDIANES; Uraraka/Hagakure/Iida; DILEMA DE MOMO RESUELTO + marco; piso inasequible → dormitorios; HOTEL domingo planeado; cena+abrazo Jirō |
 | Día 5 | **viernes** | 17 may | PRÓXIMO — Aizawa 06:30; ⭐ **SALA 3 de JIRŌ** (su santuario, posible florecer/beso); salida del Bakusquad; entrenamiento con Ibara (savia) |
 | Día 6 | **sábado** | 18 may | (futuro) — SALIDA de 1-A al CENTRO COMERCIAL; Hagakure ESTILISTA de Akari + 'secreto que arrancar' |
-| Día 7 | **domingo** | 19 may | (futuro) — 💗 HOTEL day-use (14-20h) con MOMO = PRIMERA VEZ (Akari reserva; Momo 'no aparece' hasta 21h) |
+| Día 7 | **domingo** | 19 may | (futuro) — 💗 HOTEL day-use (14-20h) con MOMO = PRIMERA VEZ (Akari reserva; el DÍA es SORPRESA suya — Momo solo sabe 'no aparezcas hasta las 21h') |
 | Día 8 | lunes | 20 may | (futuro) — decir algo al agente del piso (Akari dijo 'para el lunes') |
 
 ## Relojes activos
 - ⭐ **Viernes 17 may (Día 5)**: SALA 3 de Jirō (su santuario, posible hito de anclaje/beso) + Bakusquad + Ibara.
 - 👗 **Sábado 18 may (Día 6)**: centro comercial con 1-A; Hagakure de estilista + el secreto que ella quiere arrancarle.
-- 💗 **Domingo 19 may (Día 7)**: hotel day-use con Momo = primera vez. Akari debe RESERVAR el sitio bonito y confirmar el día.
+- 💗 **Domingo 19 may (Día 7)**: hotel day-use con Momo = primera vez. Akari debe RESERVAR el sitio bonito; el día es SORPRESA (no desvelarlo a Momo).
 - 🏠 **Dormitorios (Heights Alliance)**: en construcción, listos en ~semanas — techo definitivo de Akari (gratis, sin garante). Plantear a Nezu.
 - 📞 Conseguir el número de Hagakure (Día 5).
 - 🗓 Cita con Nezu (nota dejada): dormitorios + entre muros.
