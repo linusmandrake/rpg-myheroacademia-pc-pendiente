@@ -19,7 +19,8 @@ Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk p
 
 ## Hilos narrativos
 - **Momo**: pareja consolidada y secreta; hoy la primera vez (ella planificó todo); "echo de menos mañana" — "Tuya. M.".
-- **Hagakure**: FLORECIÓ (4→7). Sabe: la ve entera, la savia, el bosque completo (5ª consciente). Se vio por primera vez. Pacto de salida dado. Deuda: ¥33.800 + "el porqué del rojo".
+- **Hagakure**: FLORECIÓ (4→7). Sabe: la ve entera, la savia, el porqué del rojo (lo dedujo ella), el bosque completo (5ª consciente). Se vio por primera vez. Pacto de salida dado. Te-quiero armado sin disparar. Deuda: ¥33.800 + la ironía del Avatar Carmesí.
+- ⚠️ **Condición 1 de Momo ACTIVADA** (mis-016): Toru floreció → contárselo a Momo con nombre, ella primera, "muy pronto". Sin gestionar — y hoy es el día de Momo.
 - **Jirō**: en carne viva sana; su nota de voz como regalo; lunes sitio pequeño.
 - **Mina**: cadena puesta; jueves sorpresa; ritmo lento intacto.
 - **Kendo**: café hecho; reto de correr en escalada; puerta entornada ("la mejor forma de llamar que has tenido").

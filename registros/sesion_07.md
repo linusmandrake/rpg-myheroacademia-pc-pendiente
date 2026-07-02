@@ -71,7 +71,8 @@ Cierre de día doméstico y luminoso: ella cuidándolo, okonomiyaki de barrio (l
 - con-006 ampliado: percepción de Toru canonizada (mapa interno completo; ella ya lo sabe).
 
 ## Progresión narrativa
-- Marcas: **pm-023 TEC peso 2** (segunda piel de savia — control fino inédito) · **pm-024 carácter peso 2** (bosque completo a Toru + pacto de salida antes de entrada).
+- Marcas: **pm-023 TEC peso 2** (segunda piel de savia — control fino inédito) · **pm-024 carácter peso 2** (bosque completo a Toru + pacto de salida antes de entrada) · **pm-025 vínculo/Hagakure peso 1** (florecer completo, dif 4 — registrada en la evaluación formal post-cierre; al concederse = 1 subida de stat a elección).
+- Evaluación formal (modo Hito, post-cierre): CERO subidas concedidas — sin peso 3, maestría congelada, banda de Arco 1. Todo aplazado al cierre de Arco 1 (COO 3→4 prácticamente sentenciada por triple peso 3).
 - Rutas: sin cambios (día social/íntimo). Sin subidas (maestría congelada; sin entrenamiento dedicado).
 - Acumulado: COO listo de sobra para valorar subida al cierre de Arco 1; carácter en cumbre sostenida; TEC empezando a acumular.
 
@@ -90,6 +91,7 @@ Cierre de día doméstico y luminoso: ella cuidándolo, okonomiyaki de barrio (l
 
 ## Pendientes próximos días
 - **HOY (D7, domingo)**: 13:15 toldo verde → 14:00 Tsuki-no-Ma = primera vez con Momo. Look nuevo puesto. Mañana libre antes (gestiones).
+- ⚠️ **CONDICIÓN 1 DE MOMO ACTIVADA** (mis-016): Toru floreció → contárselo a Momo con nombre, ella antes que nadie, "muy pronto". Sin gestionar al cierre; elegir el momento (¿antes del hotel? ¿después? ¿lunes?).
 - Mensaje a **Ibara**: disculpa del plantón + reprogramar (Akari quiere proponer martes; canon miér+vier).
 - Respuesta de **Kendo** al reto de las 5:30 (llegará por la mañana).
 - Decisión de **"la Toru de mañana"** (ratificación del bosque) — puede llegar por mensaje en cualquier momento.

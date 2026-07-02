@@ -22,11 +22,12 @@
 - Sin cambios mediáticos ni de facciones. Interna: **coartada de rivalidad académica Akari↔Momo REFORZADA** ante 4 testigos (la clase apuesta; Sero reparte el titular; Kaminari da a Akari por perdedor). Gobierno/avalista: amenaza del borrado latente (maestría sigue congelada). Liga sin contacto.
 
 ## Equipamiento clave activo
-- **LOOK NUEVO** (obra de Hagakure): base sólida + **chaqueta carmesí estructurada** (color exacto de su sangre — Toru no sabe la ironía completa, se le debe "el porqué del rojo") + **cadena fina de Mina** (puesta, "la llevas por mí"). Para el hotel de hoy.
+- **LOOK NUEVO** (obra de Hagakure): base sólida + **chaqueta carmesí estructurada** (color exacto de su sangre — Toru YA sabe el porqué del rojo: la savia, lo dedujo ella misma; lo que NO sabe es la capa del **Avatar Carmesí**, esa ironía se le debe) + **cadena fina de Mina** (puesta, "la llevas por mí"). Para el hotel de hoy.
 - Costume de héroe: pendiente (Mei futuro contacto).
 
 ## Misiones / internado / exámenes abiertos
 - 💗 **HOY (D7)**: Tsuki-no-Ma con Momo = primera vez. Logística cerrada al minuto (ver decisión A).
+- ⚠️ **CONDICIÓN 1 DE MOMO ACTIVADA (mis-016)**: Hagakure floreció el D6 → hay que contárselo a Momo **con nombre, ella antes que nadie, "muy pronto"** (Akari se lo reafirmó a Toru: "esa es su condición y la cumplo siempre"). SIN GESTIONAR al cierre — y hoy es precisamente el día de Momo. Elegir el momento es decisión del jugador (¿antes del hotel? ¿después? ¿lunes?). Precedente: con Jirō lo cumplió el mismo día.
 - **Toru — ratificación pendiente**: "la Toru de mañana" debe confirmar su entrada al bosque (todo apunta a sí: "firma", "como renuncie a esto la mato yo"). Si sí: cita semana próxima (día que elija salvo jueves; martes ofrecido CONDICIONADO a reprogramar a Ibara).
 - **Ibara**: plantón del viernes sin gestionar → mensaje pendiente (disculpa + reprogramar). Experimento del drenaje sembrado.
 - **Kendo**: contraoferta de correr (5:30, Gamma o tarde) enviada a las 00:32 — responderá por la mañana. Café cruzado comprometido.
@@ -44,7 +45,7 @@
 
 ## Continuidad emocional y red sexoafectiva (harem / OPSEC)
 - **Momo (8, ANCLADA, pareja)**: HOY es la primera vez. Ella la planificó entera (té previo "para no llegar como condenados", entradas separadas, nombre falso, el resto del pago lo lleva ella — "no discutas eso hoy, ya discutiremos"). Pidió que no le suelte la mirada al estrenarle el look: "necesito acordarme de por qué soy valiente". "Echo de menos mañana" la hizo llorar ("es lo más bonito que me han escrito nunca. Tuya. M.").
-- **Hagakure (4→7, VOLÁTIL, deseo abierto, marco "verse-y-ver"): FLORECIÓ ENTERA.** Primer beso (probador), primera vez sexual de ambos (oral mutuo, sin coito), el secreto revelado (la ve entera; luego el porqué: savia), **bosque completo** (5ª consciente; no sabe drenaje/borrado/nombres), pacto de salida, y el hito vital: **SE VIO por primera vez desde los 5 años** (segunda piel de savia). Decisión de entrada EN SUSPENSO ("la Toru de mañana") — puede llegar por mensaje en cualquier momento. Deuda: ¥33.800 + "el porqué del rojo" completo.
+- **Hagakure (4→7, VOLÁTIL, deseo abierto, marco "verse-y-ver"): FLORECIÓ ENTERA.** Primer beso (probador), primera vez sexual de ambos (oral mutuo, sin coito), el secreto revelado (la ve entera; luego el porqué: savia), **bosque completo** (5ª consciente; no sabe drenaje/borrado/nombres), pacto de salida, y el hito vital: **SE VIO por primera vez desde los 5 años** (segunda piel de savia). Decisión de entrada EN SUSPENSO ("la Toru de mañana") — puede llegar por mensaje en cualquier momento. **TE-QUIERO ARMADO Y SIN DISPARAR**: "estoy PELIGROSAMENTE cerca, y me niego a decírtelo por primera vez cubierta de tus fluidos". Deuda: ¥33.800 + la ironía del **Avatar Carmesí** (el rojo/savia ya lo sabe).
 - **Jirō (7, volátil, deseo abierto)**: en carne viva tras el florecer — declinó la multitud con salud ("no es por ti, es al revés"). Regaló NOTA DE VOZ (0:38) de su canción ("es tuya. No la enseñes"). Lunes: sitio pequeño, "primero el abrazo, siempre". Se robó "cabes en un bolsillo y en el pecho no me cabes" para una canción.
 - **Mina (6, volátil, deseo abierto)**: cadena elegida y puesta ("la llevas por mí — lo sé"). Cita JUEVES (sorpresa, solos, "a lo mejor ahí sí te dejo cobrar algo. Lento"). NO sabe nada de Toru ni de nadie (corrección de mesa: sin radares).
 - **Kendo (5, anclada, puerta entornada)**: "escribir a las 00:30 'respeto la puerta' ES llamar a la puerta, y lo sabes. Pero es la mejor forma de llamar que has tenido". Café hecho; reto de correr en escalada (6:30→5:30) — su respuesta abre la mañana.
@@ -52,6 +53,12 @@
 - REGLA [[manejo-harem-sin-culpa]]: el coste es tiempo y fricción, no culpa. Fricción real acumulada: el "desigual" de Toru; la deuda de honestidad con ella se pagó EN EL DÍA (bosque completo antes de dormir).
 
 ## Detalles emocionales sutiles
+- **Toru, el sello del limonero** (LA frase del día, dicha pegada a su boca en el beso de despedida): **"Gracias por verme. Todo lo demás de hoy es propina."**
+- **Toru, el te-quiero armado**: rehusó decirlo en la primera respuesta ("no te voy a estrenar la promesa mintiéndote"), confesó "me gustas desde antes de hoy, desde el susurro aquel en clase", y tras el espejo: "estoy PELIGROSAMENTE cerca". Importa para su próxima escena. ("Deja de cobrarme el te-quiero con drama, usurero emocional.")
+- **La promesa literal de Akari a Toru**: "Prefiero hacerte una herida limpia antes que una caricia falsa" — la frase que acuñó el concepto con ella.
+- **Las dos heridas raíz de Toru, nombradas por ella**: ser vista como mujer Y como artista ("¿sabes lo que es que alguien te diga 'eres una genia' POR LO QUE HACES y no un 'qué mona' por lo que no soy?").
+- **El tell de Mina asomó dos veces por Akari** (la yema humedeciéndose de ácido): en la escalera mecánica tras "brillas con, no para", y en la despedida.
+- **El dictamen de la croqueta**: la mancha del techo de la habitación 4 pasó oficialmente de "forma de Kyūshū" a "de croqueta, Akari, no se hable más" — icono doméstico compartido, sentenciado por Toru desde su regazo.
 - **Toru, el boceto descartado**: era un look completo para Akari que no se atrevía a proponer — "hacía falta que fueras alguien que se dejara ver". Le dio carta blanca ("a por todo, colega") y ella: "nadie me deja hacer TODO".
 - **Toru, el espejo**: "Tengo la risa de mi madre. Me lo decía mi abuela y nunca lo había podido comprobar." / Al retirarse la savia: "Adiós. Hasta pronto." / "¿Volveré a verme?" — "Cuando quieras. El regalo no caduca."
 - **Toru, el pudor estrenado**: "Me has estrenado el pudor A LA VEZ que las ganas de que me mires más. Es como estrenar una emoción con veinte años de retraso."
@@ -71,7 +78,7 @@
 - Nadie nuevo vio el Quirk en acción — la segunda piel de savia solo la vio TORU (en privado). Ella es ahora la única persona que ha visto esa aplicación.
 
 ## Progresión narrativa activa
-- `progreso_narrativo.csv`: **+pm-023 TEC peso 2** (segunda piel de savia — control fino inédito, pelo a pelo, sin subir maestría) y **+pm-024 carácter peso 2** (bosque completo a Toru + pacto de salida antes de entrada). Acumulado: COO (peso 3 ×3) LISTO para valorar subida al cierre de Arco 1; carácter en cumbre sostenida (3×3 + 2×4); TEC empezando (2×1).
+- `progreso_narrativo.csv`: **+pm-023 TEC peso 2** (segunda piel de savia — control fino inédito, pelo a pelo, sin subir maestría), **+pm-024 carácter peso 2** (bosque completo a Toru + pacto de salida antes de entrada) y **+pm-025 vínculo/Hagakure peso 1** (florecer completo, dif 4; al concederse = 1 subida de stat a elección, otorgada=no). Acumulado: COO (peso 3 ×3) LISTO para valorar subida al cierre de Arco 1; carácter en cumbre sostenida (3×3 + 2×4); TEC empezando (2×1). Evaluación formal S7 hecha (modo Hito): CERO subidas concedidas, todo aplazado a cierre de Arco 1.
 - `hitos_progresion.csv`: sin subidas (día social/íntimo; maestría congelada).
 - `rutas`: sin cambios. `conocimientos`: +con-018 (Quirk e historia de Hagakure), +con-019 (segunda piel de savia + Verdant en fluidos); con-006 ampliado (percepción de Toru canonizada).
 - Maestría del Quirk: 4, congelada.

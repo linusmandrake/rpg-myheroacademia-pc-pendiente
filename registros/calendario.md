@@ -23,6 +23,7 @@
 ## Relojes activos
 - 💗 **HOY, domingo 19 may (Día 7)**: hotel con Momo = PRIMERA VEZ. Logística cerrada (13:15/13:40/13:55/14:00). Look nuevo puesto. ⚠️ Tras pagar quedarán ~¥800 hasta la beca (~D8-D12): días de comida apurada.
 - 👻 **Toru, 'la de mañana'**: ratificación de su entrada al bosque pendiente (todo apunta a sí). Si sí: cita la semana próxima (día que elija, salvo jueves). Deuda con ella: ¥33.800.
+- ⚠️ **Condición 1 de Momo ACTIVADA** (mis-016): Toru floreció el D6 → decírselo a Momo con nombre, ella primera, "muy pronto". Sin gestionar — hoy es el día de Momo; elegir el momento.
 - 🌿 **Ibara**: savia saltada el viernes → mensaje pendiente (disculpa + reprogramar; Akari quiere proponer martes, canon es miér+vier). Experimento del drenaje sembrado.
 - ✊ **Kendo**: contraoferta de correr (5:30, Gamma o tarde) enviada a las 00:32 — responderá por la mañana. Café cruzado comprometido (semana próxima).
 - ☀️ **Mina**: cita el JUEVES (sorpresa, la organiza ella). **Momo**: peldaño robado pendiente esta semana. **Jirō**: LUNES sitio pequeño ('primero el abrazo').

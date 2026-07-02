@@ -106,6 +106,30 @@ La savia le da al PC cuatro capacidades integradas:
 
 ---
 
+## Enlace sensorial con las proyecciones (regla canónica, fijada S7)
+
+> Pregunta del jugador: "¿veo lo que ven mis bestias y mi Avatar, oigo lo que oyen, siento lo que sienten?" Respuesta escalada por maestría.
+
+**Siempre activo (pasivo, sin coste, cualquier maestría):**
+- **Presencia/posición**: el PC sabe dónde están sus proyecciones y si están bien (propiocepción extendida).
+- **Dolor atenuado + pulsos emocionales** (ya canon): daño a la proyección → eco amortiguado en el PC; emociones fuertes → "vuelco".
+- **Percepción sanguínea compartida**: las proyecciones detectan sangre como el PC (es el mismo sentido del Quirk) y ESO sí llega en tiempo real.
+
+**Vista/oído detallados — NO en tiempo real hasta maestría alta. Dos vías:**
+
+| Vía | Funcionamiento | Coste/riesgo |
+|---|---|---|
+| **Descarga al reabsorber** | La savia retiene memoria: al reabsorber la proyección, el PC recibe lo vivido como flashback comprimido | Gratis; eco traumático puede dejar scar leve |
+| **Inmersión** | El PC pasa sus sentidos a UNA proyección (primera persona) | Cuerpo propio ciego/sordo/quieto (vulnerable); a M3-4 un solo canal, exige concentración; corte brusco = scar leve |
+
+**Escalado por maestría:** M3-4 = solo pasivo + descarga + inmersión de canal único. M5-6 = streaming parcial "de reojo" sin cegarse. M7-8 = sentidos completos en paralelo (coherente con "Avatares pueden operar lejos del PC"). M9-10 = total, permanente, sin coste.
+
+**Cognición paralela (trabajo intelectual de proyecciones) — regla fijada S7:** a M3-4 el Avatar NO puede sostener tarea cognitiva fina (estudiar, leer con atención) de forma autónoma y prolongada — opera con instinto (menos filtro consciente) y su autonomía plena lejos del PC es de minutos, no horas. La descarga de una sesión larga de "estudio" del Avatar da FAMILIARIDAD ("me suena"), no dominio, y volcarse horas de memoria paralela = solapamiento de recuerdos (scar de ING). Permitido ya: Avatar estudiando AL LADO del PC en privado, tandas cortas supervisadas; un Eco repasando el mismo problema (dos perspectivas, minutos). El "estudio en dos tiempos" real es capacidad de M5-6+ (candidata a ruta de crecimiento). OPSEC: usar proyecciones en espacios públicos de UA = bengala (contradice la estrategia de maestría congelada).
+
+**Cara B narrativa:** la descarga trae también lo que la proyección SINTIÓ — y las proyecciones son el subconsciente del PC con menos filtro. El PC puede recibir ecos de decisiones "suyas" que no recuerda haber tomado.
+
+---
+
 ## Combate por fase
 
 ### Early game (stats 3–4, maestría 1–2)
