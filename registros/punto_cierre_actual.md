@@ -92,6 +92,10 @@
 ## Relojes de facción activos
 - Gobierno/avalista: borrado latente — respuesta en curso: crecer sin subir maestría (segunda piel = ejemplo perfecto de crecimiento invisible). Coleccionista: radar futuro. UA (Nezu): protege; dormitorios en obras. Liga: latente.
 
+## Correcciones de mesa post-cierre (S7, aplicar desde S8)
+- **Horario de clases canónico creado**: `docs/horario_1a.md` — rotación docente obligatoria (≥2 profesores distintos de Aizawa por día lectivo; cameo semanal de profesor sin desarrollar; All Might con cámara mar/vie tarde). RETCON BLANDO: All Might dio Fundamentos Heroicos el D2 y D5 en fondo (sin contacto personal con Akari aún).
+- Regla de **enlace sensorial con proyecciones** y de **cognición paralela** fijadas en `docs/quirk_pc.md` (S7).
+
 ## Memorias de feedback (MEMORY.md)
 - [[roles-clase-1a]] · [[ritmo-narrativo-jugador]] · [[worldbuilding-ua-economia]] · [[niebla-informacion-npc]] · [[manejo-harem-sin-culpa]] · [[pov-mas-interesante]] · [[voz-clase-1a]] · [[validacion-carrera-cierre]] · [[modelos-narracion-auditoria]] · [[quirk-momo-creacion]] · [[auditoria-auto-aplicar]] · **[[costes-quirk-proporcionados]] (NUEVA S7)** · **[[inexperiencia-sexual-estudiantes]] (NUEVA S7)**.
 
