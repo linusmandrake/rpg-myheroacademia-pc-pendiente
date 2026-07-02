@@ -6,6 +6,18 @@
 
 *(Ninguna.)*
 
+## Agenda de ficción del PC (compromisos vivos — el GM avisa antes de saltarlos)
+
+- [ ] **Lunes D8**: hablar con **Midnight** sobre el plan de estudios (Historia del Arte Heroico / exámenes) — tarea pedida por el jugador.
+- [ ] **Lunes D8**: buscar a **Ibara** en persona (1-B) — aclarar el viernes (¿le esperó?) + confirmar miércoles. ⚠️ Akari NO tiene su móvil (contacto no conseguido en ficción).
+- [ ] **Lunes D8**: cita con **Jirō** (sitio pequeño, estudiar + abrazo, "primero el abrazo, siempre") + agente del piso ("para el lunes").
+- [ ] **Martes D9**: cita con **Toru** (confirmada D7 por mensaje).
+- [ ] **Miércoles D10**: 5:30 Gamma — correr con **Kendo** (el que llegue tarde paga el café cruzado entero). Entrenamiento savia con **Ibara** (hueco canon miér).
+- [ ] **Jueves D11**: ⭐ cita SORPRESA con **Mina** (la organiza ella, solos).
+- [ ] **Viernes D12**: entrenamiento savia con **Ibara** (hueco canon vier).
+- [ ] **~D8-D12**: primer pago de la **beca** (¥100.000) → devolver ¥33.800 a Hagakure al cobrar.
+- [ ] Sin fecha: peldaño robado con Momo esta semana · Nezu (dormitorios + entre muros) a conveniencia · exámenes en ~2 semanas (plan de guerra activo).
+
 ## Backlog
 
 - [ ] Definir PC (ver `docs/sesion_cero.md`)
