@@ -1,89 +1,95 @@
-# Punto de cierre — sesión 6 · Curso 1 · Trimestre 1 · Día 5 (viernes 17 may) · ~23:40
+# Punto de cierre — sesión 7 · Curso 1 · Trimestre 1 · madrugada del Día 7 (domingo 19 may) · ~00:35
 > Auto-generado al cierre. Léase al abrir sesión nueva (junto a MEMORY.md + cabecera AGENTS.md + avisos CLAUDE.md).
 
 ## Estado narrativo exacto
-- Ubicación: Musutafu — **hostal, habitación 4** (Akari acaba de dormirse, vestido, fin del Día 5 completo).
-- Hora narrativa: **Día 5 (viernes 17 may) ~23:40** — el día más largo y lleno de la campaña, ya cerrado.
-- Presentes en escena: Akari solo (Momo se fue ~20:35; la noche del Bakusquad terminó; Mina se fue en su calle ~23:10).
-- Última acción de Akari: tras una noche redonda con el Bakusquad y el primer beso con Mina en la calle, llegó al hostal y mandó los mensajes de "he llegado" (distintos a Momo, Jirō y Mina) + uno más a Momo (la echa de menos, las sábanas huelen a ella) + uno a Hagakure (calentando la cita de estilismo de mañana). Se durmió saciado y feliz.
-- **Próxima decisión pendiente del jugador (arranque del Día 6, sábado 18 may)**:
-  - **A**. Despertar y prepararse para el ⭐ **centro comercial con 1-A + Hagakure de estilista** (el cambio de look "para ser visto" + el "secreto que arrancar" — ella quiere saber cómo la percibe). ¿Cómo llega, con qué actitud, con qué presupuesto (va justo, ~¥24.450)?
-  - **B**. Antes de salir, un pendiente matutino: mensajes/coordinación (Hagakure, el grupo de 1-A que va, ¿Momo va también? — riesgo/oportunidad), o gestionar la resaca leve.
-  - **C**. Otra cosa (madrugar a entrenar, escribir a Nezu, buscar a Ibara por lo del plantón de savia…).
+- Ubicación: Musutafu — **hostal, habitación 4** (Akari dormido; Día 6 completo, "el día perfecto de Toru").
+- Hora narrativa: **madrugada del Día 7 (domingo 19 may) ~00:35**.
+- Presentes en escena: Akari solo. La chaqueta carmesí colgada del respaldo, esperando su domingo.
+- Última acción de Akari: ronda de mensajes largos de madrugada a las cinco (Momo "echo de menos mañana" → "Tuya. M."; Jirō "primero el abrazo"; Mina "brillo con"; Kendo contraoferta de correr a las 5:30 — respuesta pendiente; Toru "el mejor día de mi vida y lo he VISTO"). Se durmió a las ~00:35.
+- **Próxima decisión pendiente del jugador (arranque del Día 7, domingo 19 may — EL DÍA DE MOMO)**:
+  - **A**. Despertar y preparar el gran día: 💗 **13:15 té en el toldo verde → 13:40 Momo sube → 13:55 llega Akari → 14:00 check-in en el Tsuki-no-Ma = PRIMERA VEZ (coito)**. Look nuevo puesto ("quiero quitártelo yo"). ⚠️ Logística de bolsillo: lleva ¥12.600 y el resto del hotel son ~¥11.800 (Momo dijo que lo lleva ella encima — "no discutas eso hoy"; ¿lo discute?). Tras pagar, ~¥800 hasta la beca.
+  - **B**. Gestiones de la mañana libre antes de las 13:15: mensaje a **Ibara** (disculpa del plantón + reprogramar la savia; quiere proponer martes, canon es miér+vier), respuesta de **Kendo** al reto de las 5:30 (llegará al desayuno), posible mensaje de **"la Toru de mañana"** (ratificación del bosque), ¿entrenar suave/descansar?
+  - **C**. Otra cosa.
   - **D**. Otra cosa.
 
 ## Stats, Quirk y economía al cierre
 - PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3.
-- Quirk **Sanguine Verdant Echo**: potencial 5 / **maestría 4 (CONGELADA a propósito)**. Aspectos: Cuerpo, Avatar Carmesí, Bestias (Blackroot), Ecos. **Sin entrenamiento de Quirk esta sesión** (día social/íntimo). Pool ~lleno.
-- Saldo **~¥24.450** (tras cena de konbini con Momo −¥2.200 y noche del Bakusquad −¥3.000). Beca ¥100.000/mes validada, primer pago pendiente. Pendiente domingo en el hotel: ~¥11.800. Sin deudas.
-- Salud: bien, saciado, feliz; **algo bebido (cerveza + sake) → resaca leve latente para el Día 6**.
+- Quirk **Sanguine Verdant Echo**: potencial 5 / **maestría 4 (CONGELADA a propósito)**. Aspectos: Cuerpo, Avatar Carmesí, Bestias (Blackroot), Ecos. **Aplicación NUEVA (S7): segunda piel de savia** (capa finísima seca carmesí, control pelo a pelo — hace visible a Hagakure; regalo permanente ofrecido). Pool **~85%** (⚠️ RECALIBRACIÓN DE COSTES vigente: aplicar tablas de `quirk_pc.md`, savia reabsorbida se recupera, truquitos = calderilla — ver MEMORY [[costes-quirk-proporcionados]]).
+- Saldo **¥12.600**. ⚠️ **ESTRECHEZ REAL**: el hotel de hoy resta ~¥11.800 → quedarán **~¥800 hasta la beca** (pago estimado ~D8-D12; hostal gratis, comida no). **DEUDA con Hagakure: ¥33.800** (look; devolver al cobrar; "inversión en mi obra", sin prisa).
+- Salud: bien, cansancio feliz; resaca del viernes ya purgada. Sin scars activos.
 
 ## Reputación y facciones
-- Sin cambios mediáticos ni de facciones. Interna: **miembro pleno del Bakusquad** en una noche; reputación de "coach" táctico. Gobierno/avalista: amenaza del borrado latente (maestría sigue congelada). Liga sin contacto.
+- Sin cambios mediáticos ni de facciones. Interna: **coartada de rivalidad académica Akari↔Momo REFORZADA** ante 4 testigos (la clase apuesta; Sero reparte el titular; Kaminari da a Akari por perdedor). Gobierno/avalista: amenaza del borrado latente (maestría sigue congelada). Liga sin contacto.
 
 ## Equipamiento clave activo
-- Costume: dotación UA (sin cambios). Sin support items nuevos (Mei pendiente).
+- **LOOK NUEVO** (obra de Hagakure): base sólida + **chaqueta carmesí estructurada** (color exacto de su sangre — Toru no sabe la ironía completa, se le debe "el porqué del rojo") + **cadena fina de Mina** (puesta, "la llevas por mí"). Para el hotel de hoy.
+- Costume de héroe: pendiente (Mei futuro contacto).
 
 ## Misiones / internado / exámenes abiertos
-- ⭐ **MAÑANA (sábado D6)**: centro comercial con 1-A + **Hagakure de estilista** (cambio de look + "secreto que arrancar").
-- **DOMINGO (D7)**: hotel Tsuki-no-Ma day-use con Momo = **primera vez (coito)**. Reservado; resto ~¥11.800 en recepción.
-- **Ibara**: la sesión de savia del viernes **NO ocurrió** (Akari eligió Jirō→Momo→fiesta) → reprogramar; posible roce por el plantón.
-- **Cita con Nezu** (nota dejada): dormitorios + "entre muros" (avalista/borrado), a conveniencia de Nezu.
-- **Cita con Mina** la semana que viene (la organiza ella). **Peldaño robado con Momo** esta semana (ella se lo cobra).
-- Dormitorios de UA (~semanas) = techo definitivo. Exámenes en ~2 semanas (+ apuesta pública Akari vs Momo de nota).
+- 💗 **HOY (D7)**: Tsuki-no-Ma con Momo = primera vez. Logística cerrada al minuto (ver decisión A).
+- **Toru — ratificación pendiente**: "la Toru de mañana" debe confirmar su entrada al bosque (todo apunta a sí: "firma", "como renuncie a esto la mato yo"). Si sí: cita semana próxima (día que elija salvo jueves; martes ofrecido CONDICIONADO a reprogramar a Ibara).
+- **Ibara**: plantón del viernes sin gestionar → mensaje pendiente (disculpa + reprogramar). Experimento del drenaje sembrado.
+- **Kendo**: contraoferta de correr (5:30, Gamma o tarde) enviada a las 00:32 — responderá por la mañana. Café cruzado comprometido.
+- **Lunes (D8)**: cita con Jirō (sitio pequeño, estudiar+abrazo, "primero el abrazo, siempre"). Agente del piso ("para el lunes").
+- **Jueves (D11)**: ⭐ cita SORPRESA con Mina (la organiza ella, solos).
+- **Exámenes en ~2 semanas** + apuesta pública: PLAN DE GUERRA definido — ganar por flancos (**Mates = su fuerte** [canon: en mates gana Akari] + **Historia del Arte Heroico** [Midnight premia pensar; ya lo fichó] + Ley Heroica); no perder por goleada en Física/Inglés.
+- Peldaño robado con Momo pendiente esta semana. Nezu (dormitorios + entre muros) a su conveniencia. Dormitorios ~semanas.
 
 ## Decisiones de carácter recientes que pesan
-- **Honestidad radical del bosque**: disclosó el bosque a Jirō y a Mina con pactos de "herida limpia"; se **negó a jurar** a Jirō que le diría el nombre del árbol antes de que lo descubriera (no jura en falso); se puso él en la peor posición con Mina por respeto.
-- **Presencia sobre deseo**: resistió robar tiempo con Momo para llegar entero a Jirō.
-- **Rodeó a propósito la herida de Deku** con Bakugo pudiendo usarla — respeto que Bakugo reconoció.
-- **Cumplió la condición 1 el mismo día** (le contó a Momo lo de Jirō, con nombre, ella la primera).
-- Doctrina **"eres todas las tartas"**: a Momo (el árbol/la balanza) no le miente ni para consolarla.
+- **Pacto de salida antes del de entrada** (a Toru): "la puerta de salida también es tuya; sin culpas" — desanudó su miedo. Generosidad estructural nueva en el bosque.
+- **"Ni una mentira" con cláusula honesta**: "si algo no te lo puedo decir, te digo QUE no te lo puedo decir" — promesa dada a Toru.
+- **Honestidad sin autolesión**: en el estreno dedicado a Momo no fingió ser el primero en enseñar el look ("la clase lo vio construirse; puesto, dedicado, tú primera").
+- **Lo bonito Y lo responsable**: acompañó a Toru a casa a medianoche (Musutafu de noche, Liga latente) — rasgo, no casualidad.
+- **Autoconsciencia del atajo**: clavó las 100/100/100 con Cuerpo y reconoció que "el músculo lo hizo el Quirk" — sin reclamar marca de PWR.
 
 ## Continuidad emocional y red sexoafectiva (harem / OPSEC)
-- **Momo (closeness 8, ANCLADA, deseo abierto): PAREJA CONSOLIDADA.** Reafirmó su marco bajo prueba (le dolió que la flor fuera su amiga Jirō). Recibió la doctrina "todas las tartas". **Primera intimidad sexual plena menos el coito** (cunnilingus + digital, ambos primerizos en eso), guardando el coito para el domingo. Doméstica (cena de konbini, ducha juntos). SECRETA. Ahora carga el secreto de que Jirō está en el bosque. Asimetría registrada (Akari→10, Momo→8). Le debe un peldaño robado esta semana. **Momo YA SABE que la primera vez es el domingo en el hotel** (la sorpresa del día ya no aplica) y pidió ser la **1ª en ver el look nuevo de Akari, en privado, antes que nadie**.
-- **Jirō (closeness 6→7, deseo abierto, volátil): FLORECIÓ.** Primer beso en su santuario tras cantarle su alma. Entró en el bosque sabiendo que hay un árbol sin nombre; aceptó pese al dolor. Akari le NEGÓ la promesa del nombre. Tendrá días malos. Cercana a Momo.
-- **Mina (closeness 3→6, deseo abierto, volátil): NUEVA AL BOSQUE.** Primer beso (calle), pacto de ritmo lento + herida limpia + cita la semana que viene, sin exclusividad. Conoce la existencia del bosque (jurada a discreción). Lío pasado y muerto con Kaminari (Akari lo protege).
-- **Hagakure (closeness 3→4, deseo abierto)**: Akari ya tiene su número; casi le revela la percepción (ella casi segura). Cita de estilismo mañana + "secreto que arrancar".
-- **Kendo (5, anclada, puerta entornada)**, **Ibara (4, deseo abierto — plantón de savia pendiente)**, **Uraraka (1)**.
-- REGLA [[manejo-harem-sin-culpa]]: bosque honesto; el coste es tiempo/fricción, no culpa. **Riesgo OPSEC en aumento**: Momo↔Jirō↔Kendo se conocen; Jirō y Mina ya están en el bosque; Momo carga el secreto de Jirō; Mina conoce la existencia del bosque. **Coartada instalada**: rivalidad académica pública Akari↔Momo.
+- **Momo (8, ANCLADA, pareja)**: HOY es la primera vez. Ella la planificó entera (té previo "para no llegar como condenados", entradas separadas, nombre falso, el resto del pago lo lleva ella — "no discutas eso hoy, ya discutiremos"). Pidió que no le suelte la mirada al estrenarle el look: "necesito acordarme de por qué soy valiente". "Echo de menos mañana" la hizo llorar ("es lo más bonito que me han escrito nunca. Tuya. M.").
+- **Hagakure (4→7, VOLÁTIL, deseo abierto, marco "verse-y-ver"): FLORECIÓ ENTERA.** Primer beso (probador), primera vez sexual de ambos (oral mutuo, sin coito), el secreto revelado (la ve entera; luego el porqué: savia), **bosque completo** (5ª consciente; no sabe drenaje/borrado/nombres), pacto de salida, y el hito vital: **SE VIO por primera vez desde los 5 años** (segunda piel de savia). Decisión de entrada EN SUSPENSO ("la Toru de mañana") — puede llegar por mensaje en cualquier momento. Deuda: ¥33.800 + "el porqué del rojo" completo.
+- **Jirō (7, volátil, deseo abierto)**: en carne viva tras el florecer — declinó la multitud con salud ("no es por ti, es al revés"). Regaló NOTA DE VOZ (0:38) de su canción ("es tuya. No la enseñes"). Lunes: sitio pequeño, "primero el abrazo, siempre". Se robó "cabes en un bolsillo y en el pecho no me cabes" para una canción.
+- **Mina (6, volátil, deseo abierto)**: cadena elegida y puesta ("la llevas por mí — lo sé"). Cita JUEVES (sorpresa, solos, "a lo mejor ahí sí te dejo cobrar algo. Lento"). NO sabe nada de Toru ni de nadie (corrección de mesa: sin radares).
+- **Kendo (5, anclada, puerta entornada)**: "escribir a las 00:30 'respeto la puerta' ES llamar a la puerta, y lo sabes. Pero es la mejor forma de llamar que has tenido". Café hecho; reto de correr en escalada (6:30→5:30) — su respuesta abre la mañana.
+- **OPSEC**: Momo↔Jirō↔Kendo se conocen; Jirō, Mina y ahora TORU en el bosque; Toru se NEGÓ a adivinar nombres (regalo OPSEC). Coartada académica reforzada y circulando (Sero). Nadie sabe de Momo. Bakugo sigue callándose su sospecha Akari↔Mina.
+- REGLA [[manejo-harem-sin-culpa]]: el coste es tiempo y fricción, no culpa. Fricción real acumulada: el "desigual" de Toru; la deuda de honestidad con ella se pagó EN EL DÍA (bosque completo antes de dormir).
 
 ## Detalles emocionales sutiles
-- **Bakugo**, en privado, sobre Deku: "con Deku hay cosas que son mías, mi historia, mi cuenta pendiente"; y "bienvenido a aguantarlos conmigo, supongo" — su forma máxima de aceptar a alguien. Se picó más por lo de "más que Mineta" que por la broma de la boda.
-- **Jirō**: su verso "por fin alguien no se fue" lo escribió pensando en Akari; se cortó ella sola antes de derretirse más por mensaje. Los jacks se le curvan hacia él sin querer.
-- **Mina**: su ácido pierde el control (resbaladizo/vapor) solo cuando le importa quién la besa — un tell involuntario. "Contigo brillo CON, no PARA."
-- **Momo**: "lo pequeño" (cena de konbini, ducha) le importa más que el universo; "somos iguales, los dos quemamos el cuerpo para hacer magia". La doctrina "todas las tartas" la coronó y la dejó "un poco sola en otra dimensión", y aun así lo creyó porque él prefirió dejarla insatisfecha antes que mentirle.
-- **Hagakure**: nadie le pregunta por lo que descarta; que Akari le pidiera "el cuaderno de las ideas locas de las tres de la mañana" la volcó. Dejó colgando un boceto descartado "porque hacía falta que fueras… no importa" (misterio a propósito para la cita del sábado).
-- **El gesto del dedo (pasillo, ~15:15):** Akari renunció al peldaño con Momo levantando UN dedo pegado al muslo (*uno = un peldaño, te lo debo*); ella respondió bajando las pestañas — el sello mudo del "peldaño robado".
-- **Fórmula del pacto de Momo: "el universo y las duchas"** ("No me des solo el universo. Dame también las duchas" → su mensaje: "Me lo has prometido: el universo y las duchas. Me agarro a eso").
-- **Momo, tras la charla del padre:** "Tengo tres años para ganar la fuerza de elegirte a la cara. Voy a usarlos."
-- **Jirō, palabra-sello "Vale"** (la nota de clase → tras el primer beso: "Vale… ahora significa el mundo entero") y "prefiero respirar en tu pozo sabiendo que hay más peces". **Regla de su santuario cumplida:** "si me quiebro, no te levantes; el abrazo después, yo te aviso" — llegó sola al final y el permiso lo dio ella ("Ya puedes. Ven").
-- **Mina:** juró discreción "por mis cuernos… ya van dos y no los reparto"; su "Bienvenido a casa, Sanguine" susurrado en el brindis.
-- **Bakugo, tercer sello:** "…Encajas. Que es peor." (junto a "bienvenido a aguantarlos conmigo").
+- **Toru, el boceto descartado**: era un look completo para Akari que no se atrevía a proponer — "hacía falta que fueras alguien que se dejara ver". Le dio carta blanca ("a por todo, colega") y ella: "nadie me deja hacer TODO".
+- **Toru, el espejo**: "Tengo la risa de mi madre. Me lo decía mi abuela y nunca lo había podido comprobar." / Al retirarse la savia: "Adiós. Hasta pronto." / "¿Volveré a verme?" — "Cuando quieras. El regalo no caduca."
+- **Toru, el pudor estrenado**: "Me has estrenado el pudor A LA VEZ que las ganas de que me mires más. Es como estrenar una emoción con veinte años de retraso."
+- **Toru, la fricción honesta**: "Ella sabrá quién soy yo y yo no quién es ella. Duele un poquito. Lo apunto en la lista de cosas que me duelen hoy, que estaba muy vacía."
+- **El sabor del Verdant**: "¿Sal y algo verde? Como a mar y a hierba" — Toru describiéndolo sin saber que probaba su Quirk.
+- **Momo, la valentía**: "No me sueltes la mirada cuando me estrenes el look. Necesito acordarme de por qué soy valiente." / "Es mañana. ES MAÑANA de verdad."
+- **Jirō, la nota de voz**: grabada bajito con la manta por encima; se cortó sola: "la completa te la doy en persona. Esta es para que aguantes hasta el lunes."
+- **Kendo, el sello de la mañana**: "Ven de frente cuando sepas qué eres, no con la lengua fuera un sábado de resaca. Pero me ha hecho gracia."
+- **La madre de Toru**: brilla de luciérnaga tras el visillo esperándola; "¡¿Tōru, quién era ese?!" — 20 minutos de récord familiar de brillo.
+- **El gesto del adiós**: Akari se giró y "saludó como un bobo, que es lo clásico" → "¡ASÍ SÍ!" a grito por el barrio.
 
 ## Información que los NPCs tienen sobre Akari (perfil acumulado)
-- Sin cambio en quién ha visto su Quirk (nadie nuevo lo vio en acción; el Bakusquad solo oyó análisis táctico, no vio aspectos). **Jirō**: ahora sabe que hay un "árbol" (centro) sin nombre y que el bosque es necesidad existencial suya, no lujuria (no sabe los detalles del Quirk). **Mina**: conoce la EXISTENCIA del bosque (Akari no es exclusivo, hay un centro), jurada a discreción; no sabe nombres. Además sabe que el bosque es NECESIDAD VITAL literal de Akari y que su QUIRK SE DESESTABILIZA (peligroso) con el corazón roto (asumió cuidar esa parte). **Hagakure**: CERTEZA de que Akari la percibe de algún modo (él le confirmó verbalmente que le ve el rubor); solo ignora el CÓMO (quiere arrancárselo mañana). **Bakugo**: sabe que hay "alguien" (Akari bebió en el 'yo nunca') pero no quién; además SOSPECHA específicamente un lío Akari↔Mina (vio la burbuja; 'a mí no me engañas') — se lo calla, no vende a nadie. **El Bakusquad entero** cree que hay una rivalidad académica Akari↔Momo (coartada). Nadie sabe de la relación con Momo (secreta), ni de Jirō, ni de Mina como pareja.
+- **Toru (SALTO MAYOR)**: sabe que la VE ENTERA (mapa interno completo) y el PORQUÉ (savia vegetal en la sangre; por eso "mar y hierba", por eso el rojo). Sabe del BOSQUE COMPLETO (5ª consciente): no exclusividad, hay un centro sin nombre, necesidad real. NO sabe: drenaje, borrado, avalista, ningún nombre. Tiene su promesa de "ni una mentira".
+- **Mina**: sin cambios (existencia del bosque, necesidad vital, desestabilización por corazón roto). NO sospecha nada de Toru (corrección de mesa).
+- **Momo**: sin cambios de fondo (todo + el secreto de Jirō). Nuevo: vio el look dedicado por videollamada.
+- **Jirō/Kendo/Bakusquad**: sin cambios. La clase entera: coartada de rivalidad académica reforzada (apuestas corriendo).
+- Nadie nuevo vio el Quirk en acción — la segunda piel de savia solo la vio TORU (en privado). Ella es ahora la única persona que ha visto esa aplicación.
 
 ## Progresión narrativa activa
-- `hitos_progresion.csv`: sin subidas nuevas (S6 fue día social/íntimo). Subidas previas: M2→3 (S2), M3→4 (S3).
-- `progreso_narrativo.csv`: **+pm-021 COO peso 3** (ganó al Bakusquad + coach táctico + coartada académica) y **+pm-022 carácter peso 2** (honestidad radical del bosque + rodear la herida de Deku). Acumulado de COO (peso 3 ×3: pm-003, pm-016, pm-021) y carácter (peso 3 ×3 + peso 2 varios) **listo de sobra para valorar subida de COO al cierre de Arco 1**.
-- `rutas`: sin nuevas (día social).
-- `conocimientos`: +con-014 (regla del Quirk de Momo), +con-015 (punto ciego/crecimiento de Kaminari), +con-016 (punto ciego de Bakugo), +con-017 (mecánica del ácido de Mina).
-- Maestría del Quirk: 4, congelada. Sin entrenamiento hoy.
+- `progreso_narrativo.csv`: **+pm-023 TEC peso 2** (segunda piel de savia — control fino inédito, pelo a pelo, sin subir maestría) y **+pm-024 carácter peso 2** (bosque completo a Toru + pacto de salida antes de entrada). Acumulado: COO (peso 3 ×3) LISTO para valorar subida al cierre de Arco 1; carácter en cumbre sostenida (3×3 + 2×4); TEC empezando (2×1).
+- `hitos_progresion.csv`: sin subidas (día social/íntimo; maestría congelada).
+- `rutas`: sin cambios. `conocimientos`: +con-018 (Quirk e historia de Hagakure), +con-019 (segunda piel de savia + Verdant en fluidos); con-006 ampliado (percepción de Toru canonizada).
+- Maestría del Quirk: 4, congelada.
 
 ## NPCs menores con potencial futuro
-- La mesa de los guardianes (Todoroki, Tokoyami, Kōda, Aoyama, Midoriya). Iida. Nezu (cita pendiente). Mei (costume). **Bakusquad completo ahora amigos** (Kirishima, Sero nuevos). **Midnight** (te fichó como "el que piensa" — sin contacto real).
+- Padres de Hagakure (definidos: translucidez él, bioluminiscencia ella; la madre YA sabe que "hay un chico"). Mesa de los guardianes. Nezu (cita pendiente). Mei (costume). Midnight (radar "el que piensa" — y flanco del plan de exámenes). Agente del piso (lunes).
 
 ## Coincidencias narrativas entre NPCs
-- Momo↔Jirō (cercanas — y ahora las DOS en órbita de Akari, Momo sabiéndolo), Jirō↔Kendo (amigas), Mina↔Kaminari (lío pasado muerto), Bakugo↔Midoriya↔Todoroki (triángulo), Uraraka↔Midoriya. **RIESGO CRECIENTE**: Momo, Jirō, Kendo, Mina se conocen entre sí; el bosque se está poblando de gente del mismo círculo.
+- Momo↔Jirō (cercanas, ambas en órbita), Jirō↔Kendo (amigas), Mina↔Kaminari (lío muerto), **Toru↔Mina** (cruzaron floretes de estilismo con cordialidad — "buen ojo, Ashido"/"sé lo que le pega, Hagakure"). El bosque se puebla del mismo círculo: Momo, Jirō, Kendo, Mina, Toru se conocen TODAS. Riesgo OPSEC estructural creciente — mitigado por: coartada académica + Toru negándose a adivinar + Bakugo callado.
 
 ## Relojes de facción activos
-- Gobierno/avalista: amenaza del borrado si Akari se estanca — respuesta: crecer sin subir maestría. Coleccionista: radar futuro. UA (Nezu): protege; dormitorios en obras. Liga: latente.
+- Gobierno/avalista: borrado latente — respuesta en curso: crecer sin subir maestría (segunda piel = ejemplo perfecto de crecimiento invisible). Coleccionista: radar futuro. UA (Nezu): protege; dormitorios en obras. Liga: latente.
 
 ## Memorias de feedback (MEMORY.md)
-- [[roles-clase-1a]] · [[ritmo-narrativo-jugador]] · [[worldbuilding-ua-economia]] · [[niebla-informacion-npc]] · [[manejo-harem-sin-culpa]] · [[pov-mas-interesante]] · [[voz-clase-1a]] · [[validacion-carrera-cierre]] · [[modelos-narracion-auditoria]] · [[quirk-momo-creacion]].
+- [[roles-clase-1a]] · [[ritmo-narrativo-jugador]] · [[worldbuilding-ua-economia]] · [[niebla-informacion-npc]] · [[manejo-harem-sin-culpa]] · [[pov-mas-interesante]] · [[voz-clase-1a]] · [[validacion-carrera-cierre]] · [[modelos-narracion-auditoria]] · [[quirk-momo-creacion]] · [[auditoria-auto-aplicar]] · **[[costes-quirk-proporcionados]] (NUEVA S7)** · **[[inexperiencia-sexual-estudiantes]] (NUEVA S7)**.
 
 ## Para reanudar la sesión nueva
 1. Leer este archivo + MEMORY.md + cabecera de AGENTS.md + avisos de CLAUDE.md.
-2. Saludar con cabecera 📅 (arranque del **Día 6 · sábado 18 may · Musutafu**).
-3. Confirmar el punto: Akari despierta el sábado tras el Día 5 más largo de la campaña (florecer con Jirō, consolidación total con Momo, Mina al bosque, Bakusquad ganado). Por delante: el **centro comercial con Hagakure de estilista** (cambio de look + "secreto que arrancar"), con resaca leve y el bolsillo justo.
+2. Saludar con cabecera 📅 (arranque del **Día 7 · domingo 19 may · Musutafu**).
+3. Confirmar el punto: Akari despierta el domingo tras "el día perfecto de Toru" (floreció Hagakure, bosque completo disclosado, se vio por primera vez). HOY es **el día de Momo**: 13:15 toldo verde → 14:00 Tsuki-no-Ma = la primera vez. Mañana libre antes (Ibara, Kendo, la decisión de Toru pueden llegar).
 4. Presentar la decisión pendiente (A/B/C/D de arriba) como primer turno.
