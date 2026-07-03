@@ -18,6 +18,7 @@ C1-T1-D7,comida,konbini-esquina,Té verde de la mañana (bonus de frescura),-150
 C1-T1-D7,comida,cafeteria-toldo-verde,Tés del plan (Darjeeling de Momo + el suyo) — pagó él (y con ello perdió la discusión del hotel por aritmética),-1100,gasto
 C1-T1-D7,comida,gyudon-barrio,Gyūdon de pie camino de UA (cena),-620,gasto
 C1-T1-D7,transporte,metro,Metro UA → hostal (vuelta nocturna),-200,gasto
+C1-T1-D8,comida,konbini-esquina,Ingredientes para bentos caseros (el de Momo + el suyo) — konbini del alba,-750,gasto
 # NOTA D7: el RESTO del hotel (¥11.800) LO PAGÓ MOMO en efectivo antes de que él llegara ('ya está abonado, señor Tanaka') — NO sale de la caja de Akari. La 'estrechez de ~¥800' prevista QUEDA SIN EFECTO.
 # Saldo al cierre S7/D6 (madrugada D7): ¥12.600
 # Saldo al cierre S8/D7 (noche del domingo): ¥10.530 (gastos del día: −¥2.070). El '~¥10.900' narrado en sesión fue redondeo del GM; manda este saldo exacto.
