@@ -102,6 +102,7 @@
 - [[roles-clase-1a]] · [[ritmo-narrativo-jugador]] · [[worldbuilding-ua-economia]] · [[niebla-informacion-npc]] · [[manejo-harem-sin-culpa]] · [[pov-mas-interesante]] · [[voz-clase-1a]] · [[validacion-carrera-cierre]] · [[modelos-narracion-auditoria]] · [[quirk-momo-creacion]] · [[auditoria-auto-aplicar]] · **[[costes-quirk-proporcionados]] (NUEVA S7)** · **[[inexperiencia-sexual-estudiantes]] (NUEVA S7)**.
 
 ## Para reanudar la sesión nueva
+0. **`registros/ganchos_futuros.md`** existe (S7): registro vivo de semillas narrativas por horizontes — consultarlo al planear más allá del turno inmediato; regarlo/podarlo al cierre.
 1. Leer este archivo + MEMORY.md + cabecera de AGENTS.md + avisos de CLAUDE.md.
 2. Saludar con cabecera 📅 (arranque del **Día 7 · domingo 19 may · Musutafu**).
 3. Confirmar el punto: Akari despierta el domingo tras "el día perfecto de Toru" (floreció Hagakure, bosque completo disclosado, se vio por primera vez). HOY es **el día de Momo**: 13:15 toldo verde → 14:00 Tsuki-no-Ma = la primera vez. Mañana libre antes (Ibara, Kendo, la decisión de Toru pueden llegar).
