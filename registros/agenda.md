@@ -8,7 +8,7 @@
 
 ## Agenda de ficción del PC (compromisos vivos — el GM avisa antes de saltarlos) — al cierre S8
 
-- [ ] **Lunes D8**: 6:30 entrenamiento **Aizawa** (diario) · hablar con **Midnight** (plan de estudios) · buscar a **Ibara** en persona (1-B; ⚠️ sin móvil; ¿le esperó el viernes? + experimento con consentimiento informado) · **agente del piso** · CITA **JIRŌ** (sitio pequeño; "primero el abrazo"; canción completa en persona) · resolver DÓNDE la micro-toma matinal de Momo.
+- [ ] **Lunes D8**: ✅ 6:30 Aizawa (hecho: delegación sobrevive a Erasure) · ✅ Midnight (ensayo para el VIERNES + tutorías miér 15:30 ×2) · ✅ Ibara (experimento propuesto; respuesta el MIÉRCOLES; contacto conseguido) · ✅ micro-toma de Momo (entre-muros; PRIMER NO a la savia en escena; matriz de punto fijo pendiente) · ~~agente del piso~~ (sin cita real — canon corregido) · CITA **JIRŌ** = ESTUDIAR + abrazo (¿biblioteca o su casa? — decidiendo; la canción sobre él sigue en su bolsillo, iniciativa suya).
 - [ ] **Martes D9**: ⭐ CITA **TORU** (CONFIRMADA; sitio sorpresa suyo; su te-quiero sigue armado).
 - [ ] **Miércoles D10**: 5:30 Gamma correr con **KendO** (café cruzado en juego) · entregar **INFORME del flanco este** a Aizawa (mis-017) · savia con **Ibara**.
 - [ ] **Jueves D11**: ⭐ cita SORPRESA con **Mina** ("el jueves trae hambre").
