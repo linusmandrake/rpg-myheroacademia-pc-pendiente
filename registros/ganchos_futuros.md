@@ -2,15 +2,20 @@
 
 > Registro vivo (creado S7). El GM lo consulta al abrir sesión y al diseñar arcos; se riega o se poda al cierre. Nada de aquí es obligatorio — son lágrimas que NO se pierden en la lluvia.
 
-## Esta semana de ficción (D7-D13)
+## Esta semana de ficción (D8-D13) — regado al cierre S8
 
-- **Condición 1 de Momo** (mis-016): decirle lo de Toru, con nombre, "muy pronto" — el D7 es su día; elegir el momento.
-- **"La Toru de mañana"**: ratificación del bosque + su **te-quiero armado y sin disparar** ("me niego a decírtelo cubierta de tus fluidos") — buscará su momento limpio.
-- **Kendo**: respuesta al reto de las 5:30 (llega el D7 por la mañana) + café cruzado.
-- **Ibara**: disculpa del plantón + reprogramar savia + el experimento del drenaje sembrado (D4).
-- **Lunes D8**: Jirō, sitio pequeño, "primero el abrazo" + la canción completa prometida en persona. Agente del piso.
-- **Jueves D11**: cita sorpresa de Mina — su tell del ácido ya asomó dos veces por Akari.
-- **Peldaño robado con Momo** (se lo cobra esta semana).
+- ~~Condición 1 de Momo~~ CUMPLIDA D7 (antes del hotel). ~~Ratificación de Toru~~ FIRMADA D7. ~~Respuesta de Kendo~~ ACEPTÓ (miér 5:30).
+- **El te-quiero armado de Toru**: sigue SIN DISPARAR — la cita del MARTES es su candidata natural ("me niego a decírtelo cubierta de tus fluidos" ya no aplica: buscará el momento limpio).
+- **Micro-toma matinal de Momo**: pactada y SIN LUGAR — el reto logístico ("¿dónde sin que Sero venda entradas?") conecta con el **peldaño robado** (se lo cobra esta semana) y el entre-muros de Nezu.
+- **Viernes 24 (D12)**: regla de Momo día 1 → experimento savia-vs-cólicos ("estoy enamorada de un analgésico con cara bonita") + primera suscripción a la fuente.
+- **Ibara, lunes en persona**: ¿le esperó el viernes? (niebla — el GM decide su lado) + proponer el experimento con consentimiento informado COMPLETO (recuerdos/sabor/fragmento). Su reacción religiosa al "beber sangre = ver almas" es un beat gordo en potencia.
+- **Lunes D8**: Jirō ("primero el abrazo" + canción completa en persona), agente del piso, Midnight (plan de estudios — su radar "el que piensa" activo), Kendo responde al buenas-noches al alba.
+- **Miércoles D10**: 5:30 con Kendo (¿la puerta se entreabre corriendo?) + informe a Aizawa.
+- **Jueves D11**: Mina — "el jueves trae hambre" (su tell del ácido ya asomó dos veces).
+- **Semana D13+**: sesión Aizawa-VILLANO-ACTIVO (evacuación con cronómetro).
+- **El fragmento de Creación (1 uso)**: disponible y sin usar — ¿lección guiada por Momo? ¿emergencia? Se gasta una sola vez: elegir bien el momento es un beat en sí.
+- **Condicionamiento "Yaoyorozu"** (gag activo): Momo lo declaró arma psicológica para los exámenes — cada pase de lista es una mina.
+- **El calibre vernier olvidado en la 411** — patrimonio del Tsuki-no-Ma (¿reaparece en una reserva futura?).
 
 ## Arco 1 restante (D7-D30)
 
@@ -20,9 +25,9 @@
 - **All Might**: primer contacto PERSONAL pendiente (ya lo vio dar clase; para All Might, Akari es un nombre en la lista). Su reloj de horas es visible en clase.
 - **Thirteen**: recuperándose de la herida del USJ — su vuelta a plena forma es hilo disponible (clase de Rescate, miércoles).
 - **Lunch Rush**: puede diseñar comidas pro-pool para el Quirk (conecta con ruta-006, dieta de hierro). Basta con que Akari pregunte en el comedor.
-- **Nezu**: cita pendiente (dormitorios + "entre muros"). **Dormitorios Heights Alliance**: ~semanas → techo definitivo, fin del hostal (y de la habitación 4 con su croqueta — despedida con peso).
+- **Nezu**: citará a Akari **PRONTO** (vio a Corvax y saludó; recibirá el informe del flanco este en mano) — dormitorios + entre-muros + seguridad. **Dormitorios Heights Alliance**: ~semanas → techo definitivo, fin del hostal (y de la habitación 4 con su croqueta — despedida con peso).
 - **Mei/Power Loader**: el costume de héroe sigue sin diseñar.
-- **Deuda con Toru**: ¥33.800 al cobrar la beca (~D8-D12) — y los días de ~¥800 si paga el hotel: hambre de fin de semana como beat de precariedad.
+- **Deuda con Toru**: ¥33.800 al cobrar la beca (~D8-D12). (La estrechez de ~¥800 NO ocurrió: Momo pagó el hotel — saldo ¥10.530.)
 
 ## Arco personal transversal — LA DESCONGELACIÓN (horizonte pactado S7)
 
@@ -44,6 +49,12 @@ Convertir "dejar de esconderse" en el arco de Akari con destino visible: hacerse
 - **Stain/Hosu** (si se juega): vía Manual/Iida.
 
 ## Latentes / condicionales (sin fecha)
+
+- **La guerra de Momo** (NUEVO S8, reloj mayor): la proposición de matrimonio SOLO después de que ella gane su guerra (padre/apellido/3 años; muko-yōshi: su padre querría ABSORBER a Akari → "Akari Yaoyorozu"). La respuesta "ya existe". El nombre final lo decide ella al ganar.
+- **La visión de los hijos** (S8): infancia feliz, sin jaula de oro, "un pasillo sin alas" — el futuro imaginado por primera vez por Momo; material de beats oníricos/motivación.
+- **EL HAMBRE** (S8): la voz verde pide MÁS en cada drenaje y la savia ofrece +1 maestría cada vez (bengala) — el entrenamiento de DECIR NO es un arco en sí; Blackroot funciona de freno externo. ¿Qué pasa el día que beba sin Blackroot invocado?
+- **"Si no me pillan, no hay denuncia"** (S8): la frase-semilla de vigilante que Aizawa cauterizó — pero la lógica vive en Akari; volverá a tentarle (Stain/Hosu resonará fuerte si se juega).
+- **Sintonización con otras donantes** (R10): cada flor que done sangre puede sintonizarse — intimidad mecánica nueva disponible (Ibara la primera candidata... y algún día una donación de las que no se piden).
 
 - **El eco delator**: algún día, al reabsorber una proyección, Akari recibirá el eco de algo que "él" hizo/sintió y no recuerda haber decidido — su subconsciente contándole algo de sí mismo que no sabía (regla de enlace sensorial, cara B).
 - **La ironía del Avatar Carmesí**: Toru sabe el porqué del rojo (savia) pero NO que existe un doble de sangre con esa piel — "algún día te cuento y te quedas muerta" (segunda entrega).

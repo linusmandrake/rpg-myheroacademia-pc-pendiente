@@ -255,6 +255,15 @@ A 0% el PC se desmaya; la regeneración pasiva (1/h) SIGUE y despierta solo al l
 ## R9 — Curva maestría-arcos: desajuste RESUELTO en ficción
 El doc asume M3-4 en Arco 2; Akari llegó a M4 en D3 (Arco 1). Resolución canónica: Aizawa lo detectó ("vas demasiado rápido") y **congeló la maestría a propósito** (estrategia anti-bengala, S5). No es error: es trama.
 
+## R10 — Sintonización por donante habitual (S8)
+Con ingestas repetidas de la misma persona, la savia **aprende** esa sangre: la adaptación temporal desaparece y el neto sube gradualmente hasta **nivel AB (+40)** para ese donante concreto, sea cual sea su tipo. Recordatorio R6: para Akari **nunca hay saldos negativos** — el mínimo con cualquier sangre es **+20**. **Momo: sintonización COMPLETA** (S8/D7, primera donante — 2 ingestas + vínculo; su sangre tipo A rinde AB pleno en adelante, sin adaptación).
+
+## R11 — Esencia ajena de aliados: fragmento disponible (S8, reconciliación §4 vs §"La savia y la esencia ajena")
+La fila "aliado → solo información" de la tabla §4 queda subordinada a la regla general: con **consentimiento + savia aliada + PC descansado**, la absorción da además un **fragmento débil del Quirk del donante (1 uso / 1 escena, versión mínima)**. La vía alternativa "+1 maestría" la OFRECE la savia en **cada** drenaje y se **DECLINA por defecto** (congelación anti-bengala) — declinarla es un acto consciente y entrenable. Primer fragmento en inventario: **Creación (Momo)** — disponible, no consumido (el fumble de interfaz de la bañera no lo gastó); rinde mejor con coaching de la donante.
+
+## R12 — Bestias canon del PC (S8)
+Nombres canonizados: **Blackroot** (lobo — serenidad, freno externo del hambre), **Corvax** (cuervo "negro como la muerte" — ojos aéreos, canal de imágenes, escala hasta MONTURA), **Yogmungard** (serpiente constrictora ~4m — engullir/proteger/evacuar; dentro de ella el PC respira por savia propia). **Órdenes permanentes** (fijadas con Aizawa): si la consciencia de Akari cae con pool>0 → auto-evacuación a destinos rankeados (enfermería → hospital → bomberos) sin esperar orden. Regla personal sellada: **jamás bajar del 20% de pool sin un adulto delante** (a pool 0 la savia hiberna y "la ambulancia muere con el conductor"). La reabsorción devuelve ~90% de la masa invertida. Lección de control multi-bestia: **una voluntad por bestia — nombrar y DELEGAR misiones autónomas** (micro-gestionar tres canales rompe el control a M4).
+
 ---
 
 # Mecánica detallada — Sangre, Rewind, Bestias, Ecos, Savia
