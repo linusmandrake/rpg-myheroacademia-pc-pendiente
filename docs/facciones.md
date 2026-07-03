@@ -15,6 +15,8 @@
 
 ### Agencias Hero
 
+> **Catálogo completo de agencias (S7): `docs/agencias.md`** — las grandes (Endeavor, Hawks, Jeanist, Edgeshot, Ryukyu), las locales de Musutafu (Sir Nighteye, Mt. Lady, el Sabueso) y las especializadas (Uwabami, Gunhead, Fat Gum, Pussycats, Miruko, Manual), con cultura interna y ganchos de campaña.
+
 - **No.1 (decreciente en el canon):** Endeavor Agency, Hawks' Agency, Edgeshot's Agency, Mirko's Agency, etc.
 - **Estructura típica:** director (suele ser top hero) + varios sidekicks + administrativos.
 - **Ingresos:** pago por rescate / publicity / comisiones privadas. No es "donaciones".
