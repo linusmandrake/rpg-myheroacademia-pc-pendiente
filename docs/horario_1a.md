@@ -41,7 +41,7 @@ All Might **es profesor de Fundamentos Heroicos desde antes de la llegada de Aka
 ## Exámenes del trimestre (~2 semanas) — asignaturas de la apuesta Akari↔Momo
 
 Matemáticas (Ectoplasm) · Inglés (Mic) · Literatura/Arte moderno (Cementoss) · Historia del Arte Heroico (Midnight) · Ley Heroica (Aizawa) · Ciencia de Quirks (Snipe) · práctico de Fundamentos (All Might).
-Plan de guerra de Akari: ganar Mates + Hª del Arte + Ley; no perder por goleada Inglés/Física.
+Plan de guerra de Akari: ganar Mates + Hª del Arte + Ley + **Literatura** (flanco añadido S9/D8: "otra ciudad en los ojos" — Cementoss premia criterio y Akari tiene poesía dentro); no perder por goleada Inglés/Física.
 
 ## Reglas de dirección (obligatorias desde S8)
 
