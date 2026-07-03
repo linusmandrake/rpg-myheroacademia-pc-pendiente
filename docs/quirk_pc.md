@@ -204,6 +204,52 @@ El Quirk está **diseñado** para generar contenido adulto con sustancia narrati
 
 ---
 
+# RECONCILIACIÓN MECÁNICA (fe de erratas canónica, S7)
+
+> Auditoría a petición del jugador. El documento mezcla dos generaciones de diseño (savia-entidad vs Quirk-espejo) y tiene choques de números. **Estas reglas MANDAN sobre cualquier pasaje contradictorio del resto del documento.**
+
+## R1 — El "ánimo del savia" NO existe como entidad: es el ESTADO DEL QUIRK
+Toda tabla que diga "savia aliado/cooperativo/neutral/resentido/enemigo" se lee como el **Estado del Quirk** (sección "Estado del Quirk = Estado del PC"):
+| Término viejo | Se lee como |
+|---|---|
+| savia aliado | Quirk **En plenitud / Eufórico** (PC cuidado y conectado) |
+| savia cooperativo/neutral | Quirk **Funcional** |
+| savia resentido | Quirk **Cansado / Hambriento / Disociado** |
+| savia enemigo | Quirk **Traumatizado / gravemente degradado** |
+**NO existen**: el savia "castigando al PC", "negándose a volver", "usando al recipiente para atacar al PC", "decidiendo según su humor". El Quirk NUNCA actúa contra el PC (regla núcleo). La "posesión/zombie vegetal" y efectos hostiles de la sangre en otros son actos de **voluntad del PC** ejecutados por su savia (con su peso ético), no iniciativa de una entidad. Las "sorpresas" del Quirk son subconsciente del PC, nunca sabotaje.
+
+## R2 — Avatar: dos modos (resuelve la contradicción "dura 2 min" vs "mantener por hora")
+- **Modo COMBATE** (plena intensidad, autónomo): duración por maestría — M1-2 ~30s · M3-4 ~2 min · M5-6 ~10 min · M7+ sin límite práctico.
+- **Modo SOSTENIDO** (baja intensidad, cerca del PC y bajo su atención): horas, pagando mantenimiento (5/h ×mult. de maestría). No sirve para combate pleno ni para tarea cognitiva fina autónoma (ver regla de cognición paralela).
+
+## R3 — Las capacidades del Quirk escalan por MAESTRÍA, no por stats
+Las tablas de fase mezclan "stats 5-6, maestría 3-5". Regla: **la maestría manda** para capacidades del Quirk; los stats miden el cuerpo. Akari (stats 3-4, M4) usa la fila M3-4: Avatar 1-2/día (2 min combate), 2-3 bestias simultáneas, rewind 30s (2-3/combate), 2 Ecos (30s, de hace ≤1 min), **máximo DOS aspectos simultáneos** ("dos tiempos", consolidado S4).
+
+## R4 — Pool máximo: manda la FÓRMULA
+Pool efectivo = **100 + PWR×5 + maestría×2** (Akari hoy: **123**). Los topes de la sección de recuperación ("máximo 100/120/150") quedan derogados salvo el **cap absoluto de 150** (solo trascendencia lo supera). La recuperación diaria puede exceder el pool: simplemente se capa.
+
+## R5 — Tablas específicas GANAN al multiplicador genérico
+Rewind y Ecos tienen tabla propia por maestría (rewind M3-4 = 12; Eco M3-4 = 8): esas cifras mandan (no se les aplica además el ×0.7). Todo lo demás (Avatar, bestias, manipulación, plantasangre, curación, drenaje) usa coste base × multiplicador de maestría (M3-4 = ×0.7).
+
+## R6 — Drenaje para Akari (AB, receptor universal): tabla canónica propia
+La tabla de ejemplo A+ NO aplica a Akari. Su regla: coste 15×0.7 ≈ **10**.
+| Sangre del drenado | Recupera | Neto | Efectos |
+|---|---|---|---|
+| AB (mismo tipo) | 50 | **+40** | +1 PWR_quirk 2h |
+| Cualquier otro tipo | 30 | **+20** | −1 PWR_quirk 1h (proceso de adaptación) |
+Sin saldos negativos para Akari: ser AB es exactamente su ventaja (avalada por Aizawa, S5). Riesgos de Quirk residue/memoria/toxinas siguen aplicando. Línea roja anti-Drácula SELLADA: recibir, no tomar.
+
+## R7 — Erasure (Aizawa) vs el Quirk de Akari (mutant + emitter)
+Establecido en S5 y reconciliado con canon: el Erase **cancela los aspectos activos** (proyecciones, manipulación externa, plantasangre, rewind) — las proyecciones activas colapsan. La **savia interna no muere** y la **percepción sanguínea pasiva persiste** (rasgo mutant; Erasure no borra mutaciones corporales). Akari bajo Erase = cuerpo entrenado + ojos que siguen leyendo sangre.
+
+## R8 — Pool a 0%: desmayo, no bloqueo
+A 0% el PC se desmaya; la regeneración pasiva (1/h) SIGUE y despierta solo al llegar a ~10% (horas). La "ayuda externa" (comida, transfusión, cuidado) lo acelera mucho, pero no es imprescindible para reanimar (deroga el "no puede reanimar por sí mismo").
+
+## R9 — Curva maestría-arcos: desajuste RESUELTO en ficción
+El doc asume M3-4 en Arco 2; Akari llegó a M4 en D3 (Arco 1). Resolución canónica: Aizawa lo detectó ("vas demasiado rápido") y **congeló la maestría a propósito** (estrategia anti-bengala, S5). No es error: es trama.
+
+---
+
 # Mecánica detallada — Sangre, Rewind, Bestias, Ecos, Savia
 
 > **Principio rector:** los costes son **presión narrativa**, no sentencia de muerte. Todo se recupera, todo tiene cap blando, todo se reduce con maestría. El PC puede completar todos los arcos argumentales sin quedar inútil por usar su propio Quirk.
