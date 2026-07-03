@@ -29,7 +29,7 @@
 - El **calibre vernier de Momo quedó olvidado en la 411** del Tsuki-no-Ma (gag/gancho).
 
 ## Misiones / internado / exámenes abiertos
-- **mis-017 — INFORME del flanco este** (castigo-encargo de Aizawa): sensores + punto ciego, para el **MIÉRCOLES**, entrega **en mano a Nezu**.
+- **mis-017 — INFORME del flanco este** (castigo-encargo de Aizawa): sensores + punto ciego. **MIÉRCOLES en la MESA DE AIZAWA**; a **Nezu se le entrega EN MANO cuando le cite** ('pronto', palabra de Aizawa).
 - **mis-018 — sesión Aizawa VILLANO ACTIVO** (semana D13+): evacuación con cronómetro.
 - **mis-013 — peldaño robado con Momo** (se lo cobra esta semana; candidato a punto de micro-toma matinal).
 - **Exámenes en ~2 semanas** + apuesta pública Akari↔Momo (plan de flancos; ella prometió "destrozarlo académicamente" y tiene instalado el condicionamiento "Yaoyorozu" como arma psicológica).
@@ -39,7 +39,7 @@
 - **"Momo siempre primera"** (regla viva del jugador): primera en verlo, en saberlo todo, en su sangre — cumplida otra vez hoy (condición 1 ANTES del hotel; primera donante).
 - **Honestidad bajo autoridad**: confesó a Aizawa el plan ilegal completo ("si no me pillan no hay denuncia" incluido) y **eligió la puerta** — "aprobado en la asignatura de verdad". La lógica vigilante queda cauterizada pero viva (semilla).
 - **Consejo del árbol adoptado**: lo confiado ojos-a-ojos no se mueve de sitio, ni siquiera hasta Momo.
-- **Declinó +1 de maestría** en pleno drenaje (primera vez que dice NO a la savia con el hambre activa — patrón a sostener).
+- **El NO a la savia está POR ESTRENAR**: la oferta de +1 de maestría por drenaje quedó declinada por regla de mesa (R11, por defecto), NO como acto en escena — el freno real del hambre fue el gruñido de Blackroot (la boca de Akari apretó medio segundo de más). Decirle NO a la savia en primera persona, con el hambre activa, es un beat pendiente (y jugoso).
 
 ## Continuidad emocional y red sexoafectiva (harem / OPSEC)
 - **Momo (9, ANCLADA, pareja, deseo asentado)**: PRIMERA VEZ completa (×3; primer orgasmo coital de ella, simultáneo no buscado). **PROMESA DE MATRIMONIO dada** — su respuesta "ya existe", CONDICIÓN: pedírsela **después de su guerra** (padre/apellido/3 años; muko-yōshi: su padre querría "absorber" a Akari). Acta "cuídanos" (dos socios, sin cláusula de salida) + cláusula **dormir juntos** + visión de HIJOS sin jaula de oro ("Momo A Secas"). **Protocolo de alimentación**: micro-toma diaria (SIN LUGAR aún — ¡decidir!), completa semanal, suscripción a la fuente (viernes 24, cólicos día 1 = experimento savia), hierro/B12 (recurso ganado por ella). Conserva la marca de la mordida bajo la línea del uniforme. Conoce a Blackroot (aceptada en manada; su enmienda: "me lo traes de vuelta"). Sabe TODOS los nombres del bosque (Jirō/Toru/Mina) y ajustó el marco: noticias **cara a cara**.
@@ -64,6 +64,14 @@
 - **Dentro de Yogmungard**: "estás dentro de ti. Por fin lo entiendes" (la voz verde, en paz).
 - **El llanto en el cielo**: "el chico al que Osaka tenía miedo está tocando las nubes. Legalmente. Casi."
 - **Gag activo**: condicionamiento clásico "Yaoyorozu" (cada pase de lista es una mina que ella plantó a conciencia).
+- **Momo, la cremallera**: "Los ojos de la señora eran lo único que hoy no estaba nervioso. Porque te estaban mirando a ti."
+- **"…La señora ya está arriba"**: se probó la frase en voz baja, como el nombre falso ante el espejo — y su "Dilo otra vez".
+- **El conjunto negro**: comprado el miércoles, dos devueltos, tabla comparativa — "No se lo cuentes jamás a nadie".
+- **Los dos lunares junto al omóplato izquierdo** — "que nadie más ha catalogado jamás".
+- **Aizawa, dos más**: "Soy tu profesor, no tu jaula." / "Gracias por no envolverla en papel de regalo."
+- **Aizawa, el anti-crecerse**: "la mitad del mérito es de un muro, un gato y un roedor con té."
+- **Momo retira la "caída libre"**: "Lo tuyo no era caída: era construir sin planos, sin materiales y con el pueblo en contra. Eso es milagro con voluntad."
+- **Corvax por el canal**: al *gracias* devuelve *cuando quieras*; en el vuelo no manda imágenes — manda JÚBILO compartido. (Y Blackroot autoasignándose el vapor de la bañera: familia.)
 
 ## Información que los NPCs tienen sobre Akari (perfil acumulado)
 - **Momo (SALTO TOTAL)**: ya no le falta NADA — el hambre, el flash de sus propios recuerdos, la familia interna (Blackroot), Osaka (odiado/temido, sin amor hasta esta semana), la promesa de matrimonio, la lista de gratitud completa. Es la única persona del mundo con el mapa entero.
@@ -75,7 +83,7 @@
 
 ## Progresión narrativa activa
 - `progreso_narrativo.csv`: **+pm-026 TEC peso 2** (triple invocación + delegación + simulacro de evacuación), **+pm-027 vínculo/Momo peso 2** (florecer completo del vínculo central), **+pm-028 carácter peso 1** (honestidad bajo autoridad + elegir la puerta). Acumulado: COO 3×3 LISTO; carácter en cumbre; TEC 2×2. **Todo aplazado a cierre de Arco 1.**
-- `hitos_progresion.csv`: sin subidas (maestría congelada; la savia ofreció +1 en el drenaje → DECLINADO).
+- `hitos_progresion.csv`: sin subidas (maestría congelada; la oferta de +1 por drenaje declinada POR DEFECTO de mesa — el NO en escena está por estrenar).
 - `rutas`: ruta-005 con primer hito real (sintonización Momo + protocolo + freno del hambre); ruta-006 con línea base limpia (10k/57min + 100/100/74 sin Quirk).
 - `conocimientos`: +con-020 (drenaje completo/el hambre/bengala), +con-021 (Momo íntima/táctica), +con-022 (fragmento Creación), +con-023 (flanco este); con-019 corregido (Momo primera en el Verdant).
 - Maestría del Quirk: 4, congelada — y ahora con tentación recurrente (cada drenaje).

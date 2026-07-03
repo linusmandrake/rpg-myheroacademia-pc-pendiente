@@ -14,7 +14,7 @@ Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk p
 - **El bosque**: Momo (9, árbol madre, lo sabe TODO) · Jirō (7) · Toru (7, RATIFICADA — te-quiero armado) · Mina (6) · Kendo (5, puerta entornada) · Ibara (4, cortejo lento).
 
 ## Misiones / internado activas
-- mis-017: informe del flanco este (miércoles, a Nezu en mano). mis-018: sesión Aizawa villano-activo (semana D13+). mis-013: peldaño robado con Momo.
+- mis-017: informe del flanco este (miércoles en la MESA DE AIZAWA; a Nezu en mano cuando le cite). mis-018: sesión Aizawa villano-activo (semana D13+). mis-013: peldaño robado con Momo.
 - Semana: lun = Aizawa 6:30/Midnight/Ibara/agente/CITA JIRŌ · mar = CITA TORU · miér = 5:30 Kendo + informe + savia · jue = CITA MINA · vier = regla de Momo (experimento cólicos) + savia.
 
 ## Hilos narrativos

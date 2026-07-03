@@ -105,7 +105,7 @@ def validar_finanzas() -> list[str]:
                 continue
             if row[0].startswith("#"):
                 linea = ",".join(row)
-                m = re.search(r"saldo al cierre[^:]*:?\s*~?¥?\s*([\d.,]+)", linea, re.I)
+                m = re.search(r"saldo al cierre[^:¥]*:?\s*~?¥\s*([\d.,]+)", linea, re.I)
                 if m:
                     saldo_declarado = int(re.sub(r"[.,]", "", m.group(1)))
                 continue
