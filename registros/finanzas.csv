@@ -22,6 +22,7 @@ C1-T1-D8,comida,konbini-esquina,"Ingredientes bentos caseros del alba: el de Mom
 C1-T1-D8,comida,konbini-barrio-jiro,Detalle para la noche de estudio con Jirō: dorayaki + dos milk-teas fríos,-620,gasto
 C1-T1-D8,comida,gyudon-barrio,Cena de vuelta a casa (gyūdon de pie),-520,gasto
 C1-T1-D9,comida,konbini-esquina,"Ingredientes bentos del alba (D9): caballa+arroz para Momo (grasa/omega — Creación) + hígado/espinacas para él (hierro/B12)",-920,gasto
+C1-T1-D9,beca,ua-nezu,"PRIMER PAGO de la beca de manutención (Hero Course), validada por Nezu — ¥100.000/mes; ENTRÓ el D9 (dentro de la ventana D8-D12). Habilita devolver los ¥33.800 a Hagakure.",100000,ingreso
 # NOTA D7: el RESTO del hotel (¥11.800) LO PAGÓ MOMO en efectivo antes de que él llegara ('ya está abonado, señor Tanaka') — NO sale de la caja de Akari. La 'estrechez de ~¥800' prevista QUEDA SIN EFECTO.
 # Saldo al cierre S7/D6 (madrugada D7): ¥12.600
 # Saldo al cierre S8/D7 (noche del domingo): ¥10.530 (gastos del día: −¥2.070). El '~¥10.900' narrado en sesión fue redondeo del GM; manda este saldo exacto.
