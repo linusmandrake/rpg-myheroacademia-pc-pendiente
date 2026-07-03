@@ -43,6 +43,11 @@
   - **Aliados y civiles**: SOLO con consentimiento. Recibir, no tomar. Sin excepciones.
   - **Enemigos en pelea legítima** (en combate o derrotados): drenables SIN consentimiento — es munición e inteligencia de guerra, avalado por Aizawa (ruta-005: "drenaje enemigo en pelea limpia").
   - **Cláusula del sabor (universal, también con enemigos)**: nunca buscar la pelea por hambre; y si un día te gusta el sabor y no el motivo → paras. El freno no es el objetivo: es el apetito.
+- **Contexto ACADÉMICO (exámenes/festival/sparring) — 3 niveles (S7)**:
+  1. **Sangre derramada** = LIBRE siempre (ya salió del cuerpo): mitad de rendimiento, sin flashbacks. Absorción por contacto.
+  2. **Combate oficial** = subir al ring es consentir Quirks → sorbos tácticos permitidos (rendimiento normal, sin debilitar de verdad; flashbacks superficiales inevitables — avisa antes: "mi Quirk bebe").
+  3. **Privado con pacto** = kit completo (modelo Ibara).
+  - ⚠️ OPSEC > legalidad: drenar en TV (festival) = bengala nacional. En público: sangre derramada y punto.
 
 ## 🃏 TU SANGRE EN OTROS (el vector simbiótico)
 Con tu Quirk en buen estado y consentimiento: **curación/regeneración** (heridas graves: horas-días), **vigor** (+stats 1 día), **vínculo simbiótico** (te sienten a distancia; en interés romántico: sensorial y erótico, muy cargado), **rito de sangre** (vínculo permanente: resistencia a venenos, brotes menores bajo estrés, closeness +2/+3). Donación seria: 30-60-100 unidades según gravedad.
