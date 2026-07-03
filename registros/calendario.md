@@ -14,23 +14,25 @@
 | Día 4 | jueves | 16 may | JUGADO (S4) — Eco (M4 consolidado); amenaza del BORRADO (Aizawa); Todoroki + MESA DE GUARDIANES; Uraraka/Hagakure/Iida; DILEMA DE MOMO RESUELTO + marco; piso inasequible → dormitorios; HOTEL domingo planeado; cena+abrazo Jirō |
 | Día 5 | **viernes** | 17 may | JUGADO (S5 mañana + S6 tarde/noche) — COMPLETO. Mañana: bentos+rosa, hotel reservado, Bakugo (rival sano), Aizawa (línea roja, Blackroot). Tarde/noche (S6): nº de Hagakure conseguido; **SALA 3 de JIRŌ = FLORECIÓ**; consolidación sexual con MOMO (menos coito); noche del BAKUSQUAD (miembro pleno, Bakugo casi amigo, MINA al bosque). **Savia con Ibara: SALTADA → reprogramar** |
 | Día 6 | sábado | 18 may | JUGADO (S7) — COMPLETO, "el día perfecto de Toru": glow-up (chaqueta carmesí + cadena de Mina; Toru adelantó ¥33.800); **HAGAKURE FLORECIÓ** (probador: 1er beso + le reveló que LA VE ENTERA + su 1er orgasmo; tarde: oral mutuo 1ª vez de ambos, sin coito); Quirk + **BOSQUE COMPLETO** disclosados (5ª consciente, decisión en suspenso, pacto de salida); **SEGUNDA PIEL DE SAVIA** (se vio por 1ª vez desde los 5 años); okonomiyaki + cine + beso del limonero. Videollamada con Momo (estreno dedicado + logística del domingo). Cita Mina fijada (jueves). Cita Jirō (lunes) + su nota de voz. Contraoferta a Kendo (correr 5:30) pendiente |
-| Día 7 | **domingo** | 19 may | (SIGUIENTE) — 💗 HOTEL con MOMO = PRIMERA VEZ (coito). Logística cerrada: 13:15 té toldo verde → 13:40 ella sube → 13:55 él → 14:00 check-in. Resto ~¥11.800 (⚠️ deja a Akari con ~¥800 hasta la beca). Akari lleva el look nuevo ('quiero quitártelo yo'). Mañana libre antes: gestiones (Ibara, Kendo, ¿mensaje de 'la Toru de mañana'?) |
-| Día 8 | lunes | 20 may | (futuro) — cita con JIRŌ (sitio pequeño, estudiar + abrazo; 'primero el abrazo, siempre'). Decir algo al agente del piso (Akari dijo 'para el lunes') |
-| Día 9 | martes | 21 may | (futuro) — ¿cita con Toru si ratifica y elige martes? (condicionado a reprogramar a Ibara ese día — NO hablado aún) |
-| Día 10 | miércoles | 22 may | (futuro) — Ibara savia (canónico) + ¿correr con Kendo (5:30/6:30 según responda)? |
-| Día 11 | jueves | 23 may | (futuro) — ⭐ CITA con MINA (la organiza ella; sorpresa, sitio pequeño, solos) |
+| Día 7 | **domingo** | 19 may | JUGADO (S8) — COMPLETO, "el día de Momo / el mejor día de la vida de Akari": mañana de base limpia (10k+tabla sin Quirk); KENDO acepta (miér 5:30 Gamma); **TORU RATIFICA el bosque** ('FIRMO') → cita MARTES; té del toldo verde (condición 1 CUMPLIDA: Toru+Mina con nombre; Momo pagó el hotel); **PRIMERA VEZ con MOMO** (×3; 1er orgasmo coital de ella; ella 8→9, deseo asentado); **1er DRENAJE real** (desfloración + beso de sangre; tipo A; sintonización completa; fragmento de Creación; EL HAMBRE + freno de Blackroot); Blackroot presentado; **PROMESA DE MATRIMONIO** (condición: su guerra primero); protocolo de alimentación + suscripción a la fuente (regla vie 24); noche: valla de UA → **pillada de AIZAWA** → informe del flanco este (miér, a Nezu) + triple invocación (CORVAX + YOGMUNGARD bautizados) + simulacro de evacuación + **vuelo en Corvax** (toca las nubes); saldo ¥10.530 |
+| Día 8 | lunes | 20 may | (SIGUIENTE) — 6:30 entrenamiento Aizawa (¿con resaca del domingo épico?); clases (hablar con MIDNIGHT: plan de estudios); buscar a IBARA en persona (1-B; sin móvil); resolver DÓNDE la micro-toma matinal de Momo sin romper coartada; tarde: AGENTE DEL PISO + CITA JIRŌ (sitio pequeño, 'primero el abrazo'; canción completa en persona). Respuesta de Kendo al buenas-noches llega al alba |
+| Día 9 | martes | 21 may | (futuro) — ⭐ CITA CON TORU (CONFIRMADA; sitio sorpresa, lo elige ella — 'tres listas'; su te-quiero sigue armado y sin disparar) |
+| Día 10 | miércoles | 22 may | (futuro) — 5:30 CORRER CON KENDO (Gamma; el que llegue tarde paga el café cruzado entero) + entregar INFORME del flanco este a Aizawa + savia con IBARA (canónico) |
+| Día 11 | jueves | 23 may | (futuro) — ⭐ CITA con MINA (la organiza ella; sorpresa, sitio pequeño, solos; 'el jueves trae hambre') |
+| Día 12 | viernes | 24 may | (futuro) — REGLA DE MOMO día 1 (cólicos serios → experimento SAVIA vs cólicos; suscripción a la fuente) + savia con IBARA (canónico) + ¿beca? (~D8-D12) |
 
 ## Relojes activos
-- 💗 **HOY, domingo 19 may (Día 7)**: hotel con Momo = PRIMERA VEZ. Logística cerrada (13:15/13:40/13:55/14:00). Look nuevo puesto. ⚠️ Tras pagar quedarán ~¥800 hasta la beca (~D8-D12): días de comida apurada.
-- 👻 **Toru, 'la de mañana'**: ratificación de su entrada al bosque pendiente (todo apunta a sí). Si sí: cita la semana próxima (día que elija, salvo jueves). Deuda con ella: ¥33.800.
-- ⚠️ **Condición 1 de Momo ACTIVADA** (mis-016): Toru floreció el D6 → decírselo a Momo con nombre, ella primera, "muy pronto". Sin gestionar — hoy es el día de Momo; elegir el momento.
-- 🌿 **Ibara**: savia saltada el viernes → mensaje pendiente (disculpa + reprogramar; Akari quiere proponer martes, canon es miér+vier). Experimento del drenaje sembrado.
-- ✊ **Kendo**: contraoferta de correr (5:30, Gamma o tarde) enviada a las 00:32 — responderá por la mañana. Café cruzado comprometido (semana próxima).
-- ☀️ **Mina**: cita el JUEVES (sorpresa, la organiza ella). **Momo**: peldaño robado pendiente esta semana. **Jirō**: LUNES sitio pequeño ('primero el abrazo').
-- 🏠 **Dormitorios (Heights Alliance)**: en construcción, ~semanas — techo definitivo. Plantear a Nezu.
-- 🗓 Cita con Nezu (nota dejada): dormitorios + entre muros.
-- 📚 Exámenes en ~2 semanas + apuesta pública Akari vs Momo. PLAN DE GUERRA definido: ganar por flancos (Mates = su fuerte + Historia del Arte/Midnight + Ley Heroica); no perder por goleada en Física/Inglés.
-- 🗓 Entrenamientos: Aizawa (Eco) diario 06:30 (¿también domingo? — a criterio del GM/jugador). Ibara (savia) miér+vier.
+- 🩸 **Micro-toma matinal de Momo**: pactada, SIN LUGAR asignado aún ('¿dónde sin que Sero venda entradas?') — candidatos: peldaño robado (mis-013, ¡se lo cobra esta semana!), entre-muros de Nezu.
+- 🩸 **Viernes 24 (D12)**: regla de Momo día 1 → experimento savia-vs-cólicos + primera suscripción a la fuente.
+- 📄 **Informe del flanco este** (mis-017): para Aizawa el MIÉRCOLES; entrega en mano a Nezu → **Nezu citará a Akari 'pronto'** (dormitorios + entre-muros + informe).
+- 🐺 **Sesión Aizawa-villano-activo** (mis-018): semana del D13 (cronómetro, evacuación bajo presión).
+- 👻 **Toru, te-quiero armado y sin disparar**: buscará su momento limpio — la cita del MARTES es candidata. Deuda: ¥33.800 (al cobrar la beca ~D8-D12).
+- 🌿 **Ibara**: hablarle el LUNES en persona (¿le esperó el viernes?; miércoles seguro) + proponer el experimento del drenaje con CONSENTIMIENTO INFORMADO COMPLETO (condición de Momo). Sin móvil suyo.
+- ☀️ **Mina**: JUEVES ('el jueves trae hambre'). **Jirō**: LUNES ('primero el abrazo'; canción completa en persona). **Kendo**: MIÉRCOLES 5:30 Gamma (café cruzado en juego).
+- 🏠 **Dormitorios (Heights Alliance)**: ~semanas. **Agente del piso**: lunes.
+- 📚 Exámenes en ~2 semanas + apuesta pública Akari↔Momo (plan de flancos; Momo prometió 'destrozarlo académicamente'; condicionamiento 'Yaoyorozu' instalado como arma psicológica de ella).
+- 🗓 Entrenamientos: Aizawa (Eco) diario 06:30 · Ibara (savia) miér+vier · base limpia propia (10k+tabla).
+- ⚠️ Techo anti-bengala del drenaje: cada ingesta, la savia ofrece +1 maestría → DECLINAR (maestría sigue congelada en 4).
 
 ## Reglas de control
 - Cada día nuevo con su día de la semana correcto (ciclo lun→dom). Actualizar al cierre.

@@ -14,12 +14,14 @@ C1-T1-D6,comida,restaurante-kiyashi,Almuerzo de grupo (Bakusquad + Toru),-1200,g
 C1-T1-D6,comida,okonomiyaki-barrio,Cena de okonomiyaki con Toru (su mitad),-1300,gasto
 C1-T1-D6,ocio,cine-musutafu-grand,Cine (entrada + palomitas compartidas; Toru pagó su entrada),-2400,gasto
 C1-T1-D6,transporte,metro,Metros del día (Kiyashi Ward + acompañar a Toru a casa + vuelta),-600,gasto
-# Saldo al cierre S4/D4: ~¥34.650
-# Saldo al cierre S5/D5 mañana: ~¥29.650 (tras señal del hotel del domingo)
-# Saldo al cierre S6/D5 noche: ~¥24.450 (tras cena de konbini con Momo −¥2.200 y noche del Bakusquad −¥3.000)
-# Saldo al cierre S7/D6 (madrugada D7): ¥12.600 (gastos del día del centro comercial: −¥11.850).
-# ⚠️ ESTRECHEZ REAL: hotel domingo resta ¥11.800 → quedarán ~¥800 hasta que entre la beca (validada D3; pago estimado ~D8-D12). Comer esos días será apurado (hostal gratis, comida no).
+C1-T1-D7,comida,konbini-esquina,Té verde de la mañana (bonus de frescura),-150,gasto
+C1-T1-D7,comida,cafeteria-toldo-verde,Tés del plan (Darjeeling de Momo + el suyo) — pagó él (y con ello perdió la discusión del hotel por aritmética),-1100,gasto
+C1-T1-D7,comida,gyudon-barrio,Gyūdon de pie camino de UA (cena),-620,gasto
+C1-T1-D7,transporte,metro,Metro UA → hostal (vuelta nocturna),-200,gasto
+# NOTA D7: el RESTO del hotel (¥11.800) LO PAGÓ MOMO en efectivo antes de que él llegara ('ya está abonado, señor Tanaka') — NO sale de la caja de Akari. La 'estrechez de ~¥800' prevista QUEDA SIN EFECTO.
+# Saldo al cierre S7/D6 (madrugada D7): ¥12.600
+# Saldo al cierre S8/D7 (23:05): ¥10.530 (gastos del día: −¥2.070). El '~¥10.900' narrado en sesión fue redondeo del GM; manda este saldo exacto.
 # DEUDA con HAGAKURE: ¥33.800 (adelanto del look, D6). Devolver al cobrar la beca. Pactada sin intereses ni prisa ('inversión en mi obra').
-# BECA: VALIDADA por Nezu. Importe: ¥100.000/mes (manutención Hero Course). Primer pago: 5-7 días hábiles. PRÓRROGA de alojamiento concedida (hostal gratis mientras dura).
-# PISO FAVORITO (Naka-ku centro, 65.000/mes) INASEQUIBLE ahora: entrada de ~¥260.000 (shikikin+reikin+1er mes+comisión) + GARANTE familiar (que Akari no tiene). PLAN: esperar los DORMITORIOS de UA (Heights Alliance, en construcción, ~semanas, subvencionados/gratis) = techo digno sin entrada ni garante ni exponer a nadie.
-# HOTEL del DOMINGO (day-use) para la primera vez con Momo: RESERVADO — Hotel Tsuki-no-Ma (月の間), suite con bañera junto al ventanal, ¥16.800. Señal de ¥5.000 pagada (D5); resto (~¥11.800) en recepción el domingo 19. NOTA S6: Momo YA SABE que es el domingo (se habló del plan abiertamente en S6; la 'sorpresa del día' ya no aplica).
+# BECA: VALIDADA por Nezu. Importe: ¥100.000/mes (manutención Hero Course). Primer pago estimado ~D8-D12. PRÓRROGA de alojamiento concedida (hostal gratis mientras dura).
+# PISO FAVORITO (Naka-ku centro, 65.000/mes) INASEQUIBLE: entrada ~¥260.000 + garante. PLAN: esperar los DORMITORIOS de UA (Heights Alliance, ~semanas). Agente del piso: hablar el lunes D8 (Akari dijo 'para el lunes').
+# Hotel Tsuki-no-Ma: LIQUIDADO (señal ¥5.000 de Akari D5 + resto ¥11.800 de Momo D7). El calibre vernier de Momo quedó olvidado en la habitación 411.
