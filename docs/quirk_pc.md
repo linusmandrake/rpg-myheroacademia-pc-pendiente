@@ -237,7 +237,7 @@ La tabla de ejemplo A+ NO aplica a Akari. Su regla: coste 15×0.7 ≈ **10**.
 |---|---|---|---|
 | AB (mismo tipo) | 50 | **+40** | +1 PWR_quirk 2h |
 | Cualquier otro tipo | 30 | **+20** | −1 PWR_quirk 1h (proceso de adaptación) |
-Sin saldos negativos para Akari: ser AB es exactamente su ventaja (avalada por Aizawa, S5). Riesgos de Quirk residue/memoria/toxinas siguen aplicando. Línea roja anti-Drácula SELLADA: recibir, no tomar.
+Sin saldos negativos para Akari: ser AB es exactamente su ventaja (avalada por Aizawa, S5). Riesgos de Quirk residue/memoria/toxinas siguen aplicando. Línea roja anti-Drácula SELLADA — alcance canónico (S7): consentimiento obligatorio con ALIADOS Y CIVILES; los ENEMIGOS en pelea legítima son drenables sin consentimiento (ruta-005 avalada por Aizawa); la cláusula del sabor ('si me gusta el sabor y no el motivo, paro') aplica a todo, incluidos enemigos.
 
 ## R7 — Erasure (Aizawa) vs el Quirk de Akari (mutant + emitter)
 Establecido en S5 y reconciliado con canon: el Erase **cancela los aspectos activos** (proyecciones, manipulación externa, plantasangre, rewind) — las proyecciones activas colapsan. La **savia interna no muere** y la **percepción sanguínea pasiva persiste** (rasgo mutant; Erasure no borra mutaciones corporales). Akari bajo Erase = cuerpo entrenado + ojos que siguen leyendo sangre.

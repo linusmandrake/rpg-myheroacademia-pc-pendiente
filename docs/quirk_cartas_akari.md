@@ -39,7 +39,10 @@
 - Coste ~10 · tú eres AB: **mismo AB neto +40 (+1 PWR 2h) · cualquier otra sangre neto +20 (−1 PWR 1h)**. Nunca sales perdiendo.
 - Extras: **Quirk residue** (fragmento del Quirk del drenado 1 escena, o info de cómo funciona) + **flashbacks de su memoria** (1-2 recuerdos — inteligencia gratis, a veces trauma gratis).
 - Riesgos: quirks de sangre activos (Toga-like), venenos, recuerdos pesados.
-- **Línea roja (testigo: Aizawa)**: recibir, no tomar. Nunca a quien no quiere. Nunca por hambre. Si te gusta el sabor y no el motivo → paras.
+- **Línea roja (testigo: Aizawa) — ALCANCE CANÓNICO (aclarado S7)**:
+  - **Aliados y civiles**: SOLO con consentimiento. Recibir, no tomar. Sin excepciones.
+  - **Enemigos en pelea legítima** (en combate o derrotados): drenables SIN consentimiento — es munición e inteligencia de guerra, avalado por Aizawa (ruta-005: "drenaje enemigo en pelea limpia").
+  - **Cláusula del sabor (universal, también con enemigos)**: nunca buscar la pelea por hambre; y si un día te gusta el sabor y no el motivo → paras. El freno no es el objetivo: es el apetito.
 
 ## 🃏 TU SANGRE EN OTROS (el vector simbiótico)
 Con tu Quirk en buen estado y consentimiento: **curación/regeneración** (heridas graves: horas-días), **vigor** (+stats 1 día), **vínculo simbiótico** (te sienten a distancia; en interés romántico: sensorial y erótico, muy cargado), **rito de sangre** (vínculo permanente: resistencia a venenos, brotes menores bajo estrés, closeness +2/+3). Donación seria: 30-60-100 unidades según gravedad.
