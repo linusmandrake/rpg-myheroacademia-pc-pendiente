@@ -27,7 +27,7 @@ La campaña está pensada para **un único jugador**. El GM debe mantener ritmo,
 - El peso emocional del beat vive dentro del NPC (su miedo, su decisión, su dilema) y desde Akari solo se vería la superficie.
 - Ver a Akari desde fuera revela el impacto real que causa (lo que el NPC siente y él no percibe).
 - Escenas donde Akari NO está (dos NPCs hablando de él, un reloj de facción avanzando, un rumor moviéndose por 1-A).
-**Cuota mínima: 1-2 beats con POV de NPC por sesión** — si una sesión entera sale en segunda persona, la dirección ha fallado. Coherencia con la niebla: cada POV solo sabe/percibe lo suyo. El POV vuelve a Akari para devolver la decisión al jugador.
+**SIN LÍMITE SUPERIOR y POR INICIATIVA DEL GM**: el jugador NO tiene que pedir ni provocar el cambio de POV — el GM lo activa solo, por sorpresa, tantas veces por sesión como la escena lo pida (una sesión puede tener muchos POV si aportan; el mínimo es 1-2, el máximo no existe). El único suelo: si una sesión entera sale en segunda persona de Akari, la dirección ha fallado. Coherencia con la niebla: cada POV solo sabe/percibe lo suyo. El POV vuelve a Akari para devolver la decisión al jugador.
 
 ---
 

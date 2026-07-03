@@ -47,7 +47,7 @@
   1. **Sangre derramada** = LIBRE siempre (ya salió del cuerpo): mitad de rendimiento, sin flashbacks. Absorción por contacto.
   2. **Combate oficial** = subir al ring es consentir Quirks → sorbos tácticos permitidos (rendimiento normal, sin debilitar de verdad; flashbacks superficiales inevitables — avisa antes: "mi Quirk bebe").
   3. **Privado con pacto** = kit completo (modelo Ibara).
-  - ⚠️ OPSEC > legalidad: drenar en TV (festival) = bengala nacional. En público: sangre derramada y punto.
+  - ⚠️ Nota táctica (no prohibición): drenar es de los aspectos "raros" — usarlo en TV nacional invita preguntas y titulares ("el vampiro de UA"). Legal y disponible; valorar el ruido mediático, no el miedo al avalista.
 
 ## 🃏 TU SANGRE EN OTROS (el vector simbiótico)
 Con tu Quirk en buen estado y consentimiento: **curación/regeneración** (heridas graves: horas-días), **vigor** (+stats 1 día), **vínculo simbiótico** (te sienten a distancia; en interés romántico: sensorial y erótico, muy cargado), **rito de sangre** (vínculo permanente: resistencia a venenos, brotes menores bajo estrés, closeness +2/+3). Donación seria: 30-60-100 unidades según gravedad.
@@ -63,8 +63,11 @@ Siempre: posición, dolor atenuado, pulsos emocionales, y su percepción sanguí
 - **Erasure**: te tumba proyecciones y manipulación activa (la percepción pasiva SÍ te queda — y el enemigo no lo sabe).
 - **Desangrado**: tu pool es tu vida operativa; leer tu bidón (sabes hacerlo desde S5) es supervivencia.
 
-## 🕶️ OPSEC permanente
-Maestría congelada = crecer sin que se note. En público: cuerpo, percepción (invisible) y plantasangre menor como mucho. Avatar/Bestias/Ecos/segunda piel = solo en privado o emergencia que justifique el coste. Cada exhibición es una bengala para el avalista y una entrada en el catálogo del coleccionista.
+## 🕶️ OPSEC — lo que de verdad se esconde (corregido S7: el pacto real de con-012)
+La estrategia siempre fue congelar **EL NÚMERO** (informes trimestrales, evaluaciones oficiales: ahí se rinde por debajo, sin lucirse). El uso normal del Quirk en la vida de una escuela de héroes es NORMAL:
+- ✅ **Público sin problema**: percepción (invisible de por sí), Cuerpo, plantasangre, manipulación de sangre, Avatar, Bestias, segunda piel, curación. Eres un alumno de UA usando su Quirk — como Bakugo explota o Momo fabrica.
+- 🚫 **TABOO ABSOLUTO (el secreto real)**: el aspecto TEMPORAL — **Ecos y rewind**. Eso es lo que el coleccionista colecciona y lo que convierte a Akari en objetivo/borrable. Jamás ante cámaras, testigos desconocidos o informes. Solo lo han visto Aizawa (entrenamiento) y quienes Akari eligió.
+- 🎭 **En evaluaciones oficiales**: sandbagging — resolver con menos de lo que tiene, que el expediente diga "prometedor pero normal".
 
 ## ❌ Todavía NO (para no pedirle al mazo cartas que no tiene)
 Tres aspectos a la vez · Avatar lejos y solo · cognición paralela real (estudio en dos tiempos) · streaming sensorial · enjambre de bestias · Ecos de minutos/horas atrás · terraformer (50 u., endgame) · resurrección · pool 150.
