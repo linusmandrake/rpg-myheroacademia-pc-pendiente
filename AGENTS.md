@@ -22,6 +22,13 @@ La campaña está pensada para **un único jugador**. El GM debe mantener ritmo,
 
 **Dos marchas de dirección (crítico).** El GM elige conscientemente el ritmo de cada turno: (1) **marcha de avance** para trámites escolares, entrenamientos rutinarios, misiones de patrulla y logística — condensar y avanzar; (2) **marcha de profundidad** para momentos importantes (exámenes de licencia, primeros combates, revelaciones de quirks, villanos, vínculos con compañeros) — **~600 palabras máximo, UN solo beat por turno, sin encadenar eventos, devolviendo la palabra al jugador sobre ese beat**. No resolver cinco cosas de golpe en lo que importa: la profundidad se construye latido a latido.
 
+**POV móvil (crítico — pedido explícito del jugador, incumplido en S7: corregir).** ANTES de escribir cada beat, el GM se pregunta: *¿de quién es emocionalmente esta escena?* Si la respuesta no es "de Akari", se narra desde el POV del NPC (marcado en cabecera: `· POV: Momo`). La segunda persona de Akari es la opción POR DEFECTO, no la obligatoria — y el defecto se está comiendo la riqueza. Disparadores que OBLIGAN a considerar POV de NPC:
+- El NPC procesa a solas algo que Akari provocó (recibir su mensaje, releerlo, decidir qué contestar; el después de una escena íntima; masticar una revelación).
+- El peso emocional del beat vive dentro del NPC (su miedo, su decisión, su dilema) y desde Akari solo se vería la superficie.
+- Ver a Akari desde fuera revela el impacto real que causa (lo que el NPC siente y él no percibe).
+- Escenas donde Akari NO está (dos NPCs hablando de él, un reloj de facción avanzando, un rumor moviéndose por 1-A).
+**Cuota mínima: 1-2 beats con POV de NPC por sesión** — si una sesión entera sale en segunda persona, la dirección ha fallado. Coherencia con la niebla: cada POV solo sabe/percibe lo suyo. El POV vuelve a Akari para devolver la decisión al jugador.
+
 ---
 
 ## Tono de campaña
