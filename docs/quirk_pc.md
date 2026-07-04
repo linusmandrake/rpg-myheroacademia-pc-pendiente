@@ -226,7 +226,7 @@ Toda tabla que diga "savia aliado/cooperativo/neutral/resentido/enemigo" se lee 
 Las tablas de fase mezclan "stats 5-6, maestría 3-5". Regla: **la maestría manda** para capacidades del Quirk; los stats miden el cuerpo. Akari (stats 3-4, M4) usa la fila M3-4: Avatar 1-2/día (2 min combate), 2-3 bestias simultáneas, rewind 30s (2-3/combate), 2 Ecos (30s, de hace ≤1 min), **máximo DOS aspectos simultáneos** ("dos tiempos", consolidado S4).
 
 ## R4 — Pool máximo: manda la FÓRMULA
-Pool efectivo = **100 + PWR×5 + maestría×2** (Akari hoy: **123**). Los topes de la sección de recuperación ("máximo 100/120/150") quedan derogados salvo el **cap absoluto de 150** (solo trascendencia lo supera). La recuperación diaria puede exceder el pool: simplemente se capa.
+Pool efectivo = **100 + PWR×5 + maestría×2** (Akari hoy, con PWR 4 tras hp-003: **128**). Los topes de la sección de recuperación ("máximo 100/120/150") quedan derogados salvo el **cap absoluto de 150** (solo trascendencia lo supera). La recuperación diaria puede exceder el pool: simplemente se capa.
 
 ## R5 — Tablas específicas GANAN al multiplicador genérico
 Rewind y Ecos tienen tabla propia por maestría (rewind M3-4 = 12; Eco M3-4 = 8): esas cifras mandan (no se les aplica además el ×0.7). Todo lo demás (Avatar, bestias, manipulación, plantasangre, curación, drenaje) usa coste base × multiplicador de maestría (M3-4 = ×0.7).
