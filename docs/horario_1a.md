@@ -11,7 +11,7 @@
 | 08:10–09:40 | Matemáticas (Ectoplasm) | **Ley Heroica** (Aizawa) ✓D2 | **Hª del Arte Heroico** (Midnight) ✓D3 | Inglés (Present Mic) | Literatura/Arte moderno (Cementoss) |
 | 10:00–11:30 | Literatura/Arte moderno (Cementoss) | **Inglés** (Present Mic) ✓D2 | Ciencia de Quirks/Física aplicada (Snipe) | Matemáticas (Ectoplasm) | Ley Heroica (Aizawa) |
 | 11:40–12:30 | Estudio dirigido / tutoría (Aizawa) | Hª del Arte Heroico (Midnight) | libre/estudio | Literatura (Cementoss) | Inglés (Present Mic) |
-| 13:30–15:00 | Entrenamiento/evaluaciones (Aizawa) ✓D1 | **Fundamentos Heroicos (ALL MIGHT)** | **Matemáticas** (Ectoplasm) ✓D3 + Rescate (Thirteen) | Combate práctico (Aizawa/Snipe; arenas de Cementoss) | **Fundamentos Heroicos (ALL MIGHT)** |
+| 13:30–15:00 | Entrenamiento/evaluaciones (Aizawa) ✓D1 | **Fundamentos Heroicos (ALL MIGHT)** | FRANJA DOBLE: **Mates** (Ectoplasm) 13:30–14:10 + **Rescate** (Thirteen) 14:15–15:00 | Combate práctico (Aizawa/Snipe; arenas de Cementoss) | **Fundamentos Heroicos (ALL MIGHT)** |
 
 ✓Dx = clase ya narrada en ese día/franja (D1 evaluación 13:35, D2 Ley 08:18 + Mic 11:04, D3 Midnight ~10:00 + Ectoplasm ~13:30 — el horario se construyó para encajarlas).
 
