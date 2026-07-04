@@ -2,7 +2,7 @@
 > Última actualización: 2026-07-04 · sesión 10 (Día 11 → Día 12 ~6:26).
 
 ## En una frase
-Akari arranca el viernes más denso de su curso ante Aizawa (6:30, Gamma), con cinco flancos de examen abiertos en un solo día, Mina florecida en su madriguera (primer drenaje SIN Blackroot — la contención elegida), el single "Ley Heroica v1" sonando en dos clases, y la fecha oficial de los exámenes encima: escritos desde el 5 de junio.
+Akari arranca el viernes más denso de su curso ante Aizawa (6:30, Gamma), con cinco flancos de examen abiertos en un solo día, Mina florecida en su madriguera (primer drenaje SIN Blackroot — la contención elegida), el single "Ley Heroica v1" sonando en 1-A (20/20) y camino de 1-B vía Kendo, y la fecha oficial de los exámenes encima: escritos desde el 5 de junio.
 
 ## PC
 Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk potencial 5 / **maestría 4 (congelada; 6 declinaciones — la 6ª en solitario)**. Saldo **¥68.550, sin deudas**. Ubicación: UA, gimnasio Gamma (viernes D12, 6:26, ante Aizawa). **Nuevo S10**: 4º fragmento (ÁCIDO de Mina), saliva-savia coagulante ("el nuevo sella cortes"), doctrina de sangre libre (3 catas — ojo a la gula), teoría del vuelo ("no empujes: PULSA"), apuntes en inglés, cuadernos de 3º de Nejire en préstamo, clases de canto con Mika pactadas.

@@ -10,12 +10,12 @@
 
 - [ ] **VIERNES D12 (HOY, desde 6:30)**: sesión con **Aizawa** (6:30, Gamma — AQUÍ SE REANUDA) · **biombo con Momo** primera hora (cara a cara de primicia + DÍA 1 de su regla + experimento savia-vs-cólicos + suscripción a la fuente) · **ensayo de Midnight** SE ENTREGA · almuerzo de dudas con **Nejire** (cuadernos de 3º) · savia con **Ibara** (tarde) · **RONDA con Aizawa 22:30** · madrugada: **Put Your Hands Up Radio** (fuente del examen de Mic).
 - [ ] **Sábado D13**: sesión mayor de canciones-lección con **Jirō** (pista 1 ya publicada).
-- [ ] **Lunes D15**: expresión nueva para **Mic** (homework by request) · problema fuera de curso de **Ectoplasm** · correr con **Uraraka** 6:15 (día fijo nuevo).
-- [ ] **Miércoles D17**: correr **Kendo** 5:30 + **Uraraka** 6:15 (doble sesión matinal) · tutoría Midnight 15:30.
+- [ ] **Lunes D15**: expresión nueva para **Mic** (homework by request) · problema fuera de curso de **Ectoplasm** · correr con **Uraraka** **6:00** (cambio propuesto por mensaje el D12: a las 6:30 tiene a Aizawa a diario — media hora con cada uno; pendiente OK de ella).
+- [ ] **Miércoles D17**: correr **Kendo** 5:30 + **Uraraka** **6:00** (media hora con cada una; 6:30 Aizawa) · tutoría Midnight 15:30.
 - [ ] **~26-27 may**: regla de **Toru** (pactado: beber + cunnilingus). **~31 may-1 jun**: regla de **Mina** (ídem + anti-cólicos).
 - [ ] **~D19-20**: ⭐ **KIOTO con Momo** (2 noches; ella fija fecha esta semana).
 - [ ] **Miércoles 5 jun (D24)**: EXÁMENES escritos (práctico esa semana). Meta: matrícula de honor en todo.
-- [ ] Pendientes sin fecha: consulta a **Momo** de la propuesta savia-órganos (el árbol primero — prometido a Mina) · 'el 6' que le debe a Mina · venganza de Jirō ('sala 3, con intereses') · devolver los **cuadernos de Nejire** · primera clase de canto con **Mika** (jueves) · cita **Nezu** ('pronto'; 2º papel de Aizawa = anomalía) · sparring semanal con **Ojiro** · costume (Mei) · fragmento de ÁCIDO ('algo grande, con estilo').
+- [ ] Pendientes sin fecha: consulta a **Momo** de la propuesta savia-órganos (el árbol primero — prometido a Mina) · 'el 6' que le debe a Mina · venganza de Jirō ('sala 3, con intereses') · devolver los **cuadernos de Nejire** · primera clase de canto con **Mika** (jueves) · cita **Nezu** ('pronto'; 2º papel de Aizawa = anomalía) · sparring semanal con **Ojiro** · costume (Mei) · fragmento de ÁCIDO ('algo grande, con estilo') · **presentación a Sir Nighteye** (pedida a Mirio por mensaje el D12: "no es por trabajo, es algo personal" — Mirio preguntará; respuesta pendiente).
 
 ### (histórico S8 — superado)
 

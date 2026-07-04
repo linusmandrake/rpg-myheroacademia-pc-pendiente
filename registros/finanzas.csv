@@ -37,3 +37,5 @@ C1-T1-D11,comida,maquina-ua,Desayuno barato de máquina antes de la clase de Aiz
 # Hotel Tsuki-no-Ma: LIQUIDADO (señal ¥5.000 de Akari D5 + resto ¥11.800 de Momo D7). El calibre vernier de Momo quedó olvidado en la habitación 411.
 C1-T1-D11,transporte,varios,"Buses D11 (portón este→barrio de Mina; academia Suzuki→casa de Jirō)",-440,gasto
 # Saldo al cierre S10 (viernes 24 may D12, al alba): ¥68.550. SIN DEUDAS. Cena D11 gratis (nevera de Mina + nota en la nevera de los Jirō, bendecida). Próximo ingreso: beca ~junio.
+C1-T1-D12,comida,app-domicilio-ua,"Desayuno a domicilio D12 (recogida 7:45, puerta UA): katsudon para Momo (día 1 de su regla — combustible caliente de Creación) + reba-don de hígado para él (hierro/B12). Pedido a las 6:27 desde la puerta de Gamma, antes de la sesión con Aizawa.",-2800,gasto
+# Saldo tras el pedido D12 (6:27): ¥65.750.

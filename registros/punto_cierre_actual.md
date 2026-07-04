@@ -55,8 +55,14 @@
 - **Jirō**: los jacks enroscándose en la muñeca de Akari mientras duerme ("un abrazo extra que jamás admitirá despierta"); habla en sueños: "...ganancia baja...".
 - **Momo**: el mechón recogido con el meñique en la cola del comedor (el gesto que no es para la galería); "la grave es lo mejor de la pista. Y lo sabes."
 - **Mika**: detectó todo y calló durante días — "los músicos de sesión dejan que el solista se luzca sabiendo que el groove lo llevan ellos".
-- **Bakugo**: "escribiendo..." veinte segundos, borrado. Descarga hecha.
-- **Mirio**: "el cuerpo llega; lo que se rinde antes es el relato que te cuentas sobre el cuerpo."
+- **Bakugo**: apareció "escribiendo…" un instante y desapareció. Descarga hecha.
+- **Mirio**: "el cuerpo llega; lo que se rinde antes es el relato que te cuentas sobre el cuerpo." · Despedida: "¡Mismo sitio cuando quieras! ¡Avisar es de tortugas!"
+- **Mina y la cadena**: al verle llegar al portón le miró la cadena medio segundo — "como quien comprueba que sigue lloviendo" (su tic desde el D6).
+- **La ropa doblada**: Akari se desnudó doblando cada prenda "para protegerla" del ácido — Mina: "es lo más romántico y lo más ofensivo que me han dicho hoy, y van empatados" (repetido con la ficha dietética: "ya van dos empates").
+- **El envoltorio de caramelo de melón** dentro del cuaderno de física de Nejire — patrimonio arqueológico: no se toca, se conserva in situ.
+- **La madre de Mina y el táper**: espinacas al sésamo "por si tu plan come" — "mi madre no sabe nada y lo sabe todo, es su Quirk secreto" (semi-niebla: la madre intuye que hay "un plan").
+- **Jirō, pelea creativa**: "Tus apuntes, mi género. Empate técnico: gana la que tiene guitarra" · "esta familia no tiene remedio y tú encajas de una forma que me ofende".
+- **El beso en la frente del alba**: Jirō ni se entera, "pero sonríe dormida, y esa imagen te la guardas para las cuestas".
 
 ## Información que NPCs tienen sobre Akari (perfil acumulado — cambios S10)
 - **Mina**: drenaje (letra pequeña completa: recuerdos/fragmento) + AVATAR CARMESÍ (2ª tras Momo) + el hambre existe y él la frena + su ciclo pactado como fuente. NO sabe: borrado, maestría real, nombres del bosque.
