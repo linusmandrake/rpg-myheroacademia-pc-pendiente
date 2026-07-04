@@ -1,37 +1,34 @@
 # Estado actual — RPG MHA Custom
-> Última actualización: 2026-07-03 · sesión 8.
+> Última actualización: 2026-07-04 · sesión 9 (Días 8-11).
 
 ## En una frase
-Akari duerme en la noche del **Día 7** (domingo 19 may, 23:05) tras "el día de Momo" — la primera vez (×3), el primer drenaje de su vida, la promesa de matrimonio con condición ("mi guerra primero"), y una noche de tutela con Aizawa (triple invocación, simulacro de evacuación, y tocar las nubes en Corvax) —; mañana lunes D8 le espera el día más cargado de la semana.
+Akari va a clase el jueves por la mañana (Día 11) con el bosque florecido por tres frentes nuevos (Toru, Ibara, Kendo), la beca cobrada y la deuda saldada, unas alas de savia recién estrenadas, y una motivación reconfigurada: ya no quiere ser el número uno — quiere **dominar el conocimiento** (matrícula de honor en todo).
 
 ## PC
-Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk potencial 5 / **maestría 4 (congelada a propósito)**. Pool ~94%→100%. Bestias canonizadas: **Blackroot, Corvax, Yogmungard** (órdenes permanentes de auto-evacuación). Sintonización con Momo completa (+40); fragmento de Creación (1 uso) en inventario; EL HAMBRE identificada y frenable.
+Akari Hayami "Sanguine" — PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk potencial 5 / **maestría 4 (congelada)**. Pool ~100%. Saldo **¥68.990, sin deudas**. Duerme en el campus (penitencia de rondas nocturnas con Aizawa). Ubicación: UA, camino del aula 1-A (jueves ~8:09). Bestias: Blackroot, Corvax, Yogmungard + ardilla/ratón exploradores. **NUEVO**: alas de savia (vuelo en desarrollo), reparto de atención "casi un ojo", fragmentos en inventario (Creación/Momo, Invisibilidad/Toru, Vides/Ibara), sangre nutritiva estrenada.
 
 ## Arcos abiertos
-- **Arco 1 — integración + crecimiento invisible**: en cumbre. Subidas aplazadas al cierre de arco (COO lista; carácter en cumbre; TEC acumulando).
-- **La descongelación** (transversal): sin cambios; nueva tentación recurrente — cada drenaje, la savia ofrece +1 maestría (declinar es el juego).
-- **La guerra de Momo** (reloj largo NUEVO): padre/apellido/3 años; la proposición formal esperará a que ella la gane. La respuesta "ya existe".
-- **El bosque**: Momo (9, árbol madre, lo sabe TODO) · Jirō (7) · Toru (7, RATIFICADA — te-quiero armado) · Mina (6) · Kendo (5, puerta entornada) · Ibara (4, cortejo lento).
+- **Arco 1 (integración + crecimiento invisible)**: en cumbre. Marcas aplazadas al cierre de arco (COO lista; carácter en cumbre; TEC/ING acumulando).
+- **Cambio de motivación** (NUEVO): ranking → dominio del conocimiento (lección de Midnight internalizada vía el "bisturí").
+- **La guerra de Momo** (reloj largo): padre/apellido/3 años. **El borrado latente** del gobierno/avalista (bengala real = rumor del tiempo/maestría, no el cuervo).
+- **El bosque**: Momo (9, árbol, Kioto) · Toru (8) · Jirō (7) · Ibara (6, despertada) · Kendo (6, umbral) · Mina (6, cita hoy) · Midnight (1, tabú) · Nejire (1) · Uraraka (entreabierta) · Tsuyu (aliada que VE).
 
 ## Misiones / internado activas
-- mis-017: informe del flanco este (miércoles en la MESA DE AIZAWA; a Nezu en mano cuando le cite). mis-018: sesión Aizawa villano-activo (semana D13+). mis-013: peldaño robado con Momo.
-- Semana: lun = Aizawa 6:30/Midnight/Ibara/agente/CITA JIRŌ · mar = CITA TORU · miér = 5:30 Kendo + informe + savia · jue = CITA MINA · vier = regla de Momo (experimento cólicos) + savia.
+- Informe flanco este (a Nezu, "pronto") · Rondas nocturnas con Aizawa · **Kioto con Momo** (2 noches ~D19-20) · Primera vez de Ibara (jardín botánico nocturno) · Canciones-lección con Jirō (sábado) · **Exámenes** ~D24 (matrícula en todo) · Sesión Aizawa villano activo (semana D13) · **Cita de Mina HOY**.
 
 ## Hilos narrativos
-- Micro-toma matinal de Momo: pactada, SIN LUGAR (reto OPSEC diario).
-- Nezu citará "pronto" (vio a Corvax y saludó).
-- Exámenes en ~2 semanas + apuesta pública (condicionamiento "Yaoyorozu" instalado).
-- Consentimiento informado de Ibara para el experimento del drenaje (condición de Momo).
-- Beca ~D8-D12 → devolver ¥33.800 a Toru. Dormitorios en ~semanas.
+- **Quirk**: alas de savia (ruta-007), 3 fragmentos, sangre nutritiva, maestría congelada (declinada 5 veces).
+- **Social/UA**: contacto con los Tres Grandes (Nejire/Mirio/Tamaki); Snipe/Thirteen/Cementoss ganados; Nezu pendiente de citar; foco a Shoji/Ojiro.
+- **OPSEC**: bosque secreto (Tsuyu percibe el patrón, respeta); rumor del cuervo (ruido); coartada de rivalidad con Momo intacta; Bakugo calla su sospecha Akari↔Mina.
 
 ## Economía
-- Saldo **¥10.530** · beca ¥100.000/mes pendiente (~D8-D12) · deuda ¥33.800 con Hagakure · hostal gratis (prórroga de Nezu). La estrechez prevista no ocurrió (Momo pagó el hotel).
+- Saldo ¥68.990 · beca mensual (~junio) · **sin deudas** (Hagakure saldada) · se aprieta (come en parte de sus donantes — sangre nutritiva).
 
 ## Reputación y facciones
-- Mediática: limpia. UA: máximos internos (tutela de Aizawa + Nezu favorable). Gobierno/avalista: borrado latente, camuflaje reforzado. Liga: sin contacto. Coleccionista: futuro.
+- Mediática: limpia (rumor del cuervo = ruido). UA: máximos internos. Nezu aliado (cita pronto). Gobierno/avalista: borrado latente. Liga: sin contacto.
 
-## Hitos conseguidos
-- Primera vez con Momo (closeness 9, deseo asentado, promesa de matrimonio). Primer drenaje real (sintonización). Primera triple invocación con delegación. Protocolo de auto-evacuación fundado. Vuelo en Corvax (intramuros, legal). Condición 1 cumplida antes del hotel. Toru ratificada.
+## Hitos conseguidos (S9)
+- Cambio de motivación (dominio > ranking) · Alas de savia · Toru florece completo (te-quiero + 1ª vez + fotos) · Ibara despierta (alianza de sangre) · Kendo cruza el umbral · Red team aprendido · Contacto con los Big 3 · Tsuyu ganada · Beca cobrada + deuda saldada · Física/Rescate anexionadas.
 
 ## Decisiones pendientes del jugador
-- Arranque del Día 8 (lunes): ¿6:30 con Aizawa / gestiones de mañana (Ibara, Midnight, punto de micro-toma) / directo a la tarde (agente + cita Jirō)? — ver `punto_cierre_actual.md`.
+- **ARRANQUE S10 (Día 11 jueves ~8:09)**: beat con **Uraraka** al entrar a clase · día lectivo con el bisturí · ⭐ **cita de Mina** por la tarde. — ver `punto_cierre_actual.md`.
