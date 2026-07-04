@@ -22,6 +22,7 @@
 | `incidentes.csv` | Incidentes villanos, asalto, dar la alarma | incidente |
 | `enemigos.csv` | Villanos conocidos, amenazas | villano |
 | `conocimientos.csv` | Cosas que el PC sabe o ha aprendido | conocimiento |
+| `expediente_academico.csv` | Expediente académico por asignatura: flancos, mediciones, puntos débiles, refuerzos (meta: summa cum laude) | evaluación/nota |
 | `progreso_narrativo.csv` | Marcas narrativas (peso 1/2/3) | marca |
 | `hitos_progresion.csv` | Subidas concedidas | subida |
 | `rutas_crecimiento.csv` | Caminos de subida activos | ruta |
