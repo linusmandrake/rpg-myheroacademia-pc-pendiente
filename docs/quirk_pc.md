@@ -264,6 +264,15 @@ La fila "aliado → solo información" de la tabla §4 queda subordinada a la re
 ## R12 — Bestias canon del PC (S8)
 Nombres canonizados: **Blackroot** (lobo — serenidad, freno externo del hambre), **Corvax** (cuervo "negro como la muerte" — ojos aéreos, canal de imágenes, escala hasta MONTURA), **Yogmungard** (serpiente constrictora ~4m — engullir/proteger/evacuar; dentro de ella el PC respira por savia propia). **Órdenes permanentes** (fijadas con Aizawa): si la consciencia de Akari cae con pool>0 → auto-evacuación a destinos rankeados (enfermería → hospital → bomberos) sin esperar orden. Regla personal sellada: **jamás bajar del 20% de pool sin un adulto delante** (a pool 0 la savia hiberna y "la ambulancia muere con el conductor"). La reabsorción devuelve ~90% de la masa invertida. Lección de control multi-bestia: **una voluntad por bestia — nombrar y DELEGAR misiones autónomas** (micro-gestionar tres canales rompe el control a M4).
 
+## R13 — SOBRECARGA por ingesta (regla de mesa, S11/D12 — pedida por el jugador)
+La sangre **BEBIDA** por encima del pool efectivo no se evapora: la savia la retiene como **sobrecarga temporal**, hasta el **cap absoluto de 150**.
+- **Se consume ANTES que el pool propio** (es combustible prestado: se quema primero).
+- **Decae ~5/hora** (la savia la metaboliza como calor y nutrición — tells del dopaje: rubor, calor corporal, ojos más brillantes de lo normal).
+- Mientras haya sobrecarga, el PC cuenta como **"lleno" a todos los efectos de estado** (y la voz verde está en modo coleccionista: toda cata es gula).
+- Solo la **ingesta directa de sangre** genera sobrecarga (comida, descanso e hidratación siguen capando en el pool efectivo).
+- A **M9-10/trascendencia** el cap de 150 desaparece (coherente con R4).
+**Escalabilidad (aclaración canónica):** el pool es el DEPÓSITO de un cuerpo humano (~5L), no la potencia. La escala va en los multiplicadores de maestría (M9-10: coste ×0.1, recuperación ×2, regeneración instantánea): de ~6 acciones mayores efectivas a M1-2 a ~75+ a M9-10 con tanque autorrellenable — el mismo patrón de escala que el resto de 1-A hacia la 2ª mitad de la serie (el cuerpo sigue siendo cuerpo; explota el rendimiento por unidad).
+
 ---
 
 # Mecánica detallada — Sangre, Rewind, Bestias, Ecos, Savia
