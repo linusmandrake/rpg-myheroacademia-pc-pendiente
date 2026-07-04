@@ -14,6 +14,7 @@
 - [ ] **Jueves D11**: ⭐ cita SORPRESA con **Mina** ("el jueves trae hambre").
 - [ ] **Viernes D12**: regla de Momo día 1 → **experimento savia-vs-cólicos** + suscripción a la fuente · savia con **Ibara**.
 - [ ] **Semana del D13**: sesión de evacuación con **Aizawa de villano activo** (mis-018).
+- [ ] **Recurrente hasta exámenes (~2 sem)**: RONDAS NOCTURNAS del campus con **Aizawa**, supervisadas, 2-3 noches/semana — castigo-servicio autoimpuesto/negociado por lo del colector (D10). Límite de Aizawa: si notas o Quirk se resienten de verdad, se acaba (es servicio, no suicidio académico). Akari lo acepta sin creerlo justo ('confronto opinión, no me quejo'). SÍNTESIS de la lección: red team AUTORIZADO = permiso de arriba + sorpresa a los de abajo; lo que faltó fue el aviso de intención a Aizawa/Nezu, no el test en sí.
 - [ ] **~D8-D12**: primer pago de la **beca** (¥100.000) → devolver ¥33.800 a **Hagakure**.
 - [ ] Sin fecha: **peldaño robado** con Momo esta semana (candidato a punto de micro-toma) · cita con **Nezu** ("pronto", según Aizawa) · exámenes en ~2 semanas (plan de flancos) · costume (Mei).
 
