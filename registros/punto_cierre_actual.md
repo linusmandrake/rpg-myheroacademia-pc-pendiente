@@ -11,9 +11,9 @@
   - Después, el VIERNES MÁS DENSO: biombo con Momo a primera hora (cara a cara de primicia + **día 1 de su regla + experimento savia-vs-cólicos + suscripción a la fuente**) · ensayo de Midnight SE ENTREGA · almuerzo de dudas con Nejire · savia con Ibara · **ronda nocturna 22:30** · madrugada: Put Your Hands Up Radio.
 
 ## Stats, Quirk y economía al cierre
-- PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3.
+- **PWR 4 ⬆** (pm-041/hp-003: primer bloque de acondicionamiento, regla de bloques S10) · VEL 3 · TEC 4 · ING 4 · COO 3.
 - Quirk **Sanguine Verdant Echo**: potencial 5 / **maestría 4 (CONGELADA)** · pool alto. Aspectos: Cuerpo (+alas de savia; teoría nueva: "no empujes, PULSA"), Avatar Carmesí, Bestias, Ecos. **Fragmentos (1 uso c/u): Creación (Momo), Invisibilidad (Toru), Vides (Ibara), ÁCIDO (Mina — NUEVO; condición: "algo grande, con estilo")**. Hambre declinada **6 veces — la 6ª SIN Blackroot** (primera contención en solitario; "acta grande" de Momo). Capacidad menor nueva: **saliva-savia coagulante** (sella cortes superficiales). Doctrina de sangre libre estrenada (3 catas; AVISO: con pool lleno = gula — "colecciono vinos").
-- Saldo: **¥68.550** · Sin deudas · Beca ~junio.
+- Saldo: **¥65.750** · Sin deudas · Beca ~junio. (Último movimiento: desayuno a domicilio pedido a las **6:27 desde la puerta de Gamma** — katsudon para Momo, día 1 de su regla + reba-don de hígado para él; **recogida 7:45, puerta UA** — llegará durante/tras la sesión con Aizawa.)
 - Salud: perfecta; sueño corto acumulado.
 
 ## Reputación y facciones

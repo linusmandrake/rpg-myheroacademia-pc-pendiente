@@ -53,6 +53,15 @@ Una marca es válida si cumple **todas**:
 
 Si falta cualquiera: no es marca, es **grind narrativo** sin peso.
 
+## Bloques de acondicionamiento físico (PWR/VEL) — regla de mesa (S10)
+
+**El cuerpo no se congela.** Lo único sandbaggeado en esta campaña es la **maestría visible del Quirk** (estrategia anti-borrado, diegética) y las ofertas de +1 de la savia (transacciones sobrenaturales que se declinan una a una). La fisiología entrenada crece porque sí — y el registro debe reflejarlo:
+
+- **Bloque de acondicionamiento** = ~1-2 semanas de constancia documentada con **progresión medible** y coste real (madrugones, dobles sesiones, series al filo). Al completarse: **marca peso 1 de PWR o VEL** (a elección del jugador según el foco del bloque). Pasa el test de validez por definición: actuó, costó, cambió algo medible, lo eligió.
+- **Hito físico medible mayor** (ej.: bajar de 50' el 10k, completar la tabla de Aizawa a tope, ganar una prueba física a un especialista) = **marca peso 2**.
+- **Aplicación directa**: las marcas físicas se conceden **al completarse el bloque**, sin esperar al cierre de arco (no son bengalas: un alumno de UA poniéndose más fuerte es lo esperable; la curva de poder del arco sigue siendo el techo).
+- Las sesiones rutinarias se narran en **marcha de avance** (una línea, el dato medible) salvo que emerja un beat — el tiempo de mesa no se gasta en kilómetros, se gasta en lo que pasa durante ellos.
+
 ## Rutas de crecimiento
 
 Para subir un stat concreto (PWR, VEL, TEC, ING, COO), el jugador puede elegir entre rutas:

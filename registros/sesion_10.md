@@ -35,14 +35,14 @@
 - 5:00 Salida silenciosa (nota en la nevera); 5:29-6:26 carrera con Mirio (semilla Nighteye); Uraraka fija lun+mié 6:15; 6:26 Aizawa esperando (ev-131)
 
 ## Cambios económicos (yenes)
-- Inicio: ¥68.990 · Gastos: −¥440 (buses D11) · **Final: ¥68.550** · Sin deudas · Próximo ingreso: beca ~junio
+- Inicio: ¥68.990 · Gastos: −¥440 (buses D11) · **Final al cierre: ¥68.550** · ADDENDUM post-cierre (D12 6:27): −¥2.800 desayuno a domicilio (katsudon Momo día 1 + reba-don de hierro) → **¥65.750** · Sin deudas · Beca ~junio
 
 ## Reputación y facciones
 - Interna: +"el nuevo sella cortes" (rep-005, camuflaje samaritano) · +single "Ley Heroica v1" en dos clases (rep-006, prestigio pre-exámenes)
 - Mediática: sin cambios. UA/Comisión/Liga: sin cambios (UA ya en máximos).
 
 ## Stats y Quirk al cierre
-- PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 (sin cambios)
+- PWR 3 · VEL 3 · TEC 4 · ING 4 · COO 3 al cierre — **ADDENDUM post-cierre: PWR 3→4** (pm-041/hp-003, regla de bloques de acondicionamiento adoptada tras la sesión; bloque D7-D12 con datos: 10k 57:00→54:10)
 - Quirk: potencial 5 / **maestría 4 congelada** (6 declinaciones — la 6ª SIN Blackroot) · Fragmentos: Creación, Invisibilidad, Vides, **ÁCIDO (nuevo)** · Nuevas capacidades menores: saliva-savia coagulante; doctrina de sangre libre en práctica; teoría del vuelo (pulsación)
 
 ## NPCs introducidos/significativos
@@ -68,7 +68,7 @@
 ## Estado al cierre
 | Campo | Valor |
 |---|---|
-| PWR / VEL / TEC / ING / COO | 3 / 3 / 4 / 4 / 3 |
+| PWR / VEL / TEC / ING / COO | 3 / 3 / 4 / 4 / 3 → **4** / 3 / 4 / 4 / 3 (addendum pm-041) |
 | Quirk (potencial/maestría) | 5 / 4 (congelada; 6 declinaciones) |
 | Salud / heridas | Perfecta; sueño corto (~5,5h) |
 | Saldo (yenes) | ¥68.550 |
