@@ -21,7 +21,7 @@
 - UA en máximos: tutela de Aizawa + red team + rondas nocturnas; Snipe/Thirteen/Midnight/Cementoss ganados; contacto con los **Tres Grandes**. **Nezu citará "pronto"** (informe del flanco este con el hallazgo del colector subterráneo). Comisión/avalista: borrado latente. Liga: sin contacto.
 
 ## Equipamiento clave activo
-- Look de Toru (base + chaqueta carmesí + cadena de Mina). Costume de héroe: pendiente (Mei). Móvil con contactos: todo el bosque + Big 3 (Nejire/Mirio) + Tsuyu + Ibara.
+- Look de Toru (base + chaqueta carmesí + cadena de Mina). Costume de héroe: pendiente (Mei). Móvil con contactos (ganados en ficción): todo el bosque + Big 3 (Nejire/Mirio) + Tsuyu + Ibara + **Uravity (Uraraka)**.
 
 ## Misiones / internado / exámenes abiertos
 - **mis-017** informe flanco este: CERRADO (con hallazgo del colector); a Nezu en mano cuando cite.

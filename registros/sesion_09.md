@@ -31,12 +31,13 @@ En lo **social**, Akari ganó a los **Tres Grandes** (contactos de Nejire y Miri
 - Micro-toma de Momo + **matriz del punto fijo** (candidato 3: biombo móvil de Creación) + **EXCEPCIÓN íntima** en el entre-muros (clímax con la mano, biombo+punto ciego); 2ª declinación de la savia.
 - Ley Heroica (Aizawa): duelo público con Momo (**proporcionalidad del daño**); "argumenta como un tercero".
 - Monoma gag; beat coral del grupo LINE de 1-A (metal finlandés → contacto con **Tokoyami** reforzado).
+- 13:30 ⭐ **Fundamentos con ALL MIGHT** (1er contacto real con el nº1): ejercicio de **juicio en campo** (3 emergencias simultáneas; Avatar + gorila + supersalto de tentáculos de savia; SIN Corvax por OPSEC); salvó en el orden correcto + llamada a emergencias + perímetro. Elogio ("el juicio se elige; quiero verte crecer"); Akari le devolvió **"Ya estoy aquí"** (esquiva elogios — nunca lo elogiaron). Todoroki le derribó un muro ("quédate con eso aunque te incomode"); Tokoyami "el Guardián que se reparte"; **PACTO con Midoriya: "entrenemos juntos" → trato hecho** ("Quirks que duelen"). Post-clase: Mina emboscada pública + Toru en la grada.
 - ⭐ Cita de Toru (tarde-noche, estudio de fotografía prestado): fue desnuda e invisible; disclosure del **drenaje**; **segunda piel** ante el espejo; **te-quiero disparado** ("lista tres"); **primera vez completa**; primer drenaje de Toru (fragmento de invisibilidad); **sesión de fotos** (regalo: existir); Akari saldó la deuda de ¥33.800; la llevó en brazos a su portal.
 - Noche: Akari trepó a la ventana de **Jirō** y durmió con ella (cucharita, NO sexual; "traer lo caro"); descubrió que canta segunda voz (grave).
 
 ### Día 10 (miércoles 22 may)
 - 5:00 salió de casa de Jirō por la ventana; app de comida para el desayuno de Momo (dormía fuera).
-- 5:30 Gamma: ⭐ **KENDO cruzó el umbral** — Akari vino de frente con la verdad completa del marco (el árbol sin nombre, amor libre sin jerarquías, todo lo que le ofrece menos renunciar al árbol/su nombre); Kendo abrió la puerta CON SUS TÉRMINOS (no comparar, su ritmo, dignidad, hermandad de armas intocable); primer beso; café cruzado; "el te-quiero en juego" (quien pierda la carrera lo dice, aplazado).
+- 5:30 Gamma: ⭐ **KENDO cruzó el umbral** — Akari vino de frente con la verdad completa del marco (el árbol sin nombre, amor libre sin jerarquías, todo lo que le ofrece menos renunciar al árbol/su nombre); Kendo abrió la puerta CON SUS TÉRMINOS (no comparar, su ritmo, dignidad, hermandad de armas intocable); primer beso; café cruzado; "el te-quiero EN JUEGO" — Kendo ANULÓ la apuesta de la carrera ("no acepto un te-quiero regalado perdiendo a propósito; será porque le sale, no porque perdió una carrera amañada").
 - 6:35 Aizawa: negoció su **castigo por el colector** — confesó la intrusión no autorizada ANTES de que lo pillaran (elegir la puerta v2); lección del **red team** (permiso arriba + sorpresa abajo = legítimo; la firma es la diferencia); castigo-servicio = rondas nocturnas supervisadas hasta exámenes.
 - Momo (entre-muros): le dio las **noticias del bosque cara a cara** (Toru consumada, Kendo umbral); ajuste del marco (verdad sí, coreografía/detalles sexuales no — por ética); **plan de KIOTO** (2 noches, finde siguiente, gala de sus padres) → cláusula dormir-juntos activada.
 - Monoma gag #2 (nadie le cree ya).
@@ -61,7 +62,7 @@ En lo **social**, Akari ganó a los **Tres Grandes** (contactos de Nejire y Miri
 ## Cambios económicos (yenes)
 - Inicio (cierre S8): ¥10.530
 - Ingresos: **BECA +¥100.000** (primer pago, D9)
-- Gastos: bentos/comidas/app (~¥6.740), **deuda Hagakure saldada −¥33.800**
+- Gastos: bentos/comidas/app (**¥7.740** = 980+620+520+920+2.800+1.600+300), **deuda Hagakure saldada −¥33.800**
 - Final: **≈¥68.990** · Deudas: **NINGUNA** (Hagakure cerrada) · Beca mensual (siguiente ~junio)
 
 ## Reputación y facciones
