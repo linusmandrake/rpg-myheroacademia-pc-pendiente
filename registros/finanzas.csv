@@ -41,3 +41,6 @@ C1-T1-D12,comida,app-domicilio-ua,"Desayuno a domicilio D12 (recogida 7:45, puer
 # Saldo tras el pedido D12 (6:27): ¥65.750.
 # Saldo al cierre vigente (D12, tras el pedido del alba): ¥65.750. SIN DEUDAS.
 # Saldo al cierre S11 (D13 sáb 25 may, 9:28): ¥65.750. SIN DEUDAS. Cena del viernes: pagó Nejire (0). Previsto: colchón ~30-50k tras mudanza 7-8 jun; telemetría vía Hatsume.
+C1-T1-D13,comida,cafeteria-toldo-verde,Tés de la cita (genmaicha de Momo + su agua/té) — pagó él,-900,gasto
+C1-T1-D13,regalo,tostadero-y-wagashi,Regalo para la familia Jirō: café de grano recién tostado (Kaldi's) + caja de warabimochi,-1800,gasto
+# Saldo al cierre S12 (D13 sábado 25 may, noche): ¥63.050. SIN DEUDAS. Gastos del día: −¥2.700 (café toldo verde + regalo Jirō). Convivencia con Uraraka desde D14 (gastos compartidos futuros luz/agua/comida; alquiler ¥0 — habitación pagada por UA). Beca ~junio.
