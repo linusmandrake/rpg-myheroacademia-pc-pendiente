@@ -160,6 +160,71 @@ def validar_sincronia_cierre() -> list[str]:
     return avisos
 
 
+def validar_anchos() -> list[str]:
+    """Filas cuyo nº de campos difiere del header (comas sin entrecomillar).
+
+    INFO, no WARN: hay filas históricas con drift conocido; esto existe para
+    detectar drift NUEVO comparando la salida entre cierres.
+    """
+    avisos: list[str] = []
+    for nombre in CSV_REQUERIDOS:
+        path = REGISTROS / nombre
+        if not path.exists():
+            continue
+        with open(path, newline="", encoding="utf-8") as f:
+            rows = [r for r in csv.reader(f) if r and not r[0].startswith("#")]
+        if len(rows) < 2:
+            continue
+        ancho = len(rows[0])
+        malas = [r[0] for r in rows[1:] if len(r) != ancho and r[0] != "timestamp"]
+        if malas:
+            avisos.append(f"[INFO] {nombre}: {len(malas)} fila(s) con ancho ≠ header "
+                          f"({', '.join(malas[:8])}{'…' if len(malas) > 8 else ''})")
+    return avisos
+
+
+def validar_pj() -> list[str]:
+    """pj.csv debe seguir siendo header + UNA fila de datos parseables."""
+    avisos: list[str] = []
+    path = REGISTROS / "pj.csv"
+    if not path.exists():
+        return ["[ERROR] falta pj.csv"]
+    with open(path, newline="", encoding="utf-8") as f:
+        rows = [r for r in csv.reader(f) if r]
+    if len(rows) != 2:
+        avisos.append(f"[ERROR] pj.csv tiene {len(rows)} filas (esperadas 2: header+datos) "
+                      f"— posible comilla rota en el campo notas")
+    return avisos
+
+
+def validar_marca_cierre() -> list[str]:
+    """La ÚLTIMA fila de datos de cronologia.csv debe llevar la marca de cierre
+    de la MISMA sesión que declara punto_cierre_actual.md."""
+    avisos: list[str] = []
+    crono = REGISTROS / "cronologia.csv"
+    pc = REGISTROS / "punto_cierre_actual.md"
+    if not (crono.exists() and pc.exists()):
+        return avisos
+    primera = pc.read_text(encoding="utf-8").splitlines()[0]
+    m = re.search(r"sesi[óo]n\s+(\d+)", primera, re.I)
+    if not m:
+        return avisos
+    sesion_pc = int(m.group(1))
+    with open(crono, newline="", encoding="utf-8") as f:
+        rows = [r for r in csv.reader(f) if r and not r[0].startswith("#")]
+    if len(rows) < 2:
+        return avisos
+    ultima = ",".join(rows[-1])
+    m2 = re.search(r"SESI[ÓO]N\s+(\d+)\s+CERRADA", ultima, re.I)
+    if not m2:
+        avisos.append(f"[WARN] cronologia.csv: la última fila ({rows[-1][0]}) no lleva la "
+                      f"marca [SESIÓN {sesion_pc} CERRADA] que el punto de cierre implica")
+    elif int(m2.group(1)) != sesion_pc:
+        avisos.append(f"[WARN] cronologia.csv cierra la sesión {m2.group(1)} pero "
+                      f"punto_cierre_actual.md declara la sesión {sesion_pc}")
+    return avisos
+
+
 def validar_csv(nombre: str, columnas_esperadas: list[str]) -> list[str]:
     """Devuelve lista de warnings/errores para un CSV."""
     warnings = []
@@ -196,8 +261,9 @@ def main():
         print(w)
         total_warnings += 1
 
-    # Saldo de finanzas y sincronía del cierre de sesión
-    for w in validar_finanzas() + validar_sincronia_cierre():
+    # Saldo de finanzas, sincronía del cierre, integridad estructural
+    for w in (validar_finanzas() + validar_sincronia_cierre()
+              + validar_pj() + validar_marca_cierre() + validar_anchos()):
         print(w)
         total_warnings += 1
 

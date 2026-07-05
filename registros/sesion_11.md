@@ -73,7 +73,7 @@ La tarde-noche es de **Nejire**: florece Ibara primero (oral mutuo bajo dosel de
 
 ## Stats y Quirk al cierre
 - PWR **4** · VEL 3 · TEC 4 · ING 4 · COO 3 (PWR 3→4 aplicado post-cierre S10, hp-003/pm-041; verificado en ficha esta sesión).
-- Quirk: potencial 5 / **maestría 4 CONGELADA** (sin ofertas nuevas de +1: esta sesión NO hubo drenaje con ingesta de sangre ajena — él no bebió de nadie; el flujo fue inverso ×2). Pool efectivo **128** (R4 actualizado) · pool actual ~124/128.
+- Quirk: potencial 5 / **maestría 4 CONGELADA** (sin ofertas nuevas de +1: la única ingesta de la sesión fue la fuente pactada de Momo — suscripción, +40, sin oferta de la savia — y no hubo drenajes ni catas nuevos; el flujo además fue inverso ×2: Momo y Nejire bebieron de él). Pool efectivo **128** (R4 actualizado) · pool actual ~124/128.
 - **Regla nueva R13 — SOBRECARGA por ingesta** (quirk_pc.md): sangre bebida sobre el pool se retiene hasta el cap 150; se consume primero; decae ~5/h; solo la ingesta directa la genera.
 - Capacidades/doctrina nuevas: etiquetas (con-039, en estudio, escalera 1s→5s→Nezu) · savia analgésica ingerida (con-040) · **transfusión ondulatoria** (con-041) · **eco de firma ajena / dueto balístico** (con-042, SECRETO) · vuelo real 2,1 s (ruta-007 hito cumplido) · autosellado de heridas propias con sangre propia (consolidado).
 
