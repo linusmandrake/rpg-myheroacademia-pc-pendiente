@@ -85,7 +85,7 @@ Y el movimiento de mayor coste futuro: **Uraraka se muda dos semanas a la habita
 | Reputación heroica | Máximos internos; "Quirk de bestias vistoso"; canciones-lección circulando (semianónimo) |
 | Facciones (UA/Comisión/Liga) | UA máximos / Comisión observadores 5 jun (latente-paciente) / Liga sin contacto |
 | Ubicación | Musutafu — hostal, habitación 4 (dormido; última noche solo) |
-| Misiones/internado activas | mis-022 cumplida (canciones); mis-030 convivencia Uraraka; mis-031 estudio Yaoyorozu; exámenes 5 jun; Nighteye 9 jun |
+| Misiones/internado activas | mis-022 cumplida (canciones); mis-030 convivencia Uraraka; mis-031 estudio Yaoyorozu; mis-032 Midnight (interpretación/mentira); exámenes 5 jun; Nighteye 9 jun |
 | Closeness destacado | Momo 9 · Jirō **9** · Mina 8 · Toru 8 · Ibara 7 · Kendo 6 · Nejire 5 · **Uraraka 5** |
 
 ## Pendientes próximos días

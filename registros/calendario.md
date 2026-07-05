@@ -32,7 +32,7 @@
 | Día 28 | domingo | 9 jun | **16:40 SIR NIGHTEYE — 12 minutos, cauce de pasantía** (Mirio acompaña hasta la puerta) |
 
 ## Relojes activos (al cierre S12)
-- 🏠 **Convivencia con Uraraka**: 14 días en la habitación 4 (D14 → mudanza ~7-8 jun). El mejor olfato de 1-A dentro del perímetro; Kioto (31-2) cae dentro; la coartada de estudio debe colar también con ella; no sabe nada a día de hoy.
+- 🏠 **Convivencia con Uraraka**: 14 días en la habitación 4 (D14 → mudanza ~7-8 jun). El mejor olfato de 1-A dentro del perímetro; Kioto (31-2) cae dentro; la coartada de estudio debe colar también con ella; no sabe nada del bosque (pero por el mensaje de la oferta SÍ sabe que Akari se muda a Heights Alliance ~8-9 jun, se lo dijo Nezu — la mudanza de él, no de la clase).
 - 👁️ **Observadores de la Comisión**: prácticos del ~5-6 jun (castaños podados; Bakugo como detonador involuntario — quiere hacerle soltar el freno exactamente ese día).
 - 🕵️ **Funcionario de las listas** (Comisión): husmeando el expediente de beca (2 consultas, una disfrazada); Nezu vigila. **Borrado: LATENTE-PACIENTE.**
 - 👓 **Nighteye**: 9 jun 16:40, 12 minutos, cauce de pasantía.

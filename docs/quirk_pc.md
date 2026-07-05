@@ -273,6 +273,26 @@ La sangre **BEBIDA** por encima del pool efectivo no se evapora: la savia la ret
 - A **M9-10/trascendencia** el cap de 150 desaparece (coherente con R4).
 **Escalabilidad (aclaración canónica):** el pool es el DEPÓSITO de un cuerpo humano (~5L), no la potencia. La escala va en los multiplicadores de maestría (M9-10: coste ×0.1, recuperación ×2, regeneración instantánea): de ~6 acciones mayores efectivas a M1-2 a ~75+ a M9-10 con tanque autorrellenable — el mismo patrón de escala que el resto de 1-A hacia la 2ª mitad de la serie (el cuerpo sigue siendo cuerpo; explota el rendimiento por unidad).
 
+## R14 — El aspecto temporal es MEMORIA HECHA CARNE, no combat-tech (regla de mesa, S12 — pedida por el jugador)
+> Reencuadre canónico: el 4º aspecto (Ecos + rewind) es el más NARRATIVO del Quirk, no el más flojo. Su naturaleza es la memoria (propia y ajena), la identidad y — a largo plazo — la intuición de inmortalidad. Se había jugado como si fuera el poder de Eri; no lo es. Este reencuadre habilita usos de arco sin tocar los números de combate (R3/R5) ni el OPSEC (R6-bis: el aspecto temporal sigue siendo TABÚ ABSOLUTO en público — la bengala del borrado, "el alero").
+
+**(a) MEMORIA EIDÉTICA POR SAVE POINTS (uso cotidiano, casi gratis, NO-bengala):** la savia retiene los momentos marcados con nitidez perfecta. Akari puede *releer* un save point sin invocar nada visible — el temario de un examen, la página de un libro, cada gesto/palabra de una persona, la disposición de una sala. Coste: ~1 unidad por relectura (o gratis si es un save reciente); sin scar. Parece **memoria prodigiosa**, no manipulación temporal → seguro en público, alimenta directamente OPERATION SUMMA CUM LAUDE y su ancla "dominar el conocimiento". Límite: retiene con fidelidad los momentos que MARCÓ conscientemente (no una grabación total de su vida); a más maestría, más save points activos y más antiguos.
+
+**(b) LA DESCARGA COMO INTROSPECCIÓN:** reabsorber una proyección devuelve lo que ESA proyección sintió (subconsciente con menos filtro) — herramienta de autoconocimiento, no solo de combate. Cara B (regla ya canónica): puede traer decisiones "suyas" que no recuerda haber tomado.
+
+**(c) RUTA DE CRECIMIENTO orientada a arco (ruta-009, abierta S12):** el aspecto temporal crece por PROFUNDIDAD DE MEMORIA (descarga voluntaria de save points ajenos, Ecos como confidentes/testigos, el "estudio en dos tiempos" real de M5-6), no por "más segundos de combate". Se gana con marcas narrativas.
+
+## R15 — REWIND = "LÍNEA DESCARTADA" (resuelve la contradicción del manual, S12 — pedida por el jugador)
+> El texto viejo choca consigo mismo: "solo el PC se restaura / el entorno no se restaura" (bucle personal) vs "flash del momento alternativo que NO OCURRIÓ" (el mundo se deshizo). Se resuelve a favor de la 2ª lectura, que es la que da sentido al memory scar y hace el don útil en arco. **Esta regla MANDA sobre el texto de "Sistema de Rewind" más abajo.**
+
+- **Qué hace:** rebobina ~30 s (a M4) de realidad VIVA Y CERCANA — cuerpos, posiciones, heridas recientes Y los recuerdos de esos segundos de todo lo vivo en el radio. El tramo se deshace para todos; **Akari es el ÚNICO que conserva la línea borrada** (el memory scar = el precio de recordar lo que ya no fue).
+- **Radio (resuelve "el entorno no se restaura"):** a M4, su cápsula inmediata (~unos metros / una habitación). La física estructural a gran escala FUERA del radio no vuelve (una pared que reventó lejos sigue rota). Rebobina su burbuja, no el edificio. El radio crece con la maestría.
+- **Combate y social son el MISMO botón:** esquivar el blaster y retirar la frase que hirió a alguien son idéntico acto (deshacer 30 s cercanos). No hay dos poderes.
+- **COSTE FÁUSTICO (crítico — no es un "deshacer" gratis):** el rechazo/error NO se borra, se **añade a la carga de Akari**. Él es el único que recuerda la versión descartada → memory scars, disociación, el peso de acumular vidas que nadie más vivió. Costura peligrosa: la persona con quien "acierta" tras un rewind puede intuir que sabía *demasiado bien* qué decir (trampa emocional percibida). El don no ahorra la decisión: cobra por conocerla de antemano.
+- **Límite social real a M4 = 30 SEGUNDOS:** cabe una frase, un gesto, un beso mal dado — NO una escena/conversación entera. El rewind de tramos largos (minutos) es M6-8. Hoy es un bisturí de últimos segundos.
+- **OPSEC = el uso más tabú que existe:** un déjà vu, una frase repetida, una costura percibida → bengala máxima. Y **Nighteye LEE el tiempo**: darle la mano tras un rewind podría revelarle la línea descartada. El rewind en social/público es la jugada más peligrosa del kit.
+- Números sin cambio (R5): coste 12, memory scar −1 ING 3h, cap 3 scars = reverie 6h. 2-3/combate.
+
 ---
 
 # Mecánica detallada — Sangre, Rewind, Bestias, Ecos, Savia
