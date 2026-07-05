@@ -6,16 +6,19 @@
 
 *(Ninguna.)*
 
-## Agenda de ficción del PC (compromisos vivos — el GM avisa antes de saltarlos) — al cierre S10
+## Agenda de ficción del PC (compromisos vivos — el GM avisa antes de saltarlos) — al cierre S11
 
-- [ ] **VIERNES D12 (HOY, desde 6:30)**: sesión con **Aizawa** (6:30, Gamma — AQUÍ SE REANUDA) · **biombo con Momo** primera hora (cara a cara de primicia + DÍA 1 de su regla + experimento savia-vs-cólicos + suscripción a la fuente) · **ensayo de Midnight** SE ENTREGA · almuerzo de dudas con **Nejire** (cuadernos de 3º) · savia con **Ibara** (tarde) · **RONDA con Aizawa 22:30** · madrugada: **Put Your Hands Up Radio** (fuente del examen de Mic).
-- [ ] **Sábado D13**: sesión mayor de canciones-lección con **Jirō** (pista 1 ya publicada).
-- [ ] **Lunes D15**: expresión nueva para **Mic** (homework by request) · problema fuera de curso de **Ectoplasm** · correr con **Uraraka** **6:00** (cambio propuesto por mensaje el D12: a las 6:30 tiene a Aizawa a diario — media hora con cada uno; pendiente OK de ella).
-- [ ] **Miércoles D17**: correr **Kendo** 5:30 + **Uraraka** **6:00** (media hora con cada una; 6:30 Aizawa) · tutoría Midnight 15:30.
-- [ ] **~26-27 may**: regla de **Toru** (pactado: beber + cunnilingus). **~31 may-1 jun**: regla de **Mina** (ídem + anti-cólicos).
-- [ ] **~D19-20**: ⭐ **KIOTO con Momo** (2 noches; ella fija fecha esta semana).
-- [ ] **Miércoles 5 jun (D24)**: EXÁMENES escritos (práctico esa semana). Meta: matrícula de honor en todo.
-- [ ] Pendientes sin fecha: consulta a **Momo** de la propuesta savia-órganos (el árbol primero — prometido a Mina) · 'el 6' que le debe a Mina · venganza de Jirō ('sala 3, con intereses') · devolver los **cuadernos de Nejire** · primera clase de canto con **Mika** (jueves) · cita **Nezu** ('pronto'; 2º papel de Aizawa = anomalía) · sparring semanal con **Ojiro** · costume (Mei) · fragmento de ÁCIDO ('algo grande, con estilo') · **presentación a Sir Nighteye** (pedida a Mirio por mensaje el D12: "no es por trabajo, es algo personal" — Mirio preguntará; respuesta pendiente).
+- [ ] **SÁBADO D13 (HOY — AQUÍ SE REANUDA, 9:28)**: **9:30 Momo, toldo verde — 3 puntos** (cara a cara doble Ibara+Nejire · 2ª dosis savia-vs-cólicos "trae el antebrazo" · el destello de la bañera) · **TARDE: sesión mayor canciones-lección con Jirō** (pista 2) · shadowing de la grabación de radio en ratos muertos.
+- [ ] **DOMINGO D14**: regla de **Toru** al caer (~lun-mar por su cuenta; pactado: beber + oral + savia anti-cólicos). Estudio/descanso.
+- [ ] **LUNES D15**: correr **Uraraka 6:00** (CONFIRMADO por ella) · 6:30 Aizawa · **"don't sleep on it"** para Mic (homework by request) · problema fuera de curso de **Ectoplasm**.
+- [ ] **MARTES D16**: ⭐ **18:00 Gamma — presentación de FASE 3 a Aizawa (con Nejire)**. Contención total hasta entonces (ni a baja potencia).
+- [ ] **MIÉRCOLES D17**: correr **Kendo 5:30** + **Uraraka 6:00** · 6:30 Aizawa (revisión semanal de etiquetas los viernes; 3 tandas/sem en privado) · **15:30 tutoría Midnight (LATIDO A LATIDO — deuda de dirección)** · **17:00 sesión 2 del club: VELOCIDAD** (objetivo 150 km/h; pasillo/papeles de Nejire) — **ANTES: Mei Hatsume** (costume debido + telemetría/tubo de Pitot).
+- [ ] **JUEVES D18**: primera clase de canto con **Mika** (mis-024; tarifa: una nota delante de la banda).
+- [ ] **VIERNES D19 (31 may)**: ⭐ **17:40 tren a KIOTO con Momo → domingo 2 jun** (2 noches; ryokan nombre falso; coartada de estudio literal; billetes de ella). Club del viernes: reprogramación automática (cláusula). ⚠️ **Regla de Mina ~31-1: CUADRAR CON ELLA antes de salir** ("no pasa nada" declarado — falta jugarlo). Rito del viernes de Ibara: reprogramar/cuadrar también.
+- [ ] **MIÉRCOLES 5 JUN (D24)**: EXÁMENES escritos + semana de prácticos **CON OBSERVADORES DE LA COMISIÓN** (castaños podados; rendimiento constante) + **Bakugo con objetivo declarado** (hacerle soltar el freno ese día). Meta: matrícula de honor en todo.
+- [ ] **SÁB-DOM 7-8 JUN**: **MUDANZA a Heights Alliance** (habitación asignada; mobiliario de savia APROBADO por Nezu; comprar colchón bueno ~¥30-50k).
+- [ ] **LUNES 9 JUN**: ⭐ **16:40 — SIR NIGHTEYE, 12 minutos, cauce de pasantía** (16:40:00 exactos; Mirio acompaña hasta la puerta; "déjale aire" — consejo de Nejire; administrar el presente — Aizawa).
+- [ ] Pendientes sin fecha: consulta a **Momo** de la propuesta savia-órganos (bendecida A CIEGAS — responder sus 2 preguntas de seguridad) · 'el 6' que le debe a Mina (**categoría subida** 🐍🔥) · venganza de Jirō ('sala 3, con intereses') · devolver los **cuadernos de Nejire** · sparring semanal con **Ojiro** · fragmento de ÁCIDO ('algo grande, con estilo' — listón subido) · **Tokoyami** buscará la conversación de la oscuridad · **Midoriya** pedirá clases de porteo · presentación **Nejire↔Momo** ("con merienda") · tour del bosque a Momo (sin deuda, cuando Akari quiera) · rondas nocturnas: fijar las de la semana (2-3, no consecutivas).
 
 ### (histórico S8 — superado)
 
