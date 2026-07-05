@@ -16,8 +16,8 @@
 - [ ] **JUEVES D18**: primera clase de canto con **Mika** (mis-024; tarifa: una nota delante de la banda).
 - [ ] **VIERNES D19 (31 may)**: ⭐ **17:40 tren a KIOTO con Momo → domingo 2 jun** (2 noches; ryokan nombre falso; coartada de estudio literal; billetes de ella). Club del viernes: reprogramación automática (cláusula). ⚠️ **Regla de Mina ~31-1: CUADRAR CON ELLA antes de salir** ("no pasa nada" declarado — falta jugarlo). Rito del viernes de Ibara: reprogramar/cuadrar también.
 - [ ] **MIÉRCOLES 5 JUN (D24)**: EXÁMENES escritos + semana de prácticos **CON OBSERVADORES DE LA COMISIÓN** (castaños podados; rendimiento constante) + **Bakugo con objetivo declarado** (hacerle soltar el freno ese día). Meta: matrícula de honor en todo.
-- [ ] **SÁB-DOM 7-8 JUN**: **MUDANZA a Heights Alliance** (habitación asignada; mobiliario de savia APROBADO por Nezu; comprar colchón bueno ~¥30-50k).
-- [ ] **LUNES 9 JUN**: ⭐ **16:40 — SIR NIGHTEYE, 12 minutos, cauce de pasantía** (16:40:00 exactos; Mirio acompaña hasta la puerta; "déjale aire" — consejo de Nejire; administrar el presente — Aizawa).
+- [ ] **VIE-SÁB 7-8 JUN**: **MUDANZA a Heights Alliance** (habitación asignada; mobiliario de savia APROBADO por Nezu; comprar colchón bueno ~¥30-50k).
+- [ ] **DOMINGO 9 JUN**: ⭐ **16:40 — SIR NIGHTEYE, 12 minutos, cauce de pasantía** (sí, domingo: Sir trabaja los siete días) (16:40:00 exactos; Mirio acompaña hasta la puerta; "déjale aire" — consejo de Nejire; administrar el presente — Aizawa).
 - [ ] Pendientes sin fecha: consulta a **Momo** de la propuesta savia-órganos (bendecida A CIEGAS — responder sus 2 preguntas de seguridad) · 'el 6' que le debe a Mina (**categoría subida** 🐍🔥) · venganza de Jirō ('sala 3, con intereses') · devolver los **cuadernos de Nejire** · sparring semanal con **Ojiro** · fragmento de ÁCIDO ('algo grande, con estilo' — listón subido) · **Tokoyami** buscará la conversación de la oscuridad · **Midoriya** pedirá clases de porteo · presentación **Nejire↔Momo** ("con merienda") · tour del bosque a Momo (sin deuda, cuando Akari quiera) · rondas nocturnas: fijar las de la semana (2-3, no consecutivas).
 
 ### (histórico S8 — superado)
