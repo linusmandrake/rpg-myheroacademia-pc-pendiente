@@ -48,7 +48,7 @@ UA máximos (aula inter-clase aprobada = "perfil que vale más que un primer pue
 - **Trato de la regla extendido a 5ª donante** (Jirō): harem-médico formalizado.
 - **Pony Tsunotori presentada**: lectura bisturí (americana, muro del kanji), intercambio de contactos 🐴🔔.
 - **Pacto con Todoroki**: estudiar juntos (flanco Literatura confesado por él).
-- **Σ ≈ 14-18 peso de marcas en un día** (pm-054 a pm-068) — CANJE aplazado a cierre de Arco 1.
+- **Σ = 25 peso de marcas en un día** (pm-054 a pm-068) — CANJE aplazado a cierre de Arco 1.
 - Saldo: −¥10.000 (pastilla del día después, pagado por Akari).
 
 ## Decisiones pendientes del jugador
