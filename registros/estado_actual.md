@@ -5,7 +5,7 @@
 Akari cierra un domingo entero sin combate pero de altísimo voltaje íntimo y OPSEC — la carrera-confesión al alba con Kendo (que sube 6→7, con puerta cerrada, primera vez pactada en sus términos y su cansancio de líder por fin recibido) y, sobre todo, la mudanza y convivencia con Uraraka, que **entra en el secreto del Quirk** (savia/drenaje, sin nombres/bosque/Momo/borrado), jura guardarlo y le ofrece "sol 14 días" — y se duerme por primera vez acompañado en la habitación 4, con la red cerrada por mensaje.
 
 ## PC
-Akari Hayami "Sanguine" — PWR 4 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk potencial 5 / **maestría 4 (congelada)** · pool ~alto (memoria eidética casi gratis; cero drenajes en S13). Saldo **¥60.470, sin deudas**. Ubicación: hostal, habitación 4 (dormido; primera noche de convivencia). **Nuevo S13**: memoria eidética por save points (con-046) estrenada en estudio cotidiano.
+Akari Hayami "Sanguine" — PWR 4 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk potencial 5 / **maestría 4 (congelada)** · pool ~alto (memoria eidética casi gratis; cero drenajes en S13). Saldo **¥60.320, sin deudas**. Ubicación: hostal, habitación 4 (dormido; primera noche de convivencia). **Nuevo S13**: memoria eidética por save points (con-046) estrenada en estudio cotidiano.
 
 ## Arcos abiertos
 - **Arco 1 — exámenes (5 jun)**: Summa Cum Laude en marcha (8º de clase; estudia temario de 3º con memoria eidética); ⚠️ observadores de la Comisión en los prácticos + Bakugo decidido a hacerle soltar el freno.
@@ -30,7 +30,7 @@ Akari Hayami "Sanguine" — PWR 4 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk p
 - Kendo: primera vez pactada en sus términos; dormir-abrazados innegociable. Tokoyami (oscuridad); Midoriya (porteos); presentación Nejire↔Momo pactada.
 
 ## Economía
-Saldo ¥60.470 · sin deudas · beca ~junio · previsto: colchón (~30-50k) tras mudanza; costume debido (Hatsume, telemetría). Convivencia: gastos compartidos con Uraraka (luz/agua/comida); alquiler ¥0.
+Saldo ¥60.320 · sin deudas · beca ~junio · previsto: colchón (~30-50k) tras mudanza; costume debido (Hatsume, telemetría). Convivencia: gastos compartidos con Uraraka (luz/agua/comida); alquiler ¥0.
 
 ## Reputación y facciones
 UA en máximos · Comisión: observadores 5 jun + funcionario de listas (vigilado) · Liga: sin contacto · Interna: "Quirk de bestias vistoso"; canciones-lección circulando (semianónimo).

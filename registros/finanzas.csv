@@ -47,4 +47,5 @@ C1-T1-D13,regalo,tostadero-y-wagashi,Regalo para la familia Jirō: café de gran
 C1-T1-D14,comida,konbini-tienda,"Te con leche + bubbles de tapioca + muffin de frambuesa para Uraraka (desayuno-mudanza, camino a su 1K)",-520,gasto
 C1-T1-D14,comida,puesto-tamagoyaki-aihara,"Desayuno post-carrera con Kendo en su barrio (2 raciones dobles, sin recibo; pago el DOBLE por venir en tren una parada)",-1480,gasto
 C1-T1-D14,comida,konbini-tienda,"Mitad de Akari de la compra de okonomiyaki (inauguracion de fogones, gastos a medias con Uraraka)",-580,gasto
-# Saldo al cierre S13 (D14 domingo 26 may, noche): ¥60.470. SIN DEUDAS. Gastos del dia: −¥2.580 (te+muffin Uraraka + tamagoyaki con Kendo + mitad okonomiyaki). Convivencia con Uraraka EN CURSO (gastos compartidos luz/agua/comida; alquiler ¥0). Beca ~junio.
+C1-T1-D14,transporte,tren-linea-este,"Billete de tren de UNA parada (el gag de la manana: se subio al tren para recorrer lo que eran 10 min andados hasta el barrio de Kendo)",-150,gasto
+# Saldo al cierre S13 (D14 domingo 26 may, noche): ¥60.320. SIN DEUDAS. Gastos del dia: −¥2.730 (billete de tren + te+muffin Uraraka + tamagoyaki con Kendo + mitad okonomiyaki). Convivencia con Uraraka EN CURSO (gastos compartidos luz/agua/comida; alquiler ¥0). Beca ~junio.

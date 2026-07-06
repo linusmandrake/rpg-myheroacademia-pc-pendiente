@@ -25,8 +25,8 @@ Cierra con el plan de ayuda a Pony (escalable, a tres, con cláusula tribu), est
 ## Cambios económicos (yenes)
 - Inicio: ¥63.050
 - Ingresos: —
-- Gastos: −¥520 (té con leche + muffin para Uraraka) · −¥1.480 (tamagoyaki puesto de Aihara, 2 raciones dobles, pagó doble por el tren) · −¥580 (mitad de Akari de la compra de okonomiyaki)
-- Final: **¥60.470** · sin deudas · beca ~junio
+- Gastos: −¥150 (billete de tren de una parada — el gag: se subió al tren para lo que eran 10 min andando) · −¥520 (té con leche + muffin para Uraraka) · −¥1.480 (tamagoyaki puesto de Aihara, 2 raciones dobles, pagó doble por el tren) · −¥580 (mitad de Akari de la compra de okonomiyaki)
+- Final: **¥60.320** · sin deudas · beca ~junio
 
 ## Reputación y facciones
 - Sin cambios de reputación mediática. UA/Comisión/Liga igual que al cierre S12.
@@ -37,7 +37,7 @@ Cierra con el plan de ayuda a Pony (escalable, a tres, con cláusula tribu), est
 - Quirk Sanguine Verdant Echo: potencial 5 / **maestría 4 (congelada)** · pool ~alto (uso de memoria eidética casi gratis, sin mella relevante; **cero drenajes esta sesión** → sin oferta de maestría) · aspectos: Cuerpo, Avatar Carmesí, Bestias, Ecos (tabú intacto). **con-046 (memoria eidética por save points) estrenada en uso cotidiano de estudio.**
 
 ## NPCs introducidos/significativos
-- **Pony Tsunotori (Poní, 1-B)** — NUEVA. Estudiante extranjera (EE.UU.), Quirk Horn Cannon; perdida en las teóricas por el idioma, casi abandona (maleta hecha); Kendo la levantó. Akari la va a ayudar (lunes, vía Kendo): apuntes ES/JP + canciones-lección + comida "las tres" con Uraraka para el sentido de pertenencia. → mis-033; companeros.csv.
+- **Pony Tsunotori (Poní, 1-B)** — NUEVA. Estudiante extranjera (EE.UU.), Quirk Horn Cannon; perdida en las teóricas por el idioma, casi abandona (maleta hecha); Kendo la levantó. Akari la va a ayudar (lunes, vía Kendo): apuntes EN/JP (su doble temario inglés-japonés) + canciones-lección + comida "las tres" con Uraraka para el sentido de pertenencia. → mis-033; companeros.csv.
 - **Señora Aihara** — dueña del puesto de tamagoyaki del barrio de Kendo (color local; testigo mudo).
 
 ## Vínculos sexoafectivos (cambios)
@@ -63,7 +63,7 @@ Cierra con el plan de ayuda a Pony (escalable, a tres, con cláusula tribu), est
 | PWR / VEL / TEC / ING / COO | 4 / 3 / 4 / 4 / 3 |
 | Quirk (potencial/maestría) | 5 / 4 (congelada) |
 | Salud / heridas | Perfecta; descansado |
-| Saldo (yenes) | ¥60.470 |
+| Saldo (yenes) | ¥60.320 |
 | Reputación heroica | Máximos internos; sin evento público nuevo |
 | Facciones (UA/Comisión/Liga) | UA máximos / Comisión observadores 5 jun (latente-paciente) / Liga sin contacto |
 | Ubicación | Musutafu — hostal, habitación 4 (dormido; primera noche de convivencia) |
