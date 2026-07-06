@@ -48,7 +48,7 @@ UA máximos (aula inter-clase aprobada = "perfil que vale más que un primer pue
 - **Trato de la regla extendido a 5ª donante** (Jirō): harem-médico formalizado.
 - **Pony Tsunotori presentada**: lectura bisturí (americana, muro del kanji), intercambio de contactos 🐴🔔.
 - **Pacto con Todoroki**: estudiar juntos (flanco Literatura confesado por él).
-- **Σ = 25 peso de marcas en un día** (pm-054 a pm-068) — CANJE aplazado a cierre de Arco 1.
+- **Σ = 32 peso de marcas en un día** (pm-054 a pm-072; 19 marcas; CANJE aplazado a cierre de Arco 1) — **récord, con HITO MAYOR pm-071** (Momo llama a Jirō, vínculo 3, carácter+cumbre+coste del rol del árbol) y pm-069 (Uraraka intrusivo, carácter 2, el fuego vive bajo la caja cerrada).
 - Saldo: −¥10.000 (pastilla del día después, pagado por Akari).
 
 ## Decisiones pendientes del jugador
