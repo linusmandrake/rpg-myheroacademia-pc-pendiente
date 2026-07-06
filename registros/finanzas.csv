@@ -44,3 +44,7 @@ C1-T1-D12,comida,app-domicilio-ua,"Desayuno a domicilio D12 (recogida 7:45, puer
 C1-T1-D13,comida,cafeteria-toldo-verde,Tés de la cita (genmaicha de Momo + su agua/té) — pagó él,-900,gasto
 C1-T1-D13,regalo,tostadero-y-wagashi,Regalo para la familia Jirō: café de grano recién tostado (Kaldi's) + caja de warabimochi,-1800,gasto
 # Saldo al cierre S12 (D13 sábado 25 may, noche): ¥63.050. SIN DEUDAS. Gastos del día: −¥2.700 (café toldo verde + regalo Jirō). Convivencia con Uraraka desde D14 (gastos compartidos futuros luz/agua/comida; alquiler ¥0 — habitación pagada por UA). Beca ~junio.
+C1-T1-D14,comida,konbini-tienda,"Te con leche + bubbles de tapioca + muffin de frambuesa para Uraraka (desayuno-mudanza, camino a su 1K)",-520,gasto
+C1-T1-D14,comida,puesto-tamagoyaki-aihara,"Desayuno post-carrera con Kendo en su barrio (2 raciones dobles, sin recibo; pago el DOBLE por venir en tren una parada)",-1480,gasto
+C1-T1-D14,comida,konbini-tienda,"Mitad de Akari de la compra de okonomiyaki (inauguracion de fogones, gastos a medias con Uraraka)",-580,gasto
+# Saldo al cierre S13 (D14 domingo 26 may, noche): ¥60.470. SIN DEUDAS. Gastos del dia: −¥2.580 (te+muffin Uraraka + tamagoyaki con Kendo + mitad okonomiyaki). Convivencia con Uraraka EN CURSO (gastos compartidos luz/agua/comida; alquiler ¥0). Beca ~junio.
