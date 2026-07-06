@@ -49,3 +49,6 @@ C1-T1-D14,comida,puesto-tamagoyaki-aihara,"Desayuno post-carrera con Kendo en su
 C1-T1-D14,comida,konbini-tienda,"Mitad de Akari de la compra de okonomiyaki (inauguracion de fogones, gastos a medias con Uraraka)",-580,gasto
 C1-T1-D14,transporte,tren-linea-este,"Billete de tren de UNA parada (el gag de la manana: se subio al tren para recorrer lo que eran 10 min andados hasta el barrio de Kendo)",-150,gasto
 # Saldo al cierre S13 (D14 domingo 26 may, noche): ¥60.320. SIN DEUDAS. Gastos del dia: −¥2.730 (billete de tren + te+muffin Uraraka + tamagoyaki con Kendo + mitad okonomiyaki). Convivencia con Uraraka EN CURSO (gastos compartidos luz/agua/comida; alquiler ¥0). Beca ~junio.
+C1-T1-D15,salud,clinica-ginecologica-musutafu,"PASTILLA DEL DIA DESPUES para Jiro (levonorgestrel, dentro de plazo) + consulta ginecologica. Pago de Akari (responsabilidad compartida del susto del condon olvidado en la primera vez).",-10000,gasto
+
+"# Saldo al cierre S14 (D15 lunes 27 may, noche): ¥50.320. SIN DEUDAS. Gastos del dia: -¥10.000 (pastilla del dia despues para Jiro). Convivencia con Uraraka EN CURSO (gastos compartidos luz/agua/comida; alquiler ¥0). Beca ~junio."

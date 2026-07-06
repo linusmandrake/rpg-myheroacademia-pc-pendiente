@@ -15,7 +15,22 @@
 - **Condicionamiento "Yaoyorozu"** (gag vivo y ahora BIDIRECCIONAL — confirmado en Ley Heroica S11): cada pase de lista es una mina para los dos.
 - **El calibre vernier olvidado en la 411** — patrimonio del Tsuki-no-Ma (¿reaparece en una reserva futura? ¿en Kioto?).
 
-## Arco 1 restante (D13-D30)
+## Esta semana de ficción (D15-D19) — regado al cierre S14
+
+- **D15 CERRADO — "la sesión-campana"** (3 florecimientos + 1 primer beso en un día): Jirō completa en sala 3 (primera vez de ambos cantando *The Trooper* + savia pulsada dentro; sangre libre AB = "el espejo hasta en las venas"; susto condón → "me quedaría" → pastilla), Mei florece parcial en taller de Soporte (primer encuentro + drenaje con colmillo volumen → bonus aplicado + cunnilingus/regla + chupada + coito denegado por anticipación-tiernura), Nejire primer beso en biblioteca + "sitio permanente hasta 2096" + 1h30 estudio pegados + cuadernos DEVUELTOS (archivados en eidética). "Injerto" entregado a Cementoss. Ectoplasm 2º camino. Aula de repaso inter-clase aprobada por Aizawa ("seis horas, hasta para ti"). Rebranding "arcángel industrial" + cartuchos tipo Toga sin degradación.
+- **D16 MARTES (DÍA CRÍTICO — mañana)**: fase 3 a Aizawa 18:00 con Nejire (contención total hasta entonces). **Cita Toru** (estudio de su amiga + beber + oral + savia anti-cólicos). Demo alas de savia a Mei (prometido al salir del taller). Cita Nezu activada por la petición del aula (a cuadrar). Mañana cocina compartida con Uraraka (día 2).
+- **Rebranding "arcángel industrial"**: aterriza en el costume (Mei mock-up hecho). Demo alas mañana. Salida pública prevista = exámenes 5 jun (observadores). Ojo: la Comisión puede leerlo como madurez estratégica del activo.
+- **Mina — madriguera vieja ala de música UA**: cuando ella localice, sesión de hacer el amor + drenaje sin prisa. "Te echo de menos" entregado.
+- **Mina — el "6"** (corregido): ELLA le debe a ÉL 6 reciprocaciones con intereses ("el 6 que te debo" — dicho por Mina; marcador orgasmos 6-2). Pagaré del ciclo de Kioto perdido SÍ es de Akari hacia ella (separado, vivo).
+- **Harem-médico formalizado (5 donantes)**: Momo / Toru / Mina / Jirō / Ibara-en-proyecto. Trato de la regla = cunnilingus + savia anti-cólicos como cuidado recíproco.
+- **Canciones-lección pista 2 con Jirō**: *Come and Get Your Love* (entrante) + *The Trooper* (plato fuerte) en recámara — sesión mayor de grabación pendiente.
+- **Escrito Goethe/Werther para Cementoss**: semana próxima. Comentario de texto ajeno (lo que Cementoss pidió).
+- **Todoroki estudiar juntos**: flanco Literatura confesado por él — simbiosis con el flanco nuevo de Akari.
+- **Tokoyami**: canción "Hard Blues de odinmann" en su móvil — feedback pendiente.
+- **Pony extra-clase**: 1ª sesión formal de repaso pendiente.
+- **Mika**: primera clase de canto formal JUEVES D18. Mika vio a Akari acompañar a Jirō al portal (sin bajar) — el tejado cruje de verdad.
+
+## Arco 1 restante (D16-D30)
 
 - **EXÁMENES 5 JUN + OBSERVADORES DE LA COMISIÓN + BAKUGO**: colisión programada — Bakugo quiere hacerle soltar el freno EXACTAMENTE el día que la Comisión mira ("castaños podados" vs "prenderle fuego al escenario"). El mejor polvorín agendado de la campaña.
 - **Bakugo y el cuaderno que no enseña**: DETECTÓ el freno ("va un 20% por debajo, siempre"). No es chivato: es rival. Carta que él decide cuándo jugar — y suma la sospecha Akari↔Mina de antes.
