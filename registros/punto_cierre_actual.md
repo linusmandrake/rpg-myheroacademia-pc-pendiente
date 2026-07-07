@@ -26,7 +26,7 @@
 ## Misiones / internado / exámenes abiertos
 - **mis-027 FASE 3 → CUMPLIDA** (presentada y aceptada por Aizawa; plan de custodia + mapeo controlado; Fase 4 disclosada). Deriva en cita Nezu.
 - **mis-030 CONVIVENCIA con Uraraka — EN CURSO** (día 2→3): ahora **FLORECIÓ** (pareja del bosque + donante O+ + guardiana). Cocina compartida mañana.
-- **mis-035 RED DE SENSORES-PLANTA — EN CURSO**: fase 1+2 desplegadas con Ibara (~50m perímetro este, Blackroot guardián). Firma de Nezu vía la cita.
+- **mis-035 RED DE SENSORES-PLANTA — EN CURSO**: fase 1+2 desplegadas con Ibara (~50m perímetro este, Blackroot guardián). **Sensores YA firmados por Nezu** (Aizawa lo confirmó en la tutoría 06:30 — por eso se desplegaron hoy).
 - **mis-034 AULA DE REPASO INTER-CLASE**: firma vía Nezu (viernes); Pony con sitio permanente.
 - **mis-033 PONY — EN CURSO**: pertenencia cosida; sesiones fijas de kanji (mar/jue) + aula.
 - **mis-032 MIDNIGHT — taller de percepción aplicada**: miér 15:30 (tutoría convertida en taller; "redistribuir el anhelo"; el "por ahora" al rojo). Ruta-008.
@@ -38,7 +38,7 @@
 
 ## Decisiones de carácter recientes que pesan
 - **Uraraka florece por SU elección**: Akari le pregunta lo único que teme ("¿no te perdería?"), ella le cura el abandono ("a mí no me pierdes, nunca"), y ella elige bajar el muro **despierta** (la rendición dormida, guardada para cuando la confianza lo sostenga). Akari **cierra su percepción de sangre** para darle la oscuridad que pidió — el que lo ve todo eligiendo no ver.
-- **Respeto radical de la agencia de Nejire**: contiene el instinto protector, le pregunta en vez de decidir; ella se planta ("no soy tu pasajera, soy tu copiloto"). All Might: "un aliado que elige, no un peón que proteges."
+- **Respeto radical de la agencia de Nejire**: contiene el instinto protector, le pregunta en vez de decidir; ella se planta ("no soy tu pasajera, soy tu copiloto"). **Aizawa**: "un aliado que elige, no un peón que proteges."
 - **Honestidad proactiva ante Aizawa**: confiesa la Fase 3/4 sin ocultar ("te avisé el mismo bloque; esta hora la pusiste tú").
 - **El árbol regado**: entre-muros con Momo SIN drenaje ("vengo a alimentarte a ti, no a beber").
 - **Midnight al rojo pero tabú sostenido**: la seduce a su juego, aprende que su tell es el deseo, pero ninguno cruza ("por ahora sigue siendo por ahora").
@@ -47,15 +47,15 @@
 ## Continuidad emocional y red sexoafectiva (harem / OPSEC)
 - **Uraraka (7, ANCLADA — NUEVO)** ⭐⭐⭐ FLORECIÓ por su elección: confesión gemela del sueño (ella craving la rendición/somnofilia que él soñó); primera vez (virgen), despierta, consciente; donante **O+** (regla + alimentación UA + cólicos + cunnilingus). Sueño de rendición-dormida GUARDADO para cuando la confianza lo sostenga. "De momento ya no es de momento no." Sigue sin saber nombres/bosque/Momo/borrado/rewind.
 - **Momo (9, ANCLADA)**: regada al alba sin drenaje; sabe de Mei (cara a cara) y de Uraraka florecida (por teléfono esta noche, marco cumplido); "cuídala como me cuidas a mí, es de las mías"; su día compartido (gala Kioto/padre). Sigue sin saber del taller de Midnight al rojo (candidato a contárselo si eso "florece").
-- **Nejire (7, ANCLADA — NUEVO)** ⭐⭐: copiloto de la Fase 3 (se planta); cena honda (el "instinto tonto"/abandono); ofrece ventana + puerta + familia; "esta no se va"; beso contenido con deseo declarado ("intermedios"). Niebla intacta (no sabe bosque/rewind/Momo).
+- **Nejire (7, ANCLADA — NUEVO)** ⭐⭐: copiloto de la Fase 3 (se planta); cena honda (el "instinto tonto"/abandono); ofrece ventana + puerta + familia; "esta no se va"; beso contenido con deseo declarado ("intermedios"). **NUEVO en la niebla**: Akari le dio el nombre de **Uraraka** ("la del cuarto y el bento de gatitos; no es bosque, de momento") como trozo de verdad. Sigue sin saber bosque/rewind/Momo/el nombre del árbol.
 - **Midnight (2)**: taller de percepción; seducción cruzada; el "por ahora" al rojo; tabú sostenido. NO floreció (sin marco debido a Momo). Tutoría/taller mañana 15:30.
 - **Toru (8, deepening)**: cita cumplida (regla + oral + coito + "te quiero"). Segunda piel = SU sangre (aplica/reabsorbe). Niebla intacta.
 - **Jirō (10, ANCLADA)**: reencuentro tras florecer con espacio + código; la pastilla en plazo; "pista uno de verdad".
 - **Ibara (7, ANCLADA)**: aliada del sotobosque sensor; beso + abrazo; niebla protegida.
 - **Mei (4, volátil)**: sin escena directa; disclosada a Momo; demo de alas + "lo otro" → miércoles.
 - **Kendo (7, ANCLADA)**: almuerzo de tribu; integra a Pony ("1-B entra, se lo cuadro a Vlad King").
-- **Mina (8), Ibara (7)**: sin escena hoy; hooks vivos (madriguera ala de música / rito del viernes).
-- **OPSEC (crítico)**: Uraraka ahora es amante + guardiana + donante (mucho concentrado en una persona; Momo la intendente lo notó). Rewinds hoy = 0. La Fase 4 revelada a Aizawa+Nejire (nadie más). El vigía/fuga = auditoría Nezu en marcha. Nadie fuera de Aizawa/Nezu/Nejire sabe de la Fase 4.
+- **Mina (8)**: sin escena hoy; hook vivo (madriguera vieja ala de música). *(Ibara SÍ tuvo escena: invernadero, colaboración del sensor + beso/abrazo — ver arriba.)*
+- **OPSEC (crítico)**: Uraraka ahora es amante + guardiana + donante (mucho concentrado en una persona; Momo la intendente lo notó). Rewinds hoy = 0. La Fase 4 solo la han VISTO Aizawa+Nejire; **Nezu aún NO la conoce** (queda para la cita). Momo sabe que el día fue grande y que la Fase 3 se presentó/aceptó, pero **la Fase 4 no le surgió en la llamada — NO está oculta para ella** (con Momo el Quirk no se esconde; la sabrá en cuanto salga). El vigía/fuga = auditoría Nezu en marcha.
 
 ## Detalles emocionales sutiles
 - Uraraka, la verdad del muro (carrera): *"No lo freno porque me sobre. Te freno porque me resultas facilísimo de querer. El muro no está porque no arda nada. Está porque arde demasiado. Es lo único que me mantiene de pie."*
@@ -69,11 +69,20 @@
 - Toru: *"Me traes de vuelta. Cada vez pienso que me voy a acostumbrar y cada vez me tiembla."* (al verse aparecer bajo la segunda piel de sangre).
 - Ibara: *"Un jardín que vela. Que crece para proteger, no para adornar. ¿Contra qué velamos? No me hagas plantar a ciegas si hay una serpiente de verdad."*
 
+- **Uraraka, simetría de miedos** (carrera): *"La noche abrazados la ofreciste tú y la rechacé yo — 'prefiero marchitarme a que me rieguen con miedo', dijiste. Así que de miedos, guapo, vamos empatados."* (agencia invertida: fue Akari quien rehusó el abrazo).
+- **La deuda de verdad auto-impuesta que estructura el día**: *"Tú cumpliste tu norma esta mañana. Yo no cumplí la mía contigo. Te debo una. Una de verdad."* — la hipócrita honesta que junta valor hasta la noche.
+- **La arquitectura de su valentía, dictada por ella**: *"A oscuras. Que no me mires. Que no me contestes enseguida. Que solo lo recibas."* — y Akari la ejecutó poniéndose ÉL debajo (masaje, boca abajo, ella encima al mando; el que lo ve todo cerrando su percepción de sangre).
+- **El fogonazo de la primera sangre de Ochaco**: niña de 8 años con casco de más en la obra, sumando en la calculadora coja mientras sus padres discutían facturas — *"aprendió que ella no llora, ella sostiene."* La raíz que Akari ahora custodia.
+- **Cláusula de donante de Ochaco**: *"Los cólicos me los quitas SIEMPRE, no solo el día que te apetezca cobrar. Bienvenido a mi coño y a mi tribu, hombre-planta."*
+- **Nejire, literal**: *"La ventana es para las noches robadas. La puerta es para lo de verdad. Te ofrezco las dos."* → Akari: *"Elijo la puerta. Con la ventana de propina."*
+- **Momo, al ser preguntada por su día**: *"Estoy cansada de ser fuerte para todo el mundo, y un poco menos cansada desde que me lo preguntas."*
+- **Jirō post-floración** (carrera): *"Estoy afinada. Como una cuerda que por fin da el tono después de años sonando plana. Asustada y afinada a la vez — un desastre de acorde, pero es el mío."* / **Ibara**: *"Mentiroso piadoso. Todo lo tuyo es del corazón. Es tu problema y tu virtud."*
+
 ## Información que NPCs tienen sobre Akari (perfil acumulado — cambios S15)
-- **Aizawa**: sabe la Fase 3 (Eco de firma) Y la Fase 4 (bucle biplaza, miles de km) Y que la savia frena Quirks emisores. Entiende que Akari es "exactamente lo que temían que descubrieran" → el vigía. Custodia del cuaderno; auditoría de Nezu sobre la fuga; contención total.
+- **Aizawa**: vio el beso con Nejire en Gamma (Akari reconoció el "primer leak sentimental": "espero que la parte profesional esté tan sincronizada como la otra"). Sabe la Fase 3 (Eco de firma) Y la Fase 4 (bucle biplaza, miles de km) Y que la savia frena Quirks emisores. Entiende que Akari es "exactamente lo que temían que descubrieran" → el vigía. Custodia del cuaderno; auditoría de Nezu sobre la fuga; contención total.
 - **Nejire**: socia de la Fase 3/4 (la vio entera; se subió a sus alas). Sabe del bucle y del techo sin mapear. NO sabe del bosque/Momo/rewind/aspecto temporal. Le ofreció familia (ventana/puerta).
-- **Momo**: sabe de Mei (cara a cara) y de Uraraka florecida (teléfono). Conoce la Fase 3/4 y el vigía (se lo contó en la llamada). NO sabe del taller de Midnight al rojo (por la logística; candidato si "florece").
-- **Midnight**: vio el Avatar Carmesí + la segunda piel usados como señuelo de camuflaje (para el taller). Sabe que Akari quiere que un ojo entrenado lo lea "menos peligroso de lo que es". NO sabe el porqué (borrado), ni el aspecto temporal/rewind, ni el bosque, ni Momo. Registró que él la sedujo a su juego.
+- **Momo**: sabe de Mei (cara a cara) y de Uraraka florecida (teléfono). Por la llamada sabe del vigía, de que la Fase 3 se presentó y se aceptó, y de la cita Nezu — la **Fase 4 simplemente no surgió (NO es secreto para ella; se la contará sin problema en cuanto toque)**. NO sabe del taller de Midnight al rojo (candidato si "florece").
+- **Midnight**: vio el Avatar Carmesí + la segunda piel usados como señuelo de camuflaje (para el taller). Sabe que Akari quiere "que lo miren y no sepan quién es, difuminarse entre su propia multitud" (sus palabras). NO sabe el porqué (borrado), ni el aspecto temporal/rewind, ni el bosque, ni Momo. Registró que él la sedujo a su juego.
 - **Uraraka**: FLORECIÓ. Ahora amante + guardiana + donante O+. Sabe savia/drenaje/hombre-planta + que él la bebe (regla/UA). NO sabe nombres/bosque/Momo/borrado/rewind/aspecto temporal. Le confesó su sueño de rendición (él ahora lo sabe; guardado para el futuro).
 - **Ibara**: aliada del sotobosque sensor (sabe que hay "una serpiente real" pero NO su cara). Sin cambio de niebla mayor.
 - **Jirō**: reencuentro; sin cambio de niebla (no sabe del rewind/Momo).

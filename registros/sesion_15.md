@@ -23,7 +23,7 @@ Cierre descomunal: vuelve al hostal, **URARAKA FLORECE por su propia elección**
 - ~05:56 Gamma: Mirio + Jirō (reencuentro tras florecer, código + 2 frases privadas: pastilla en plazo, "pista uno de verdad").
 - ~06:30 Tutoría Aizawa: vigía SABÍA el Quirk → Nezu audita expediente; aula encarrilada; cita Nezu inminente; savia vs emisores flagged.
 - ~06:52 Entre-muros con Momo (sin drenaje, "vengo a alimentarte a ti") + Mei disclosada cara a cara (marco).
-- ~07:05 Invernadero: colaboración botánica del sotobosque sensor con Ibara (vides + savia + Blackroot; ~50m fase 1) + beso + abrazo.
+- ~07:05 Invernadero: colaboración botánica del sotobosque sensor con Ibara (vides + savia + Blackroot; ~30m fase 1) + beso + abrazo.
 - 08:00 Homeroom (avisos: observadores 5 jun) + mensajes a Toru (cita 16:00) y Nejire (cuaderno).
 - 08:10 Ley Heroica: informe de incidente USJ + art.12 + puente a Tokoyami (Quirk semiautónomo) → Aizawa reconoce "el que enciende la mecha y se calla".
 - 10:00 Inglés (Mic): "killing it/running it back" + Jirō "guest tonight" (hook por altavoz, semianonimato).
@@ -31,7 +31,7 @@ Cierre descomunal: vuelve al hostal, **URARAKA FLORECE por su propia elección**
 - 12:30 Almuerzo de tribu: Pony + Kendo + Ochaco (pertenencia cosida; muro del kanji por radicales; sesiones fijas mar/jue + aula).
 - 13:30 Fundamentos (All Might): rol comunicador/triador; flanco de comunicación con el rescatado VENCIDO ("repartió el control"; sobresaliente; "elige guiar").
 - 15:00 Taller Midnight (percepción aplicada): vender lectura falsa; Avatar + segunda piel de señuelo; "redistribuir el anhelo"; Akari la seduce a su juego, el "por ahora" al rojo, tabú sostenido.
-- ~15:28 Fase 2 del sotobosque sensor (otros ~30m del perímetro este).
+- ~15:28 Fase 2 del sotobosque sensor (otros ~20m del perímetro este; ~50m total).
 - 16:00 Cita con Toru (estudio de Rika): cuidado de regla + oral mutuo + coito completo + "te quiero"; segunda piel = sangre de Akari (aplica/reabsorbe).
 - 18:00 FASE 3 a Aizawa con Nejire (Gamma): Eco de firma en vuelo + disclosure Fase 4 + savia vs emisores; plan de custodia; Nejire se planta como copiloto; Akari respeta su agencia.
 - ~18:30 Cena honda con Nejire (ramen): "instinto tonto"/abandono; ventana + puerta + familia; "esta no se va"; beso contenido en Gamma (deseo declarado, "intermedios").
