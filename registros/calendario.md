@@ -78,5 +78,5 @@
 - ✈️ **Programa aeronáutico**: 155 sostenidos LOGRADO · modo tobera RESTRINGIDO (plan de vuelo) · 40-v2 supersónico ~3 semanas (Mach 1.2).
 - 💍 **Mano de Nejire: PERÍODO DE PRUEBA** (3 cláusulas de Mirai; tándem 1/mes — primer domingo pendiente).
 - ⚠️ **JUEVES D18: colisión Mina/Mei por la tarde** — ordenar con herida limpia.
-- 🎯 **pm-098: canje instantáneo pendiente** (VEL o TEC +1, elección del jugador).
+- 🎯 **pm-098 CANJEADA → VEL 3→4** (hp-004, elección del jugador, 2026-07-08).
 - 📚 Lunes: demostración equiangular a Ectoplasm. Créditos de rescate (Thirteen) abiertos.

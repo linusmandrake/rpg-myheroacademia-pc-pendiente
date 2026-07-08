@@ -66,7 +66,7 @@
 - Liga: sin contacto.
 
 ## Stats y Quirk al cierre
-- PWR 4 · VEL 3 · TEC 4 · ING 4 · COO 3 (sin subida aplicada; **pm-098 = canje instantáneo pactado PENDIENTE de decisión del jugador: VEL o TEC**)
+- PWR 4 · VEL 3→**4** · TEC 4 · ING 4 · COO 3 (**pm-098 CANJEADA → VEL**, hp-004, elección del jugador aplicada justo tras el cierre)
 - Quirk: potencial 5 / **maestría 4 CONGELADA** (declinaciones 7ª —Midnight— y 8ª —Nejire—). Scars 0 (rewind libre; NO usado en D17). Pool alto (dos ingestas: B Rh− + A efervescente; "efervescencia residual" de Nejire unos días).
 - Nuevo: **modo tobera** (restringido por Aizawa), capullo aerodinámico sintonizado, bradicardia voluntaria 33 lpm, "emitir otra emisora", fragmento **ONDAS ×2 usos**.
 
@@ -93,7 +93,7 @@
 
 ## Progresión narrativa
 - Marcas ganadas: **pm-091..pm-106** (16 marcas, Σ 26 peso). HITOS MAYORES: **pm-093** (partida con Nezu — Fase 4 como carta + favor sin fecha) y **pm-101** (la puerta de los Hado + mano en período de prueba).
-- **pm-098 (155 sostenidos, peso 2 VEL/TEC): canje INSTANTÁNEO pactado en sesión — pendiente de que el jugador elija VEL o TEC** (el resto aplazado a cierre de Arco 1).
+- **pm-098 (155 sostenidos, peso 2): CANJEADA → VEL 3→4 (hp-004)**, elección del jugador aplicada tras el cierre (el resto aplazado a cierre de Arco 1).
 - Rutas: **ruta-007 hito 150 CUMPLIDO** (siguiente: Mach — bebé 40-v2, 3 semanas); **ruta-008 v2** avanzada (matrícula con asterisco); **ruta-011 NUEVA**: arsenal de rango (Ave María + galería de Snipe + anti-material con Aizawa a puerta cerrada).
 - Conocimientos: con-057..con-062 (balística de fluidos; doctrina anti-material/munición enemiga; bradicardia + otra emisora; modo tobera; el tasador; fragmento ondas ×2).
 - Maestría 4 congelada; sin subidas concedidas en cierre.
@@ -101,7 +101,7 @@
 ## Estado al cierre
 | Campo | Valor |
 |---|---|
-| PWR / VEL / TEC / ING / COO | 4 / 3 / 4 / 4 / 3 (canje pm-098 pendiente) |
+| PWR / VEL / TEC / ING / COO | 4 / **4** / 4 / 4 / 3 (pm-098 → VEL, hp-004) |
 | Quirk (potencial/maestría) | 5 / 4 congelada · scars 0 · pool alto |
 | Salud / heridas | Perfecta; cansancio feliz |
 | Saldo (yenes) | ¥46.920 |

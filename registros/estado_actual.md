@@ -5,7 +5,7 @@
 Akari duerme con Uraraka (sueño de rendición cumplido) tras "el día de la puerta": Nezu convertido en socio -dono (Fase 4 como carta, favor sin fecha, familia protegida), 155 km/h sostenidos + modo tobera, te-amo mutuo con Nejire y su mano concedida en período de prueba por una hermana de 14 años.
 
 ## PC
-Akari Hayami "Sanguine" — PWR 4 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk potencial 5 / maestría 4 (congelada; declinaciones 7ª y 8ª). Scars 0; pool alto (efervescencia de Nejire). Ubicación: hostal, habitación 4. **Canje pm-098 pendiente (VEL o TEC +1, pactado instantáneo).**
+Akari Hayami "Sanguine" — PWR 4 · **VEL 4** · TEC 4 · ING 4 · COO 3 (⬆ VEL 3→4: canje pm-098/hp-004) · Quirk potencial 5 / maestría 4 (congelada; declinaciones 7ª y 8ª). Scars 0; pool alto (efervescencia de Nejire). Ubicación: hostal, habitación 4.
 
 ## Arcos abiertos
 - **Arco 1** (integración/eclosión) — recta final: exámenes 5 jun + observadores; el tasador catalogando; caza de Nezu en marcha.
@@ -30,4 +30,3 @@ Akari Hayami "Sanguine" — PWR 4 · VEL 3 · TEC 4 · ING 4 · COO 3 · Quirk p
 
 ## Decisiones pendientes del jugador
 - **¿Cómo arranca el D18 jueves?** (correr 6:00 + cocina larga; ⚠️ ordenar la colisión de tarde Mina/Mei; canto Mika; kanji Pony; sala 3 de Jirō sin fecha).
-- **Canje de pm-098**: VEL o TEC (+1).
