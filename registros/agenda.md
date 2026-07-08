@@ -6,7 +6,19 @@
 
 *(Ninguna.)*
 
-## Agenda de ficción del PC (compromisos vivos — el GM avisa antes de saltarlos) — al cierre S11
+## Agenda de ficción del PC (compromisos vivos — el GM avisa antes de saltarlos) — al cierre S16
+
+- [ ] **JUEVES D18 (AQUÍ SE REANUDA, alba)**: correr **Uraraka 6:00** + **COCINA VERSIÓN LARGA** (prometida 2 veces) · 6:30 Aizawa · **kanji con Pony** (sesión fija jue) + estreno "profesora Tsunotori" · **lista 1-B de Kendo** para el aula firmada · **canto con Mika** (mis-024; tarifa: una nota delante de la banda) · ⚠️ **TARDE EN COLISIÓN: Mina (estreno madriguera dos, "ella pone hora y luces") Y Mei ("lo otro", en su pared con prioridad) — ORDENAR con herida limpia** · sala 3 de Jirō ("cuando tengas un hueco esta semana") sin fecha · 5k a tope pendiente de medir (ruta-006, "mañana" dicho el D17).
+- [ ] **VIERNES D19 (31 may)**: ⭐ **17:40 tren a KIOTO con Momo** (→ dom 2 jun) · **18:00 Nezu abre el SOBRE** · **devolver el Werther a Midnight** · ⚠️ **rito del viernes de Ibara — "no lo muevas dos veces": cuadrar ANTES de salir** · Werther con Todoroki antes de irse · regla de Mina ~31-1 (ciclo perdido, cuadrado).
+- [ ] **LUNES D22**: demostración formal de la generalización equiangular a Ectoplasm (trabajo voluntario).
+- [ ] **MIÉRCOLES 5 JUN (D24)**: EXÁMENES + observadores de la Comisión (Bakugo con objetivo declarado). Meta: matrícula en todo.
+- [ ] **VIE-SÁB 7-8 JUN**: mudanza a Heights Alliance (colchón ~¥30-50k).
+- [ ] **DOMINGO 9 JUN**: ⭐ 16:40 SIR NIGHTEYE (12 minutos).
+- [ ] **DOMINGO (1/mes)**: **tándem con los Hado** (cláusula 2 de Mirai — primer domingo por fijar).
+- [ ] Pendientes sin fecha: **canje pm-098 (VEL o TEC)** · créditos de rescate con Thirteen · galería de tiro de Snipe ("el material hipotético") · 2º ensayo de Midnight (2.000 palabras) · anti-material con Aizawa (puerta cerrada, cuaderno) · 40-v2 supersónico (~3 semanas) · volar a Mirai en el capullo (cláusula 3, antes que periodistas) · consulta savia-órganos a Momo · 'el 6' de Mina · venganza de Jirō (sala 3) · sparring Ojiro · fragmento de ÁCIDO ("algo grande, con estilo") · Tokoyami (oscuridad) · Midoriya (porteo) · presentación Nejire↔Momo ("con merienda") · tour del bosque a Momo · hipótesis munición de sangre enemiga (comprobar con Aizawa).
+
+### (histórico S11 — superado)
+
 
 - [ ] **SÁBADO D13 (HOY — AQUÍ SE REANUDA, 9:28)**: **9:30 Momo, toldo verde — 3 puntos** (cara a cara doble Ibara+Nejire · 2ª dosis savia-vs-cólicos "trae el antebrazo" · el destello de la bañera) · **TARDE: sesión mayor canciones-lección con Jirō** (pista 2) · shadowing de la grabación de radio en ratos muertos.
 - [ ] **DOMINGO D14**: regla de **Toru** al caer (~lun-mar por su cuenta; pactado: beber + oral + savia anti-cólicos). Estudio/descanso.

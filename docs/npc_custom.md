@@ -34,3 +34,26 @@
 
 - Ambos tienen su estado vivo en `registros/enemigos.csv` (avalista-001, coleccionista-sombras-001) y `registros/conocimientos.csv` (con-005, con-007, con-008). No duplicar aquí.
 - **[GM: coleccionista = concepto AFO, identidad reservada.]**
+
+
+## Familia Hado (custom — introducida S16/D17, "la puerta")
+
+> Casa de dos plantas cerca de UA; bicicletas apiladas (incluido el TÁNDEM de los domingos); campanillas de viento DENTRO ("una casa donde el viento canta nunca está vacía" — herencia de la abuela). Marco de la puerta con DOS columnas de marcas de altura: Nejire de pie / Nejire flotando ("porque las dos soy yo", desde los 4 años).
+
+### Hado Nanami (madre)
+- **Quirk**: sonar corto — siente las ondas que se acercan ("radar de hija"; llevaba un mes notando a Nejire llegar "contentísima").
+- **Oficio**: ilustradora científica (lápiz en el pelo; "los dibujos no avisan"; se le olvida existir cuando dibuja).
+- **Voz**: la misma ráfaga de preguntas que su hija, calibre superior. Akari la conquistó devolviéndole una ráfaga (los 6 porqués): "Nejire. *Cásate con él.* Nadie me había devuelto una ráfaga en veinte años."
+- Cargó a Akari un táper de curry al despedirlo ("los que vuelan desayunan fuerte").
+
+### Padre Hado (nombre no dado aún)
+- Grande, callado, cocina él ("su Quirk es que las cosas estén hechas" — Nanami). De los que se enteran de todo sin preguntar.
+- Tratados de paz en cuatro palabras: **"El que la trajo entera. Bienvenido."** / **"Domingo. Tándem."** (apagó el fuego durante la petición de mano = terremoto doméstico).
+
+### Hado Mirai (hermana, 14)
+- Versión de 14 años del huracán, dos tonos más seria. Apuntes subrayados a tres colores. "Voy a tener más Quirk que tú, dice mi tutor."
+- Llegó a la cena con una **lista de preguntas escrita** y la tachó entera menos una: **"Todo el mundo quiere a mi hermana cuando brilla. ¿Y cuando no brille?"** (ella la ha visto sin brillo; "los que solo la quieren luminosa no estaban").
+- **Autoridad competente de la mano de Nejire**: recibió la petición formal (reverencia) y la CONCEDIÓ **en período de prueba, renovable, vigilado**, con 3 cláusulas: (1) lo de "cuando no brille" es CLÁUSULA y ella vigila su cumplimiento; (2) domingo de tándem mínimo 1/mes; (3) volar en el capullo ANTES que ningún periodista.
+- Veredicto interno: *"Este estaba cuando pregunté lo de no brillar. Este se queda."*
+
+**Niebla**: la familia sabe que Akari es "el copiloto", que vuela, que la trajo entera del "pasillo de las velocidades" (el padre sabe más de lo que dice), que la ama ("yo la quiero igual" en la mesa) y que pidió la mano. **Nada** del Quirk profundo, drenajes, bosque ni política.
