@@ -1,32 +1,42 @@
 # Estado actual — RPG MHA Custom
-> Última actualización: 2026-07-08 · sesión 16 (Día 17, miércoles 29 may, ~5:10 → ~23:41).
+> Última actualización: 2026-07-09 · sesión 17 (D18 jueves 30 may → D22 lunes 3 jun COMPLETOS; apertura S18 en D23 martes 4 jun 5:45).
 
 ## En una frase
-Akari duerme con Uraraka (sueño de rendición cumplido) tras "el día de la puerta": Nezu convertido en socio -dono (Fase 4 como carta, favor sin fecha, familia protegida), 155 km/h sostenidos + modo tobera, te-amo mutuo con Nejire y su mano concedida en período de prueba por una hermana de 14 años.
+Akari vuelve de Kioto **prometido de Momo** (anillo de gema sanguina en cadena, al esternón de ella), con Ochaco convertida en guardiana-con-mapa y constitución de casa, la munición viva inventada y sin estrenar, y los EXÁMENES CON OBSERVADORES a un día (miércoles 5).
 
 ## PC
-Akari Hayami "Sanguine" — PWR 4 · **VEL 4** · TEC 4 · ING 4 · COO 3 (⬆ VEL 3→4: canje pm-098/hp-004) · Quirk potencial 5 / maestría 4 (congelada; declinaciones 7ª y 8ª). Scars 0; pool alto (efervescencia de Nejire). Ubicación: hostal, habitación 4.
+Akari Hayami "Sanguine" — PWR 4 · VEL 4 · TEC 4 · ING 4 · COO 3 · Quirk potencial 5 / **maestría 4 CONGELADA** (10 declinaciones; scars 0; rewind sin usar en S17).
+- **R11-ter**: fragmentos APILABLES — Creación ×7, Vides ×3, Invisibilidad ×2, Ácido ×2, ONDAS ×2, ZOOM ×1, **Sueño ×1**, Cola ×1, Endurecimiento ×1.
+- Nuevo: savia-que-habla (pública) · **munición viva guiada + Vesper** (secreta; decisión cuaderno pendiente) · gema sanguina · telégrafo del jardín · técnica vocal de Mika · Blackroot MONTURA (spec canon) · Grimbark, Myōbu, Iemori nombrados.
+- Bandolera: cartuchos de Momo (A) y Jirō (AB) sellados = reservas de examen.
 
 ## Arcos abiertos
-- **Arco 1** (integración/eclosión) — recta final: exámenes 5 jun + observadores; el tasador catalogando; caza de Nezu en marcha.
-- **Arco 2** (Nighteye/internados) — encendido (9 jun). **Programa aeronáutico** (40-v2 supersónico ~3 semanas).
+- **Arco 1 — exámenes con observadores** (miér 5): doctrina "castaños + que lean la lluvia"; hipótesis All Might confirmada (puntúa juicio; 9,6 el viernes).
+- **Arco del compromiso**: anillo entregado y aceptado; petición formal = tras la guerra de Momo (3 años). La sombra ahora pesa.
+- **Doctrina Heights** (mudanza vie-sáb 7-8): mapa a Ochaco HECHO · meriendas de pares pendientes (Nejire↔Momo con teatro de tres capas; Kyōka↔Toru; Ochaco↔flor semana del 9) · reglamento de Momo en redacción · ⚠️ colchón ~¥30-50k vs saldo ¥22.020.
 
 ## Misiones / internado activas
-- mis-030 convivencia Uraraka (día 3; cocina larga pendiente) · mis-033 Pony = "profesora Tsunotori" · mis-034 aula FIRMADA (1-B entra; lista de Kendo jue) · mis-035 sotobosque 80 m (primera detección) · mis-036 AVE MARÍA (ballesta-coartada) · mis-032 Midnight (matrícula; 2º ensayo) · mis-024 canto Mika (jue) · mis-020 Kioto (vie 17:40) · mis-023 exámenes 5 jun · créditos de rescate (Thirteen) ofrecidos.
+mis-023 exámenes (miér) · mis-024 canto Mika (sesión 1 cumplida; tarea diaria) · mis-034 aula de repaso OPERATIVA · mis-036 Ave María OPERATIVA (cero 25/50; galería lunes 16:00 FIJA; 10 secos/día) · plan de vuelo tobera: borrador 1 (borrador 2 el jueves; firma Aizawa) · Nighteye dom 9 16:40 · tándem Hado por fijar · rematch Ojiro post-exámenes.
 
 ## Hilos narrativos
-- **El tasador/coleccionista**: credencial de un muerto (3 años) leyó el expediente; el vigía cataloga; Nezu identificará al dueño ANTES que la Comisión. NO cambiar rutinas.
-- **El sobre de sangre**: Nezu lo abre el viernes a las 18:00 (Kioto como red de seguridad retroactiva).
-- **Sexoafectivos**: Nejire 8 PAREJA (mano en período de prueba; familia Hado ganada) · Uraraka 8 (sueño cumplido; flotó) · Midnight 4 (drenaje-auxilio + lamparita; tabú sostenido; NO florecida) · Mei 5 ("lo otro" jueves) · Mina 8 (madriguera dos; jueves) ⚠️ colisión Mina/Mei · Momo 9 ("agenda conmigo"; no sabe nada del D17 post-biombo; marco = solo floraciones nuevas → nada debido) · Jirō 10 (sala 3 pendiente) · Ibara 7 (rito vie a cuadrar con Kioto) · Toru 8 (sin escena D17).
+- **Midnight 🔴**: "por ahora" CON FECHA ("mientras mi firma puntúe, no… esa muerte pienso bailarla"); The Eldar → dos lágrimas; marcapáginas en la página 87; martes 11:40 primera clase post-Eldar. NO florecida; caución de Momo intacta.
+- **Nejire**: kanzashi guardado "para ella"; el nombre del árbol autodeducido y sellado por pacto de papel.
+- **Mei**: florecida; cómplice del anillo; la pared con el roadmap ("1. El árbol. 2. Mei — después").
+- **Jirō**: pista dos terminada; pista tres encargada; la reservada compartida.
+- **Tasador**: sin pasadas nuevas; el telégrafo del jardín lo espera (informe en tiempo real). Caza de Nezu de la credencial muerta: en curso. Vigilancia familia Hayami: activa. Aizawa: "bronca del jueves" (montura) anunciada.
+- 7 regalos de Kioto pendientes de beat: Mina, Ibara, Tsuyu, Pony, Todoroki, Tokoyami, Kendo (ver `registros/regalos.md`).
 
 ## Economía
-- Saldo **¥46.920** · sin deudas · beca ~junio.
+Saldo **¥22.020** · sin deudas · beca ~junio pendiente · ⚠️ colchón de mudanza no cabe en saldo actual. (Kioto entero: financiado por Momo. −¥23.000 aportados a la casa/Ochaco.)
 
 ## Reputación y facciones
-- UA: socio -dono (aula, pase nocturno, vigilancia familia, paraguas Fase 4). Comisión: credencial fantasma bajo caza (autor quizá NO sea la Comisión oficial). Coleccionista: hipótesis reforzada (tasador). Liga: sin contacto. Prensa: sin cambios.
+Mediática sin cambios · **Nezu**: sobre leído a la hora exacta y CERO movimientos (la red funcionó); favor sin fecha devengando · Aizawa: bóveda (sabe Momo+Nejire; guarda) + token de confianza · Comisión: observadores el miércoles · Liga: sin contacto.
 
-## Hitos conseguidos (S16)
-- Partida con Nezu jugada de igual a igual (pm-093, HITO MAYOR). La puerta de los Hado + mano en período de prueba (pm-101, HITO MAYOR). 155 sostenidos (pm-098, canje instantáneo pendiente) + modo tobera. Matrícula del taller de Midnight + primer drenaje (lamparita). Primer drenaje de Nejire (fragmento ONDAS ×2). Sueño de rendición de Ochaco cumplido. Marcas pm-091..pm-106 (26 peso).
+## Hitos conseguidos
+El SÍ de Kinkaku-ji (`hito_00_la_pregunta.mp4`) · escala inversa de Momo inaugurada ("Diez") · savia-órganos estrenada (el árbol primero) · Mei florecida + gema sanguina co-inventada · mapa+constitución con Ochaco · pista dos terminada · telégrafo del jardín · pizarra grande de los lunes · Ave María operativa · munición viva + Vesper · "Tsuyu-chan" · 5k 23:58 · 9,6 con All Might (comunicación 7→10).
 
 ## Decisiones pendientes del jugador
-- **¿Cómo arranca el D18 jueves?** (correr 6:00 + cocina larga; ⚠️ ordenar la colisión de tarde Mina/Mei; canto Mika; kanji Pony; sala 3 de Jirō sin fecha).
+1. **¿Cómo arranca el MARTES D23** (último día pre-exámenes: Midnight 11:40, All Might 13:30, repaso, regalos en cola)?
+2. **Munición viva**: ¿al cuaderno de Aizawa a puerta cerrada, o se guarda sin registrar?
+3. Financiación del colchón de mudanza (saldo ¥22.020).
+4. Marcas pm-107..118: aplazadas a cierre de Arco 1 (canjes cuando el jugador quiera).

@@ -6,7 +6,20 @@
 
 *(Ninguna.)*
 
-## Agenda de ficción del PC (compromisos vivos — el GM avisa antes de saltarlos) — al cierre S16
+## Agenda de ficción del PC (compromisos vivos — el GM avisa antes de saltarlos) — al cierre S17
+
+- [ ] **MARTES D23 (AQUÍ SE REANUDA, 5:45)**: último día antes de exámenes — correr 6:00 (grupo del alba) · 6:30 Aizawa (2ª tanda etiquetas; ⚠️ **decisión: munición viva al cuaderno, sí/no**; ¿bronca de la montura adelantada?) · martes lectivo: Ley Heroica 8:10 · Inglés 10:00 · **Hª del Arte 11:40 — primera clase con Midnight post-Eldar** · **ALL MIGHT 13:30** · repaso final · tarea diaria: 10 min respiración (Mika) + 10 disparos en seco (Snipe) · **7 regalos en cola de beats individuales**: Mina (tabi) · Ibara (semillas) · Tsuyu (netsuke) · Pony (pincel) · Todoroki (soba) · Tokoyami (omamori) · Kendo (sensu).
+- [ ] **MIÉRCOLES 5 JUN (D24): EXÁMENES escritos + prácticos con OBSERVADORES esa semana** (castaños podados; "que lean la lluvia"; Bakugo con objetivo declarado). Reservas: cartuchos de Momo (A) y Jirō (AB) en bandolera. Meta: matrícula en todo.
+- [ ] **JUEVES D25**: borrador 2 del plan de vuelo con Nejire + nombre de la munición viva ("la munición que caza se GANA el nombre") + la "bronca del jueves" de Aizawa (montura).
+- [ ] **VIE-SÁB 7-8 JUN (D26-27): MUDANZA a Heights Alliance** — ⚠️ colchón ~¥30-50k vs saldo ¥22.020 (resolver: beca/esperar/alternativa) · presentaciones de pares ANTES (Kyōka↔Toru; Nejire↔"Yaoyorozu" con kanzashi puesto) · reglamento de convivencia de Momo · un cuervo para la ventana de Mineta.
+- [ ] **SÁBADO**: respiración en cuestas con Mirio ("NO se discute").
+- [ ] **DOMINGO 9 JUN (D28)**: ⭐ 16:40 SIR NIGHTEYE (12 min) · ¿primer tándem Hado? (cláusula 2; Mirai lleva la cuenta) · dojo de Ojiro disponible los domingos.
+- [ ] **SEMANA DEL 9 JUN**: merienda de presentación Ochaco ↔ flor del bosque (Akari piensa en Mina; nombre NO dicho a Ochaco) — los tres, sin protocolo (pactada D21) · merienda Nejire↔"Yaoyorozu" (teatro de tres capas) · estudio conjunto de 1-A en la residencia Yaoyorozu (mis-031, carcasa de pares) · LUNES: pizarra grande de Ectoplasm + galería de Snipe 16:00 (fijas).
+- [ ] Pendientes sin fecha: 10k sub-50 para cerrar bloque 2 (ruta-006, antes de exámenes si se puede) · 2º ensayo de Midnight (2.000 palabras) · anti-material con Aizawa (puerta cerrada, cuaderno) · créditos de rescate con Thirteen · 40-v2 supersónico (~3 semanas) · volar a Mirai en el capullo · rematch Ojiro ("cola contra jardín") · fragmento de ÁCIDO ("algo grande, con estilo") · Tokoyami (la conversación de la oscuridad — el omamori es el puente) · Midoriya (porteo) · tour del bosque a Momo · consulta savia-órganos a Momo (estrenada — dar seguimiento) · 'el 6' de Mina (ahora 5,5, interés congelado) · pagaré del ciclo de Kioto (Akari → Mina, "no caduca") · el anillo de Mei (lo hará Akari a mano, sorpresa, post-graduación).
+
+### (histórico S16 — superado)
+
+### Agenda antigua de ficción del PC (compromisos vivos — el GM avisa antes de saltarlos) — al cierre S16
 
 - [ ] **JUEVES D18 (AQUÍ SE REANUDA, alba)**: correr **Uraraka 6:00** + **COCINA VERSIÓN LARGA** (prometida 2 veces) · 6:30 Aizawa · **kanji con Pony** (sesión fija jue) + estreno "profesora Tsunotori" · **lista 1-B de Kendo** para el aula firmada · **canto con Mika** (mis-024; tarifa: una nota delante de la banda) · ⚠️ **TARDE EN COLISIÓN: Mina (estreno madriguera dos, "ella pone hora y luces") Y Mei ("lo otro", en su pared con prioridad) — ORDENAR con herida limpia** · sala 3 de Jirō ("cuando tengas un hueco esta semana") sin fecha + **aftercare corto post-floración DEBIDO** (ventana del almuerzo no jugada) · 5k a tope pendiente de medir (ruta-006, "mañana" dicho el D17).
 - [ ] **VIERNES D19 (31 may)**: ⭐ **17:40 tren a KIOTO con Momo** (→ dom 2 jun) · **18:00 Nezu abre el SOBRE** · **devolver el Werther a Midnight** · ⚠️ **rito del viernes de Ibara — "no lo muevas dos veces": cuadrar ANTES de salir** · Werther con Todoroki antes de irse · regla de Mina ~31-1 (ciclo perdido, cuadrado).

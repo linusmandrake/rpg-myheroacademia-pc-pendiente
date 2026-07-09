@@ -56,3 +56,7 @@ C1-T1-D16,comida,varios,"Te hojicha para Todoroki + desayuno de hierro propio (r
 # Saldo al cierre S15 (D16 martes 28 may): ¥48.520. SIN DEUDAS. Gasto del dia: -¥1.800 (te/comidas). Convivencia con Uraraka EN CURSO (ahora ademas donante O+). Beca ~junio.
 C1-T1-D17,comida,nejire-001,"Cena gyudon Maruko con Nejire (extra higado, pago Akari)",-1600,gasto
 # Saldo al cierre S16 (D17 miercoles 29 may): ¥46.920. SIN DEUDAS. Gasto del dia: -¥1.600 (cena). Beca ~junio pendiente. Curry de Nanami Hado y bollo de Momo: gratis (regalos).
+C1-T1-D18,varios,mei-001,"Maquina expendedora (chocolate+galletas para la noche de fragua con Mei)",-400,gasto
+C1-T1-D19,casa,uraraka-001,"Aporte a la casa dejado a Ochaco antes de Kioto (ella lo reparte: 15k bote + 8k emergencias; 'los antojos se financian con besos')",-23000,gasto
+C1-T1-D21,comida,uraraka-001,"Merienda en la cafeteria de las tortitas (conversacion del mapa)",-1500,gasto
+# Saldo al cierre S17 (D22 lunes 3 jun): ¥22.020. SIN DEUDAS. Kioto entero (tren/ryokan/regalos x15) financiado por Momo. Beca ~junio pendiente. ⚠ Colchon de mudanza (~30-50k) NO cabe en saldo — resolver.
