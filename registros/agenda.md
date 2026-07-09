@@ -15,6 +15,7 @@
 - [ ] **VIE-SÁB 7-8 JUN**: mudanza a Heights Alliance (colchón ~¥30-50k).
 - [ ] **DOMINGO 9 JUN**: ⭐ 16:40 SIR NIGHTEYE (12 minutos).
 - [ ] **DOMINGO (1/mes)**: **tándem con los Hado** (cláusula 2 de Mirai — primer domingo por fijar).
+- [ ] **SEMANA DEL 9 JUN**: merienda de presentación Ochaco ↔ flor del bosque (Akari piensa en Mina; nombre NO dicho a Ochaco) — los tres, sin protocolo. Pactada D21 en la cafetería de las tortitas.
 - [ ] Pendientes sin fecha: créditos de rescate con Thirteen · galería de tiro de Snipe ("el material hipotético") · 2º ensayo de Midnight (2.000 palabras) · anti-material con Aizawa (puerta cerrada, cuaderno) · 40-v2 supersónico (~3 semanas) · volar a Mirai en el capullo (cláusula 3, antes que periodistas) · consulta savia-órganos a Momo · 'el 6' de Mina · venganza de Jirō (sala 3) · sparring Ojiro · fragmento de ÁCIDO ("algo grande, con estilo") · Tokoyami (oscuridad) · Midoriya (porteo) · presentación Nejire↔Momo ("con merienda") · tour del bosque a Momo · hipótesis munición de sangre enemiga (comprobar con Aizawa).
 
 ### (histórico S11 — superado)
