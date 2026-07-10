@@ -1,5 +1,5 @@
 # Punto de cierre — sesión 18 · Curso 1 · Trimestre 1 · Día 23 (martes 4 jun) COMPLETO · apertura: D24 miércoles 5 jun (EXÁMENES + OBSERVADORES) · Musutafu, hostal habitación 4
-> Auto-generado al cierre. Léase al abrir sesión nueva (junto a MEMORY.md + cabecera de AGENTS.md + avisos de CLAUDE.md).
+> Auto-generado al cierre. Léase al abrir sesión nueva (junto a registros/memoria_gm.md + cabecera de AGENTS.md + avisos de CLAUDE.md).
 
 ## Estado narrativo exacto
 - Ubicación: **Musutafu — hostal, habitación 4** (Akari y Ochaco dormidos; ronda de buenas noches a las diez enviada ~22:00).
@@ -121,11 +121,11 @@
 - **Mudanza Heights: vie-sáb 7-8 jun** (⚠️ colchón ~¥30-50k vs saldo ¥20.520 · presentaciones de pares · un cuervo para la ventana de Mineta).
 - **Nighteye: dom 9 jun 16:40.** **Plan de vuelo borrador 2: jueves.** **40-v2: ~2-3 semanas.** **Guerra de Momo: ahora con FECHA por fijar** (Kioto/noche con tiempo). **"Por ahora" de Midnight: muere cuando su firma ya no puntúe.** Caza de la credencial muerta / tasador: en curso.
 
-## Memorias de feedback (MEMORY.md)
+## Memorias de feedback (ver registros/memoria_gm.md)
 - Todas las previas vigentes. Especialmente activas en S18: [[pov-mas-interesante]] (POV Ochaco, Momo, Jirō, 1-B ×4, Present Mic, Todoroki, Tsuyu, Bakugo, Mina, Ibara), [[no-resumir-beats-de-vinculo]], [[narrativa-erotica-explicita]], [[regalos-y-gestos-con-peso]] (5 regalos como beats individuales), [[ritmo-narrativo-jugador]] (el jugador escribió varios turnos de Akari; el GM continúa desde ellos), [[niebla-informacion-npc]] (corrección Mina↔Jirō; disclosure parcial a Tsuyu), [[manejo-harem-sin-culpa]], [[secretos-heroe-fuera-del-marco]] (Midnight sin deuda a Momo), [[marco-momo-solo-floraciones]] (Tsuyu no florece → nada debido; Midnight no florece → caución solo si florece), [[voz-clase-1a]] (Iida, Monoma, los Guardianes, la clase entera en la fiesta Blur).
 
 ## Para reanudar la sesión nueva
-1. Leer este archivo + `MEMORY.md` + cabecera de `AGENTS.md` + avisos de `CLAUDE.md`.
+1. Leer este archivo + `registros/memoria_gm.md` + cabecera de `AGENTS.md` + avisos de `CLAUDE.md`.
 2. Saludar con cabecera 📅 (**Día 24 · miércoles 5 jun · Musutafu — hostal, habitación 4**, despertador del DÍA DE EXÁMENES).
 3. Confirmar el punto: PROMETIDO de Momo (asimetría cerrada + fecha de guerra por fijar), Ochaco con el mapa/constitución, munición viva registrada al cuaderno (prohibida en examen), perímetro verde/ámbar/rojo, 2 cartuchos de donante en bandolera, saldo ¥20.520 (⚠️ colchón), maestría 4 congelada (11 declinaciones), scars 0, Tsuyu en cortejo abierto (cita post-examen), banda de música en marcha.
 4. Presentar la decisión pendiente: **¿cómo afronta Akari el MIÉRCOLES D24 — el DÍA DE EXÁMENES con observadores?** — castaños podados, perímetro respetado, Bakugo buscando pelea, la matrícula summa cum laude en juego.

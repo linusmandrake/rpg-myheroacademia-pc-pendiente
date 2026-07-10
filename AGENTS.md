@@ -130,7 +130,7 @@ Toga Himiko tiene una línea y velo específica con 5 preguntas. En esta campañ
 
 ### Apertura (skill: `apertura-sesion-mha` cuando exista)
 
-1. Leer `punto_cierre_actual.md` + cabecera de `AGENTS.md` + avisos en `CLAUDE.md`.
+1. Leer `registros/punto_cierre_actual.md` + `registros/memoria_gm.md` + cabecera de `AGENTS.md` + avisos en `CLAUDE.md`.
 2. Verificar consistencia con `pj.csv` y `companeros.csv`.
 3. Saludar al jugador con cabecera 📅 + resumen breve de estado + decisión pendiente.
 
@@ -225,10 +225,10 @@ Pasos de integración ya completados:
 1. ✅ Carpeta renombrada a `rpg-myheroacademia-akari-hayami`.
 2. ✅ Ficha en `docs/personaje_akari_hayami.md` (`personaje_pc_pendiente.md` se conserva como índice histórico).
 3. ✅ `registros/pj.csv` poblado con la ficha inicial.
-4. ✅ Sesión cero ejecutada y campaña en marcha (sesiones 1-4 jugadas, Días 1-4 de ficción).
+4. ✅ Sesión cero ejecutada y campaña en marcha. La sesión y el día vigentes se consultan en `registros/punto_cierre_actual.md`.
 
 ---
 
 ## Estado de la campaña
 
-**Campaña EN MARCHA** (el esqueleto inicial quedó atrás el 2026-07-01): 4 sesiones jugadas, `docs/` y `registros/` operativos. La fuente de verdad del estado vivo es `registros/` (punto_cierre_actual.md + CSVs); NPCs custom en `docs/npc_custom.md`.
+**Campaña EN MARCHA** (el esqueleto inicial quedó atrás el 2026-07-01). La fuente narrativa vigente es `registros/punto_cierre_actual.md`; los valores viven en los CSV y la historia canónica en `sesion_XX.md` + `cronologia.csv`. NPCs custom en `docs/npc_custom.md`.

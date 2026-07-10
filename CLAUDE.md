@@ -9,4 +9,11 @@
 - **EDAD CANON SUBIDA A 18+.** Todo personaje canon de MHA (Midoriya, Bakugo, Todoroki, Uraraka, etc.) tiene **18+ años** en esta campaña. Eso significa: firmas contratos como pro-hero, vida sexual activa, beber alcohol, vida en pareja, rentan piso,etc. Adaptar las relaciones y tramas a esa edad adulta.
 - **LÍNEA Y VELO DE TOGA: SÍ A TODO.** Las 5 preguntas de Toga Himiko (extracción de sangre, vampirismo, daño íntimo, obsesión con terceros, límite absoluto) están confirmadas como "sí a todo". **Toga está disponible sin restricciones pre-puestas**, pero la meta-regla sigue aplicando — si durante una escena con Toga algo molesta, se para y se corrige.
 - **PC DEFINIDO — Akari Hayami "Sanguine".** El PC es **Akari Hayami (明里 速水)**, homebrew de 18 años con el Quirk *Sanguine Verdant Echo*. Ficha en `docs/personaje_akari_hayami.md`, CSV en `registros/pj.csv`. La carpeta se renombró a `rpg-myheroacademia-akari-hayami` (el descriptor `pc-pendiente` ya no aplica).
-- **CAMPAÑA EN MARCHA (el aviso de "esqueleto" ya no aplica):** hay 4 sesiones jugadas (Días 1-4 de ficción) y todos los `registros/*.csv` + archivos de estado están operativos. La fuente de verdad del estado es `registros/` (punto_cierre_actual.md + CSVs). NPCs custom (Sabueso, familia Hayami) en `docs/npc_custom.md`.
+- **CAMPAÑA EN MARCHA.** La sesión y el día vigentes se consultan en `registros/punto_cierre_actual.md`; los valores estructurados viven en los CSV y la historia en las sesiones. NPCs custom en `docs/npc_custom.md`.
+
+## Referencias operativas
+
+- Apertura: `registros/punto_cierre_actual.md` + `registros/memoria_gm.md`.
+- Jerarquía de datos: `docs/registros_campania.md`.
+- Combate: `docs/combate.md` + `tools/resolver_accion.py`.
+- Validación al cierre: `python3 tools/validar_estado.py`.

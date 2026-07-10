@@ -1,41 +1,20 @@
-# Resumen rápido — RPG MHA Custom
+# Resumen rápido — índice operativo
 
-> TL;DR para abrir sesión sin releer todo. Última actualización: pendiente.
+> Este archivo no duplica el estado vivo para evitar snapshots contradictorios.
 
-## Estado en una frase
+## Para abrir sesión
 
-Campaña TTRPG My Hero Academia custom; PC por definir; esqueleto inicial creado; sin sesiones jugadas.
+1. Leer **registros/punto_cierre_actual.md**: estado narrativo exacto, recursos críticos y decisión pendiente.
+2. Leer **registros/memoria_gm.md**: preferencias persistentes de dirección.
+3. Consultar **registros/estado_actual.md** si se necesita una vista breve.
+4. Consultar los CSV solo para el dominio que intervenga en la escena.
 
-## PC
+## Jerarquía
 
-*(Pendiente de definir en `docs/sesion_cero.md`.)*
+- Estado narrativo vigente: registros/punto_cierre_actual.md.
+- Datos estructurados: registros/*.csv.
+- Historia canónica: registros/sesion_XX.md y registros/cronologia.csv.
+- Reglas y world-building: docs/.
+- Configuración de dirección: AGENTS.md y CLAUDE.md.
 
-## Decisiones pendientes (orden de prioridad)
-
-1. Definir PC (nombre, curso, quirk, backstory).
-2. Decidir tono específico de la campaña.
-3. Decidir año de inicio (canon año 1 / custom).
-4. Decidir arco inicial.
-5. Renombrar carpeta y poblar `registros/pj.csv`.
-
-## Facciones activas
-
-- UA (aliado)
-- Liga de Villanos (enemigo de fondo)
-- Comisión de Seguridad Pública (aliado ambiguo)
-
-## Arcos abiertos
-
-*(Ninguno hasta que se defina el PC y el primer arco.)*
-
-## Hilos narrativos activos
-
-*(Ninguno.)*
-
-## Decisión pendiente del jugador
-
-*(Esperando definición del PC.)*
-
-## Próxima sesión
-
-*(Por programar.)*
+El resumen original del esqueleto se conserva en docs/historico/resumen_rapido_esqueleto.md.

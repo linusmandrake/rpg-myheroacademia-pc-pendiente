@@ -1,76 +1,74 @@
 # Registros de campaña — RPG MHA Custom
 
-> Convenciones de los registros persistentes. Todo lo que cambia sesión a sesión va aquí.
+> Convenciones de persistencia. Esta jerarquía evita que una vista resumida contradiga a la historia o a los datos estructurados.
 
-## Principio rector
+## Jerarquía de verdad
 
-**Un CSV por concepto, una fila por entidad.** Los CSVs son la fuente de verdad operativa. Los `.md` narrativos complementan, pero los datos numéricos viven en CSV.
+1. **punto_cierre_actual.md**: ubicación, hora, estado narrativo y decisión pendiente.
+2. **CSV por dominio**: valores actuales y entidades consultables.
+3. **sesion_XX.md + cronologia.csv**: historia canónica; nunca se poda para actualizar el presente.
+4. **estado_actual.md**: resumen derivado y reemplazable.
+5. **agenda.md y ganchos_futuros.md**: planificación, no hechos consumados.
+6. **docs/**: reglas, concepto inicial y world-building.
 
-## CSVs en `registros/`
+Si dos fuentes discrepan, la crónica determina qué ocurrió; el CSV debe reconciliar el valor actual y el punto de cierre debe reflejar la posición final.
 
-| Archivo | Contenido | Una fila por… |
-|---|---|---|
-| `pj.csv` | Ficha del PC (stats, quirk, equipo, finanzas) | PC |
-| `companeros.csv` | Compañeros de clase / aliados cercanos | NPC aliado |
-| `mentores.csv` | Profesores, maestros, senseis | mentor |
-| `equipo_pc.csv` | Equipo del PC (costume, gadgets, apoyo) | ítem |
-| `finanzas.csv` | Ingresos, gastos, deudas, becas | movimiento |
-| `reputacion.csv` | Cobertura mediática, ranking, fans/haters | evento |
-| `entrenamientos.csv` | Sesiones de entrenamiento, sudor | sesión |
-| `misiones.csv` | Misiones de internado, patrullaje, rescate | misión |
-| `examenes.csv` | Exámenes UA, license exam, simulacros | examen |
-| `incidentes.csv` | Incidentes villanos, asalto, dar la alarma | incidente |
-| `enemigos.csv` | Villanos conocidos, amenazas | villano |
-| `conocimientos.csv` | Cosas que el PC sabe o ha aprendido | conocimiento |
-| `expediente_academico.csv` | Expediente académico por asignatura: flancos, mediciones, puntos débiles, refuerzos (meta: summa cum laude) | evaluación/nota |
-| `progreso_narrativo.csv` | Marcas narrativas (peso 1/2/3) | marca |
-| `hitos_progresion.csv` | Subidas concedidas | subida |
-| `rutas_crecimiento.csv` | Caminos de subida activos | ruta |
-| `cronologia.csv` | Timeline canónico de la campaña | día/fecha |
-| `facciones_estado.csv` | Estado de cada facción | facción |
-| `relaciones.csv` | Perfil multidimensión por vínculo: closeness (afecto 0–10) + deseo + confianza + compromiso + régimen + marco + dificultad + hitos | NPC |
+## CSV operativos
 
-## Archivos `.md` en `registros/`
-
-| Archivo | Contenido |
+| Archivo | Una fila por |
 |---|---|
-| `agenda.md` | Tareas/mejoras de campaña |
-| `estado_actual.md` | Resumen del estado al cierre de la última sesión |
-| `punto_cierre_actual.md` | Estado narrativo exacto + decisión pendiente del jugador (clave para abrir sesión) |
-| `deudas_favores.md` | Quién le debe qué a quién |
-| `eventos_calendario.md` | Fechas importantes (examen final, festival, etc.) |
-| `calendario_referencia.md` | Calendario académico UA |
+| pj.csv | PC |
+| companeros.csv | compañero o aliado |
+| mentores.csv | mentor |
+| relaciones.csv | vínculo sexoafectivo |
+| equipo_pc.csv | ítem |
+| finanzas.csv | movimiento |
+| reputacion.csv | evento reputacional |
+| misiones.csv | misión o compromiso |
+| expediente_academico.csv | asignatura |
+| conocimientos.csv | conocimiento |
+| enemigos.csv | amenaza |
+| facciones_estado.csv | facción |
+| progreso_narrativo.csv | marca |
+| hitos_progresion.csv | subida concedida |
+| rutas_crecimiento.csv | ruta |
+| cronologia.csv | evento canónico |
 
-## Sesiones de agente
+Los campos escalares guardan estado actual. La prosa extensa pertenece a sesiones y cronología. El contenido histórico que ya existe dentro de celdas no se elimina: se conserva hasta una migración explícita con archivo de respaldo.
 
-- Carpeta: `registros/_opencode_sessions/`
-- Una subcarpeta por sesión con nombre aleatorio.
-- **NO se commitea** (ver `.gitignore`).
+## Markdown operativo
 
-## Regla de oro
+| Archivo | Función |
+|---|---|
+| punto_cierre_actual.md | reapertura exacta |
+| estado_actual.md | dashboard derivado |
+| memoria_gm.md | preferencias persistentes de dirección |
+| agenda.md | compromisos con fecha |
+| ganchos_futuros.md | semillas y posibilidades |
+| calendario.md | fechas y relojes |
+| regalos.md | continuidad de regalos |
+| sesion_XX.md | acta canónica de sesión |
 
-**Si cambia, va a CSV.** Si es narrativo extenso, va a `.md` enlazando al CSV.
+## Regla de preservación
 
-## Sistema de relaciones
+- El world-building, las crónicas y los detalles emocionales no se borran por estar antiguos.
+- Lo superado sale de la vista operativa mediante archivo, no mediante eliminación.
+- Un cambio de esquema CSV requiere copia histórica o migración verificable.
+- La ficha narrativa puede conservar valores iniciales; los valores actuales viven en pj.csv.
 
-Ver `docs/sistema_relaciones.md` para el detalle completo. Resumen:
+## Cierre de sesión
 
-- Cada NPC tiene una **dificultad de relación** (1–10) basada en personalidad canon y obstáculos externos.
-- El PC lleva un track de **Closeness** (0–10, eje **afecto**) por NPC en `registros/relaciones.csv`, un eje **deseo** aparte (0–10 o `—` si no aplica) y un flag `anclado` (si/no).
-- **Dos ejes:** *afecto* (universal) y *deseo* (íntimo, **no se abre por defecto**: `—` para figuras maternas, abuelas, amistades, duelo, mentoras; 18+ habilita pero no obliga).
-- Las acciones que coinciden con la personalidad del NPC suben Closeness; las que no, la bajan o congelan.
-- **Dos regímenes:** un vínculo **volátil** (no anclado) se enfría con el tiempo si se desatiende; un vínculo **anclado** (cruzó un hito de afecto sincero) ya **no** decae por el paso del tiempo, solo por eventos con peso (traición, abandono, daño).
-- Los hitos emocionales (primer beso, primera confesión, primer sexo, ruptura, etc.) tienen **peso narrativo** (0/1/2/3) y se registran en `progreso_narrativo.csv`.
+1. Crear o extender sesion_XX.md.
+2. Actualizar solo los CSV afectados.
+3. Actualizar agenda, calendario y ganchos.
+4. Regenerar estado_actual.md.
+5. Reescribir punto_cierre_actual.md con una única decisión pendiente.
+6. Ejecutar python3 tools/validar_estado.py.
 
-## Procedimiento de cierre de sesión
+## Apertura
 
-1. Auditar el estado (ver `tools/validar_estado.py`).
-2. Actualizar CSVs.
-3. Reescribir `punto_cierre_actual.md`.
-4. Crear/extender `sesion_XX.md` en `registros/_opencode_sessions/`.
-
-## Procedimiento de apertura de sesión
-
-1. Leer `punto_cierre_actual.md`.
-2. Leer cabecera de `AGENTS.md` y avisos en `CLAUDE.md`.
-3. Saludar al jugador con cabecera 📅 + resumen breve + decisión pendiente.
+1. Leer punto_cierre_actual.md.
+2. Leer memoria_gm.md.
+3. Leer la cabecera de AGENTS.md y los avisos de CLAUDE.md.
+4. Consultar el CSV del dominio necesario.
+5. Abrir con fecha, estado breve y decisión pendiente.

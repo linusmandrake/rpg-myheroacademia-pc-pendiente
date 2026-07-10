@@ -2,7 +2,7 @@
 
 > **Estado:** **PC definido.** El PC es **Akari Hayami (明里 速水)**, "Sanguine". Ver `personaje_akari_hayami.md` para la ficha completa.
 >
-> **Pendiente para sesión 1:** confirmar las líneas y velos personales del PC con el jugador (lo que está y lo que no está en la mesa).
+> **Estado de límites:** corrección reactiva vigente; no hay vetos nuevos registrados. Las decisiones de la plantilla inferior se conservan como historial de preparación.
 >
 > **Recordatorio:** campaña 18+ (ver `AGENTS.md` y `CLAUDE.md`). PC y NPCs son adultos.
 >
@@ -27,7 +27,7 @@ Esta meta-regla es la operativa de la campaña. Sustituye la idea tradicional de
 - **Relajar regla** (PC mujer o bi-cualquiera, explorar hombres) — *si el PC es mujer o el jugador quiere explorar hombres*
 - **Mantener regla + solo heterosexual** (PC masculino, solo mujeres)
 
-## Decisiones del PC — Homebrew
+## Plantilla histórica de decisiones del PC — resuelta en la ficha
 
 - **Nombre:** *(pendiente)*
 - **Edad:** 18+ *(mínimo legal; puede ser 19, 20, etc. según concepto)*
@@ -65,8 +65,6 @@ Esta meta-regla es la operativa de la campaña. Sustituye la idea tradicional de
 - **Tipo de exploración preferido:** *(a definir en sesión 1)*
 - **Ritmo de las relaciones:** *(a definir en sesión 1)*
 - **Tolerancia a triángulos, rupturas, drama:** *(a definir en sesión 1)*
-
-## Línea y velo de Toga Himiko (confirmada)
 
 ## Línea y velo de Toga Himiko (confirmada)
 
@@ -115,7 +113,7 @@ Esta meta-regla es la operativa de la campaña. Sustituye la idea tradicional de
 - **Líneas y velos:** *(definir con el jugador)*
 - **Líneas y velos específicos para relaciones:** *(ver bloque de arriba — "NPCs vetados", "tipo de exploración", etc.)*
 
-## Próximo paso
+## Próximo paso histórico — completado
 
 Tras acordar lo anterior:
 

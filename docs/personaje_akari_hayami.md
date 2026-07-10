@@ -1,6 +1,6 @@
 # Akari Hayami (明里 速水) — "Sanguine"
 
-> **PC definido.** Campaña `rpg-myheroacademia-akari-hayami`. PC homebrew, sin parentesco con NPCs canon. Llega a UA como **matriculado a última hora en 1-A** por recomendación especial. Tono 18+ adulto, sin censura inicial con corrección reactiva.
+> **Ficha narrativa y valores iniciales.** Conserva el concepto de sesión cero y su background. Los stats, maestría y vínculos vigentes se consultan en `registros/pj.csv`, `registros/relaciones.csv` y `registros/punto_cierre_actual.md`.
 
 ## Identidad
 
@@ -60,10 +60,10 @@ El Quirk del PC (Sanguine Verdant Echo) se manifestó a los **14 años** — **t
 - **Mecánica custom:** ver `docs/quirk_pc.md` y `docs/sistema_juego.md`. Tres aspectos manifestables (Avatar Carmesí, Bestias del Quirk, Ecos Temporales) más el cuerpo del PC.
 - **Limitaciones:** ver `docs/quirk_pc.md` — sangre, memory scars / disociación, savia en mal estado por cansancio, fuego, sequía, desangramiento fatal.
 - **Potencial (1–5):** **5 (máximo)** — el Quirk escala a top-tier y se mantiene relevante a endgame.
-- **Maestría actual (1–10):** **2** (3 años de entrenamiento en academia menor, pero acaba de llegar a UA; no domina todos los aspectos a la vez).
+- **Maestría inicial (1–10):** **2** (3 años de entrenamiento en academia menor, pero acaba de llegar a UA; no domina todos los aspectos a la vez).
 - **Evolución prevista:** ver `docs/quirk_pc.md` sección "Evolución natural". Maestría 1 → 10 a lo largo de la campaña.
 
-## Stats (escala 1–10)
+## Stats iniciales (escala 1–10)
 
 | Stat | Valor | Por qué |
 |---|---|---|
@@ -101,7 +101,7 @@ El Quirk del PC (Sanguine Verdant Echo) se manifestó a los **14 años** — **t
 
 ## Arcos vividos
 
-*(vacío — se llena conforme se juegan las sesiones; ver `arcos/arco_XX.md`)*
+La historia jugada se conserva en `registros/sesion_XX.md` y `registros/cronologia.csv`; no se duplica aquí.
 
 ## Vínculos románticos (sistema de Closeness)
 
@@ -134,10 +134,10 @@ El Quirk del PC (Sanguine Verdant Echo) se manifestó a los **14 años** — **t
 
 - **Amigos específicos de la academia de Osaka** (pueden aparecer en flashback o visita).
 - **Detalles del pro-hero que lo recomendó a UA** (NPC custom, no canon).
-- **Líneas y velos personales del PC** (definir en sesión 1 con el jugador).
-- **Primer interés romántico del PC** (se descubre jugando).
+- **Líneas y velos personales:** corrección reactiva vigente; no hay vetos nuevos registrados.
+- **Primer interés romántico:** Momo; desarrollo posterior registrado en `registros/relaciones.csv` y las sesiones.
 
-## Línea y velo (a confirmar con el jugador en sesión 1)
+## Línea y velo (estado de campaña)
 
 - ¿El PC tiene algún tema vetado? (preguntar al jugador)
 - ¿Hay algún NPC que el PC no quiere como interés romántico? (lista de vetos)
