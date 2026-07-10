@@ -33,7 +33,7 @@ Akari Hayami llega a UA como **matriculado a última hora en 1-A** (recomendaci�
 - Actualizar `registros/relaciones.csv`: subir de 0 las closeness de los NPCs con interacción real; anotar primeras impresiones en `notas`.
 - Registrar marcas en `progreso_narrativo.csv` (y subidas en `hitos_progresion.csv` si se conceden).
 - Regenerar `punto_cierre_actual.md` + `estado_actual.md` con el estado exacto y la decisión pendiente.
-- Si emerge un patrón de cómo dirigir, crear la primera memoria del proyecto en `~/.claude/projects/-opt-rpg-myheroacademia-akari-hayami/memory/` + `MEMORY.md` (aún no existe).
+- Si emerge un patrón persistente de dirección, registrarlo en `registros/memoria_gm.md`.
 
 ## Tono (recordatorio)
 

@@ -1,83 +1,29 @@
-# Agenda — RPG MHA Custom
+# Agenda activa — cierre de sesión 18
 
-> Tareas/mejoras pendientes en la campaña viva.
+> Solo compromisos vigentes desde D24. El historial completo hasta S17 está en registros/archivo/arco_01/agenda_snapshot_hasta_s17.md.
 
-## En curso
+## Próximo beat
 
-*(Ninguna.)*
+- [ ] **MIÉRCOLES 5 JUN (D24): EXÁMENES escritos + prácticos con OBSERVADORES esa semana.** Castaños podados; “que lean la lluvia”; perímetro verde/ámbar/rojo; Bakugo quiere hacerle soltar el freno. Reservas: cartuchos de Momo (A) y Jirō (AB). Meta: matrícula en todo.
+- [ ] **POST-EXAMEN:** cita de charla con Tsuyu; conocerse primero, sin manos.
 
-## Agenda de ficción del PC (compromisos vivos — el GM avisa antes de saltarlos) — al cierre S17
+## Fechas comprometidas
 
-- [ ] **MARTES D23 (AQUÍ SE REANUDA, 5:45)**: último día antes de exámenes — correr 6:00 (grupo del alba) · 6:30 Aizawa (2ª tanda etiquetas; ⚠️ **decisión: munición viva al cuaderno, sí/no**; ¿bronca de la montura adelantada?) · martes lectivo: Ley Heroica 8:10 · Inglés 10:00 · **Hª del Arte 11:40 — primera clase con Midnight post-Eldar** · **ALL MIGHT 13:30** · repaso final · tarea diaria: 10 min respiración (Mika) + 10 disparos en seco (Snipe) · **7 regalos en cola de beats individuales**: Mina (tabi) · Ibara (semillas) · Tsuyu (netsuke) · Pony (pincel) · Todoroki (soba) · Tokoyami (omamori) · Kendo (sensu).
-- [ ] **MIÉRCOLES 5 JUN (D24): EXÁMENES escritos + prácticos con OBSERVADORES esa semana** (castaños podados; "que lean la lluvia"; Bakugo con objetivo declarado). Reservas: cartuchos de Momo (A) y Jirō (AB) en bandolera. Meta: matrícula en todo.
-- [ ] **JUEVES D25**: borrador 2 del plan de vuelo con Nejire + nombre de la munición viva ("la munición que caza se GANA el nombre") + la "bronca del jueves" de Aizawa (montura).
-- [ ] **VIE-SÁB 7-8 JUN (D26-27): MUDANZA a Heights Alliance** — ⚠️ colchón ~¥30-50k vs saldo ¥22.020 (resolver: beca/esperar/alternativa) · presentaciones de pares ANTES (Kyōka↔Toru; Nejire↔"Yaoyorozu" con kanzashi puesto) · reglamento de convivencia de Momo · un cuervo para la ventana de Mineta.
-- [ ] **SÁBADO**: respiración en cuestas con Mirio ("NO se discute").
-- [ ] **DOMINGO 9 JUN (D28)**: ⭐ 16:40 SIR NIGHTEYE (12 min) · ¿primer tándem Hado? (cláusula 2; Mirai lleva la cuenta) · dojo de Ojiro disponible los domingos.
-- [ ] **SEMANA DEL 9 JUN**: merienda de presentación Ochaco ↔ flor del bosque (Akari piensa en Mina; nombre NO dicho a Ochaco) — los tres, sin protocolo (pactada D21) · merienda Nejire↔"Yaoyorozu" (teatro de tres capas) · estudio conjunto de 1-A en la residencia Yaoyorozu (mis-031, carcasa de pares) · LUNES: pizarra grande de Ectoplasm + galería de Snipe 16:00 (fijas).
-- [ ] Pendientes sin fecha: 10k sub-50 para cerrar bloque 2 (ruta-006, antes de exámenes si se puede) · 2º ensayo de Midnight (2.000 palabras) · anti-material con Aizawa (puerta cerrada, cuaderno) · créditos de rescate con Thirteen · 40-v2 supersónico (~3 semanas) · volar a Mirai en el capullo · rematch Ojiro ("cola contra jardín") · fragmento de ÁCIDO ("algo grande, con estilo") · Tokoyami (la conversación de la oscuridad — el omamori es el puente) · Midoriya (porteo) · tour del bosque a Momo · consulta savia-órganos a Momo (estrenada — dar seguimiento) · 'el 6' de Mina (ahora 5,5, interés congelado) · pagaré del ciclo de Kioto (Akari → Mina, "no caduca") · el anillo de Mei (lo hará Akari a mano, sorpresa, post-graduación).
+- [ ] **JUEVES D25:** borrador 2 del plan de vuelo con Nejire; nombre de la munición viva; bronca de Aizawa por la montura.
+- [ ] **VIE-SÁB 7-8 JUN (D26-27): MUDANZA a Heights Alliance.** Colchón estimado ¥30-50k frente a saldo ¥20.520; resolver beca, espera o alternativa. Antes: Kyōka↔Toru y Nejire↔Yaoyorozu; reglamento de convivencia; cuervo para la ventana de Mineta.
+- [ ] **SÁBADO:** respiración en cuestas con Mirio.
+- [ ] **DOMINGO 9 JUN (D28), 16:40:** Sir Nighteye, 12 minutos. Posibles tándem Hado y dojo de Ojiro.
+- [ ] **SEMANA DEL 9 JUN:** merienda Ochaco↔flor; merienda Nejire↔Yaoyorozu; estudio de 1-A en residencia Yaoyorozu; lunes de pizarra Ectoplasm y galería Snipe 16:00.
 
-### (histórico S16 — superado)
+## Sin fecha
 
-### Agenda antigua de ficción del PC (compromisos vivos — el GM avisa antes de saltarlos) — al cierre S16
-
-- [ ] **JUEVES D18 (AQUÍ SE REANUDA, alba)**: correr **Uraraka 6:00** + **COCINA VERSIÓN LARGA** (prometida 2 veces) · 6:30 Aizawa · **kanji con Pony** (sesión fija jue) + estreno "profesora Tsunotori" · **lista 1-B de Kendo** para el aula firmada · **canto con Mika** (mis-024; tarifa: una nota delante de la banda) · ⚠️ **TARDE EN COLISIÓN: Mina (estreno madriguera dos, "ella pone hora y luces") Y Mei ("lo otro", en su pared con prioridad) — ORDENAR con herida limpia** · sala 3 de Jirō ("cuando tengas un hueco esta semana") sin fecha + **aftercare corto post-floración DEBIDO** (ventana del almuerzo no jugada) · 5k a tope pendiente de medir (ruta-006, "mañana" dicho el D17).
-- [ ] **VIERNES D19 (31 may)**: ⭐ **17:40 tren a KIOTO con Momo** (→ dom 2 jun) · **18:00 Nezu abre el SOBRE** · **devolver el Werther a Midnight** · ⚠️ **rito del viernes de Ibara — "no lo muevas dos veces": cuadrar ANTES de salir** · Werther con Todoroki antes de irse · regla de Mina ~31-1 (ciclo perdido, cuadrado).
-- [ ] **LUNES D22**: demostración formal de la generalización equiangular a Ectoplasm (trabajo voluntario, "traiga tiza propia") · **16:00 GALERÍA DE SNIPE** (estreno; llevar el bebé 42 "hipotéticamente terminado" + antebrazo; dato de Snipe D18: paso de estría LARGO ~1 vuelta/40 cm para camisa elástica — "el paso del carril lo decide la munición, no el entusiasmo").
-- [ ] **MIÉRCOLES 5 JUN (D24)**: EXÁMENES + observadores de la Comisión (Bakugo con objetivo declarado). Meta: matrícula en todo.
-- [ ] **VIE-SÁB 7-8 JUN**: mudanza a Heights Alliance (colchón ~¥30-50k).
-- [ ] **DOMINGO 9 JUN**: ⭐ 16:40 SIR NIGHTEYE (12 minutos).
-- [ ] **DOMINGO (1/mes)**: **tándem con los Hado** (cláusula 2 de Mirai — primer domingo por fijar).
-- [ ] **SEMANA DEL 9 JUN**: merienda de presentación Ochaco ↔ flor del bosque (Akari piensa en Mina; nombre NO dicho a Ochaco) — los tres, sin protocolo. Pactada D21 en la cafetería de las tortitas.
-- [ ] Pendientes sin fecha: créditos de rescate con Thirteen · galería de tiro de Snipe ("el material hipotético") · 2º ensayo de Midnight (2.000 palabras) · anti-material con Aizawa (puerta cerrada, cuaderno) · 40-v2 supersónico (~3 semanas) · volar a Mirai en el capullo (cláusula 3, antes que periodistas) · consulta savia-órganos a Momo · 'el 6' de Mina · venganza de Jirō (sala 3) · sparring Ojiro · fragmento de ÁCIDO ("algo grande, con estilo") · Tokoyami (oscuridad) · Midoriya (porteo) · presentación Nejire↔Momo ("con merienda") · tour del bosque a Momo · hipótesis munición de sangre enemiga (comprobar con Aizawa).
-
-### (histórico S11 — superado)
-
-
-- [ ] **SÁBADO D13 (HOY — AQUÍ SE REANUDA, 9:28)**: **9:30 Momo, toldo verde — 3 puntos** (cara a cara doble Ibara+Nejire · 2ª dosis savia-vs-cólicos "trae el antebrazo" · el destello de la bañera) · **TARDE: sesión mayor canciones-lección con Jirō** (pista 2) · shadowing de la grabación de radio en ratos muertos.
-- [ ] **DOMINGO D14**: regla de **Toru** al caer (~lun-mar por su cuenta; pactado: beber + oral + savia anti-cólicos). Estudio/descanso.
-- [ ] **LUNES D15**: correr **Uraraka 6:00** (CONFIRMADO por ella) · 6:30 Aizawa · **"don't sleep on it"** para Mic (homework by request) · problema fuera de curso de **Ectoplasm**.
-- [ ] **MARTES D16**: ⭐ **18:00 Gamma — presentación de FASE 3 a Aizawa (con Nejire)**. Contención total hasta entonces (ni a baja potencia).
-- [ ] **MIÉRCOLES D17**: correr **Kendo 5:30** + **Uraraka 6:00** · 6:30 Aizawa (revisión semanal de etiquetas los viernes; 3 tandas/sem en privado) · **15:30 tutoría Midnight (LATIDO A LATIDO — deuda de dirección)** · **17:00 sesión 2 del club: VELOCIDAD** (objetivo 150 km/h; pasillo/papeles de Nejire) **+ PRIMER DRENAJE de Nejire** (pactado con letra pequeña completa; capullo aerodinámico — "quiero ver la estructura nacer de mí") — **ANTES: Mei Hatsume** (costume debido + telemetría/tubo de Pitot).
-- [ ] **JUEVES D18**: primera clase de canto con **Mika** (mis-024; tarifa: una nota delante de la banda).
-- [ ] **VIERNES D19 (31 may)**: ⭐ **17:40 tren a KIOTO con Momo → domingo 2 jun** (2 noches; ryokan nombre falso; coartada de estudio literal; billetes de ella). Club del viernes: reprogramación automática (cláusula). ⚠️ **Regla de Mina ~31-1: CUADRAR CON ELLA antes de salir** ("no pasa nada" declarado — falta jugarlo). Rito del viernes de Ibara: reprogramar/cuadrar también.
-- [ ] **MIÉRCOLES 5 JUN (D24)**: EXÁMENES escritos + semana de prácticos **CON OBSERVADORES DE LA COMISIÓN** (castaños podados; rendimiento constante) + **Bakugo con objetivo declarado** (hacerle soltar el freno ese día). Meta: matrícula de honor en todo.
-- [ ] **VIE-SÁB 7-8 JUN**: **MUDANZA a Heights Alliance** (habitación asignada; mobiliario de savia APROBADO por Nezu; comprar colchón bueno ~¥30-50k).
-- [ ] **DOMINGO 9 JUN**: ⭐ **16:40 — SIR NIGHTEYE, 12 minutos, cauce de pasantía** (sí, domingo: Sir trabaja los siete días) (16:40:00 exactos; Mirio acompaña hasta la puerta; "déjale aire" — consejo de Nejire; administrar el presente — Aizawa).
-- [ ] Pendientes sin fecha: consulta a **Momo** de la propuesta savia-órganos (bendecida A CIEGAS — responder sus 2 preguntas de seguridad) · 'el 6' que le debe a Mina (**categoría subida** 🐍🔥) · venganza de Jirō ('sala 3, con intereses') · devolver los **cuadernos de Nejire** · sparring semanal con **Ojiro** · fragmento de ÁCIDO ('algo grande, con estilo' — listón subido) · **Tokoyami** buscará la conversación de la oscuridad · **Midoriya** pedirá clases de porteo · presentación **Nejire↔Momo** ("con merienda") · tour del bosque a Momo (sin deuda, cuando Akari quiera) · rondas nocturnas: fijar las de la semana (2-3, no consecutivas).
-
-### (histórico S8 — superado)
-
-- [ ] **Lunes D8**: ✅ 6:30 Aizawa (hecho: delegación sobrevive a Erasure) · ✅ Midnight (ensayo para el VIERNES + tutorías miér 15:30 ×2) · ✅ Ibara (experimento propuesto; respuesta el MIÉRCOLES; contacto conseguido) · ✅ micro-toma de Momo (entre-muros; PRIMER NO a la savia en escena; matriz de punto fijo pendiente) · ~~agente del piso~~ (sin cita real — canon corregido) · CITA **JIRŌ** = ESTUDIAR + abrazo (¿biblioteca o su casa? — decidiendo; la canción sobre él sigue en su bolsillo, iniciativa suya).
-- [ ] **Martes D9**: ⭐ CITA **TORU** (CONFIRMADA; sitio sorpresa suyo; su te-quiero sigue armado).
-- [ ] **Miércoles D10**: 5:30 Gamma correr con **KendO** (café cruzado en juego) · entregar **INFORME del flanco este** a Aizawa (mis-017) · savia con **Ibara**.
-- [ ] **Jueves D11**: ⭐ cita SORPRESA con **Mina** ("el jueves trae hambre").
-- [ ] **Viernes D12**: regla de Momo día 1 → **experimento savia-vs-cólicos** + suscripción a la fuente · savia con **Ibara**.
-- [ ] **Semana del D13**: sesión de evacuación con **Aizawa de villano activo** (mis-018).
-- [ ] **Recurrente hasta exámenes (~2 sem)**: RONDAS NOCTURNAS del campus con **Aizawa**, supervisadas, 2-3 noches/semana — castigo-servicio autoimpuesto/negociado por lo del colector (D10). Límite de Aizawa: si notas o Quirk se resienten de verdad, se acaba (es servicio, no suicidio académico). Akari lo acepta sin creerlo justo ('confronto opinión, no me quejo'). SÍNTESIS de la lección: red team AUTORIZADO = permiso de arriba + sorpresa a los de abajo; lo que faltó fue el aviso de intención a Aizawa/Nezu, no el test en sí.
-- [ ] **~D8-D12**: primer pago de la **beca** (¥100.000) → devolver ¥33.800 a **Hagakure**.
-- [ ] Sin fecha: **peldaño robado** con Momo esta semana (candidato a punto de micro-toma) · cita con **Nezu** ("pronto", según Aizawa) · exámenes en ~2 semanas (plan de flancos) · costume (Mei).
-
-## Backlog
-
-- [ ] Definir PC (ver `docs/sesion_cero.md`)
-- [ ] Renombrar carpeta y poblar registros
-- [ ] Implementar `tools/resolver_accion.py` y `tools/validar_estado.py`
-- [ ] Crear las 7 skills de `.claude/skills/` específicas del proyecto
-- [ ] Rellenar `catalogos/` con quirks canon, costumes, villanos, agencias
-- [ ] Decidir año de inicio y arco inicial
-
-## Hecho
-
-- [x] 2026-06-29: Esqueleto inicial creado (carpeta + estructura + docs/ + AGENTS.md + README.md + REGISTRO_TAREAS).
-- [x] 2026-06-29: Repo público creado en `github.com/linusmandrake/rpg-myheroacademia-pc-pendiente`.
-- [x] 2026-06-29: Tono actualizado a **18+ adulto** (violencia + sexo explícitos). AGENTS.md, CLAUDE.md, README.md, sesion_cero.md, npc_canon.md, progresion_temprana.md, facciones.md, glosario.md, punto_cierre_actual.md actualizados. Todos los personajes (PC + NPCs canon) subidos a 18+.
-- [x] 2026-06-29: **Sistema de relaciones** añadido. `docs/sistema_relaciones.md` creado con escala 1–10, track de Closeness 0–10, pesos narrativos de hitos, obstáculos por arquetipo. `docs/npc_canon.md` actualizado con campo "Dificultad de relación" por NPC. `registros/relaciones.csv` creado. `docs/sesion_cero.md` con bloque de decisiones románticas. `docs/progresion_temprana.md` con dinámica por arcos. `docs/registros_campania.md` con referencia al nuevo sistema. `tools/validar_estado.py` chequea el nuevo CSV.
-- [x] 2026-06-29: **Regla de romance aplicada:** mujeres = opción romántica/sexual (con Dificultad 1–10), hombres = amistad/rivalidad/mentor (con Vínculo, no opción romántica). `docs/sistema_relaciones.md` con sección "Aplicación por género del NPC". `docs/npc_canon.md` reescrito: por cada NPC se marca sexo (M/F) y se aplica la regla; hombres no tienen Dificultad, mujeres sí. Inko Midoriya quitada de la lista romántica (N/A por parentesco social con compañero). Profesores faltantes añadidos (Vlad King, Hound Dog). Otras escuelas añadidas (Shiketsu, Ketsubutsu, Seijin). Pro-heroines añadidas (Mt. Lady, Burnin, Pussycats). `docs/sesion_cero.md` con campo "Sexo/género" y "Orientación" del PC y opción de mantener/relajar la regla. `docs/progresion_temprana.md` con marcas por vínculo no romántico.
-- [x] 2026-06-29: **PC homebrew + llegada tardía o intercambio.** El PC no es un personaje canon; llega a UA como alumno de intercambio o matriculado a última hora. No tiene relación familiar ni de backstory con ningún NPC canon. Inko re-incluida como opción romántica adulta (sin lectura incestuosa; tabú social de "madre de compañero" se mantiene). Fuyumi Todoroki añadida como opción adulta. `docs/npc_canon.md` actualizado con nota homebrew. `docs/trasfondo_pc.md` creado con 3 tipos de llegada (intercambio, matriculado, custom) y 3 ejemplos. `docs/personaje_pc_pendiente.md` con campos de homebrew, llegada, familia custom. `docs/sesion_cero.md` con decisiones de homebrew. `AGENTS.md` con sección "El PC es homebrew" + 7 hitos de integración. `docs/progresion_temprana.md` ajustado a closeness inicial 0 y curva de integración. `docs/sistema_relaciones.md` con nota de closeness inicial 0. `README.md` con mención homebrew.
-- [x] 2026-06-29: **Verificación de personajes + correcciones + Toga expandida.** Las tres consultadas (Midnight, Momo, Jirō) ya estaban incluidas. Typo corregido (Yoneda Kinoko → Komori Kinoko). Mei Hatsume añadida (Support, dificultad 4). Sección "Casos especiales" creada con Eri, Melissa Shield, Nana Shimura, villanas trans, etc. Entrada de Toga Himiko expandida con detalle de su comportamiento canon (cuchillo/jeringas, sangre, obsesión con Midoriya, dinámica con Uraraka), y línea y velo explícita con 5 preguntas de negociación previa.
-- [x] 2026-06-29: **META-REGLA: UNCENSORED START, CORRECCIÓN REACTIVA.** La campaña opera bajo la meta-regla: el juego es uncensored de inicio, las restricciones se ponen a posteriori, no antes. Si durante la partida algo molesta, se dice y se corrige. Las 5 preguntas de Toga confirmadas como **"sí a todo"** (único límite: no escenas sin consentimiento del PC). Aplicada en: `AGENTS.md` (cabecera + nueva sección "Meta-regla: uncensored start, corrección reactiva"), `CLAUDE.md` (aviso activo de la meta-regla + aviso de Toga confirmado), `sesion_cero.md` (bloque explícito de la meta-regla + respuestas confirmadas a las 5 preguntas de Toga), `npc_canon.md` (nota de meta-regla + entrada de Toga con respuestas "sí a todo" + sección "Líneas y velos" actualizada con la nueva operativa), `sistema_relaciones.md` (sección "Meta-regla operativa" al final).
-- [x] 2026-06-29: **QUIRK DEL PC — SANGUINE VERDANT ECHO.** Decisión: el Quirk del PC es una **fusión de Crimson Veins + Overgrowth + Lich** manifestada como un savia vegetal en la sangre. Cuatro aspectos: **Cuerpo** (ancla principal), **Avatar Carmesí** (proyección humanoide de sangre), **Bestias del Savia** (criaturas de plantasangre con voluntad propia), **Ecos Temporales** (versiones pasadas del PC). El PC **no tiene tres Quirks** — tiene un Quirk con tres caras, cada una de las cuales se manifiesta como una proyección que "es él, pero no directamente él". Potencial 5/5, escala a top-tier a endgame. Costes: sangre, memory scars/disociación, savia quisquilloso, vulnerabilidad a fuego/sequía. Adulto/edge integrado: las proyecciones son fuente de contenido adulto per se. `docs/quirk_pc.md` creado con el diseño completo. `docs/personaje_pc_pendiente.md`, `docs/sesion_cero.md`, `docs/sistema_juego.md`, `docs/progresion_narrativa.md` actualizados con referencia al Quirk.
-- [x] 2026-06-29: **Personajes faltantes añadidos al canon.** UA: Thirteen, Ms. Joke, Lunch Rush. Pro-heroes top tier: Best Jeanist, Edgeshot. Villanos Liga: Spinner, Mr. Compress. Otras escuelas: Habuko Mongoose (Ketsubutsu). Datos canónicos ampliados en `docs/npc_perfiles_canon.md`. PC info guardada (edad 18, cumpleaños 3 julio, sangre AB).
-- [x] 2026-06-29: **PC DEFINIDO — Akari Hayami, "Sanguine".** Concepto A elegido: late bloomer japonés de 18 años, llega a UA como matriculado a última hora en 1-A. Familia custom (Kou, Misaki, Yua Hayami), sin parentesco con canon. Personalidad: observador, paciente, humor seco, sexualmente curioso, vena oscura filosófica con su Quirk. Motivación: entender el Quirk, demostrar su valía, proteger a su familia. Stats: PWR 3, VEL 3, TEC 4, ING 4, COO 3. Quirk: Sanguine Verdant Echo, potencial 5/5, maestría 2/10. Archivos: `docs/personaje_akari_hayami.md` (ficha completa, nuevo), `docs/personaje_pc_pendiente.md` (reducido a índice), `registros/pj.csv` (poblado), `docs/sesion_cero.md` (PC marcado como definido).
-- [x] 2026-06-29: **Preferencias románticas del jugador registradas.** Target principal: **Yaoyorozu Momo** (Dificultad 6) — si solo una, Momo. La Momo-arc es la línea romántica central. Secundarias: **Jirō Kyōka** (5) y **Ashido Mina** (3). También declaradas potenciales: **Hagakure Tōru** (4), **Midnight** (6, con tabú social profesora-alumno), **Ibara Shiozaki** (4). Regla del jugador: **cada NPC mantiene su carácter canon; no se atenúan facetas** (incluso si el jugador no comparte alguna preferencia estética, el NPC sigue siendo como es en el canon). Registrado en `registros/relaciones.csv` con orden de preferencia y notas. Reflejado en `docs/personaje_akari_hayami.md` y `docs/sesion_cero.md`. Entrada de Shiozaki en `docs/npc_canon.md` restaurada a su carácter canon (mística, religiosa, pacifista).
+- [ ] Fijar fecha de la guerra de Momo.
+- [ ] Primer ensayo de la banda; mantener separado el dúo íntimo Akari↔Jirō.
+- [ ] 10k sub-50 para cerrar bloque 2.
+- [ ] Segundo ensayo de Midnight: “El martirio como espectáculo público”.
+- [ ] Anti-material con Aizawa; créditos de rescate con Thirteen; 40-v2 supersónico.
+- [ ] Volar a Mirai en el capullo; rematch Ojiro; fragmento de Ácido.
+- [ ] Tokoyami: conversación de la oscuridad; Midoriya: porteo.
+- [ ] Tour del bosque a Momo; seguimiento de savia-órganos.
+- [ ] “El 6” de Mina y pagaré del ciclo de Kioto.
+- [ ] Anillo de Mei post-graduación.

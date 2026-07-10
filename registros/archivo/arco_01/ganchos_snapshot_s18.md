@@ -1,8 +1,41 @@
-# Ganchos futuros — activos al cierre de sesión 18
+# Snapshot íntegro de ganchos — cierre S18
 
-> Las semanas D13-D19 y el snapshot íntegro se conservan en registros/archivo/arco_01/ganchos_snapshot_s18.md. Esta vista contiene solo semillas todavía utilizables.
+> Archivo histórico. Incluye semillas regadas, cumplidas y todavía latentes.
 
-## Arco 1 restante (D24-D30)
+# Ganchos futuros — semillas sembradas que NO deben perderse
+
+> Registro vivo (creado S7). El GM lo consulta al abrir sesión y al diseñar arcos; se riega o se poda al cierre. Nada de aquí es obligatorio — son lágrimas que NO se pierden en la lluvia.
+
+## Esta semana de ficción (D13-D19) — regado al cierre S11
+
+- **HOY sáb 9:30 — los tres puntos del toldo verde**: el tercero es **el destello de la bañera** (Momo de 14 años inventándose su escala de dolor a solas — "me lo preguntas y yo contesto entera"). Beat de los grandes: la niña que no tenía a quién decírselo, delante del chico que ahora la escucha por dentro.
+- **El destello del columpio (Nejire, 6 años)**: visto y GUARDADO — "qué poder tan bonito" / lo suyo solo sabe irse. Sin contar aún. Su momento llegará (¿el día que la fase 4 se perfeccione? ¿la página de 2096?).
+- **Regla de Toru ~lun-mar**: suscripción propia pactada (beber + oral + savia anti-cólicos). Ella lleva la cuenta con sonrisa invisible.
+- **MARTES 18:00 — fase 3 ante Aizawa** (con Nejire; "mi onda, mi voz en la sala"): primer fenómeno presentado en comité. La lectura de Aizawa ya apunta: anti-emisores + falsificación de firmas + "los Quirks que APRENDEN despiertan apetitos".
+- **MIÉRCOLES — día triple**: Kendo 5:30 (¿la puerta se entreabre corriendo?) · **tutoría de Midnight 15:30 — LATIDO A LATIDO** (defensa de la conclusión del ensayo; "descansa la voz, que te veo gastándola en muchos frentes" — ella ve más de lo que dice) · **Hatsume + sesión velocidad 17:00** (el costume por fin — y Mei llorará de felicidad con "quiero saber a cuánto voy cuando me estrello").
+- **⚠️ Solape KIOTO ↔ regla de Mina (~31-1)**: "no pasa nada" declarado — pero falta JUGARLO con ella. Mina merece su beat de cuadre (y su regla era fuente pactada).
+- **El 6 de Mina, "subido de categoría" 🐍🔥**: ella misma elevó la apuesta tras ver la serpiente. Sin fecha. Cuando caiga, caerá grande.
+- **Los 4 fragmentos (1 uso c/u)**: Creación · Invisibilidad · Vides · ÁCIDO ("algo GRANDE, con estilo" — listón subido por Yogmungard según la donante). Elegir el momento de cada uno es un beat en sí. ¿Y el 5º? Las ondas de Nejire esperan al primer drenaje de ella (pactado: en sesión, "quiero ver la estructura nacer de mí").
+- **Condicionamiento "Yaoyorozu"** (gag vivo y ahora BIDIRECCIONAL — confirmado en Ley Heroica S11): cada pase de lista es una mina para los dos.
+- **El calibre vernier olvidado en la 411** — patrimonio del Tsuki-no-Ma (¿reaparece en una reserva futura? ¿en Kioto?).
+
+## Esta semana de ficción (D15-D19) — regado al cierre S14
+
+- **D15 CERRADO — "la sesión-campana"** (3 florecimientos + 1 primer beso en un día, + 5 POVs NPC + llamada Momo↔Jirō tras el cuerpo principal): Jirō completa en sala 3 (primera vez de ambos cantando *The Trooper* + savia pulsada dentro; sangre libre AB = "el espejo hasta en las venas"; susto condón → "me quedaría" → pastilla), Mei florece parcial en taller de Soporte (primer encuentro + drenaje con colmillo volumen → bonus aplicado + cunnilingus/regla + chupada + coito denegado por anticipación-tiernura), Nejire primer beso en biblioteca + "sitio permanente hasta 2096" + 1h30 estudio pegados + cuadernos DEVUELTOS (archivados en eidética). "Injerto" entregado a Cementoss. Ectoplasm 2º camino. Aula de repaso inter-clase aprobada por Aizawa ("seis horas, hasta para ti"). Rebranding "arcángel industrial" + cartuchos tipo Toga sin degradación. **Apéndice POVs (turnos 120-138, registrados tras auditoría M3)**: Uraraka sola en el hostal (lamparita + cena frugal + tuper + pensamiento intrusivo de rendición/somnófila), Jirō en su casa con Mika leyendo con ternura-que-sabe (sin preguntar, ofreciendo puerta; abrazo al bajo + tarareo de la pista 2), **Momo llama a Jirō "de amiga" (POV cruzado)** — la jefa de la red consolando a su flor-amiga por una primera vez con el hombre que las dos quieren, sin poder decirlo, cobrando el coste del árbol en dos lágrimas privadas ("las flores se cuentan sus primaveras entre ellas; yo no soy flor, soy el árbol"), Mei sola en el taller viendo a 5km (carta de amor al arcángel industrial sin saberla nombrar). Σ total S14 = 32 peso (pm-054..pm-072).
+- **D16 MARTES (DÍA CRÍTICO — mañana)**: fase 3 a Aizawa 18:00 con Nejire (contención total hasta entonces). **Cita Toru** (estudio de su amiga + beber + oral + savia anti-cólicos). Demo alas de savia a Mei (prometido al salir del taller). Cita Nezu activada por la petición del aula (a cuadrar). Mañana cocina compartida con Uraraka (día 2).
+- **Rebranding "arcángel industrial"**: aterriza en el costume (Mei mock-up hecho). Demo alas mañana. Salida pública prevista = exámenes 5 jun (observadores). Ojo: la Comisión puede leerlo como madurez estratégica del activo. **Detalle M3**: la "carta de amor" de Mei al arcángel industrial (turno 137) — el traje nace como declaración de algo que ella todavía no sabe nombrar; en S15 el miércoles (club velocidad) lo concreta.
+- **Beat con Aizawa "que tenga algo que merezca la pena" (turno 138, sin respuesta del GM)**: hook reabierto para S15/16. El jugador pidió ronda con intriga OPSEC (colector subterráneo / funcionario de las listas) — no respondido. **S15 debe arrancarlo** si el jugador lo pide.
+- **Mina — madriguera vieja ala de música UA**: cuando ella localice, sesión de hacer el amor + drenaje sin prisa. "Te echo de menos" entregado.
+- **Mina — el "6"** (corregido): ELLA le debe a ÉL 6 reciprocaciones con intereses ("el 6 que te debo" — dicho por Mina; marcador orgasmos 6-2). Pagaré del ciclo de Kioto perdido SÍ es de Akari hacia ella (separado, vivo).
+- **Harem-médico formalizado (5 donantes)**: Momo / Toru / Mina / Jirō / Ibara-en-proyecto. Trato de la regla = cunnilingus + savia anti-cólicos como cuidado recíproco.
+- **Canciones-lección pista 2 con Jirō**: *Come and Get Your Love* (entrante) + *The Trooper* (plato fuerte) en recámara — sesión mayor de grabación pendiente.
+- **Escrito Goethe/Werther para Cementoss**: semana próxima. Comentario de texto ajeno (lo que Cementoss pidió).
+- **Todoroki estudiar juntos**: flanco Literatura confesado por él — simbiosis con el flanco nuevo de Akari.
+- **Tokoyami**: canción "Hard Blues de odinmann" en su móvil — feedback pendiente.
+- **Pony extra-clase**: 1ª sesión formal de repaso pendiente.
+- **Mika**: primera clase de canto formal JUEVES D18. Mika vio a Akari acompañar a Jirō al portal (sin bajar) — el tejado cruje de verdad.
+
+## Arco 1 restante (D16-D30)
 
 - **EXÁMENES 5 JUN + OBSERVADORES DE LA COMISIÓN + BAKUGO**: colisión programada — Bakugo quiere hacerle soltar el freno EXACTAMENTE el día que la Comisión mira ("castaños podados" vs "prenderle fuego al escenario"). El mejor polvorín agendado de la campaña.
 - **Bakugo y el cuaderno que no enseña**: DETECTÓ el freno ("va un 20% por debajo, siempre"). No es chivato: es rival. Carta que él decide cuándo jugar — y suma la sospecha Akari↔Mina de antes.
