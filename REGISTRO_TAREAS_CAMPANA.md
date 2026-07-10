@@ -16,7 +16,7 @@
 - [x] Decidir sistema de quirks custom — **descriptivo narrativo** (potencial/maestría + aspectos; ver `docs/quirk_pc.md`)
 - [x] Decidir cómo se mide el "esfuerzo" de entrenamiento — **días de entrenamiento dedicado** (+1 maestría/día al inicio; curva ralentizada desde M4 por aviso de Aizawa)
 - [x] Definir curva de progresión temprana — en uso (`docs/progresion_narrativa.md` + `docs/progresion_temprana.md`)
-- [ ] Implementar `tools/resolver_accion.py` con el sistema definitivo (sigue en esqueleto 2d6; la resolución real es narrativa — decidir si se mantiene así)
+- [x] Implementar `tools/resolver_accion.py` con el sistema definitivo — motor 2d6 narrativo, documentado en `docs/combate.md`
 
 ## Mundo
 

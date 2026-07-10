@@ -1,6 +1,6 @@
 # Sistema de juego — RPG MHA Custom
 
-> **Estado:** esqueleto con Quirk del PC definido. Por decidir: motor de dados final y fórmulas de progresión.
+> **Estado:** motor 2d6 definitivo; combate detallado en `docs/combate.md`. La progresión se rige por marcas narrativas.
 
 ## Atributos del PC
 
@@ -32,37 +32,37 @@ Escala:
 - **Maestría:** 1–10 (lo que el PC ha entrenado de su quirk) — **1–2 al inicio** (aprendiendo a invocar).
 - **Voluntad del savia:** el savia tiene semi-autonomía y puede cooperar o resistirse según su relación con el PC.
 
-**Stats derivadas del Quirk:**
-- `PWR_quirk` o `TEC_quirk` = potencial + maestría + bono por aspecto activo.
-- **Aspectos activos** (cuántas proyecciones tiene el PC fuera) modifican el consumo y la fatiga.
+**Aplicación mecánica del Quirk:**
+- La stat base describe el método usado; la maestría determina capacidades, simultaneidad y coste.
+- Los aspectos no conceden bonos automáticos acumulables. Cambian la ficción, el efecto o la posición cuando aportan una ventaja concreta.
+- Los costes y límites canónicos están en `docs/quirk_pc.md`; las reglas R3-R8 prevalecen.
 
 ## Acciones y resolución
 
-Borrador: **2d6 + stat_mod + modificadores situacionales**. Resultado:
+Motor definitivo: **2d6 + modificador de stat + situación**.
 
-- 2–6: fallo
-- 7–9: éxito parcial
-- 10–11: éxito
-- 12+: éxito crítico
+| Stat | Modificador |
+|---|---:|
+| 1-2 | -1 |
+| 3-4 | +0 |
+| 5-6 | +1 |
+| 7-8 | +2 |
+| 9-10 | +3 |
 
-**Modificadores por aspecto del Quirk:**
-- Cuerpo del PC: +0 a +3 según stats base + maestría.
-- Avatar Carmesí activo: +1 a PWR_quirk (cuerpo adicional).
-- Bestias del Savia activas: +1 a TEC_quirk (apoyo táctico).
-- Ecos Temporales activos: +1 a ING (información de momentos pasados).
-- Combinaciones (2+ aspectos a la vez): bonus, pero aumenta el consumo de sangre y el cansancio.
+Resultados: 6 o menos = fallo; 7-9 = éxito parcial con coste; 10-11 = éxito; 12+ = éxito crítico.
+
+Solo se tira cuando existen incertidumbre y una consecuencia interesante. Antes de tirar, el GM declara el riesgo y el jugador confirma objetivo y método. Una tirada resuelve tanto la acción como la respuesta de la oposición.
 
 ## Combate
 
-> Por definir en `docs/combate.md`. Esqueleto:
+El sistema completo está en `docs/combate.md`.
 
-- **HP:** `PWR × 3 + TEC × 2 + 10` (borrador) + bonus por armadura de plantasangre.
-- **Acción de ataque:** 2d6 + TEC + bonus de Quirk.
-- **Acción de esquiva:** 2d6 + VEL + bonus de Avatar Carmesí si está activo.
-- **Acción de trabajo en equipo:** 2d6 + COO (PC) + COO (aliado) ÷ 2 + Bestias del Savia si están protegiendo.
-- **Rewind:** acción especial, gasta sangre + memoria. 1 vez por combate al inicio, 2–3 a mid, 5+ a endgame (con memory scars).
-- **Drenaje de sangre:** acción especial, ver `docs/quirk_pc.md` sección "Drenaje de sangre". Coste 15 sangre; recuperación variable según compatibilidad de tipo. 1 acción de combate. Riesgo: backlash del Quirk del enemigo, memoria traumática, intoxicación si incompatible.
-- **Donación de sangre:** acción especial, ver `docs/quirk_pc.md` sección "Efectos de la sangre del PC en otros cuerpos". Coste variable (30 para curación leve, 60 para grave, 100 para crítico, 200 para resurrección). Efectos: curación, regeneración, conversión, vínculo permanente, resurrección. Riesgo: savia se encariña con cuerpo ajeno, recipiente se vuelve dependiente.
+- Sin HP: heridas en niveles 0-4 y consecuencias coherentes con la posición.
+- Sin tiradas enemigas separadas: la amenaza modifica presión, posición y efecto.
+- Un intercambio importante por beat; se actualiza el estado y se devuelve la decisión.
+- Relojes de 4/6/8 segmentos para conflictos con varios objetivos.
+- Pool, scars, drenaje, Ecos y rewind conservan sus reglas de `docs/quirk_pc.md`.
+- Herramienta oficial: `python3 tools/resolver_accion.py --help`.
 
 ## Marco legal del uso de Quirks (regla canónica, fijada S9/D9)
 
@@ -105,10 +105,10 @@ Idea base:
 - Hitos especiales permiten evolución del Quirk (awakening del savia, integración de aspectos,etc.).
 - El savia tiene su propia curva de aceptación: si el PC abusa de las bestias o de los Ecos, el savia se "retrae" y bloquea el uso de ciertos aspectos.
 
-## Próximos pasos
+## Estado de implementación
 
-- [ ] Decidir motor de dados final
-- [ ] Implementar `tools/resolver_accion.py` con las mecánicas del Quirk
-- [ ] Implementar `tools/validar_estado.py` con checks de consistency
-- [ ] Probar con una sesión corta
-- [ ] Cuando el PC se defina: poblar `registros/equipo_pc.csv` con las capacidades del Quirk
+- [x] Motor 2d6 definitivo.
+- [x] `tools/resolver_accion.py` con CLI reproducible.
+- [x] `tools/validar_estado.py` con validación estructural y semántica.
+- [x] PC y equipo poblados en `registros/`.
+- [ ] Probar el motor en el próximo combate o práctico y registrar ajustes de mesa.
