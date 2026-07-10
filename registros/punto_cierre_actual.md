@@ -77,12 +77,20 @@
 - Bakugo, respeto a regañadientes: *"No me has salvado. Me has usado de ejecutor en tu puto organigrama. Y ha funcionado. Lo cual es peor. Mañana no habrá plan que te tape."*
 - Ochaco, sobre su rincón de finanzas: *"Los números no dan miedo si alguien te los explica sin reírse de ti. A mí me los explicaste tú una vez. Solo lo devuelvo."*
 - Pony, en el SMS nocturno: *"one stroke done! it says 明. no sé por qué me sale ese siempre"* — la mitad de su nombre, sin saberlo.
+- **Jirō rozó el secreto de Momo y soltó el hilo sola** (POV, pasillo a Inglés): al oír "quiero a tu amiga Momo en el grupo" un cable fino se le cruza sin encenderse — *"qué raro… bah, rivalidad de listos"* — y lo entierra. No sabe que acaba de rozar el secreto más grande de su novio con la punta del dedo y ha decidido no tirar del hilo. **Como con el suzu. Como con todo lo importante.**
+- La escala asintótica de Momo, en el pasillo: *"No hay once. Hay dieces cada vez más hondos, y este es el más hondo hasta hoy."* / *"Mañana te hago el diez en el amor y el uno en el ranking. En ese orden."*
+- Aizawa, despidiéndole del despacho: *"Has dicho 'si llego a pro-hero'. No es 'si'. Con esa cabeza, es 'cuándo'. Lo de 'si' arréglalo tú."*
+- Tsuyu, el permiso de mirar (desactivando la promesa de Akari de "no mirarte raro"): *"Mírame lo que quieras. Ahora que sé que es honesto, hasta me hace gracia. Lo que me tienes que ganar es lo otro, y eso no se roba con la vista."* — cambia cómo puede comportarse Akari con ella desde ya.
+- Ochaco y el tercer bento, a las 5:30: *"Yo cargo sacos, no nombres."* / *"Y al mío ponle más tamagoyaki, que la casera cobra en especie."* — la aceptación tácita del bento del bosque, sello doméstico de la víspera.
+- Nemuri, en la sala de profesores antes de su clase: dejó de corregir un segundo al enterarse de que "ese chico" se subió a un pupitre a gritar de pura alegría — información que se guardó entera y que colorea su "espero que sepa dejar la máscara a veces".
 
 ## Información que NPCs tienen sobre Akari (perfil acumulado — cambios S18)
 - **Momo**: + lo de Aizawa (back-up de Erasure, "la piedra", el perímetro); + el compromiso de fecha de su propia guerra; + la banda (teclado). NO sabe de Midnight.
 - **Aizawa**: + la munición viva ES él (subconsciente); + la oferta de back-up de Erasure; + "no viviré bajo una piedra"; + el argumento de seguridad de la improvisación. Espera la bronca de la montura (jueves).
 - **Tsuyu**: + "el bosque que Akari ES" (el Quirk como identidad, sin nombres/borrado/rewind); + que hay "gente" en ese algo que administra; + deseo mutuo declarado. Discreta, no husmea.
 - **Iida**: + Akari es rápido de verdad (casi le gana sin Recipro); + su técnica es resorte de savia; su punto débil es la cadencia (se lo regaló).
+- **Mirio (Big 3)**: + vio el resorte de savia en la carrera y lo nombró ("bonito resorte. Muy vegetal. Tranquilo, no pregunto") — asimetría de un Big 3 que deduce y elige callar.
+- **Kendo**: + lo anotó como tendencia ("a las seis corre como si le fuera la vida, a las ocho canta como si no le importara nada; peligroso de subestimar, fácil de querer" — esto último no lo anotó).
 - **All Might**: + juicio Y voz mantenidos bajo caos; + liderazgo (salvó a Bakugo sin humillarlo). Matrícula grabada.
 - **Bakugo**: + Akari esconde poder Y sabe mandar; + le cubrió la espalda fingiendo darle una orden. Objetivo de mañana: hacerle soltar el freno.
 - **Midnight**: + Akari domina el umbral del derrame como nadie (le devolvió su propio retrato); + sostiene la máscara ante ella sin quebrarse. Deducción acumulada: carga una máscara mucho más pesada que la de un estudiante.

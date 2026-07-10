@@ -44,7 +44,7 @@ El día también abre un vínculo nuevo: **Tsuyu** deja de ser "aliada, no romá
 
 ## Reputación y facciones
 - Mediática: sin cambios (Kioto en anonimato total).
-- Intra-UA: reputación de **líder/summa** reforzada (Iada lo ficha rápido, All Might "liderazgo", Monoma "diabólico" = camuflaje gratis, la fiesta Blur, el aula de repaso llena). Coraza de notoriedad legítima consolidada.
+- Intra-UA: reputación de **líder/summa** reforzada (Iida lo ficha rápido, All Might "liderazgo", Monoma "diabólico" = camuflaje gratis, la fiesta Blur, el aula de repaso llena). Coraza de notoriedad legítima consolidada.
 - Aizawa (bóveda): munición viva registrada al cuaderno; perímetro pactado; back-up de Erasure elevado a Nezu. Bronca de la montura: jueves.
 - Nezu: recibe la propuesta de back-up de Erasure (protocolo de fin del mundo, sin fecha). Observadores llegan MAÑANA (miércoles).
 - Comisión: observadores mañana. Liga: sin contacto.
