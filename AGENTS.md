@@ -138,6 +138,7 @@ Toga Himiko tiene una línea y velo específica con 5 preguntas. En esta campañ
 
 - Una escena por turno; latido a latido en momentos importantes.
 - Tras cada acción mecánica relevante, registrar en CSV (misiones, entrenamientos, finanzas, reputacion, etc.).
+- Antes de conceder marcas, stats o Closeness, aplicar los guardrails prospectivos de `docs/progresion_narrativa.md` y `docs/sistema_relaciones.md`.
 - Si hay combate, usar `docs/combate.md` y `tools/resolver_accion.py`.
 
 ### Cierre (skill: `cierre-sesion-mha` cuando exista)

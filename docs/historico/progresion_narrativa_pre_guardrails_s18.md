@@ -1,6 +1,10 @@
+# Snapshot histórico — progresión antes de guardrails S19
+
+> Conservado íntegramente. Las concesiones S1-S18 siguen siendo válidas.
+
 # Progresión narrativa — RPG MHA Custom
 
-> Sistema de progresión por **marcas narrativas** (no por XP puro). Desde S19 las marcas son evidencia acumulativa, no subidas automáticas. Ninguna concesión S1-S18 se revoca.
+> Sistema de progresión por **marcas narrativas** (no por XP puro). Las marcas se otorgan tras hitos.
 
 ## Quirk del PC — Sanguine Verdant Echo (curva de maestría)
 
@@ -27,36 +31,11 @@ El Quirk del PC (ver `docs/quirk_pc.md`) escala por **maestría 1–10**, con hi
 
 El PC sube stats, quirk mastery, y desbloquea habilidades narrativas cuando **completa arcos y vive hitos**, no por grindear entrenamiento. El entrenamiento te da maestría de quirk, las marcas te dan subidas de stat.
 
-## Marcas — regla prospectiva desde S19
+## Marcas
 
-Una marca registra **evidencia de crecimiento** en un rasgo concreto. Su peso mide intensidad, no una recompensa automática:
-
-- **Peso 1:** práctica significativa con riesgo o coste.
-- **Peso 2:** aplicación decisiva bajo presión que cambia el mundo o al PC.
-- **Peso 3:** culminación de arco o decisión definitoria con consecuencias duraderas.
-
-### Presupuesto de foco
-
-- Máximo recomendado: **dos marcas mecánicas nuevas por sesión**.
-- Solo una puede ser de peso 2-3, salvo cierre de arco explícito.
-- Una misma escena concede como máximo una marca mecánica, aunque toque varios dominios; se elige el rasgo que realmente cambió.
-- Las capacidades nuevas, regalos, sexo, notas altas o primeras veces no generan marca por existir: deben pasar el test de validez.
-- El GM puede registrar color e hitos sin convertirlos en marca.
-
-### Umbrales de subida
-
-Las marcas se acumulan por rasgo y ruta. Una subida requiere todas las condiciones:
-
-| Subida | Evidencia mínima | Condición narrativa |
-|---|---:|---|
-| 2→3 o 3→4 | 3 puntos de peso | Ruta completada y medición o aplicación verificable |
-| 4→5 | 6 puntos de peso desde la última subida | Cierre de arco, dos contextos distintos y al menos un revés real |
-| 5→6 | 9 puntos de peso desde la última subida | Mentor o prueba equivalente; coste duradero |
-| 6+ | decisión de arco | Cambio de escala reconocido por el mundo |
-
-Los puntos usados quedan vinculados a la subida y no se reutilizan. El cierre de arco puede conceder **una subida mecánica total**; una segunda exige dos arcos de crecimiento claramente independientes y aprobación explícita del jugador.
-
-La maestría del Quirk no se compra con marcas genéricas. Requiere el hito de dominio correspondiente, compatibilidad con la fase de campaña y decisión explícita sobre la congelación OPSEC.
+- **Peso 1:** hito menor (completar un entrenamiento largo, aprobar un examen con margen, salvar a un civil aislado). Concede una subida a una **stat a elección** o **+1 maestría**.
+- **Peso 2:** hito medio (completar un internado importante, derrotar a un villano menor, ganar un tournament, resolver un arco personal). Concede **subida a una stat** + **1d4 rerolls** o **+1 stat automático**.
+- **Peso 3:** hito cumbre (ganar a un villano top, salvar vidas en masa, decisión de personaje definitoria, completar un arco de identidad). Concede **2 subidas a stats** + **+2 maestría** + opción de **evolución del quirk** (awakening, new mode).
 
 ## Curva de poder
 
@@ -84,16 +63,16 @@ Si falta cualquiera: no es marca, es **grind narrativo** sin peso.
 
 - **Bloque de acondicionamiento** = ~1-2 semanas de constancia documentada con **progresión medible** y coste real (madrugones, dobles sesiones, series al filo). Al completarse: **marca peso 1 de PWR o VEL** (a elección del jugador según el foco del bloque). Pasa el test de validez por definición: actuó, costó, cambió algo medible, lo eligió.
 - **Hito físico medible mayor** (ej.: bajar de 50' el 10k, completar la tabla de Aizawa a tope, ganar una prueba física a un especialista) = **marca peso 2**.
-- **Aplicación desde S19:** completar el bloque concede evidencia de PWR o VEL; la subida ocurre solo al alcanzar el umbral correspondiente. La medición puede cerrar una ruta, no saltarse la curva.
+- **Aplicación directa**: las marcas físicas se conceden **al completarse el bloque**, sin esperar al cierre de arco (no son bengalas: un alumno de UA poniéndose más fuerte es lo esperable; la curva de poder del arco sigue siendo el techo).
 - Las sesiones rutinarias se narran en **marcha de avance** (una línea, el dato medible) salvo que emerja un beat — el tiempo de mesa no se gasta en kilómetros, se gasta en lo que pasa durante ellos.
 
 ## Rutas de crecimiento
 
 Para subir un stat concreto (PWR, VEL, TEC, ING, COO), el jugador puede elegir entre rutas:
 
-- **Ruta segura:** entrenamiento supervisado, simulaciones y estudio; genera evidencia estable.
-- **Ruta operativa:** internado, patrullaje o misión real; genera evidencia bajo presión y puede cerrar una subida al final del arco.
-- **Ruta brutal:** evento de vida o muerte; puede aportar peso alto, pero nunca salta por sí sola los umbrales ni concede +2 stats.
+- **Ruta segura:** entrenamiento supervisado, simulaciones, estudio teórico. +1 stat tras varios días in-game.
+- **Ruta operativa:**internado, patrullaje, misiones reales de bajo riesgo. +1 stat tras arco.
+- **Ruta brutal:** villano, evento de vida o muerte, mentor pushing. +2 stat de golpe, pero con coste narrativo.
 
 ## Hitos especiales
 

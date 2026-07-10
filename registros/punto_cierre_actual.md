@@ -126,6 +126,7 @@
 
 ## Para reanudar la sesión nueva
 1. Leer este archivo + `registros/memoria_gm.md` + cabecera de `AGENTS.md` + avisos de `CLAUDE.md`.
-2. Saludar con cabecera 📅 (**Día 24 · miércoles 5 jun · Musutafu — hostal, habitación 4**, despertador del DÍA DE EXÁMENES).
-3. Confirmar el punto: PROMETIDO de Momo (asimetría cerrada + fecha de guerra por fijar), Ochaco con el mapa/constitución, munición viva registrada al cuaderno (prohibida en examen), perímetro verde/ámbar/rojo, 2 cartuchos de donante en bandolera, saldo ¥20.520 (⚠️ colchón), maestría 4 congelada (11 declinaciones), scars 0, Tsuyu en cortejo abierto (cita post-examen), banda de música en marcha.
-4. Presentar la decisión pendiente: **¿cómo afronta Akari el MIÉRCOLES D24 — el DÍA DE EXÁMENES con observadores?** — castaños podados, perímetro respetado, Bakugo buscando pelea, la matrícula summa cum laude en juego.
+2. Leer `registros/preparacion_s19_examen.md` como matriz de posibilidades, no como guion.
+3. Saludar con cabecera 📅 (**Día 24 · miércoles 5 jun · Musutafu — hostal, habitación 4**, despertador del DÍA DE EXÁMENES).
+4. Confirmar el punto: PROMETIDO de Momo (asimetría cerrada + fecha de guerra por fijar), Ochaco con el mapa/constitución, munición viva registrada al cuaderno (prohibida en examen), perímetro verde/ámbar/rojo, 2 cartuchos de donante en bandolera, saldo ¥20.520 (⚠️ colchón), maestría 4 congelada (11 declinaciones), scars 0, Tsuyu en cortejo abierto (cita post-examen), banda de música en marcha.
+5. Presentar la decisión pendiente: **¿cómo afronta Akari el MIÉRCOLES D24 — el DÍA DE EXÁMENES con observadores?** — castaños podados, perímetro respetado, Bakugo buscando pelea, la matrícula summa cum laude en juego.

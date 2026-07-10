@@ -1,3 +1,7 @@
+# Snapshot histórico — relaciones antes de guardrails S19
+
+> Conservado íntegramente. Los niveles y anclajes S1-S18 siguen siendo canónicos.
+
 # Sistema de relaciones — RPG MHA Custom (18+)
 
 > **Campaña 18+.** Las relaciones románticas/sexuales son contenido adulto central. Ver `AGENTS.md` para el tono.
@@ -144,20 +148,6 @@ Un vínculo anclado **solo baja por un evento con peso real**: traición, abando
 - **Dificultad 9–10:** conseguir cualquier intimidad significativa es un **hito narrativo de peso 3** por derecho propio. Es la trama secundaria, no un side quest.
 
 ---
-
-## Guardrails de ritmo — prospectivos desde S19
-
-Estas reglas no rebajan niveles existentes ni invalidan hitos ya jugados.
-
-- Una sesión puede elevar por encima de Closeness 7 a **un solo vínculo**, salvo cierre coral de arco.
-- Un NPC no sube más de un punto por sesión por acumulación de gestos; un salto mayor exige un único hito extraordinario y su coste visible.
-- Repetir sexo, regalos, declaraciones o cuidados consolida el nivel, pero no lo aumenta automáticamente.
-- **Closeness 8→9** exige atravesar un conflicto, incompatibilidad o trade-off que podría haber dañado el vínculo.
-- **Closeness 9→10** exige una elección recíproca irreversible o costosa que cambie el futuro de ambos. Intensidad o deseo por sí solos no bastan.
-- Un vínculo anclado no decae por calendario, pero la falta de atención puede abrir una **necesidad pendiente**: conversación, límite, celos, logística o reparación. Ignorarla repetidamente sí puede convertirse en evento con peso.
-- Cada sesión reserva foco para vínculos no románticos, antagonistas o mundo autónomo cuando la red íntima ya haya recibido un beat mayor.
-
-Los hitos de la tabla inferior son ejemplos de evidencia. El GM decide después de la escena si justifican cambio de Closeness; no se suman de forma automática.
 
 ## Hitos emocionales (y sus pesos narrativos)
 

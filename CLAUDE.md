@@ -17,3 +17,5 @@
 - Jerarquía de datos: `docs/registros_campania.md`.
 - Combate: `docs/combate.md` + `tools/resolver_accion.py`.
 - Validación al cierre: `python3 tools/validar_estado.py`.
+- Guardrails S19+: `docs/progresion_narrativa.md` y `docs/sistema_relaciones.md`; no son retroactivos.
+- Próxima sesión: `registros/preparacion_s19_examen.md`.
