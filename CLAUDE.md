@@ -19,3 +19,4 @@
 - Validación al cierre: `python3 tools/validar_estado.py`.
 - Guardrails S19+: `docs/progresion_narrativa.md` y `docs/sistema_relaciones.md`; no son retroactivos.
 - Próxima sesión: `registros/preparacion_s19_examen.md`.
+- Auditoría S19+: bloque POV/ritmo de `registros/sesion_plantilla.md`, validado por `tools/validar_estado.py`.

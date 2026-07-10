@@ -273,6 +273,51 @@ def validar_marca_cierre() -> list[str]:
     return avisos
 
 
+
+def validar_auditoria_direccion() -> list[str]:
+    """Exige métricas mínimas de POV y ritmo en sesiones S19+."""
+    avisos: list[str] = []
+    campos = (
+        "Beats totales:",
+        "POV Akari:",
+        "POV NPC:",
+        "Marcha de avance:",
+        "Marcha de profundidad:",
+        "Beats importantes encadenados indebidamente:",
+        "Handoffs con decisión al jugador:",
+    )
+    for path in sorted(REGISTROS.glob("sesion_*.md")):
+        match = re.fullmatch(r"sesion_(\d+)\.md", path.name)
+        if not match or int(match.group(1)) < 19:
+            continue
+        contenido = path.read_text(encoding="utf-8")
+        if "## Auditoría de dirección" not in contenido:
+            avisos.append(
+                f"[WARN] {path.name}: falta la auditoría de dirección obligatoria desde S19"
+            )
+            continue
+        for campo in campos:
+            if campo not in contenido:
+                avisos.append(f"[WARN] {path.name}: auditoría sin campo '{campo}'")
+
+        pov = re.search(r"^- POV NPC:\s*(.+)$", contenido, re.MULTILINE)
+        if pov and pov.group(1).strip().lower() in {"0", "ninguno", "ninguna", "—", "..."}:
+            avisos.append(
+                f"[WARN] {path.name}: sesión completa sin POV NPC registrado"
+            )
+
+        cadena = re.search(
+            r"^- Beats importantes encadenados indebidamente:\s*(\d+)",
+            contenido,
+            re.MULTILINE,
+        )
+        if cadena and int(cadena.group(1)) > 0:
+            avisos.append(
+                f"[WARN] {path.name}: {cadena.group(1)} beat(s) importante(s) "
+                "encadenado(s); revisar ritmo"
+            )
+    return avisos
+
 def validar_csv(nombre: str, columnas_esperadas: list[str]) -> list[str]:
     """Devuelve lista de warnings/errores para un CSV."""
     warnings = []
@@ -314,6 +359,7 @@ def main() -> int:
     avisos.extend(validar_marca_cierre())
     avisos.extend(validar_anchos())
     avisos.extend(validar_identificadores())
+    avisos.extend(validar_auditoria_direccion())
 
     for aviso in avisos:
         print(aviso)

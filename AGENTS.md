@@ -147,6 +147,7 @@ Toga Himiko tiene una línea y velo específica con 5 preguntas. En esta campañ
 2. Crear/extender `sesion_XX.md`.
 3. Actualizar `punto_cierre_actual.md` con estado narrativo exacto + decisión pendiente.
 4. Actualizar CSVs persistentes.
+5. Completar la auditoría de POV y ritmo de `registros/sesion_plantilla.md` (obligatoria desde S19).
 
 ---
 

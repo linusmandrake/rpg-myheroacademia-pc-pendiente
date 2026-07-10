@@ -69,5 +69,40 @@ class ValidarEstadoTests(unittest.TestCase):
             self.assertEqual(validar_estado.main(), 1)
 
 
+    def test_s19_sin_auditoria_genera_warning(self):
+        (validar_estado.REGISTROS / "sesion_18.md").write_text(
+            "# sesión histórica sin auditoría\n",
+            encoding="utf-8",
+        )
+        (validar_estado.REGISTROS / "sesion_19.md").write_text(
+            "# sesión nueva sin auditoría\n",
+            encoding="utf-8",
+        )
+
+        avisos = validar_estado.validar_auditoria_direccion()
+
+        self.assertEqual(len(avisos), 1)
+        self.assertIn("sesion_19.md", avisos[0])
+
+    def test_s19_con_auditoria_completa_no_avisa(self):
+        contenido = """# Sesión 19
+
+## Auditoría de dirección
+- Beats totales: 12
+- POV Akari: 8
+- POV NPC: Ochaco: 2; Bakugo: 2
+- Marcha de avance: 4 beats
+- Marcha de profundidad: 8 beats
+- Beats importantes encadenados indebidamente: 0
+- Handoffs con decisión al jugador: 9
+"""
+        (validar_estado.REGISTROS / "sesion_19.md").write_text(
+            contenido,
+            encoding="utf-8",
+        )
+
+        self.assertEqual(validar_estado.validar_auditoria_direccion(), [])
+
+
 if __name__ == "__main__":
     unittest.main()

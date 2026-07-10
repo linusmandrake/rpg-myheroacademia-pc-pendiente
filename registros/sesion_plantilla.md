@@ -55,6 +55,19 @@
 - Conocimientos adquiridos/en estudio: ...
 - Maestría del Quirk: [valor] (+1 por día de entrenamiento dedicado)
 
+## Auditoría de dirección
+
+> Obligatoria desde S19. Cuenta beats narrativos, no párrafos.
+
+- Beats totales: ...
+- POV Akari: ...
+- POV NPC: [nombre: cantidad; nombre: cantidad]
+- Marcha de avance: ... beats
+- Marcha de profundidad: ... beats
+- Beats importantes encadenados indebidamente: 0
+- Handoffs con decisión al jugador: ...
+- Incidencias de niebla/voz/ritmo y corrección: ninguna / ...
+
 ## Estado al cierre
 | Campo | Valor |
 |---|---|

@@ -149,8 +149,11 @@ Un vínculo anclado **solo baja por un evento con peso real**: traición, abando
 
 Estas reglas no rebajan niveles existentes ni invalidan hitos ya jugados.
 
-- Una sesión puede elevar por encima de Closeness 7 a **un solo vínculo**, salvo cierre coral de arco.
-- Un NPC no sube más de un punto por sesión por acumulación de gestos; un salto mayor exige un único hito extraordinario y su coste visible.
+- **No existe límite por sesión real.** Una sesión larga puede avanzar varios vínculos si cubre días o hitos distintos.
+- Varios vínculos pueden subir en el mismo día si cada uno recibe su propio beat, decisión y coste; no comparten mérito por una escena coral genérica.
+- Un NPC no sube más de un punto por **día de ficción** mediante acumulación normal de gestos. Puede volver a avanzar en otro día jugado de la misma sesión.
+- Un salto mayor exige un hito extraordinario único y su coste visible; no consume ni bloquea los avances justificados de otros NPC.
+- Una elipsis de varios días consolida o enfría según el régimen, pero no concede varios puntos sin escenas.
 - Repetir sexo, regalos, declaraciones o cuidados consolida el nivel, pero no lo aumenta automáticamente.
 - **Closeness 8→9** exige atravesar un conflicto, incompatibilidad o trade-off que podría haber dañado el vínculo.
 - **Closeness 9→10** exige una elección recíproca irreversible o costosa que cambie el futuro de ambos. Intensidad o deseo por sí solos no bastan.

@@ -35,10 +35,14 @@ Una marca registra **evidencia de crecimiento** en un rasgo concreto. Su peso mi
 - **Peso 2:** aplicación decisiva bajo presión que cambia el mundo o al PC.
 - **Peso 3:** culminación de arco o decisión definitoria con consecuencias duraderas.
 
-### Presupuesto de foco
+### Presupuesto de foco por tiempo de ficción
 
-- Máximo recomendado: **dos marcas mecánicas nuevas por sesión**.
-- Solo una puede ser de peso 2-3, salvo cierre de arco explícito.
+La sesión real no limita la progresión: puede cubrir una hora, un día o una semana.
+
+- Máximo **recomendado por día de ficción jugado**: dos marcas mecánicas nuevas.
+- Normalmente solo una puede ser de peso 2-3 por día de ficción, salvo clímax o cierre de arco explícito.
+- El presupuesto se reinicia al cambiar de día si cada jornada tuvo escenas, decisiones y costes propios.
+- Una semana resumida en elipsis cuenta como un bloque de entrenamiento o actividad, no como siete presupuestos diarios.
 - Una misma escena concede como máximo una marca mecánica, aunque toque varios dominios; se elige el rasgo que realmente cambió.
 - Las capacidades nuevas, regalos, sexo, notas altas o primeras veces no generan marca por existir: deben pasar el test de validez.
 - El GM puede registrar color e hitos sin convertirlos en marca.
