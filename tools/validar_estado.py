@@ -25,6 +25,7 @@ CSV_REQUERIDOS = {
     "companeros.csv": ["id", "nombre", "tipo", "rol", "quirk", "vinculo", "nivel", "regimen", "relevancia", "estado"],
     "mentores.csv": ["id", "nombre", "rol", "quirk", "relevancia", "estado"],
     "equipo_pc.csv": ["id", "nombre", "tipo", "quirk", "potencial", "maestria_inicial", "descripcion", "limitaciones"],
+    "expediente_academico.csv": ["id", "asignatura", "profesor", "estado_flanco", "ultima_medicion", "puntos_debiles", "refuerzos_activos", "proximo_hito", "notas"],
     "misiones.csv": ["id", "tipo", "descripcion", "lugar", "fecha_ficcion", "resultado", "recompensa"],
     "conocimientos.csv": ["id", "concepto", "estado", "notas"],
     "cronologia.csv": ["id", "fecha", "evento", "participantes", "consecuencias"],
@@ -161,25 +162,72 @@ def validar_sincronia_cierre() -> list[str]:
 
 
 def validar_anchos() -> list[str]:
-    """Filas cuyo nº de campos difiere del header (comas sin entrecomillar).
-
-    INFO, no WARN: hay filas históricas con drift conocido; esto existe para
-    detectar drift NUEVO comparando la salida entre cierres.
-    """
+    """Detecta filas cuyo número de campos difiere del header."""
     avisos: list[str] = []
     for nombre in CSV_REQUERIDOS:
         path = REGISTROS / nombre
         if not path.exists():
             continue
-        with open(path, newline="", encoding="utf-8") as f:
-            rows = [r for r in csv.reader(f) if r and not r[0].startswith("#")]
+        try:
+            with open(path, newline="", encoding="utf-8") as f:
+                rows = [
+                    (linea, row)
+                    for linea, row in enumerate(csv.reader(f, strict=True), start=1)
+                    if row and not row[0].startswith("#")
+                ]
+        except csv.Error as exc:
+            avisos.append(f"[ERROR] {nombre}: sintaxis CSV inválida ({exc})")
+            continue
         if len(rows) < 2:
             continue
-        ancho = len(rows[0])
-        malas = [r[0] for r in rows[1:] if len(r) != ancho and r[0] != "timestamp"]
+        ancho = len(rows[0][1])
+        malas = [
+            f"línea {linea} ({row[0] or 'sin id'}: {len(row)} campos)"
+            for linea, row in rows[1:]
+            if len(row) != ancho
+        ]
         if malas:
-            avisos.append(f"[INFO] {nombre}: {len(malas)} fila(s) con ancho ≠ header "
-                          f"({', '.join(malas[:8])}{'…' if len(malas) > 8 else ''})")
+            detalle = "; ".join(malas[:8])
+            sufijo = "; …" if len(malas) > 8 else ""
+            avisos.append(
+                f"[ERROR] {nombre}: {len(malas)} fila(s) con ancho distinto "
+                f"del header de {ancho} campos: {detalle}{sufijo}"
+            )
+    return avisos
+
+
+def validar_identificadores() -> list[str]:
+    """Los CSV cuyo primer campo es id deben tener IDs presentes y únicos."""
+    avisos: list[str] = []
+    for nombre, columnas in CSV_REQUERIDOS.items():
+        if not columnas or columnas[0] != "id":
+            continue
+        path = REGISTROS / nombre
+        if not path.exists():
+            continue
+        try:
+            with open(path, newline="", encoding="utf-8") as f:
+                rows = [
+                    (linea, row)
+                    for linea, row in enumerate(csv.reader(f, strict=True), start=1)
+                    if row and not row[0].startswith("#")
+                ]
+        except csv.Error:
+            continue
+        vistos: dict[str, int] = {}
+        for linea, row in rows[1:]:
+            if len(row) != len(columnas):
+                continue
+            identificador = row[0].strip()
+            if not identificador:
+                avisos.append(f"[ERROR] {nombre}: ID vacío en línea {linea}")
+            elif identificador in vistos:
+                avisos.append(
+                    f"[ERROR] {nombre}: ID duplicado '{identificador}' en líneas "
+                    f"{vistos[identificador]} y {linea}"
+                )
+            else:
+                vistos[identificador] = linea
     return avisos
 
 
@@ -233,42 +281,52 @@ def validar_csv(nombre: str, columnas_esperadas: list[str]) -> list[str]:
     if not path.exists():
         return [f"[ERROR] falta {nombre}"]
 
-    with open(path, newline="", encoding="utf-8") as f:
-        reader = csv.reader(f)
-        rows = [r for r in reader if r and not all(c.startswith("#") for c in r)]
-        if not rows:
-            warnings.append(f"[INFO] {nombre} está vacío (esperable si PC no definido)")
-            return warnings
+    try:
+        with open(path, newline="", encoding="utf-8") as f:
+            reader = csv.reader(f, strict=True)
+            rows = [r for r in reader if r and not all(c.startswith("#") for c in r)]
+    except csv.Error as exc:
+        return [f"[ERROR] {nombre}: sintaxis CSV inválida ({exc})"]
 
-        header = rows[0]
-        if header != columnas_esperadas:
-            warnings.append(f"[WARN] {nombre} header inesperado: {header}")
+    if not rows:
+        warnings.append(f"[WARN] {nombre} está vacío")
+        return warnings
+
+    header = rows[0]
+    if header != columnas_esperadas:
+        warnings.append(f"[ERROR] {nombre} header inesperado: {header}")
 
     return warnings
 
 
-def main():
+def main() -> int:
     print(f"=== Validación de estado — {ROOT.name} ===\n")
-    total_warnings = 0
+    avisos: list[str] = []
+
     for nombre, columnas in CSV_REQUERIDOS.items():
-        warnings = validar_csv(nombre, columnas)
-        for w in warnings:
-            print(w)
-            total_warnings += 1
+        avisos.extend(validar_csv(nombre, columnas))
 
-    # Capa 4: dashboard sexoafectivo
-    for w in validar_relaciones():
-        print(w)
-        total_warnings += 1
+    # Semántica, sincronía e integridad estructural.
+    avisos.extend(validar_relaciones())
+    avisos.extend(validar_finanzas())
+    avisos.extend(validar_sincronia_cierre())
+    avisos.extend(validar_pj())
+    avisos.extend(validar_marca_cierre())
+    avisos.extend(validar_anchos())
+    avisos.extend(validar_identificadores())
 
-    # Saldo de finanzas, sincronía del cierre, integridad estructural
-    for w in (validar_finanzas() + validar_sincronia_cierre()
-              + validar_pj() + validar_marca_cierre() + validar_anchos()):
-        print(w)
-        total_warnings += 1
+    for aviso in avisos:
+        print(aviso)
 
-    print(f"\n=== {total_warnings} avisos ===")
+    errores = sum(aviso.startswith("[ERROR]") for aviso in avisos)
+    warnings = sum(aviso.startswith("[WARN]") for aviso in avisos)
+    infos = sum(aviso.startswith("[INFO]") for aviso in avisos)
+    print(
+        f"\n=== {errores} error(es), {warnings} warning(s), "
+        f"{infos} info(s) ==="
+    )
+    return 1 if errores else 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
