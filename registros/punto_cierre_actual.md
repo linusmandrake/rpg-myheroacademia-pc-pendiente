@@ -1,132 +1,119 @@
-# Punto de cierre — sesión 18 · Curso 1 · Trimestre 1 · Día 23 (martes 4 jun) COMPLETO · apertura: D24 miércoles 5 jun (EXÁMENES + OBSERVADORES) · Musutafu, hostal habitación 4
-> Auto-generado al cierre. Léase al abrir sesión nueva (junto a registros/memoria_gm.md + cabecera de AGENTS.md + avisos de CLAUDE.md).
+# Punto de cierre — sesión 19 · Curso 1 · Trimestre 1 · Día 24 (miércoles 5 jun) COMPLETO · apertura: D25 jueves 6 jun (NOTAS + bronca de la montura + plan de vuelo + cita Tsuyu) · Musutafu, hostal habitación 4
+> Auto-generado al cierre. Léase al abrir sesión nueva (junto a registros/memoria_gm.md + MEMORY.md + cabecera de AGENTS.md + avisos de CLAUDE.md).
 
 ## Estado narrativo exacto
-- Ubicación: **Musutafu — hostal, habitación 4** (Akari y Ochaco dormidos; ronda de buenas noches a las diez enviada ~22:00).
-- Hora narrativa: **martes 4 jun (D23) cerrado**; el despertador sonará el **MIÉRCOLES 5 jun (D24)** — el día de los **EXÁMENES escritos + prácticos con OBSERVADORES de la Comisión**.
-- Última acción de Akari: ronda de buenas noches (10 chicas + los 5 Guardianes del Ocaso) y dormir sin drenaje (bandolera intacta).
-- **Próxima decisión pendiente del jugador (ARRANQUE S19): cómo afronta el MIÉRCOLES D24 — DÍA DE EXÁMENES.** El día trae: escritos (7 flancos, meta summa cum laude) + práctico con observadores esa semana. Doctrina fijada: **castaños podados + "emitir otra emisora sin apagar la tuya" (que lean la lluvia) + perímetro verde/ámbar/rojo de Aizawa** (rojo intocable = rewind + Ecos). Bakugo con objetivo declarado ("hacerle soltar el freno"). Reservas: cartuchos de Momo (A) y Jirō (AB) sellados. También en cola: **cita de charla con Tsuyu post-examen** (conocerse, sin manos). ¿Cómo abre el día del examen?
+- Ubicación: **Musutafu — hostal, habitación 4** (Akari y Ochaco dormidos; ronda de buenas noches enviada a las ~19:44).
+- Hora narrativa: **miércoles 5 jun (D24) cerrado** ~19:55; el despertador sonará el **JUEVES 6 jun (D25)** — el día de las **NOTAS** (escritos + práctico en el tablón, la Comisión revisó esta noche), la **bronca de la montura de Aizawa**, el **plan de vuelo borrador 2** (con Nejire), y la **cita de notas con Tsuyu** (propuesta por ella).
+- Última acción de Akari: ronda de buenas noches a 15 personas (bosque + Guardianes del Ocaso) tras dos beats íntimos con Ochaco (squirt + Zero Gravity erótico); dormir. Scars 0, pool 100%.
+- **Próxima decisión pendiente del jugador (ARRANQUE S20): cómo afronta el JUEVES D25.** No hay decisión atómica en curso (el jugador cerró durmiendo). El día trae: **notas en el tablón** (¿summa cum laude confirmada?), **bronca de la montura** de Aizawa, **plan de vuelo borrador 2** con Nejire (firma de Aizawa), **cita de notas con Tsuyu**. ¿Cómo abre el día?
 
 ## Stats, Quirk y economía al cierre
-- **PWR 4 · VEL 4 · TEC 4 · ING 4 · COO 3** (sin cambios en S18).
-- Quirk **Sanguine Verdant Echo**: potencial 5 / **maestría 4 CONGELADA** (11 declinaciones: 11ª = micro-toma de Momo D23). **Scars 0** (rewind NO usado D23). Pool honesto-operativo → 100%.
+- **PWR 4 · VEL 4 · TEC 4 · ING 4 · COO 3** (sin cambios en S19).
+- Quirk **Sanguine Verdant Echo**: potencial 5 / **maestría 4 CONGELADA** (11 declinaciones; SIN nueva declinación en D24: cero drenajes; los beats íntimos fueron con protección, sin beso de sangre). **Scars 0** (rewind NO usado D24). Pool 100%.
 - Fragmentos apilados (R11-ter, sin cambios): Creación ×7 · Vides ×3 · Invisibilidad ×2 · Ácido ×2 · Ondas ×2 · Zoom ×1 · Sueño ×1 · Cola ×1 · Endurecimiento ×1 · Uraraka 0.
-- **PERÍMETRO DE IMPROVISACIÓN (pactado con Aizawa D23)** — VERDE (libre, sin permiso): base/PWR/VEL/TEC, resorte de piernas, segunda piel, alas, savia-que-habla, autosellado, savia analgésica, bestias DIRIGIDAS por él (Blackroot montura incl.), ballesta "sin cerebro". ÁMBAR (solo emergencia con aviso o vida en juego): Avatar Carmesí + fragmentos robados (delatan el drenaje). **ROJO (intocable, ni perdiendo): rewind + Ecos.**
-- Bandolera (8 cartuchos): **1 = sangre de Momo (A, +40) · 2 = sangre de Jirō (AB, +50)** sellados SIN ingerir (reservas de examen). Munición viva REGISTRADA al cuaderno con protocolo de interruptor (sin estrenar en vivo; PROHIBIDA en el examen).
-- Saldo: **¥20.520** · sin deudas · beca ~junio. (S18: −¥1.500 comida.) ⚠️ El colchón de la mudanza (~¥30-50k) sigue sin caber — resolver antes del 7-8.
+- **BESTIA NUEVA: YAMORI** (geco de savia adhesivo; rescate/evacuación por superficies verticales). Bestiario: Blackroot (lobo/montura), Corvax (cuervo), Yogmungard (serpiente-camilla), Vesper (vencejo), Grimbark (gorila), Myobu (zorro), Iemori (gato), **Yamori (geco)**. **Techo cómodo ~3 bestias simultáneas al 100%.**
+- **MECÁNICA PRECISADA (jugador D24): los virotes-bestia NO son munición ni objeto — se fabrican bajo demanda y OCUPAN SLOT de bestia** (compiten con Blackroot/Corvax/etc.). "Prohibida en examen" = no invocarlos.
+- **PERÍMETRO DE IMPROVISACIÓN (pactado con Aizawa)** vigente: VERDE (base/cuerpo/savia-que-habla/segunda piel/alas/autosellado/savia analgésica/bestias dirigidas/ballesta "sin cerebro"). ÁMBAR (solo emergencia con aviso: Avatar Carmesí + fragmentos robados). ROJO (intocable: rewind + Ecos).
+- Bandolera (8 cartuchos): **1 = sangre de Momo (A, +40) · 2 = sangre de Jirō (AB, +50)** sellados SIN ingerir (reservas). Munición viva REGISTRADA al cuaderno (prohibida en examen; es función de fabricar bestias, no objeto).
+- Saldo: **¥19.020** · sin deudas · **BECA NO entró (prevista vie 7 jun)**. (S19: −¥1.500 tés toldo verde.) ⚠️ Colchón de mudanza: plan de Ochaco = **mudanza pesada al sáb 8 jun** tras el ingreso del 7 (apretado pero viable).
 - Salud: perfecta; descansado.
 
 ## Reputación y facciones
 - Mediática: sin cambios (Kioto en anonimato total, nombre falso "Yosano").
-- Intra-UA: reputación de **líder/summa** reforzada (Iida lo ficha, All Might "liderazgo", Monoma "diabólico" = camuflaje gratis, la fiesta Blur, el aula de repaso llena). Coraza de notoriedad legítima consolidada.
-- **Aizawa** (bóveda): munición viva registrada al cuaderno (protocolo de interruptor); **perímetro de improvisación** pactado; **back-up de Erasure de por vida elevado a Nezu** (protocolo de fin del mundo, sin fecha). Doctrina intacta: no confirmar nunca, no mentir jamás. **Bronca de la montura: JUEVES** (anunciada).
-- **Nezu**: recibe la propuesta de back-up de Erasure. Vigilancia familia Hayami activa. Caza de la credencial muerta: sin novedades entregadas.
-- Comisión: **OBSERVADORES llegan MAÑANA (miércoles).** Tasador: sin pasadas nuevas D23. Liga: sin contacto.
+- Intra-UA: **reputación de rescate/matrícula reforzada** (práctico 6/6 con el barrio en pie y protocolo completo; la clase lo lee como héroe de rescate metódico que cede el protagonismo a su compañera de 1-B).
+- **Aizawa** (bóveda): ARQUITECTO del examen (trampa de criterio); Akari PASÓ el examen-dentro-del-examen (6/6, verde hasta el final, sin tocar ámbar). **Bronca de la montura: JUEVES D25** (junto al plan de vuelo borrador 2).
+- **Comisión** (fac-003): observadores presentes; evaluador **Tachibana** se paró en el pupitre de Akari (A6) — la "nada perfecta" le picó, anotó "A6"; se disolvió con la coartada "crack de inglés". Vio versatilidad de contención (VERDE, no ámbar) = huella menor. **Notas / revisión del expediente: esta noche → tablón D25.** Observa e interpreta; no antagonista automática.
+- **Nezu**: sin novedades entregadas (vigilancia familia Hayami activa; caza de la credencial muerta en curso).
 
 ## Equipamiento clave activo
-- **Bebé 42 "AVE MARÍA" OPERATIVA**: cero 25/50 m; tarea 10 disparos en seco/día (hecha D23); munición estándar + **munición viva registrada al cuaderno** (sin estrenar; prohibida en examen).
-- Costume operativo (bebé 40) + telemetría (41). 40-v2 supersónico ~2-3 semanas.
+- **Bebé 42 "AVE MARÍA" OPERATIVA** (no usada en el examen): cero 25/50 m; munición estándar + munición viva registrada (prohibida en examen).
+- Costume operativo (bebé 40, usado en el examen) + telemetría (41). 40-v2 supersónico **~2 semanas**.
 - Anillo de gema sanguina: en cadena sobre el esternón de Momo; late en el mapa de Akari a cualquier distancia.
-- **Regalos entregados D23 (beats individuales)**: soba (Todoroki) · tabi/sol-luna (Mina) · netsuke kaeru (Tsuyu) · semillas de loto (Ibara) · pincel (Pony). **Pendientes en cola**: omamori Yatagarasu (Tokoyami) · sensu (Kendo). Registro en `registros/regalos.md`.
+- **Óptico rojo** (trofeo del primer mech contenido) **entregado a Mei** (en su estantería de honor de los prototipos que funcionaron).
+- Regalos pendientes en cola: omamori Yatagarasu (Tokoyami) · sensu (Kendo). Registro en `registros/regalos.md`.
 
 ## Misiones / internado / exámenes abiertos
-- **mis-023 EXÁMENES: MIÉRCOLES 5 JUN** (escritos) + prácticos con OBSERVADORES esa semana. Doctrina fijada: castaños podados + "que lean la lluvia" + perímetro verde/ámbar/rojo. Hipótesis All Might CONFIRMADA (Fundamentos puntúa juicio; matrícula de liderazgo ganada D23 en simulacro).
-- **mis-034 AULA DE REPASO**: sesión maratón (15-20h) EJECUTADA D23; inter-clases; Monoma auditor→colaborador; Pony co-oficiando.
-- **mis-036 AVE MARÍA**: operativa; munición viva registrada al cuaderno (anti-material sigue solo-con-Aizawa).
-- **mis-039 PLAN DE VUELO**: borrador 1 hecho; borrador 2 = JUEVES. Firma de Aizawa.
-- **mis-040 MERIENDAS DEL BOSQUE**: pares antes de la mudanza (Ochaco↔flor semana del 9; Nejire↔"Yaoyorozu"; Kyōka↔Toru).
-- **mis-024 CANTO (Mika)**: tarea diaria de respiración (⚠️ D23 no jugada — retomar).
-- **KIOTO (mis-038): CUMPLIDA** — prometidos. Mudanza 7-8 jun (⚠️ colchón). Nighteye dom 9, 16:40. Fijar la FECHA de la guerra de Momo (Kioto/noche con tiempo).
-- **NUEVO — grupo de música (social + dúo íntimo)**: Jirō (bajo), Tokoyami (guitarra, confirmado), Mina (bailarina), Momo (teclado, con cautela OPSEC), Akari (voz). Núcleo íntimo Akari↔Jirō (sagrado, aparte; primer ensayo "UA vacía" post-exámenes). Registrar en `ganchos_futuros.md`.
-- **NUEVO — cita de charla con Tsuyu** (post-examen; conocerse, sin manos; el deseo se gana con la mente).
+- **mis-023 EXÁMENES**: D24 EJECUTADO — 5 escritos (sandbagging perfecto) + práctico de rescate 6/6. **NOTAS EN EL TABLÓN EL D25.** Bakugo NO logró hacerle soltar el freno.
+- **mis-039 PLAN DE VUELO**: borrador 1 hecho; **borrador 2 = JUEVES D25** (con Nejire; firma de Aizawa).
+- **mis-040 MERIENDAS DEL BOSQUE**: par Ochaco↔Mina ARRANCADO (SMS de invitación; hacer a Mina cómplice del chisme de convivencia). Otros pares pendientes.
+- **mis-041 GRUPO DE MÚSICA**: dúo íntimo sagrado Akari↔Jirō estrenado (Sala 3): **pista tres terminada** (no se publica). Grupo social de versiones: pendiente de primer ensayo.
+- **mis-042 CORTEJO DE TSUYU**: cita del almuerzo cumplida; agencia devuelta; **cita de notas D25 propuesta por ella**. close 5→6.
+- **mis-024 CANTO (Mika)**: tarea diaria de respiración (retomar).
+- **KIOTO (mis-038): CUMPLIDA** — prometidos. Mudanza 7-8 jun. Nighteye dom 9, 16:40. Fijar la FECHA de la guerra de Momo (Kioto/noche con tiempo).
 
 ## Decisiones de carácter recientes que pesan
-- **"No voy a vivir bajo una piedra."** Declaración de identidad a Aizawa: algún día saldrá a la luz por su propio pie, reclamará su sitio, enfrentará a la Comisión y al Coleccionista con estructura detrás. El escondite de hoy es el andamio de ese día (Aizawa). Y la oferta de ser el **back-up de por vida del Erasure de Aizawa** (lealtad, no codicia).
-- **La FECHA de la guerra de Momo**: Akari se negó a esperar 3 años vagos; exigió una fecha (no un ultimátum: "jamás renunciaré a ti"). Momo aceptó ponerle fecha (a fijar) y soltó el último margen de autoprotección. Línea roja intacta: la guerra la libra ELLA.
-- **La renuncia con Tsuyu**: le declaró deseo crudo y luego renunció a tocarla por respeto a cómo lo viviría ella — el corazón le ganó al hambre. Aprendizaje: a Tsuyu se la gana con la mente, no con el deseo.
-- **El proyectil ES él**: recalibración con Aizawa — la munición viva no piensa "sin él"; es su subconsciente; todas las bestias son él; el interruptor es la función.
-- **Los regalos como beats**: regla de mesa viva — lo valioso no se entrega de pasada (5 entregados D23, cada uno su momento).
+- **El sandbagging como identidad operativa**: "que lean la lluvia, no la fuente". Ante la Comisión, dar un tell legítimo (crack de inglés) es mejor que la nada perfecta (la nada pica). En el práctico: contener sin destruir, ceder el protagonismo a Ibara, romper el margen solo por vidas.
+- **"El grifo será compuerta de central hidroeléctrica"** (a Bakugo): Akari no le da la pelea entera hoy; lo reencuadra como el motor que le hará construir la presa. Bakugo, gestionado, pasa de "hacerle soltar el freno" a "estar delante el día que se abra".
+- **La agencia devuelta (Tsuyu)**: Akari deja de ser siempre el actor; le pide a Tsuyu que luche ella, que dé ella los pasos — cura su miedo ("solo sé querer por deber") exigiéndole ser sujeto. Ella practica y da su primer paso proactivo.
+- **La declaración de los hijos (Jirō)**: "si tener hijos contigo no te costara la carrera, los engendraría hoy; reviso el condón porque te quiero el futuro entero, no por miedo".
+- **El destape de la niebla (toldo verde)**: Akari elimina la asimetría entre Momo y Nejire de un gesto (dos besos, dos apodos), apostando a que Nejire cuidó bien el secreto de Momo. Salió: se alían entre ellas.
+- **Las dos bodas (el orden como reparto, no rango)**: la boda oficial (Momo, muko-yōshi, tras su guerra) es "la trinchera" (la que menos vida propia tiene); las demás son bodas reales, felices, cada una con su dignidad (Momo su 2ª boda con familia escogida; Nejire su boda con su hermana Kotori en primera fila).
 
 ## Continuidad emocional y red sexoafectiva (harem / OPSEC)
-- **Momo (9, ANCLADA, PROMETIDA)** ⭐⭐⭐: HITO MAYOR S18 — **la asimetría de afecto se cerró** (Momo soltó el último margen: "diez sin descontar; ya no hay nada que descontar"; el 8→9/10 real llegó al confrontar el "vivir juntos vs su guerra"). **Compromiso de ponerle FECHA a su guerra** (a fijar en Kioto o una noche con tiempo; la mano en el gatillo sigue siendo suya — Akari no la empieza por ella, línea roja). Distinción firmada: convivencia discreta = adelantable; empezar la guerra = suya. Contraargumento propio: un hijo temprano = arma para su padre, no adelanto. Banda (teclado) aceptada con cautela OPSEC ("la sala más peligrosa que has diseñado": tocar al lado de Jirō y Mina que no saben lo que es). Sabe lo de Aizawa (back-up, la piedra); avisó que cuando él salga a la luz, recalcula el camuflaje entero, los dos juntos. Corrección de continuidad: los 8 metros de Gion = ELLA comió dango con Akari al lado (no separados en una gala).
-- **Uraraka (9, ANCLADA)** ⭐: cotidianidad ratificada la víspera (bentos del alba, rincón de finanzas en el repaso, vuelta a casa juntos, amor sin drenaje). Sigue con el mapa (sin nombres, por elección) y la constitución de la casa. Administra ¥23.000.
-- **Jirō (10, ANCLADA, PAREJA)** ⭐⭐: la **banda** (dúo íntimo sagrado —"yo para mí, tú para ti, tú para mí, yo para ti" = estribillo pista tres— + grupo social de versiones); **cantó de cara en público por primera vez** en su vida (escena Blur, catarsis de la que canta de espaldas); amplificó con los jacks; convence a Tokoyami para la guitarra. Cartucho AB en la bandolera (reserva de examen).
-- **Tsuyu (5, VOLÁTIL, CORTEJO ABIERTO)** 🆕: deja de ser "aliada, no romántica". Deseo **declarado MUTUO** (no consumado). Regalo netsuke kaeru ("la rana que vuelve"). Ella marca el ritmo: **conocerse primero, sin manos; el deseo se gana con la mente** ("a mí el cuerpo no me va primero"). Akari renunció a tocarla por respeto → eso la encendió. Cita de charla mañana post-examen. Sabe que Akari "administra algo grande" y ahora que ese algo es "el bosque que él ES" (disclosure parcial del Quirk como identidad; sin nombres, sin borrado, sin rewind). Discreta, leal, radar honesto.
-- **Mina (8, volátil)**: regalo **tabi de baile** (sol y luna bordados; "gracias por verme los pies"); **bailarina oficial** del grupo social; "recibir se me da fatal, esto vale por diez" (gesto emocional). El 5,5 sigue. NO sabe de Jirō ni de las demás por nombre. Candidata (en la cabeza de Akari, no dicho) a la merienda con Ochaco.
-- **Ibara (7, ANCLADA)**: alianza regada — **semillas de loto** plantadas en el centro del telégrafo del jardín ("la flor más limpia nace del lodo más negro"); reza por él al alba, su nombre entre los de su familia.
-- **Pony (3, volátil, fila NUEVA)**: regalo **pincel** ("syllabus avanzado"); co-oficia el aula de repaso; tiene 速・明・里 copiados sin saber que es su nombre; deseo LATENTE (no abrir sin más señal de ella).
-- **Midnight (6, volátil)** 🔴: NO FLORECIDA — tabú sostenido, caución de Momo intacta. Hito S18: **teatro de las dos máscaras sostenido en vivo** (primera clase post-Eldar; ambos aguantaron la careta; Akari le devolvió su propio retrato como teoría + la herramienta para no derramarse; ella la usó en tiempo real; ruta-008 aplicada frente a la maestra). 2º ensayo "El martirio como espectáculo público" encargado (post-exámenes). Señal archivada sin decodificar: "canta a los inmortales en primera persona". Momo NO sabe de este hilo.
-- **Nejire (8, ANCLADA, PAREJA)**: SMS de buenas noches (kanzashi guardado; plan de vuelo borrador 2 = jueves). Sin cambio de eje.
-- **Kendo (7, ANCLADA)**: SMS (guasa de "desear suerte a la competencia"). Regalo sensu PENDIENTE de beat.
-- **Mei (7, volátil, FLORECIDA)** · **Toru (8)**: SMS de buenas noches; sin cambio de eje.
-- **OPSEC**: rewinds S18 = 0. Niebla nueva: **Tsuyu recibió un disclosure parcial** ("el bosque que Akari ES", sin nombres/borrado/rewind) y sabe que hay "gente" en él. Mina NO sabe de Jirō ni Jirō de Mina (cada una conoce la existencia del bosque, no las identidades). Momo sabe lo de Aizawa (back-up); NO sabe de Midnight (confesión-canción-máscaras). Aizawa = bóveda. La banda será un teatro OPSEC continuo (árbol + 2 flores + 1 compañero en la misma sala).
+- **Momo (9, ANCLADA, PROMETIDA)** ⭐⭐⭐: TOLDO VERDE — descubre que Nejire dedujo y SELLÓ su secreto por amor → **alivio inesperado** ("pensaba que estaba sola sabiéndolo"); se **alía con Nejire** (intercambian números directos). **LAS DOS BODAS** pactadas en voz alta: (1) oficial/muko-yōshi tras su guerra = "la trinchera"; (2) segunda boda feliz, sin familia de sangre, con familia escogida = "la mesa que nunca nos dieron". Akari: "el amor de mi vida". Lloró en público ("mi sitio no es un trono, es una trinchera"). **El 10 sigue pendiente de que ELLA fije la fecha de su guerra** (no fijada en D24).
+- **Jirō (10, ANCLADA, PAREJA)** ⭐⭐: Sala 3 (UA vacía) — **PISTA TRES terminada** (su voz + el pulso en vivo de Akari de percusión + su segunda voz grave; cantó de cara; "no la va a oír nadie más que nosotros"). Luego **hicieron el amor** (hito; condón comprobado, sin susto; ella ruidosa/libre por primera vez donde puede gritar; aftercare pleno). **Declaración de hijos** de Akari → "eso es la canción entera; guárdatelo". RETCON: Jirō llegó virgen a Akari.
+- **Mei (8, volátil, FLORECIDA)** 🆙: taller de Soporte — Akari le preguntó por ELLA (no por los cacharros) y le regaló el **óptico rojo** del mech contenido (símbolo, no invento) → la tocó hondo. Luego **hicieron el amor** + aftercare + **ducha** juntos. close 7→8.
+- **Nejire (8, ANCLADA, PAREJA)** 🆙conf: toldo verde — se rompió la asimetría de niebla (Akari confirma que ella sabía). Se **alía con Momo** ("yo no soy el árbol; puedo ser una raíz de al lado"). Akari le **promete su boda real** (no legal): ceremonia entera, su hermana **Kotori** (12) en primera fila, su padre llevándola del brazo. conf alta→total; close 8 (consolida).
+- **Ochaco (9, ANCLADA)** ⭐: cierre doméstico. **Squirt** (descubrimiento gozoso) + **Zero Gravity erótico** (lo flotó ingrávido y lo dirigió → "me gusta rendirme Y que se me rindan"). **Mineta**: Akari confesó impotencia → ella lo aterrizó ("no somos flores en un jarrón; somos heroínas; el plan es red+testigos+estructura, no tu mosca; y tú menos que nadie puedes estar en el centro de un incidente"). Idea: invitar a Mina de cómplice del chisme de convivencia. Administra el fondo de casa (¥23.000).
+- **Tsuyu (6, VOLÁTIL, CORTEJO ABIERTO)** 🆙: charla honda de conocerse (sin manos). Akari le dio el "quién" de verdad + el **benefactor desconocido**. Le **devolvió la agencia** ("si te gusto, lucha tú") y le desmontó el miedo (lleva 2 días eligiéndolo ella). Tsuyu dio su **primer paso proactivo** (acortó ella la distancia; propuso ella la cita de notas D25). "Me estás ganando tú a mí." close 5→6.
+- **Mina (8, volátil)**: SMS — invitada a cena/merienda a la casa que Akari comparte con Ochaco (hacerla cómplice del chisme de convivencia; merienda del bosque Ochaco↔Mina arrancada). El 5,5 sin cambio.
+- **Ibara (7, ANCLADA)**: **pareja de rescate del examen** (titular visible; sus vides = extracción/trabas; "que yo brille, a mí brillar no me cuesta el secreto"). 6/6, barrio intacto. Alianza de sangre regada con la victoria ("la flor más limpia nace del lodo más negro" hecha carne). Reza por él al alba.
+- **Midnight (6, volátil)** 🔴: NO FLORECIDA. SMS de buenas noches con doble fondo (código de la máscara). Momo NO sabe de este hilo.
+- **Kendo (7, ANCLADA)** · **Toru (8)** · **Pony (3, volátil)**: sin cambio de eje (SMS de buenas noches; Kendo el sensu pendiente; Pony escribió 明 sin saber que es su nombre).
+- **OPSEC**: rewinds S19 = 0. **CAMBIO MAYOR DE NIEBLA: la asimetría Momo↔Nejire se ROMPIÓ** — ambas conscientes la una de la otra, aliadas, con números intercambiados. Tsuyu recibió el "quién" más hondo de Akari (el que sobra + el benefactor desconocido), sin nueva mecánica del Quirk. Ochaco y Mei sin cambio de niebla.
 
 ## Detalles emocionales sutiles
-- Momo, soltando el último margen al besarla tras el conflicto: *"Se me acaba de caer el último margen. El que me guardaba por si acaso. Ya no lo tengo. Cuando te diga que te quiero a partir de hoy, no descuentes nada. Ya no hay nada que descontar."*
-- Momo, aceptando la fecha: *"Habrá fecha. En Kioto, o en la primera noche con tiempo, saco el calendario de años y le pongo a mi guerra un día de salida. La mano en el gatillo sigue siendo la mía. Pero el gatillo lo aprietas tú, sin tocarlo."*
-- Momo, la línea roja: *"Si la empiezas tú, no me liberas: me rescatas. Y una mujer rescatada por su hombre no gana su apellido, se lo cambian de dueño."*
-- Aizawa, sobre el back-up: *"Nadie me había ofrecido eso nunca. Que conste."* / *"La sombra por miedo es una piedra encima; la sombra elegida es una trinchera desde la que golpeas."* / *"El día que salgas a la luz se construye AHORA, ladrillo a ladrillo. El escondite de hoy es el andamio del día en que no habrá escondite."*
-- Aizawa, tras la respuesta de seguridad de Akari: *"Ese es el mejor argumento de seguridad que me has dado nunca. Y me da más miedo que la munición viva."*
-- Tsuyu, desactivando la vergüenza de Akari: *"Sucio habría sido mentirme para llevarte el ensayo. Has renunciado a lo que más querías porque no soportabas dármelo a medias. Eso no es un cerdo. Ganó el corazón. Delante de mí."* / *"Lo que acabas de hacer es exactamente lo que me enciende. No era metiéndome la mano en la chaqueta. Era esto. Te has ido mejor que airoso: te has ido habiendo empezado de verdad."*
-- Mina, con los tabi: *"Recibir se me da fatal. Me traes algo para lo único mío que casi nadie sabe que existe. Me miras los pies. Los que trabajan. Esto vale por diez."*
-- Ibara, con las semillas de loto: *"'La flor más limpia nace del lodo más negro.' Eso es un versículo que no está escrito y debería. No has profanado mi fe: la has honrado encontrándole a una planta el sentido que yo le doy a la mía."*
-- Todoroki, con la soba: *"Nadie me trae comida. La mayoría me trata como si fuera de cristal o de fuego. Tú me has traído algo frío y lo has llamado frío. Se agradece."* / (tras el Werther) *"Me acabas de escribir la mitad de mi ensayo."*
-- Jirō, tras la escena Blur (sin mover los labios): *"Mejor celebración de mi vida, ladrón. Copyright."* / *"'Yo para mí, tú para ti...' Eso es un verso. Es el estribillo de la pista tres y ni lo sabías. Copyright compartido. Para siempre."*
-- Midnight, cifrado ante 30 testigos: *"Hay en esta clase quien no solo entiende la teoría del velo. La habita. Y quien habita una máscara todo el día carga un peso que el resto ni sospecha. Espero que sepa dejarla a veces. Por su bien."*
-- All Might, tras el simulacro: *"No lo abandonaste ni lo humillaste. Le tendiste una red que él ni vio y le vestiste una salvación de orden para no herirle el orgullo. Eso no es coordinación. Eso es LIDERAZGO."*
-- Bakugo, respeto a regañadientes: *"No me has salvado. Me has usado de ejecutor en tu puto organigrama. Y ha funcionado. Lo cual es peor. Mañana no habrá plan que te tape."*
-- Ochaco, sobre su rincón de finanzas: *"Los números no dan miedo si alguien te los explica sin reírse de ti. A mí me los explicaste tú una vez. Solo lo devuelvo."*
-- Pony, en el SMS nocturno: *"one stroke done! it says 明. no sé por qué me sale ese siempre"* — la mitad de su nombre, sin saberlo.
-- **Jirō rozó el secreto de Momo y soltó el hilo sola** (POV, pasillo a Inglés): al oír "quiero a tu amiga Momo en el grupo" un cable fino se le cruza sin encenderse — *"qué raro… bah, rivalidad de listos"* — y lo entierra. No sabe que acaba de rozar el secreto más grande de su novio con la punta del dedo y ha decidido no tirar del hilo. **Como con el suzu. Como con todo lo importante.**
-- La escala asintótica de Momo, en el pasillo: *"No hay once. Hay dieces cada vez más hondos, y este es el más hondo hasta hoy."* / *"Mañana te hago el diez en el amor y el uno en el ranking. En ese orden."*
-- Aizawa, despidiéndole del despacho: *"Has dicho 'si llego a pro-hero'. No es 'si'. Con esa cabeza, es 'cuándo'. Lo de 'si' arréglalo tú."*
-- Tsuyu, el permiso de mirar (desactivando la promesa de Akari de "no mirarte raro"): *"Mírame lo que quieras. Ahora que sé que es honesto, hasta me hace gracia. Lo que me tienes que ganar es lo otro, y eso no se roba con la vista."* — cambia cómo puede comportarse Akari con ella desde ya.
-- Ochaco y el tercer bento, a las 5:30: *"Yo cargo sacos, no nombres."* / *"Y al mío ponle más tamagoyaki, que la casera cobra en especie."* — la aceptación tácita del bento del bosque, sello doméstico de la víspera.
-- Nemuri, en la sala de profesores antes de su clase: dejó de corregir un segundo al enterarse de que "ese chico" se subió a un pupitre a gritar de pura alegría — información que se guardó entera y que colorea su "espero que sepa dejar la máscara a veces".
+- Akari a Bakugo: *"Me caes de puta madre. No cambies. Gracias a ti, ese grifo un día no va a ser un grifo: va a ser la compuerta de una central hidroeléctrica. Y el que me está empujando a construir la presa eres tú."*
+- Bakugo (POV, para nadie): *"…hidroeléctrica. Tsk. Pretencioso de mierda. Más te vale que sea grande, entonces."*
+- Tsuyu, al acortar ella la distancia: *"Un paso. Lo elijo yo. Que sepas que esto es tramposísimo: me has retado a quererte por mi cuenta y encima tienes razón. Kero."* / *"Que me desees no me lo tienes que esconder. Solo no te lo tienes que cobrar antes de tiempo. Y no te lo estás cobrando. Eso sí que me lo estás ganando."*
+- Jirō, tras la declaración de hijos: *"Eso no es un verso. Eso es la canción entera. Guárdatelo. No lo pongas en ninguna pista. Es demasiado nuestro hasta para la tres."*
+- Mei, con el óptico: *"Es basura y me la voy a poner en la estantería de los prototipos que funcionaron, en el centro. Nadie me trae basura con corazón dentro, Akari. Tú sí."*
+- Momo, en el toldo verde: *"Yo pensaba que estaba sola en esto. Y resulta que había una copiloto que ya lo sabía y que me estaba cuidando la espalda sin que yo lo supiera."* / *"Mi sitio no es un trono. Es una trinchera."* / (de las dos bodas) *"La mesa que nunca nos dieron. Me estás convirtiendo esa frase en una boda."*
+- Nejire, a Momo: *"Yo no soy el árbol. No quiero serlo, me daría un pánico horrible. Pero puedo ser una raíz de al lado. De esas que no se ven pero que sujetan cuando sopla fuerte. Si me dejas."* / (con la boda) *"Que va a poder verla. Que va a estar en primera fila. Me acabas de regalar algo que ni sabía que echaba de menos."*
+- Ochaco, tras el Zero Gravity erótico: *"Resulta que me gusta rendirme Y que se me rindan. Menudo descubrimiento para un miércoles."* / (de Mineta) *"No somos flores en un jarrón esperando que nos rescates. Somos heroínas. Un Mineta lo gestionamos dormidas."*
+- Ibara, tras el rescate: *"Seis de seis. Y tú, entero, sin haber enseñado el bosque. El que guarda su fuerza para el momento justo, el Cielo lo llama sabio."*
 
-## Información que NPCs tienen sobre Akari (perfil acumulado — cambios S18)
-- **Momo**: + lo de Aizawa (back-up de Erasure, "la piedra", el perímetro); + el compromiso de fecha de su propia guerra; + la banda (teclado). NO sabe de Midnight.
-- **Aizawa**: + la munición viva ES él (subconsciente); + la oferta de back-up de Erasure; + "no viviré bajo una piedra"; + el argumento de seguridad de la improvisación. Espera la bronca de la montura (jueves).
-- **Tsuyu**: + "el bosque que Akari ES" (el Quirk como identidad, sin nombres/borrado/rewind); + que hay "gente" en ese algo que administra; + deseo mutuo declarado. Discreta, no husmea.
-- **Iida**: + Akari es rápido de verdad (casi le gana sin Recipro); + su técnica es resorte de savia; su punto débil es la cadencia (se lo regaló).
-- **Mirio (Big 3)**: + vio el resorte de savia en la carrera y lo nombró ("bonito resorte. Muy vegetal. Tranquilo, no pregunto") — asimetría de un Big 3 que deduce y elige callar.
-- **Kendo**: + lo anotó como tendencia ("a las seis corre como si le fuera la vida, a las ocho canta como si no le importara nada; peligroso de subestimar, fácil de querer" — esto último no lo anotó).
-- **All Might**: + juicio Y voz mantenidos bajo caos; + liderazgo (salvó a Bakugo sin humillarlo). Matrícula grabada.
-- **Bakugo**: + Akari esconde poder Y sabe mandar; + le cubrió la espalda fingiendo darle una orden. Objetivo de mañana: hacerle soltar el freno.
-- **Midnight**: + Akari domina el umbral del derrame como nadie (le devolvió su propio retrato); + sostiene la máscara ante ella sin quebrarse. Deducción acumulada: carga una máscara mucho más pesada que la de un estudiante.
-- **Mic**: + su método (música=inglés) funciona en Akari; + acento decente cantando Blur. Nota semanal adelantada.
-- **Monoma**: + el aula de repaso "diabólica" que une 1-A y 1-B; cede y colabora a su pesar.
-- **Todoroki**: + la lección del Werther (soledad vs libertad); los Guardianes montan guardia unos por otros.
+## Información que NPCs tienen sobre Akari (perfil acumulado — cambios S19)
+- **Momo**: + que Nejire sabía y selló su secreto (ya no está sola sabiéndolo); + las dos bodas; + "el amor de mi vida". Aliada de Nejire.
+- **Nejire**: + Akari confirmó ante Momo que ella sabía (la niebla rota); + su boda real prometida (familia, Kotori). Aliada de Momo.
+- **Tsuyu**: + el "quién" más hondo de Akari (el que sobra); + el **benefactor desconocido** que lo quiso en UA (sin tirar del hilo); practica su propia agencia.
+- **Tachibana / Comisión**: + un perfil "crack de inglés / temperamento frío / cede protagonismo"; + versatilidad de contención vista (verde). Anotó "A6". NO sabe el secreto real.
+- **Bakugo**: + confirmó que Akari esconde poder que no enseña (los "10 segundos"); + la rivalidad reencuadrada (quiere estar delante cuando se abra "la compuerta").
+- **Aizawa**: + Akari pasó el examen-dentro-del-examen (criterio > potencia, sin tocar ámbar/rojo). Espera la bronca de la montura (jueves).
+- **Mei**: + le regalan un símbolo, no un invento (la tocó); sin cambio de niebla (bosque sin nombres).
 
 ## Progresión narrativa activa
-- `progreso_narrativo.csv`: **pm-119..pm-128** (S18, Σ ~19 peso) — TODAS APLAZADAS a cierre de Arco 1. HITOS MAYORES: **pm-120** (Aizawa/identidad, peso 3), **pm-121** (Momo/asimetría+fecha, peso 3), **pm-124** (Fundamentos/liderazgo, peso 3).
-- `hitos_progresion.csv`: sin subidas nuevas en S18 (todo aplazado; VEL 3→4 fue el canje post-S16).
-- `rutas`: ruta-006 (falta 10k sub-50) · ruta-007 (borrador 2 vuelo = jueves) · ruta-008 (doctrina de examen aplicada en vivo ante Midnight) · ruta-011 (Ave María + munición viva registrada).
-- `conocimientos`: **con-069 nuevo** (perímetro de improvisación / doctrina de la máscara) · con-065 actualizado (munición viva registrada con protocolo de interruptor).
-- Maestría: 4, congelada (11 declinaciones). Tipos de sangre conocidos: sin cambios.
+- `progreso_narrativo.csv`: **pm-129** (examen práctico/rescate, peso 3) + **pm-130** (destape + alianza de vértices, peso 2) — S19, Σ 5 peso. APLAZADAS a cierre de Arco 1. (El examen entero = 1 sola marca mecánica, por regla.)
+- `hitos_progresion.csv`: sin subidas nuevas en S19 (todo aplazado; maestría congelada; sin nueva declinación).
+- `rutas`: ruta-006 (10k sub-50) · ruta-007 (plan de vuelo borrador 2 = jueves) · ruta-008 (doctrina de máscara) · ruta-011 (Ave María).
+- `conocimientos`: **con-070** (evaluador de la Comisión por tells) · **con-071** (mechs de rescate UA).
+- Maestría: 4, congelada (11 declinaciones). Sin nueva.
 
 ## NPCs menores con potencial futuro
-- **Guardianes del Ocaso** (grupo canónico): Todoroki, Tokoyami, Kōda, Midoriya, Aoyama (+ Shoji invitado). Credo: "montan guardia unos por otros". **Present Mic** (mentor musical; conoce a la banda de los Jirō del mundillo). **Monoma** (auditor→colaborador; su "diabólico" = camuflaje gratis). **Iida** (aliado de protocolo; plan de cadencia). Mika (vocal; respiración pendiente). Snipe, Ectoplasm, Cementoss, Vlad King (claustro). Funcionario de la credencial muerta (caza de Nezu en curso).
+- **Tachibana Ren** (evaluador junior de la HPSC): anotó "A6"; el picor sin resolver del sandbagging perfecto. Vector de vigilancia de la Comisión.
+- **Kotori Hado** (hermana de Nejire, 12): primera fila en la boda de Nejire.
+- **Guardianes del Ocaso**: Todoroki, Tokoyami, Kōda, Midoriya, Aoyama. **Tetsutetsu** (1-B, pareja de Bakugo en el examen). Present Mic (mentor musical). Monoma (auditor→colaborador). Mika (canto pendiente).
 
 ## Coincidencias narrativas entre NPCs
-- **La banda como teatro OPSEC continuo**: árbol (Momo/teclado) + 2 flores (Jirō/bajo, Mina/bailarina) + compañero (Tokoyami/guitarra) en la misma sala; ninguna flor sabe de la otra ni que Momo es el árbol. Momo lo advirtió ("la sala más peligrosa que has diseñado").
-- **Pony ↔ su propio nombre**: tiene 速・明・里 copiados sin saber que deletrean "Hayami Akari"; escribe 明 "sin saber por qué le sale siempre".
-- **Midnight ↔ el sandbagging**: Momo lee la respuesta de la máscara como Akari hablando de SU camuflaje (verdad) sin ver a Midnight (niebla intacta).
-- **Bakugo ↔ el liderazgo**: pasó de despreciar el plan a ejecutarlo salvando un civil; acumula respeto a regañadientes y la certeza de que Akari esconde poder Y mando.
+- **La alianza de vértices (Momo↔Nejire)**: la raíz principal y la raíz de al lado, ahora conscientes y coordinadas (OPSEC compartido; se pasaron los números buenos). Cambia cómo se sostiene el bosque: menos dependiente de Akari como único eje.
+- **Pony ↔ su propio nombre**: sigue escribiendo 明 "sin saber por qué le sale siempre".
+- **Bakugo ↔ la compuerta**: la obsesión pasa de "hacerle soltar el freno" a "estar delante cuando se abra"; aliado-rival estable.
+- **El benefactor desconocido ↔ Tachibana/Nezu/tasador**: el hilo de quién quiso a Akari en UA podría cruzarse con la vigilancia de la Comisión y la caza de Nezu.
 
 ## Relojes de facción activos
-- **EXÁMENES: MIÉRCOLES 5 JUN (escritos) + prácticos con OBSERVADORES esa semana.** Bakugo con objetivo declarado. Doctrina: castaños + perímetro + "que lean la lluvia".
-- **Back-up de Erasure**: elevado a Nezu (protocolo de fin del mundo, sin fecha).
-- **Bronca de Aizawa por la montura: JUEVES** (anunciada).
-- **Mudanza Heights: vie-sáb 7-8 jun** (⚠️ colchón ~¥30-50k vs saldo ¥20.520 · presentaciones de pares · un cuervo para la ventana de Mineta).
-- **Nighteye: dom 9 jun 16:40.** **Plan de vuelo borrador 2: jueves.** **40-v2: ~2-3 semanas.** **Guerra de Momo: ahora con FECHA por fijar** (Kioto/noche con tiempo). **"Por ahora" de Midnight: muere cuando su firma ya no puntúe.** Caza de la credencial muerta / tasador: en curso.
+- **NOTAS: JUEVES D25** (escritos + práctico; la Comisión revisó esta noche). **Bronca de la montura: JUEVES D25.** **Plan de vuelo borrador 2: JUEVES D25** (con Nejire).
+- **Comisión**: huella menor acumulada (Tachibana "A6"; versatilidad vista, verde no ámbar). Observadores en campus.
+- **Mudanza Heights: vie-sáb 7-8 jun** (beca entra el 7; mudanza pesada al 8; ⚠️ colchón apretado; Mineta = plan de red+testigos).
+- **Cita de notas con Tsuyu: D25.** **Merienda del bosque Ochaco↔Mina: esta semana.**
+- **Nighteye: dom 9 jun 16:40.** **40-v2: ~2 semanas.** **Guerra de Momo: fecha por fijar** (condición del 10 de Momo). **Benefactor desconocido: hilo abierto.**
+- Nezu: vigilancia familia Hayami activa; caza de la credencial muerta en curso. Tasador/coleccionista (AFO): sin pasadas nuevas.
 
-## Memorias de feedback (ver registros/memoria_gm.md)
-- Todas las previas vigentes. Especialmente activas en S18: [[pov-mas-interesante]] (POV Ochaco, Momo, Jirō, 1-B ×4, Present Mic, Todoroki, Tsuyu, Bakugo, Mina, Ibara), [[no-resumir-beats-de-vinculo]], [[narrativa-erotica-explicita]], [[regalos-y-gestos-con-peso]] (5 regalos como beats individuales), [[ritmo-narrativo-jugador]] (el jugador escribió varios turnos de Akari; el GM continúa desde ellos), [[niebla-informacion-npc]] (corrección Mina↔Jirō; disclosure parcial a Tsuyu), [[manejo-harem-sin-culpa]], [[secretos-heroe-fuera-del-marco]] (Midnight sin deuda a Momo), [[marco-momo-solo-floraciones]] (Tsuyu no florece → nada debido; Midnight no florece → caución solo si florece), [[voz-clase-1a]] (Iida, Monoma, los Guardianes, la clase entera en la fiesta Blur).
+## Memorias de feedback (memoria_gm.md / MEMORY.md)
+- Todas las previas vigentes. Especialmente activas en S19: [[pov-mas-interesante]] (POV Tachibana, Bakugo, Nejire, Momo+Nejire), [[no-resumir-beats-de-vinculo]] (Tsuyu/Jirō/Mei/toldo verde/Ochaco jugados latido a latido), [[narrativa-erotica-explicita]] (hitos Jirō/Mei/Ochaco explícitos), [[inexperiencia-sexual-estudiantes]] (**incumplida y corregida vía retcon**: Jirō virgen), [[turnos-prosa-jugador]] (varios turnos de Akari en prosa integrados y corregidos solo en continuidad/OPSEC), [[ritmo-narrativo-jugador]] (el jugador marcó el ritmo; se cerró el día solo por decisión suya), [[niebla-informacion-npc]] (destape controlado Momo↔Nejire; benefactor a Tsuyu), [[manejo-harem-sin-culpa]] (Jirō/Mina despiden sin culpa), [[regalos-y-gestos-con-peso]] (el óptico a Mei como beat), [[sin-marcos-reflejos-npc]], [[rewind-uso-narrativo-diario]] (0 rewinds).
+- **REGLAS OPERATIVAS NUEVAS (aplicadas desde D24)**: combate 2d6+mod+situación (docs/combate.md); marcas con test de validez (examen = 1 marca; máx ~2/día); closeness máx +1/NPC/día con beat+decisión+coste (8→9 pide trade-off que pudo dañar; 9→10 elección recíproca irreversible); auditoría de dirección obligatoria al cierre; relojes del examen (Rescate/Colapso/Bakugo/Comisión) y verde/ámbar/rojo con coste de Comisión.
 
 ## Para reanudar la sesión nueva
-1. Leer este archivo + `registros/memoria_gm.md` + cabecera de `AGENTS.md` + avisos de `CLAUDE.md`.
-2. Leer `registros/preparacion_s19_examen.md` como matriz de posibilidades, no como guion.
-3. Saludar con cabecera 📅 (**Día 24 · miércoles 5 jun · Musutafu — hostal, habitación 4**, despertador del DÍA DE EXÁMENES).
-4. Confirmar el punto: PROMETIDO de Momo (asimetría cerrada + fecha de guerra por fijar), Ochaco con el mapa/constitución, munición viva registrada al cuaderno (prohibida en examen), perímetro verde/ámbar/rojo, 2 cartuchos de donante en bandolera, saldo ¥20.520 (⚠️ colchón), maestría 4 congelada (11 declinaciones), scars 0, Tsuyu en cortejo abierto (cita post-examen), banda de música en marcha.
-5. Presentar la decisión pendiente: **¿cómo afronta Akari el MIÉRCOLES D24 — el DÍA DE EXÁMENES con observadores?** — castaños podados, perímetro respetado, Bakugo buscando pelea, la matrícula summa cum laude en juego.
+1. Leer este archivo + `memoria_gm.md` + `MEMORY.md` + cabecera de `AGENTS.md` + avisos de `CLAUDE.md`.
+2. Saludar con cabecera 📅 (**Día 25 · jueves 6 jun · Musutafu — hostal, habitación 4**, despertador del día de las NOTAS).
+3. Confirmar el punto: PROMETIDO de Momo (9, el 10 pendiente de la fecha de su guerra), Nejire y Momo ALIADAS (niebla rota), Mei 7→8, Tsuyu 5→6 (cita de notas hoy), Jirō pista tres, saldo ¥19.020 (beca el 7), maestría 4 congelada (11 declinaciones, sin nueva), scars 0, Yamori nuevo, virotes-bestia = slot de bestia.
+4. Presentar la decisión pendiente: **¿cómo afronta Akari el JUEVES D25?** — notas en el tablón (¿summa?), bronca de la montura de Aizawa, plan de vuelo borrador 2 con Nejire, cita de notas con Tsuyu.

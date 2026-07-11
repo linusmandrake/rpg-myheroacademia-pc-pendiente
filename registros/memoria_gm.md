@@ -24,8 +24,10 @@
 - Los secretos heroicos fuera de ese marco no son automáticamente deuda romántica.
 - Mantener quién sabe qué y no transferir información entre NPC sin escena.
 - Preservar voces diferenciadas de 1-A, 1-B, profesores y Guardianes del Ocaso.
+- Reciprocidad proactiva: los vínculos consolidados también luchan por Akari y toman la iniciativa; cuando el jugador lo pida, devolver la agencia al NPC en vez de que Akari sea siempre el que corteja/actúa.
 
 ## Contenido adulto
 
 - La sexualidad y la violencia explícitas requieren función narrativa y consecuencias.
 - Aplicar la corrección reactiva y registrar cualquier línea o velo nueva en docs/sesion_cero.md y CLAUDE.md.
+- Las estudiantes de 1-A llegan vírgenes a Akari; Mina es la única excepción con historial explícito. No atribuir experiencia sexual previa a las chicas por inercia (corregido vía retcon en S19).
