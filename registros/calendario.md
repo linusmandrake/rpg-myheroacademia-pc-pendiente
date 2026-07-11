@@ -113,3 +113,21 @@
 - 🫖 **Merienda del bosque Ochaco↔Mina**: ARRANCADA (SMS de invitación).
 - 🐾 **Bestia nueva: YAMORI** (geco de savia adhesivo, rescate). Techo cómodo ~3 bestias simultáneas al 100%. **Virotes-bestia ocupan slot de bestia** (no munición/objeto).
 - 📅 Nighteye dom 9 jun 16:40 · guerra de Momo: fecha aún por fijar.
+
+
+## S20 — días jugados (D25 jue 6 jun → D28 dom 9 jun; apertura S21: D29 lun 10 jun 06:05)
+
+| Día 25 | jueves | 6 jun | JUGADO (S20) — anal 1ª de Ochaco al alba; TABLÓN FALSIFICADO → estallido → **REWIND** (imagen salvada; scars 0→1→0); bronca montura aceptada + plan de vuelo B2 FIRMADO; 満点 100 en mano (Ectoplasm limpio); el árbol vota a la rana; cita de notas con Tsuyu (nenúfar; mitades del mismo miedo; 6→7); CRÍTICO vs Bakugo ("macetero"; amistad sellada); Snipe abre la galería (doctrina del cuchillo); sensu a Kendo; espejo de Toru + amor en el aula; veredicto de Aizawa (ROBO probado) + charla del rojo; noche: 1ª vez de Kendo (virgen; sangre bebida; Big Fist; plan de vida) |
+| Día 26 | viernes | 7 jun | JUGADO (S20) — BECA +100k; hallazgo 03:47 (Momo); art.155/requisición en clase; Tsuyu mano pública + orejas de la orilla; antología de Cementoss prestada; elogio privado de All Might; AZOTEA: Jirō↔Toru reveladas + segunda piel (Jirō ve la cara de Toru); MIDNIGHT: jaque del tell + TRAZADORA (9,5→10) + corrección ciega sobre la mesa + DOCTRINA DEL TERREMOTO; Pony: promesa de beso pinky-vinculante; última noche del hornillo: Ochaco↔Mina reveladas + PRIMER TRÍO + jardín furioso + mordidas (13ª-14ª declinación) |
+| Día 27 | sábado | 8 jun | JUGADO (S20) — MUDANZA A HEIGHTS: futón bueno + cortinas de Ochaco (hilo carmesí); cuarto 3-E amueblado en savia (Iemori/Myobu) + ÁRBOL de 4 plantas + Corvax = red anti-Mineta FIRMADA por Aizawa; concurso de habitaciones (gana Satō; "te ha ganado un BIZCOCHO"); tabla de distancias + diana a 1.320 m (Iida 1:47.3); NOCHE 1: cama victoriana — **FECHA DE LA GUERRA DE MOMO: semana de la graduación** + retaguardia jurada + capítulo anal de Momo estrenado |
+| Día 28 | domingo | 9 jun | JUGADO (S20) — desayuno-intel (requisición lunes; 2 terminales); Jirō: atraco en ganancia baja + "Coros de fantasma"; promesa pequeña honrada con Ibara (rezo en silencio); CITA DE LLUVIA: **TSUYU FLORECE (primer beso, iniciado por ella)**; **NIGHTEYE: EL DELTA** (cronómetro parado 4:07; "le salvaremos"; magisterio del tiempo; documento sin firmar; encargo 2096); AWATA conocida ("chica de la lluvia"; POMPA UNO; bosque disclosado → petricor); carpeta FIRMA TACHADA (savia erizada); POV Tachibana ("el lunes la nada se retrata"); noche sorpresa a Nejire (peldaño nuevo; 8→9) |
+
+## Relojes activos (delta al cierre S20 · D28 dom 9 jun noche)
+- ⚖️ **LUNES D29 = DÍA DE LA TRAZADORA**: la revisión de Midnight (9,5→10) entra por el canal del fantasma; Aizawa verifica si existe ORDEN DE REQUISICIÓN de la noche del D24; Tachibana vigila el flujo ("el lunes la nada se retrata"). "Auditoría preventiva de accesos" pedida ARRIBA (membrete gris, fecha del viernes).
+- 🕶️ **Documento de pasantía de Nighteye SIN FIRMAR** — hablar con Aizawa antes (condición). Encargo 2096: llevar 2 preguntas por escrito. Volver a la agencia.
+- 📓 **Deberes lección 1 (Midnight, LUNES)**: "elige qué van a desear de ti".
+- ☔ **Awata**: SMS sin responder ("materiales + el sábado libro ☔"). POMPA UNO: diseño con Mei pendiente. Sábado: respiración en cuestas con Mirio (cobrada).
+- 🛩️ **Tándem con Nejire: esta semana** (plan B2 firmado). "La cosa de Nighteye" debida en el desayuno del lunes.
+- 🌳 **Guerra de Momo: FECHA FIJADA — semana de la graduación.** Convivencia post-UA decidida (adelantable).
+- 🔧 **40-v2 supersónico ~1,5 semanas** · Snipe martes/jueves (galería) · diana de 1.320 m esperando · código de golpecitos con Ochaco SIN inventar · omamori Yatagarasu (Tokoyami) en cola · merienda Nejire↔"Yaoyorozu" pendiente · regla de Kendo el mes que viene (pacto a prueba).
+- 🗂️ **Carpeta de la firma tachada** (archivo privado de Sir; nivel 3): la savia se erizó. Hilo del benefactor desconocido + credencial muerta + tasador: sin pasadas nuevas.

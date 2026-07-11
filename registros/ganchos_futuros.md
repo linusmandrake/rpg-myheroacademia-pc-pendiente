@@ -53,3 +53,16 @@ Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el bo
 - **Mt. Lady en el konbini**: la pro precaria del barrio — encuentro casual disponible (misma tribu que Uraraka).
 - **Cumpleaños de Akari: 3 de julio** (~D52) — el bosque entero y un solo pastel.
 - **El calibre vernier de la 411** — sigue esperando.
+
+## Semillas S20 (regadas al cierre)
+- **La carpeta de la firma tachada**: Sir investiga en solitario al dueño de las "firmas anómalas" (Nomu, forense sin censura por canal no-Comisión). La savia de Akari se ERIZÓ: ¿instinto de presa, de pariente… o de página del catálogo? Nivel 3 de acceso lo desbloquearía.
+- **2096**: dos preguntas y una sospecha "de enorme trascendencia" encargadas a Foresight. La sospecha de inmortalidad (Nejire/2096) busca verificación externa.
+- **La lápida con erratas**: Sir vio al "viejo alambre" reírse en fechas imposibles DENTRO del delta de Akari — y no se lo dijo. El día que se lo diga (o que Akari lo deduzca), el plural de "le salvaremos" se vuelve plan.
+- **La versión vaciada**: la rama del delta donde Akari "sonríe correctamente y no hay nadie dentro" — no identificada HOY. La métrica de scars existe para vigilarla. Combustible de terror futuro.
+- **Pompa Uno**: Awata + Mei en la misma sala = colisión de personalidades pendiente de jugar. El primer vuelo (petricor sobre Tokio) es un set-piece esperando fecha.
+- **Tamaki**: "el día que él pueda decirlo sin que se le doble el mundo, te invito a la respuesta". La red de protección de Akari ya lo cubre; Tamaki aún no lo sabe.
+- **El pinky de Pony**: el beso se cobra el día que descubra SOLA que lleva un mes escribiendo el nombre de Akari. Bomba de relojería adorable. (Multa de tarta ya devengada.)
+- **La corrección ciega de Midnight**: el borrador quedó ABIERTO en su pantalla. Si lo presenta, el "por ahora" muere de viejo antes de fecha. Ella decide; él espera.
+- **El sitio-donde-gritar de Kendo**: escapada prometida ("me sueltas la melena"). Pendiente de fecha y de monte.
+- **Tachibana Ren**: la hipótesis (b) escrita en su cuaderno privado. Si la trazadora del lunes es interceptada, el junior y el fantasma podrían no ser la misma persona — ¿quién pidió la "auditoría preventiva"?
+- **El código de golpecitos**: sin inventar. La rama de 9,8 m hasta el salón, medida por Momo "por si acaso".

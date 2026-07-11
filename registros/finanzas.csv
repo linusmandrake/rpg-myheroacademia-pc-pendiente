@@ -68,3 +68,7 @@ C1-T1-D25,comida,konbini-camino,"Cena rápida de konbini camino de la noche fuer
 C1-T1-D25,transporte,tren-linea-este,"Tren de una parada (noche D25)",-150,gasto
 C1-T1-D26,beca,ua-nezu,"SEGUNDO PAGO de la beca de manutención (¥100.000/mes) — ENTRÓ el vie 7 jun (D26) como previsto. Desbloquea la mudanza pesada del sáb 8 (D27).",100000,ingreso
 # Saldo D26 (viernes 7 jun, tarde): ¥119.770. SIN DEUDAS. (El '¥120.520' narrado a mediodía fue 20.520+100.000 sin descontar los −750 del jueves noche; manda este CSV.) Mudanza Heights sáb 8: furgoneta 9:00 + pizza ayudantes (~2.000) + futón bueno + cortinas (las elige Ochaco, también para el cuarto de Akari). Fondo de casa de Ochaco: ¥23.000.
+C1-T1-D27,hogar,nishikawa-futones,Futon BUENO (elegido tumbandose los dos; 'donde vas a dormir los proximos tres anos'),-17800,gasto
+C1-T1-D27,social,pizzeria-musutafu,Pizza de los estibadores (Kirishima + Iida; presupuesto de Ochaco respetado),-2000,gasto
+C1-T1-D28,transporte,tren-tokio,Tren a Tokio ida/vuelta (cita Nighteye) + ramune varios (la cena de Gyoza no Ryu la pago Awata),-900,gasto
+# Saldo al cierre S20 (D28 domingo 9 jun, noche): ¥99.070. SIN DEUDAS. Movimientos S20: +100.000 (beca) −750 (D25) −19.800 (D27) −900 (D28) desde ¥20.520. Cortinas: las pago Ochaco (las de ambos cuartos, 'su parte del margen'). Furgoneta: fondo de casa de Ochaco. POMPA UNO: materiales los paga Awata (pactado). Proximo ingreso: beca ~julio.

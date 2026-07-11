@@ -15,7 +15,7 @@
 | Todoroki | Soba fría artesana + tsuyu | **ENTREGADO D23** (cafetería — "frío contra frío"; "nadie me trae comida"; hilo del Werther) | Lo llamó frío y era frío. |
 | Tokoyami | Omamori de Yatagarasu (cuervo sagrado de 3 patas) | pendiente | La oscuridad también orienta. Puente a "la conversación de la oscuridad". |
 | Nejire | Kanzashi de cerezo con ondas en espiral | **ENTREGADO D22** (biblioteca — 'sin conocerme me ha MIRADO'; NO se lo pone: lo llevará PUESTO el día de la merienda, para ella) | **Elegido por Momo** — "mi tarjeta de presentación adelantada" (merienda pendiente). |
-| Kendo | Sensu de tinta sobria, varillas resistentes | pendiente — **beat individual** | "Para la mano que manda." |
+| Kendo | Sensu de tinta sobria, varillas resistentes | **ENTREGADO D25** (pasillo 1-B — beat del abanico: cerrado manda, abierto descansa; la desarmó hasta las lágrimas; vive EXPUESTO en un soporte en su mesilla: "me gusta verlo al despertarme") | "Para la mano que manda." — y para que descanse. |
 | Mirio | Mame-mochi de Demachi Futaba | **ENTREGADO D22** (carrera del alba — "el sábado te enseño la respiración en cuestas, NO se discute") | Combustible de alba; el momento diario de los dos. |
 | Midnight | Marcapáginas de washi índigo | **ENTREGADO D22 — SECRETO** (sala 3, sin testigos; 'se estrena esta noche. Página 87') | Sin tarjeta, sin testigos, sin lista. Para la página 87. |
 | Momo | (el anillo — gema sanguina) | ENTREGADO D20, Kinkaku-ji 11:20 | hito_00_la_pregunta.mp4. Vive en cadena sobre el esternón. |
