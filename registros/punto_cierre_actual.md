@@ -33,7 +33,7 @@
 - Regalos pendientes en cola: omamori Yatagarasu (Tokoyami) · sensu (Kendo). Registro en `registros/regalos.md`.
 
 ## Misiones / internado / exámenes abiertos
-- **mis-023 EXÁMENES**: D24 EJECUTADO — 5 escritos (sandbagging perfecto) + práctico de rescate 6/6. **NOTAS EN EL TABLÓN EL D25.** Bakugo NO logró hacerle soltar el freno.
+- **mis-023 EXÁMENES**: D24 EJECUTADO — 5 escritos (objetivo SUMMA CUM LAUDE en TODO — respuestas perfectas según Akari, sin regalar ni una pregunta; el sandbagging es SOLO del Quirk/potencia, NO de lo académico — corrección del jugador D25) + práctico de rescate 6/6. **NOTAS EN EL TABLÓN EL D25.** Bakugo NO logró hacerle soltar el freno.
 - **mis-039 PLAN DE VUELO**: borrador 1 hecho; **borrador 2 = JUEVES D25** (con Nejire; firma de Aizawa).
 - **mis-040 MERIENDAS DEL BOSQUE**: par Ochaco↔Mina ARRANCADO (SMS de invitación; hacer a Mina cómplice del chisme de convivencia). Otros pares pendientes.
 - **mis-041 GRUPO DE MÚSICA**: dúo íntimo sagrado Akari↔Jirō estrenado (Sala 3): **pista tres terminada** (no se publica). Grupo social de versiones: pendiente de primer ensayo.
@@ -42,7 +42,7 @@
 - **KIOTO (mis-038): CUMPLIDA** — prometidos. Mudanza 7-8 jun. Nighteye dom 9, 16:40. Fijar la FECHA de la guerra de Momo (Kioto/noche con tiempo).
 
 ## Decisiones de carácter recientes que pesan
-- **El sandbagging como identidad operativa**: "que lean la lluvia, no la fuente". Ante la Comisión, dar un tell legítimo (crack de inglés) es mejor que la nada perfecta (la nada pica). En el práctico: contener sin destruir, ceder el protagonismo a Ibara, romper el margen solo por vidas.
+- **El sandbagging como identidad operativa (SOLO del Quirk/potencia, NUNCA de lo académico)**: en combate/práctica, "que lean la lluvia, no la fuente" — contener sin destruir, ceder el protagonismo a Ibara, romper el margen solo por vidas. En lo ACADÉMICO es lo contrario: objetivo declarado summa cum laude en TODO, respuestas perfectas, sin regalar una sola pregunta (corrección del jugador D25). **HOOK D25: la lista oficial del tablón INFRAVALORA sus escritos (8 en Historia + fallo de mates que Akari NO cometió) = error de registro o manipulación deliberada, a investigar.**
 - **"El grifo será compuerta de central hidroeléctrica"** (a Bakugo): Akari no le da la pelea entera hoy; lo reencuadra como el motor que le hará construir la presa. Bakugo, gestionado, pasa de "hacerle soltar el freno" a "estar delante el día que se abra".
 - **La agencia devuelta (Tsuyu)**: Akari deja de ser siempre el actor; le pide a Tsuyu que luche ella, que dé ella los pasos — cura su miedo ("solo sé querer por deber") exigiéndole ser sujeto. Ella practica y da su primer paso proactivo.
 - **La declaración de los hijos (Jirō)**: "si tener hijos contigo no te costara la carrera, los engendraría hoy; reviso el condón porque te quiero el futuro entero, no por miedo".
