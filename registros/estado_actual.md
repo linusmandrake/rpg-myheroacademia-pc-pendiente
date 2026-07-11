@@ -31,7 +31,7 @@ Akari Hayami "Sanguine" — **PWR 4 · VEL 4 · TEC 4 · ING 4 · COO 3** · Qui
 - **Aizawa**: arquitecto del examen (pasado); bronca de la montura pendiente (jueves).
 
 ## Economía
-- Saldo **¥19.020** · sin deudas · beca prevista **vie 7 jun**. ⚠️ Mudanza pesada al sáb 8 (plan de Ochaco); colchón apretado pero viable.
+- Saldo **¥20.520** · sin deudas · beca prevista **vie 7 jun**. ⚠️ Mudanza pesada al sáb 8 (plan de Ochaco); colchón apretado pero viable.
 
 ## Reputación y facciones
 - UA: máximos (rescate de matrícula reforzado). Comisión: observa + huella menor (verde, no ámbar). Liga: sin contacto.

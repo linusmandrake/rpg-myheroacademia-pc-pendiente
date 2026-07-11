@@ -30,8 +30,8 @@ Fuera del examen, la sesión es un tejido de vínculos: **Tsuyu** (cortejo 5→6
 ## Cambios económicos (yenes)
 - Inicio: ¥20.520
 - Ingresos: ninguno (BECA de junio NO entró; prevista vie 7 jun)
-- Gastos: −¥1.500 (3 tés + dulce en el toldo verde; cena = nabe de sobras, coste 0)
-- Final: **¥19.020** · sin deudas. ⚠️ Colchón de mudanza: plan de Ochaco = mudanza pesada al sáb 8 jun tras la beca del 7 (apretado pero viable).
+- Gastos: los tés del toldo verde se invitaron sin importe reflejado (el saldo narrado en escena —app del banco— sigue ¥20.520); cena = nabe de sobras (coste 0)
+- Final: **¥20.520** · sin deudas. ⚠️ Colchón de mudanza: plan de Ochaco = mudanza pesada al sáb 8 jun tras la beca del 7 (apretado pero viable).
 
 ## Reputación y facciones
 - Reputación heroica / intra-UA: **reforzada** (rescate de matrícula 6/6; la clase lo lee como héroe de rescate metódico; cede el protagonismo a Ibara).
@@ -80,7 +80,7 @@ Fuera del examen, la sesión es un tejido de vínculos: **Tsuyu** (cortejo 5→6
 | PWR / VEL / TEC / ING / COO | 4 / 4 / 4 / 4 / 3 |
 | Quirk (potencial/maestría) | 5 / 4 (congelada, 11 declinaciones) |
 | Salud / heridas | Perfecta; descansado; scars 0 |
-| Saldo (yenes) | ¥19.020 (sin deudas; beca prevista vie 7) |
+| Saldo (yenes) | ¥20.520 (sin deudas; beca prevista vie 7) |
 | Reputación heroica | Rescate de matrícula intra-UA (líder/summa reforzado) |
 | Facciones (UA/Comisión/Liga) | máximos / observa+huella menor / sin contacto |
 | Ubicación | Musutafu — hostal, habitación 4 (dormido con Ochaco) |

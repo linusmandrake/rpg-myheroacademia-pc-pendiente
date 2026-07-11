@@ -4,7 +4,7 @@
 ## Estado narrativo exacto
 - Ubicación: **Musutafu — hostal, habitación 4** (Akari y Ochaco dormidos; ronda de buenas noches enviada a las ~19:44).
 - Hora narrativa: **miércoles 5 jun (D24) cerrado** ~19:55; el despertador sonará el **JUEVES 6 jun (D25)** — el día de las **NOTAS** (escritos + práctico en el tablón, la Comisión revisó esta noche), la **bronca de la montura de Aizawa**, el **plan de vuelo borrador 2** (con Nejire), y la **cita de notas con Tsuyu** (propuesta por ella).
-- Última acción de Akari: ronda de buenas noches a 15 personas (bosque + Guardianes del Ocaso) tras dos beats íntimos con Ochaco (squirt + Zero Gravity erótico); dormir. Scars 0, pool 100%.
+- Última acción de Akari: orden real de la noche — squirt con Ochaco → **ronda de buenas noches** a 15 personas (bosque + Guardianes del Ocaso) → **premio de Ochaco: Zero Gravity erótico** (última acción del día) → dormir. Scars 0, pool 100%.
 - **Próxima decisión pendiente del jugador (ARRANQUE S20): cómo afronta el JUEVES D25.** No hay decisión atómica en curso (el jugador cerró durmiendo). El día trae: **notas en el tablón** (¿summa cum laude confirmada?), **bronca de la montura** de Aizawa, **plan de vuelo borrador 2** con Nejire (firma de Aizawa), **cita de notas con Tsuyu**. ¿Cómo abre el día?
 
 ## Stats, Quirk y economía al cierre
@@ -15,7 +15,7 @@
 - **MECÁNICA PRECISADA (jugador D24): los virotes-bestia NO son munición ni objeto — se fabrican bajo demanda y OCUPAN SLOT de bestia** (compiten con Blackroot/Corvax/etc.). "Prohibida en examen" = no invocarlos.
 - **PERÍMETRO DE IMPROVISACIÓN (pactado con Aizawa)** vigente: VERDE (base/cuerpo/savia-que-habla/segunda piel/alas/autosellado/savia analgésica/bestias dirigidas/ballesta "sin cerebro"). ÁMBAR (solo emergencia con aviso: Avatar Carmesí + fragmentos robados). ROJO (intocable: rewind + Ecos).
 - Bandolera (8 cartuchos): **1 = sangre de Momo (A, +40) · 2 = sangre de Jirō (AB, +50)** sellados SIN ingerir (reservas). Munición viva REGISTRADA al cuaderno (prohibida en examen; es función de fabricar bestias, no objeto).
-- Saldo: **¥19.020** · sin deudas · **BECA NO entró (prevista vie 7 jun)**. (S19: −¥1.500 tés toldo verde.) ⚠️ Colchón de mudanza: plan de Ochaco = **mudanza pesada al sáb 8 jun** tras el ingreso del 7 (apretado pero viable).
+- Saldo: **¥20.520** · sin deudas · **BECA NO entró (prevista vie 7 jun)**. (S19: los tés del toldo verde se invitaron sin importe reflejado; el saldo narrado en escena —app del banco— sigue ¥20.520; aritmética de la mudanza: 20.520 + 23.000 fondo = 43.000, apretado pero viable.) ⚠️ Colchón de mudanza: plan de Ochaco = **mudanza pesada al sáb 8 jun** tras el ingreso del 7 (apretado pero viable).
 - Salud: perfecta; descansado.
 
 ## Reputación y facciones
@@ -73,6 +73,14 @@
 - Ochaco, tras el Zero Gravity erótico: *"Resulta que me gusta rendirme Y que se me rindan. Menudo descubrimiento para un miércoles."* / (de Mineta) *"No somos flores en un jarrón esperando que nos rescates. Somos heroínas. Un Mineta lo gestionamos dormidas."*
 - Ibara, tras el rescate: *"Seis de seis. Y tú, entero, sin haber enseñado el bosque. El que guarda su fuerza para el momento justo, el Cielo lo llama sabio."*
 
+- Tsuyu, la regla del contacto (vigente para escenas futuras): *"Hombro con hombro te lo paso. Lo apruebo. Pero lo apruebo yo, ¿eh? No porque tú lo hayas hecho. Porque yo lo permito. Ese matiz me lo quedo."* / desactivó su propia vergüenza con la crudeza de Akari: *"No me da vergüenza contigo. Debería, y no me da."*
+- Jirō, el regalo del ruido (aparte de la pista tres): *"Gracias por una sala donde grito. Nadie me había regalado el ruido, ladrón. Me lo regalas tú."*
+- Ibara: la **vid fina enroscada un segundo en la muñeca** (el telégrafo del jardín saludándose) + *"Reza conmigo esta noche, aunque tú no reces. Ponte a mi lado y calla. Con eso me basta"* → Akari: **"Cuenta con ello"** (promesa pequeña, pendiente de honrar). Frase-sello de la pareja: *"Tú eres el milagro visible; yo soy el error de lectura."* Apodo que Ibara adoptó para Akari: **"margen de la página"** ("voy a rezar esa").
+- Ochaco, dónde está la casa: *"Yo ya sé dónde está mi casa, y no es una habitación. Es donde estás tú calentando el cuarto con el hornillo bajo. Eso no lo ve nadie más que nosotros."* + código de golpecitos por inventar para colarse en su cuarto de Heights.
+- **Eco Kendo→Ochaco (el mismo día, dos radares)**: Kendo en el almuerzo (*"se te nota que llevas encima cinco cosas a la vez. A mí se me ve todo"*) y Ochaco por la noche (*"la cara de que llevas cinco cosas a la vez otra vez"*) — dos lecturas distintas de la misma costura.
+- Toru, el espejo sigue trabajando: *"Me he mirado en el espejo de mano antes de entrar. Para acordarme de que existo mientras contestaba. Gracias por eso, tonto. Otra vez. Todos los días."*
+- Mei, Momo anónima en su argot (la niebla perfecta): *"Vuelve entero, que las alas no sirven sin el que va dentro… frase de una amiga tuya sin nombre. Se la robé. Copyright de nadie."* (Y ya tenía la protección en el primer cajón: *"calculé que hoy o mañana."*)
+
 ## Información que NPCs tienen sobre Akari (perfil acumulado — cambios S19)
 - **Momo**: + que Nejire sabía y selló su secreto (ya no está sola sabiéndolo); + las dos bodas; + "el amor de mi vida". Aliada de Nejire.
 - **Nejire**: + Akari confirmó ante Momo que ella sabía (la niebla rota); + su boda real prometida (familia, Kotori). Aliada de Momo.
@@ -115,5 +123,5 @@
 ## Para reanudar la sesión nueva
 1. Leer este archivo + `memoria_gm.md` + `MEMORY.md` + cabecera de `AGENTS.md` + avisos de `CLAUDE.md`.
 2. Saludar con cabecera 📅 (**Día 25 · jueves 6 jun · Musutafu — hostal, habitación 4**, despertador del día de las NOTAS).
-3. Confirmar el punto: PROMETIDO de Momo (9, el 10 pendiente de la fecha de su guerra), Nejire y Momo ALIADAS (niebla rota), Mei 7→8, Tsuyu 5→6 (cita de notas hoy), Jirō pista tres, saldo ¥19.020 (beca el 7), maestría 4 congelada (11 declinaciones, sin nueva), scars 0, Yamori nuevo, virotes-bestia = slot de bestia.
+3. Confirmar el punto: PROMETIDO de Momo (9, el 10 pendiente de la fecha de su guerra), Nejire y Momo ALIADAS (niebla rota), Mei 7→8, Tsuyu 5→6 (cita de notas hoy), Jirō pista tres, saldo ¥20.520 (beca el 7), maestría 4 congelada (11 declinaciones, sin nueva), scars 0, Yamori nuevo, virotes-bestia = slot de bestia.
 4. Presentar la decisión pendiente: **¿cómo afronta Akari el JUEVES D25?** — notas en el tablón (¿summa?), bronca de la montura de Aizawa, plan de vuelo borrador 2 con Nejire, cita de notas con Tsuyu.
