@@ -55,7 +55,7 @@ Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el bo
 - **El calibre vernier de la 411** — sigue esperando.
 
 ## Semillas S20 (regadas al cierre)
-- **La carpeta de la firma tachada**: Sir investiga en solitario al dueño de las "firmas anómalas" (Nomu, forense sin censura por canal no-Comisión). La savia de Akari se ERIZÓ: ¿instinto de presa, de pariente… o de página del catálogo? Nivel 3 de acceso lo desbloquearía.
+- **La carpeta de la firma tachada**: Sir investiga en solitario al dueño de las "firmas anómalas" (Nomu, forense sin censura por canal no-Comisión). La savia de Akari se ERIZÓ: ¿instinto de presa, de pariente… o de página del catálogo? Nivel 1 de acceso lo desbloquearía (escala descendente; hoy Akari tiene el 2) — o la confianza de Sir, que vale más que el sistema.
 - **2096**: dos preguntas y una sospecha "de enorme trascendencia" encargadas a Foresight. La sospecha de inmortalidad (Nejire/2096) busca verificación externa.
 - **La lápida con erratas**: Sir vio al "viejo alambre" reírse en fechas imposibles DENTRO del delta de Akari — y no se lo dijo. El día que se lo diga (o que Akari lo deduzca), el plural de "le salvaremos" se vuelve plan.
 - **La versión vaciada**: la rama del delta donde Akari "sonríe correctamente y no hay nadie dentro" — no identificada HOY. La métrica de scars existe para vigilarla. Combustible de terror futuro.

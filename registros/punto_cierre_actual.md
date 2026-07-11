@@ -71,6 +71,13 @@
 - Bakugo: *"…lo cual significa que lo de dentro es todavía más grande de lo que finges. Voy a estar delante el día que reviente."* / *"Buena pelea. Macetero."*
 - Nejire, dormida a media pregunta: *"¿el planeo cuenta como pregunt—?"*
 - Ibara: *"Las promesas grandes las cumple cualquiera con miedo."*
+- Momo, margen del cuaderno (el voto a la rana): *"Gracias por dibujarme la pregunta en vez de contármela luego. El árbol también quería que le preguntaran alguna vez. Se me había olvidado que se podía."*
+- Tsuyu, ante el nenúfar reabsorbido: *"Las cosas no valen por cuánto duran. Valen porque pasaron. Apúntatelo, que hoy te hace falta."* / al irse: *"Existió. Estamos en paz con eso."*
+- Nejire, el post-it literal de su pared: **«¿A cuánto vuela el corazón si no lo empujas y solo lo pulsas?»**
+- Momo, la abundancia (noche 1): *"No tengo protocolo para la abundancia… necesito literatura de referencia."* → Akari: *"Contigo no sueño despierto. Contigo agendo."*
+- Kendo, al despedirle al alba: *"Escríbeme al llegar. Que yo lo veo todo menos si llegas vivo."* → *"Vivo. Y visto."*
+- Ochaco, tras la verdad técnica del anal: *"Por eso me fío de ti con el mapa entero. Porque no me maquillas nada. Ni siquiera cuando maquillarlo me haría sentir más especial cinco minutos."*
+- Snipe: *"Te voy a convertir en la cosa más peligrosa que puede haber en un tejado: un chico paciente con una buena razón para no fallar."*
 
 ## Información que NPCs tienen sobre Akari (cambios S20)
 - **Sir Nighteye**: EL DELTA entero (rewind implícito, futuro ramificado) — el que MÁS sabe del aspecto temporal ahora, por consentimiento. NO sabe: mecánica de savia/bosque en detalle. Guarda: el viejo riéndose (no dicho).
