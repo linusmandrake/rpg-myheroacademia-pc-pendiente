@@ -246,6 +246,16 @@ Tres niveles, para que Akari no luche "con una mano en la espalda":
 3. **ENTRENAMIENTO PRIVADO / PACTO:** consentimiento explícito (modelo Ibara/ruta-005) → kit completo, incluida la lectura de memoria consentida.
 **Alcance OPSEC (corregido S7, alineado con con-012):** lo que se esconde es EL NÚMERO de maestría (evaluaciones/informes: sandbagging) y el ASPECTO TEMPORAL (Ecos/rewind = taboo absoluto en público). El resto del kit (Avatar, Bestias, drenaje, segunda piel) es de uso normal para un alumno de UA — el drenaje visible en TV solo conlleva ruido mediático a valorar, no la bengala del borrado.
 
+## R6-ter — PROTOCOLO DE NARRACIÓN DE LA MORDIDA / ALIMENTACIÓN (regla de mesa, S22 — pedida por el jugador; fallo recurrente del GM)
+> **SIEMPRE que Akari se alimenta con una MORDIDA / ingesta directa de un cuerpo vivo** (drenaje, beso de sangre, micro-toma, lamido de herida, de la fuente), la narración DEBE incluir los DOS efectos siguientes. No son opcionales ni "de vez en cuando": son la mecánica canónica de cada mordida y el GM los ha estado omitiendo.
+
+1. **ÉXTASIS ESPIRITUAL DE LA VÍCTIMA (orgasmo del alma).** La mordida provoca en quien es mordido un placer que **no es físico**: una ola que sube desde el punto de la mordida y estalla detrás de los ojos — un vaciado luminoso, el desatarse de todos los nudos, una **rendición involuntaria del control**. Le pasa a CUALQUIERA (amante, rival, mentor, enemigo, civil), lo pida o no, lo quiera o no. La intensidad, el color y la lectura emocional varían con la persona y el contexto (para un amante = otra capa de placer; para alguien orgulloso como Bakugo/Momo = perder el control que más protege; para un enemigo = arma que desarma), pero el éxtasis SIEMPRE ocurre y SIEMPRE se narra.
+2. **MEMORIA TRANSMITIDA (recuerdo robado).** Al beber, Akari **ve un recuerdo de la víctima**, elegido por la savia: **aleatorio, incontrolable ni por él ni por ella**. Se narra la visión (breve, encarnada). Coherente con los "flashbacks/destellos" de R6-bis. Con donantes de sintonización completa (Momo) sigue habiendo destello, aunque ya conozca su interior: puede ser un recuerdo nuevo o uno resonante — nunca "de trámite" en la narración.
+
+**Excepción — SANGRE LIBRE / DERRAMADA** (ya vertida, absorbida por contacto, no mordida de cuerpo vivo): **NO** hay éxtasis ni memoria (no hay víctima presente; la sangre se degrada fuera del cuerpo — R6-bis pt.1, R11-ter). Solo la mordida/ingesta directa dispara los dos efectos.
+
+**Los demás elementos de cada mordida** (además de los dos obligatorios): el sabor/tipo de la sangre y la subida (R6/R10), el **sellado de la marca con saliva-savia** (coagula, cierra, desaparece en segundos), la **declinación de +1 maestría por defecto** (anti-bengala, R11) y/o la **carga de fragmento** (R11-ter). Ver también [[mecanicas-quirk-intimas]] en MEMORY.
+
 ## R7 — Erasure (Aizawa) vs el Quirk de Akari (mutant + emitter)
 Establecido en S5 y reconciliado con canon: el Erase **cancela los aspectos activos** (proyecciones, manipulación externa, plantasangre, rewind) — las proyecciones activas colapsan. La **savia interna no muere** y la **percepción sanguínea pasiva persiste** (rasgo mutant; Erasure no borra mutaciones corporales). Akari bajo Erase = cuerpo entrenado + ojos que siguen leyendo sangre.
 
