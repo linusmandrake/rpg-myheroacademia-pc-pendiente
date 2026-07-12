@@ -304,6 +304,28 @@ La sangre **BEBIDA** por encima del pool efectivo no se evapora: la savia la ret
 - **OPSEC = el uso más tabú que existe:** un déjà vu, una frase repetida, una costura percibida → bengala máxima. Y **Nighteye LEE el tiempo**: darle la mano tras un rewind podría revelarle la línea descartada. El rewind en social/público es la jugada más peligrosa del kit.
 - Números sin cambio (R5): coste 12, memory scar −1 ING 3h, cap 3 scars = reverie 6h. 2-3/combate.
 
+## R16 — SUBSISTEMA DE RESONANCIA (Eco-onda / "Arrebato") — formalizado S21/D29 (madrugada 12 jul; pedido por el jugador)
+> **No confundir con R14/R15 (Ecos TEMPORALES = invocar yos pasados + rewind, el aspecto ROJO/secreto).** El nombre del Quirk ("Sanguine Verdant Echo") tiene DOS caras del "Echo": la **temporal** (secreta) y la **RESONANCIA/onda** (esta regla), que es la **capa VISIBLE de la mascarada**. Diseño completo en el transcript S21 (02:26–02:41 del 12 jul) y en [[mascarada-imagen-publica-akari]].
+
+**Qué es:** familia resonancia/onda. **Viaja por el vínculo de sangre**: funciona —o solo— con **sintonizados** (gente cuya sangre ha probado; ver R10). Su sangre es la antena; el Eco es *frecuencia compartida*, no fuerza. Con un desconocido no-sintonizado NO llega directamente.
+
+**Los DOS registros (regla dura, S21):**
+- **AMPLIFICAR (aliados/sintonizados):** sube lo que la persona YA siente/puede. Su agencia queda intacta (el sintonizado distingue lo suyo amplificado). Es el uso con los vínculos.
+- **IMPONER/PROVOCAR (enemigos):** planta una emoción de cero. **Detectable**: un sintonizado o alguien entrenado lo caza como "falso/pintado por encima" en segundos. Sobre enemigos es el filo de "Arrebato"; sobre los que ama, Akari elige NO imponer, solo amplificar (doctrina del terremoto hecha carne).
+
+**CONFIRMADO a M4 (con sintonizados, 1-a-1 / íntimo):** pulsación (vuelo, con-035) · Eco de Firma/dueto (con-042, Fase 3) · Fase 4 (disclosada, no dominada) · transfusión ondulatoria (con-041; alivio/calor/calma) · resonancia íntima (sistema nervioso del sintonizado) · **transmitir/amplificar emoción** (probado S21 con Jirō) · **boost del Quirk aliado** (probado S21: Heartbeat de Jirō multiplicado con pulso mínimo) · **implantar emoción de cero** (probado S21; detectable).
+- **Descubrimientos de retroalimentación (S21):** la **emoción** hace feedback tipo Larsen (externo, se afila/pita al realimentar por un emisor); el **deseo** hace **bucle interno sin techo natural** entre dos cuerpos sintonizados (se DESBOCA en espiral) → requiere **tope consciente** puesto a mano. Coste: pool + concentración.
+
+**LATENTE — maestría SUPERIOR al actual (M5-6+), se gana por ruta, NO disponible a M4:**
+- **Resonancia de multitud** (calmar pánico / desorientar) y **Coros de sala** (enlazar varios sintonizados a la vez) — la escala de "Arrebato".
+- **Alcance a NO-sintonizados solo vía ANTENA:** un aliado emisor (p. ej. Jirō con sus jacks) emite la resonancia al aire convertida en sonido → llega a masas. OPSEC de oro: la multitud lo lee como el Quirk de ELLA. (Peldaños 2-4 de ruta-013.)
+- **ANULACIÓN DE QUIRKS (gated por sangre) — nivel de maestría superior al actual (M5-6+), NO la tiene a M4:** anula el **Quirk entero** (no solo sus ondas) de alguien **cuya sangre ha bebido** (sintonizado). Contra enemigo nuevo: **morderlo/drenarlo primero** y entonces silenciarlo — *"para callarte, tengo que beberte"*. Vampírico y limitado: **NO es erasure a distancia como Aizawa** (que borra por vista, a cualquiera). Cesa el efecto = el Quirk vuelve. *(La versión menor "cancelar ondas de emisores por interferencia anti-fase" — la matemática de Ectoplasm — es un peldaño previo/latente, no el bloqueo pleno.)*
+- **Navegar deltas hacia adelante** (materia de Nighteye, ruta-012).
+
+**Ruta:** **ruta-013 "Coro de Sangre"** (Eco vía banda) — peldaños: sostener → emitir (antena) → coro de sintonizadas → arrebato de sala. Aspecto benigno/público; el rewind se queda ROJO y fuera. Amber = Aizawa al cuaderno en cuanto se emita al aire.
+
+**Mascarada / OPSEC:** la Resonancia es la **cara VISIBLE** que tapa el aspecto temporal (que sigue ROJO absoluto, R14/R15) y, con la estética de sangre (bestias/flora a la vista), tapa también el hambre (drenaje = paleta/arte). Se enseña **TODO el Eco menos el temporal**. **Palabra pública = sustantivo de la lección 1 de Midnight (ruta-008) = "ARREBATO"** (Ecos+Sublime; belleza que vibra + terror que eleva). *Pendiente de ENTREGA en ficción a Midnight (aún no se lo ha dicho en escena).*
+
 ---
 
 # Mecánica detallada — Sangre, Rewind, Bestias, Ecos, Savia
