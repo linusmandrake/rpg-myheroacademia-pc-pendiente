@@ -39,9 +39,9 @@
 
 ## Continuidad emocional y red sexoafectiva (harem / OPSEC)
 - **Momo (10, ANCLADA, PROMETIDA)** ⭐⭐⭐: fecha de la guerra = semana de la graduación. Recibió la floración de Pony (marco). Advirtió del riesgo OPSEC de Awata (flor con acceso a Sir → diseñar niebla ANTES). Intimidad ("me cobro entero"). Anonimato = cortafuegos del padre: por defecto NO se rompe con ninguna flor. Teclado de la banda.
-- **Jirō (10, ANCLADA, PAREJA)** ⭐⭐ 🆙HITO: recibió la historia de Osaka por resonancia (sentida, no contada); ruta-013 Peldaño 1 consolidado; conoce ahora su infancia y el porqué de "no viviré bajo una piedra". Durmieron juntos.
+- **Jirō (10, ANCLADA, PAREJA)** ⭐⭐ 🆙HITO: recibió la historia de Osaka por resonancia (sentida, no contada); ruta-013 Peldaño 1 consolidado; conoce ahora su infancia y el porqué de "no viviré bajo una piedra". Frase-sello: *"no me has dado un PESO, me has dado CONFIANZA… uno menos solo, ese es el número que importa"*; *"guárdame así, la despeinada y querida"* (archivada en memoria eidética). Durmieron juntos.
 - **Nejire (9, ANCLADA, PAREJA)**: comisionín (besitos/corazón/porqués diarios). **TÁNDEM MIÉRCOLES = primera vez, sobre el mar, flotando; Akari la morderá y beberá su primera sangre virginal**. Consultora de Pompa Uno; quiere conocer a Awata.
-- **Ochaco (9, ANCLADA)** ⭐: código de golpecitos estrenado (siete-recodo-dos); amor en Heights; "no me has dado peso, me has dado confianza".
+- **Ochaco (9, ANCLADA)** ⭐: código de golpecitos estrenado (siete-recodo-dos, "mi puerta favorita de la casa"); amor en Heights; acepta el harem sin posesión ("se te nota cuando la cabeza ya está en otra puerta; no me molesta; ve a ganarte las demás").
 - **Pony (6, VOLÁTIL)** 🆙🆙: **FLORECIÓ D29** — resolvió sola la promesa del meñique (descubrió que dibuja su nombre 明), inició ella el beso, primera vez (virgen), drenaje de desfloración → **sintonizada nueva** (tipo a confirmar). Marco notificado a Momo. Intuye que el gesto de sangre "significa algo" (hilo abierto). Excursión sábado.
 - **Midnight (7, volátil)** 🔴: lección 1 a medias (eligió qué NO vende; beso en la comisura; post-it "las dos" = sabe que hay otra, no compite). **Palabra "Arrebato" pendiente de entrega en persona.** Su trazadora entró al canal (mis-043).
 - **Mei (8)**: Pompa Uno arrancada; 40-v2 (falta material cartuchos tipo-Toga; ronda sábado). "Marca de fábrica".
@@ -60,6 +60,11 @@
 - Aizawa: *"El día que puedas volver a las 3:47 y elijas no hacerlo, ese día estará maduro."* / *"Aprendo rápido de mis alumnos paranoicos."*
 - Ectoplasm: *"Las matrículas abren puertas; las preguntas como la suya construyen las casas."*
 - Nejire: *"El cielo pone la cama"* (post-it del miércoles).
+- Momo (más hondo que "diez"): *"El árbol también tiene un sitio donde no sostiene a nadie. Es este. Encima de ti."* / *"No la más deseada. La más real. El sitio donde no actúas."*
+- Mei (el gesto de la grasa): *"Nadie me había querido el proceso, solo el producto."*
+- Bakugo (su línea más personal): *"Tú comes como si fuera munición… Mi vieja cocina igual. Es lo único que hace bien sin gritar."*
+- Pony (lo que la derrite no es el kanji, es el consentimiento): *"You're asking. Estoy medio desnuda en tu regazo y tú preguntas."* / *"everything with you is a first time."*
+- Aizawa (la lectura humana de la petición de regeneración): *"Un chico que se pasó doce años convencido de que sobraba entero, ahora quiere medir cuánto de él puede faltar sin dejar de existir… la oigo entera. La de laboratorio y la de debajo."*
 
 ## Información que NPCs tienen sobre Akari (cambios S21)
 - **Bakugo**: la Comisión vigila a Akari; su bajo perfil es OPSEC deliberado. NO: Quirk real, bosque, temporal.
