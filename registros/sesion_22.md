@@ -49,8 +49,8 @@ Por la tarde, **Nighteye** leyó el **año 2096** (encargo, a ciegas): confirmó
 - Comisión: trazadora en el canal. UA/Aizawa: cadena controlada. **Nighteye: aliado del tiempo** (pacto sellado; documento sin firmar; nivel 2).
 
 ## Stats y Quirk al cierre
-- PWR 4 · VEL 4 · TEC 4 · ING 4 · **COO 3→4** (HP-006, marca pm-143 = filo del sparring; dentro de banda Arco 1). Pool base 128→130 (maestría 5).
-- Quirk Sanguine Verdant Echo: potencial 5 / **MAESTRÍA 4 → 5 (TOPE DE POTENCIAL)** — la congelación anti-bengala de Aizawa **ROTA** durante el frenesí de resurrección (el animal aceptó el +1). ⚠️ **NADIE CONSCIENTE LO SABE** (ni Akari, ni Midnight, ni Aizawa); solo la bestia/subconsciente. Akari intuye "algo raro" (savia más nítida, el +1 que ya no se ofrece). Hilo de descubrimiento futuro ENORME.
+- PWR 4 · VEL 4 · **TEC 5 · ING 5 · COO 5** (cierre de Arco 1: bote de 183 peso; TEC/ING/COO 4→5, COO 3→5; PWR/VEL 4 = margen de Arco 2). Pool base 132.
+- Quirk Sanguine Verdant Echo: **potencial 5→6 / MAESTRÍA 4→5→6 (EVOLUCIONADO por el cierre de Arco 1)** — la congelación anti-bengala de Aizawa **ROTA** durante el frenesí de resurrección (el animal aceptó el +1). ⚠️ **NADIE CONSCIENTE LO SABE** (ni Akari, ni Midnight, ni Aizawa); solo la bestia/subconsciente. Akari intuye "algo raro" (savia más nítida, el +1 que ya no se ofrece). Hilo de descubrimiento futuro ENORME.
 - Scars 0 (**eligió NO rebobinar el incidente** = madurez de Aizawa cumplida). Pool a tope (~110, ~85%).
 - 18 declinaciones (16ª Jirō, 17ª Bakugo, 18ª Momo; tras M5 no hay más ofertas de +1).
 - Fragmentos nuevos: **Explosión (Bakugo) ×1**, **BIG FIST (Kendo) ×1→×2**, **Vides (Ibara) ×3→×4**.
@@ -78,7 +78,7 @@ Por la tarde, **Nighteye** leyó el **año 2096** (encargo, a ciegas): confirmó
 
 ## Progresión narrativa
 - Marcas S22 (peso, a evaluar/aplazar): filo/gatillo de Bakugo · la muerte y resurrección dirigida · **domar la bestia desde dentro (crítico)** · **elegir NO rebobinar** (madurez de Aizawa) · "Arrebato" entregado (ruta-008 L1) · Singularidad estudiada · el pacto de la eternidad con Momo.
-- **SUBIDAS CONCEDIDAS S22**: MAESTRÍA 4→5 (hp-005, por el frenesí = peso 3 de pm-142) + **COO 3→4 (hp-006, pm-143)**. pm-141 (madurez) y pm-144 (agencia) aplazadas al bote de Arco 1. SUBIDA MAYOR (el animal la descongeló; ver hitos_progresion). ⚠️ no descubierta conscientemente.
+- **CIERRE DE ARCO 1 — SUELTA DEL BOTE (183 peso, 101 marcas)**: STATS TEC/ING/COO 4→5 (COO 3→5; hp-006..hp-009); QUIRK **potencial 5→6 (hp-010, awakening) + maestría 5→6 (hp-011)**. PWR/VEL 4 = margen de Arco 2. Todo el nivel del Quirk OCULTO (nadie lo sabe, ni Akari).
 - Rutas: ruta-008 L1 entregada · ruta-011 (50 m Snipe) · **ruta-012 (magisterio del tiempo/Nighteye)** activa · ruta-013 activa.
 - Conocimientos: con-077 (Singularidad refinada) · **inmortalidad CONFIRMADA** · Foresight-alcance · privacidad de la memoria robada.
 
@@ -93,13 +93,13 @@ Por la tarde, **Nighteye** leyó el **año 2096** (encargo, a ciegas): confirmó
 - Marcha de profundidad: ~45 beats (todos los hitos: sparring, incidente Midnight, Nighteye, descargas de vínculo)
 - Beats importantes encadenados indebidamente: 0 (un beat por turno, handoff constante)
 - Handoffs con decisión al jugador: ~55 (A/B/C/D en casi cada turno)
-- Incidencias de niebla/voz/ritmo y corrección: MUCHAS correcciones del jugador integradas — protocolo de mordida (éxtasis+memoria) formalizado en R6-ter; Foresight ve años (no minutos); el rewind no borra minutos de golpe; la maestría 5 NO la sabe nadie (ni Akari); Kendo vive en dorm de 1-B (no casa de padres); Akari NO ofreció esclavizar a Momo (era su miedo al precio); el Eco es invisible (Aizawa no lo detecta). Todas aplicadas en el acto.
+- Incidencias de niebla/voz/ritmo y corrección: MUCHAS correcciones del jugador integradas — protocolo de mordida (éxtasis+memoria) formalizado en R6-ter; Foresight ve años (no minutos); el rewind no borra minutos de golpe; el nivel del Quirk (potencial 6/maestría 6) NO lo sabe nadie (ni Akari); Kendo vive en dorm de 1-B (no casa de padres); Akari NO ofreció esclavizar a Momo (era su miedo al precio); el Eco es invisible (Aizawa no lo detecta). Todas aplicadas en el acto.
 
 ## Estado al cierre
 | Campo | Valor |
 |---|---|
-| PWR / VEL / TEC / ING / COO | 4 / 4 / 4 / 4 / **4** (COO 3→4) |
-| Quirk (potencial/maestría) | 5 / **5** (tope; NADIE lo sabe conscientemente) |
+| PWR / VEL / TEC / ING / COO | 4 / 4 / **5 / 5 / 5** (cierre de Arco 1) |
+| Quirk (potencial/maestría) | **6 / 6** (EVOLUCIONADO; NADIE lo sabe) |
 | Salud / heridas | Perfecta (autocurado; murió y resucitó hoy) · scars 0 |
 | Saldo (yenes) | ~¥98.170 |
 | Reputación heroica | Interna máxima; oficial falsificada; auditoría el miércoles |
@@ -113,5 +113,5 @@ Por la tarde, **Nighteye** leyó el **año 2096** (encargo, a ciegas): confirmó
 - **JUEVES**: curar las manos de Midoriya (3-E, coartada Feynman) · galería Snipe 60 m.
 - **VIERNES**: materiales de Pompa Uno.
 - **SÁBADO**: Awata (tour de olores + pizza + Mirio/Amajiki) · Setsuna al bosque (Kendo lidera) · cuestas con Mirio.
-- **Hilo latente crítico**: Akari descubrirá tarde o temprano que está en **maestría 5** (la bengala; recalcular el camuflaje con Aizawa).
+- **Hilo latente crítico**: Akari descubrirá tarde o temprano que su Quirk está en **potencial 6/maestría 6** (la bengala enorme; recalcular el camuflaje con Aizawa).
 - Clasificado: el nombre de Midnight (la "mujer de la que está enamorado"), que Momo ha deducido casi entero.

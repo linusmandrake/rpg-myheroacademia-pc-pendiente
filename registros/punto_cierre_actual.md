@@ -8,9 +8,10 @@
 - **Próxima decisión pendiente (ARRANQUE S23): ¿cómo juega el D31, el día de la auditoría?** Con: (A) el despertar con Momo y arrancar el día invisible; (B) el tándem con Nejire sobre el mar (dónde/cuándo — le debe la conversación del café/muerte); (C) sostener el bajo perfil ante la auditora todo el día; y de fondo el combate práctico en arenas de Cementoss.
 
 ## Stats, Quirk y economía al cierre
-- **PWR 4 · VEL 4 · TEC 4 · ING 4 · COO 3→4** (COO subió por HP-006, marca pm-143 = el filo/gatillo aprendido de Bakugo en el sparring; dentro de banda Arco 1). Pool base 128→130 (maestría 5).
-- Quirk **Sanguine Verdant Echo**: potencial 5 / **⚠️ MAESTRÍA 4 → 5 (TOPE DE POTENCIAL)**. La congelación anti-bengala de Aizawa se **ROMPIÓ** durante el frenesí de resurrección (el animal aceptó el +1 con el pool a 0). **NADIE CONSCIENTE LO SABE** — ni Akari, ni Midnight, ni Aizawa; solo la bestia/subconsciente. Akari solo intuye "algo raro" (savia más nítida en las demos; el susurro del +1 que ya no aparece). **HILO DE ARCO MAYOR pendiente**: cuando Akari lo descubra, tendrá que recalcular todo el camuflaje con Aizawa (la bengala está encendida sin que él lo sepa).
+- **PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5** — *** CIERRE DE ARCO 1: SUELTA DEL BOTE (183 peso, 101 marcas) *** — TEC/ING/COO 4→5 (COO 3→5); PWR/VEL 4 = margen de Arco 2. Pool base 132.
+- Quirk **Sanguine Verdant Echo**: **⚠️ EVOLUCIONADO — potencial 5→6 / MAESTRÍA 4→5→6**. La congelación anti-bengala se **ROMPIÓ** en el frenesí de resurrección (el animal aceptó el +1); la suelta del bote de Arco 1 **evolucionó el Quirk** (awakening: aceptar la savia + muerte/resurrección + inmortalidad → potencial 6, maestría 6). **NADIE CONSCIENTE LO SABE** (la bengala es ahora enorme y oculta) — ni Akari, ni Midnight, ni Aizawa; solo la bestia/subconsciente. Akari solo intuye "algo raro" (savia más nítida en las demos; el susurro del +1 que ya no aparece). **HILO DE ARCO MAYOR pendiente**: cuando Akari lo descubra, tendrá que recalcular todo el camuflaje con Aizawa (la bengala está encendida sin que él lo sepa).
 - **Scars 0** (eligió NO rebobinar el incidente = la lección de Aizawa cumplida). Pool a tope (~110/128, ~85%).
+- **⚡ CAPACIDADES DESBLOQUEADAS POR M6 (ocultas; ni Akari lo sabe — con-082)**: coste ×0.5 · **ANULACIÓN DE QUIRKS gated por sangre** (el back-up de Erasure) · cognición paralela / estudio en dos tiempos · **Coros** (ruta-013) · modo combate ~10 min · >2 aspectos / >3 bestias · rewind hacia minutos (ROJO). Usar cualquiera DELATA el nivel real; Akari podría hacerlo por instinto sin saber que puede.
 - 18 declinaciones (16ª Jirō D30 alba, 17ª Bakugo, 18ª Momo micro-toma; tras M5 no hay más ofertas).
 - Fragmentos nuevos S22: **Explosión (Bakugo) ×1**, **BIG FIST (Kendo) ×2**, **Vides (Ibara) ×4**.
 - Saldo: **~¥98.170 · SIN DEUDAS** (−~900 tren Tokio). Próxima beca ~julio.
@@ -39,7 +40,7 @@
 
 ## Continuidad emocional y red sexoafectiva (harem / OPSEC)
 - **Momo (10, ANCLADA, PROMETIDA)** ⭐⭐ HITO MAYOR: recibió el día ENTERO (la muerte de su prometido, la resurrección, la **inmortalidad confirmada**). **Pacto de la eternidad**: buscar juntos la inmortalidad que la deje LIBRE (veto absoluto a la cadena/devoción/esclavitud de sangre), o llenar la mesa hasta que le dure el calor 70 años. Marco ampliado: "cada una del bosque decide su propio precio, con toda la info y sin presión". Biombo jubilado (cuarto propio). Dedujo casi entero lo del incidente PERO respeta el nombre clasificado (Midnight). Frase-sello: *"prefiero ser tu recuerdo libre que tu esclava eterna"*.
-- **Midnight (7, volátil)** 🔴 HITO MAYOR: recibió **"ARREBATO"** (ruta-008 L1). En la tutoría, el incidente: Akari potenció su Somnus con resonancia → bomba → murió → **ella lo salvó dándole su sangre** → domó la bestia y se paró antes de matarla. **Sabe casi TODO el Quirk** (drenaje, savia mantiene vivo, éxtasis, la resonancia potencia Quirks, la muerte/resurrección). NO sabe: el temporal explícito, la inmortalidad, la maestría 5. Su frontera ("no mientras mi firma puntúe") sostenida; **no-floración** (Akari frenó el beso). Pacto: **ella saltará el muro cuando sea el momento** (iniciativa devuelta a ella).
+- **Midnight (7, volátil)** 🔴 HITO MAYOR: recibió **"ARREBATO"** (ruta-008 L1). En la tutoría, el incidente: Akari potenció su Somnus con resonancia → bomba → murió → **ella lo salvó dándole su sangre** → domó la bestia y se paró antes de matarla. **Sabe casi TODO el Quirk** (drenaje, savia mantiene vivo, éxtasis, la resonancia potencia Quirks, la muerte/resurrección). NO sabe: el temporal explícito, la inmortalidad, ni el nivel real del Quirk (potencial 6/maestría 6). Su frontera ("no mientras mi firma puntúe") sostenida; **no-floración** (Akari frenó el beso). Pacto: **ella saltará el muro cuando sea el momento** (iniciativa devuelta a ella).
 - **Kendo (8, ANCLADA, PAREJA)** ⭐ HITO: verdad selectiva ("sin sangre no soy yo, podría matar"); **donante fija**; rito desmitificado ("erotismo hemoglobínico"); **plan de vida sellado** (madre/hijos; Akari dio en su herida secreta "¿quién me cuida?", vista por la memoria robada); **hicieron el amor** (se dejó cuidar). Frente Setsuna gestionado (Kendo la mete el finde, ella lidera). Cita nocturna cumplida.
 - **Setsuna Tokage (2, volátil)** 🆕: mano derecha de Kendo (1-B). Encuentro del pasillo (roba mochila, coqueteo, beso + mordida al labio). Intuye/sospecha el bosque; Kendo se lo confirmó. **Invitada a entrar al bosque el FINDE, con reglas de Kendo**; ella lo piensa "con la cabeza fría". Tensión mutua evidente.
 - **Awata (2→3, volátil)**: cortejo (teléfono + en persona en la agencia); "cabe más de una nube, **de verdad o nada**"; la burbuja del hogar; **el sábado empieza a regarlo**. Radar de olores (huele el bosque sin datos). Acceso a Sir (OPSEC).
@@ -63,18 +64,18 @@
 ## Información que NPCs tienen sobre Akari (cambios S22)
 - **Bakugo**: muerde, drena, lee un recuerdo aleatorio, y su sangre cura. NO: temporal, anulación, inmortalidad, maestría real.
 - **Midoriya**: Akari percibe su "sol" (OFA) desde el día 1 y lo cubre; su sangre cura. NO: mecánica del bosque, temporal, inmortalidad.
-- **Midnight**: casi todo el Quirk (drenaje, savia mantiene vivo, éxtasis, resonancia potencia Quirks, murió/resucitó). NO: temporal explícito, inmortalidad, maestría 5.
+- **Midnight**: casi todo el Quirk (drenaje, savia mantiene vivo, éxtasis, resonancia potencia Quirks, murió/resucitó). NO: temporal explícito, inmortalidad, ni el nivel real del Quirk (potencial 6/maestría 6).
 - **Momo**: el día entero (murió, resucitó, es inmortal, el pacto de la eternidad). NO: el nombre de Midnight (clasificado), los detalles técnicos.
 - **Nighteye**: la inmortalidad (la vio), que murió hoy, que la resonancia potencia Quirks. Pacto del tiempo.
 - **Setsuna / Awata**: intuyen el bosque (sin datos duros); Kendo le confirmó a Setsuna que hay bosque y que Akari es de ella.
-- **Nadie** sabe la maestría 5 (ni Akari).
+- **Nadie** sabe el nivel real del Quirk (potencial 6 / maestría 6), ni Akari.
 
 ## Progresión narrativa activa
 - `progreso_narrativo.csv`: marcas S22 (filo Bakugo, muerte/resurrección, domar la bestia, elegir no rebobinar, Arrebato, Singularidad, pacto eternidad) — a evaluar; peso alto. Aplazadas al bote de Arco 1 salvo las que se conviertan.
 - `hitos_progresion.csv`: **MAESTRÍA 4→5 aplicada en ficción** (el animal la descongeló; no descubierta conscientemente).
 - `rutas`: ruta-008 L1 entregada · **ruta-012 (magisterio del tiempo/Nighteye) activa** · ruta-011 (50 m) · ruta-013 activa.
 - `conocimientos`: con-077 (Singularidad refinada: NO inevitable) · **inmortalidad CONFIRMADA** · Foresight ve años · privacidad de la memoria robada.
-- Maestría: **5, tope** (nadie lo sabe). Scars 0.
+- **Quirk EVOLUCIONADO: potencial 6 / maestría 6** (nadie lo sabe; bengala enorme). Bote de Arco 1 consumido (183 peso). Scars 0.
 
 ## NPCs menores con potencial futuro
 - **Setsuna Tokage** (1-B, a punto de entrar al bosque). **Centipeder** (recepción Nighteye). Tachibana (HPSC). Amajiki (posible sábado). La auditora del membrete gris (sin cara).
@@ -84,7 +85,7 @@
 
 ## Relojes de facción activos
 - **MIÉRCOLES D31 = la auditoría ENTRA EN EFECTO** + **tándem con Nejire (1ª vez sobre el mar)**.
-- Comisión: trazadora. Nezu: vigilancia familia Hayami. Beca ~julio · cumpleaños de Akari 3 jul (~D52) · regla de Kendo ~mes próximo · **hilo latente: descubrir la maestría 5**.
+- Comisión: trazadora. Nezu: vigilancia familia Hayami. Beca ~julio · cumpleaños de Akari 3 jul (~D52) · regla de Kendo ~mes próximo · **hilo latente: descubrir el nivel real del Quirk (potencial 6/maestría 6)**.
 
 ## Memorias de feedback (memoria_gm.md / MEMORY.md)
 - Todas vigentes. NUEVA S22: [[narracion-mordida-siempre-extasis-y-memoria]] (formalizada en ficha R6-ter: cada mordida narra éxtasis de la víctima + recuerdo robado; la víctima no sabe qué recuerdo salió). Aplicadas bien: [[turnos-prosa-jugador]] (muchas correcciones integradas: Foresight ve años, el rewind no borra minutos, Kendo vive en dorm 1-B, la maestría no la sabe nadie), [[reciprocidad-proactiva-vinculos]] (Midnight/Kendo/Ibara/Momo con agencia plena; devolver decisiones a los NPCs), [[costes-quirk-proporcionados]] (el hambre desatada = tirada de voluntad real, riesgo de muerte), [[pov-mas-interesante]] (POV Bakugo/Midnight/Momo/Setsuna/Kendo/Nighteye).
@@ -92,5 +93,5 @@
 ## Para reanudar la sesión nueva
 1. Leer este archivo + `memoria_gm.md` + `MEMORY.md` + cabecera de `AGENTS.md` + avisos de `CLAUDE.md`.
 2. Saludar con cabecera 📅 (**D31 · miércoles 12 jun · al despertar · Musutafu — cuarto de Momo, Heights Alliance**).
-3. Confirmar el punto: Momo 10 (pacto eternidad), Midnight 7 (incidente/casi todo el Quirk), Kendo 8 (plan vida/donante), Setsuna 2🆕 (bosque el finde), Awata 3, Nejire 9 (tándem HOY), maestría **5 tope pero NADIE lo sabe**, scars 0, saldo ~¥98.170, INMORTALIDAD confirmada, Nighteye aliado del tiempo.
+3. Confirmar el punto: Momo 10 (pacto eternidad), Midnight 7 (incidente/casi todo el Quirk), Kendo 8 (plan vida/donante), Setsuna 2🆕 (bosque el finde), Awata 3, Nejire 9 (tándem HOY), Quirk **potencial 6 / maestría 6 pero NADIE lo sabe** (bengala enorme oculta), scars 0, saldo ~¥98.170, INMORTALIDAD confirmada, Nighteye aliado del tiempo.
 4. Presentar la decisión pendiente: **el D31, el día de la auditoría en efecto** — bajo perfil absoluto + el **tándem con Nejire sobre el mar** (donde le cuenta lo del café/muerte) + combate práctico en Cementoss.
