@@ -8,7 +8,7 @@
 - **Próxima decisión pendiente (ARRANQUE S23): ¿cómo juega el D31, el día de la auditoría?** Con: (A) el despertar con Momo y arrancar el día invisible; (B) el tándem con Nejire sobre el mar (dónde/cuándo — le debe la conversación del café/muerte); (C) sostener el bajo perfil ante la auditora todo el día; y de fondo el combate práctico en arenas de Cementoss.
 
 ## Stats, Quirk y economía al cierre
-- **PWR 4 · VEL 4 · TEC 4 · ING 4 · COO 3** (sin cambios de stat).
+- **PWR 4 · VEL 4 · TEC 4 · ING 4 · COO 3→4** (COO subió por HP-006, marca pm-143 = el filo/gatillo aprendido de Bakugo en el sparring; dentro de banda Arco 1). Pool base 128→130 (maestría 5).
 - Quirk **Sanguine Verdant Echo**: potencial 5 / **⚠️ MAESTRÍA 4 → 5 (TOPE DE POTENCIAL)**. La congelación anti-bengala de Aizawa se **ROMPIÓ** durante el frenesí de resurrección (el animal aceptó el +1 con el pool a 0). **NADIE CONSCIENTE LO SABE** — ni Akari, ni Midnight, ni Aizawa; solo la bestia/subconsciente. Akari solo intuye "algo raro" (savia más nítida en las demos; el susurro del +1 que ya no aparece). **HILO DE ARCO MAYOR pendiente**: cuando Akari lo descubra, tendrá que recalcular todo el camuflaje con Aizawa (la bengala está encendida sin que él lo sepa).
 - **Scars 0** (eligió NO rebobinar el incidente = la lección de Aizawa cumplida). Pool a tope (~110/128, ~85%).
 - 18 declinaciones (16ª Jirō D30 alba, 17ª Bakugo, 18ª Momo micro-toma; tras M5 no hay más ofertas).

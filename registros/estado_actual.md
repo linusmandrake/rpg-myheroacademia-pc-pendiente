@@ -5,7 +5,7 @@
 Akari duerme en el cuarto de su prometida tras el día más brutal de su vida —murió y resucitó, se confirmó **inmortal**, y su maestría se descongeló a 5 sin que nadie lo sepa— con una **auditoría preventiva** entrando en efecto al despertar.
 
 ## PC
-Akari Hayami "Sanguine" — PWR 4 · VEL 4 · TEC 4 · ING 4 · COO 3 · Quirk potencial 5 / **maestría 5 (TOPE — desconocida por todos, incluido él)**. Scars 0. Pool a tope.
+Akari Hayami "Sanguine" — PWR 4 · VEL 4 · TEC 4 · ING 4 · **COO 4** (COO 3→4, HP-006) · Quirk potencial 5 / **maestría 5 (TOPE — desconocida por todos, incluido él)**. Scars 0. Pool a tope (base 130).
 
 ## Arcos abiertos
 - **Arco 1 (finales)**: la semana de la trazadora / caso del bisturí → auditoría preventiva EN EFECTO el miércoles.

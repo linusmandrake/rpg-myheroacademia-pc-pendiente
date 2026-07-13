@@ -49,7 +49,7 @@ Por la tarde, **Nighteye** leyó el **año 2096** (encargo, a ciegas): confirmó
 - Comisión: trazadora en el canal. UA/Aizawa: cadena controlada. **Nighteye: aliado del tiempo** (pacto sellado; documento sin firmar; nivel 2).
 
 ## Stats y Quirk al cierre
-- PWR 4 · VEL 4 · TEC 4 · ING 4 · COO 3 (sin cambios de stat).
+- PWR 4 · VEL 4 · TEC 4 · ING 4 · **COO 3→4** (HP-006, marca pm-143 = filo del sparring; dentro de banda Arco 1). Pool base 128→130 (maestría 5).
 - Quirk Sanguine Verdant Echo: potencial 5 / **MAESTRÍA 4 → 5 (TOPE DE POTENCIAL)** — la congelación anti-bengala de Aizawa **ROTA** durante el frenesí de resurrección (el animal aceptó el +1). ⚠️ **NADIE CONSCIENTE LO SABE** (ni Akari, ni Midnight, ni Aizawa); solo la bestia/subconsciente. Akari intuye "algo raro" (savia más nítida, el +1 que ya no se ofrece). Hilo de descubrimiento futuro ENORME.
 - Scars 0 (**eligió NO rebobinar el incidente** = madurez de Aizawa cumplida). Pool a tope (~110, ~85%).
 - 18 declinaciones (16ª Jirō, 17ª Bakugo, 18ª Momo; tras M5 no hay más ofertas de +1).
@@ -78,7 +78,7 @@ Por la tarde, **Nighteye** leyó el **año 2096** (encargo, a ciegas): confirmó
 
 ## Progresión narrativa
 - Marcas S22 (peso, a evaluar/aplazar): filo/gatillo de Bakugo · la muerte y resurrección dirigida · **domar la bestia desde dentro (crítico)** · **elegir NO rebobinar** (madurez de Aizawa) · "Arrebato" entregado (ruta-008 L1) · Singularidad estudiada · el pacto de la eternidad con Momo.
-- **SUBIDA MAYOR aplicada en ficción (no por evaluación): MAESTRÍA 4→5** (el animal la descongeló; ver hitos_progresion). ⚠️ no descubierta conscientemente.
+- **SUBIDAS CONCEDIDAS S22**: MAESTRÍA 4→5 (hp-005, por el frenesí = peso 3 de pm-142) + **COO 3→4 (hp-006, pm-143)**. pm-141 (madurez) y pm-144 (agencia) aplazadas al bote de Arco 1. SUBIDA MAYOR (el animal la descongeló; ver hitos_progresion). ⚠️ no descubierta conscientemente.
 - Rutas: ruta-008 L1 entregada · ruta-011 (50 m Snipe) · **ruta-012 (magisterio del tiempo/Nighteye)** activa · ruta-013 activa.
 - Conocimientos: con-077 (Singularidad refinada) · **inmortalidad CONFIRMADA** · Foresight-alcance · privacidad de la memoria robada.
 
@@ -98,7 +98,7 @@ Por la tarde, **Nighteye** leyó el **año 2096** (encargo, a ciegas): confirmó
 ## Estado al cierre
 | Campo | Valor |
 |---|---|
-| PWR / VEL / TEC / ING / COO | 4 / 4 / 4 / 4 / 3 |
+| PWR / VEL / TEC / ING / COO | 4 / 4 / 4 / 4 / **4** (COO 3→4) |
 | Quirk (potencial/maestría) | 5 / **5** (tope; NADIE lo sabe conscientemente) |
 | Salud / heridas | Perfecta (autocurado; murió y resucitó hoy) · scars 0 |
 | Saldo (yenes) | ~¥98.170 |
