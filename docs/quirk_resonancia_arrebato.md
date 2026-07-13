@@ -47,12 +47,14 @@
 **Qué es:** **subir** una emoción que el sintonizado YA siente. Su agencia queda intacta — distingue "lo mío, más fuerte".
 **Posibilidades:** heroico — inyectar coraje/calma amplificada a un aliado en el filo; social — hacer que un momento compartido sea abrumador (con Jirō: cantar su amor y que ella lo *sienta*, no lo imagine); el germen de "Arrebato" (mover emocionalmente).
 **Descubierto S21.** Sube por niveles; a más nivel, más riesgo de feedback (abajo).
+**Acople con #7 (Quirks emocionales/energéticos):** cuando el Quirk del sintonizado se **alimenta de su estado** (Nejire y su Wave Motion son casi lo mismo: energía = ánimo), amplificar la emoción (#6) **potencia su Quirk (#7) en el mismo gesto** — no son dos pulsos, son uno. Con Nejire, "pulsar euforia/exaltación" = "multiplicar su propulsión". El GM debe narrar SIEMPRE el efecto sobre el Quirk, no solo sobre el ánimo.
 
 ### 7. Boost de Quirk aliado
 **Qué es:** prestar frecuencia a un sintonizado para que su **Quirk rinda por encima de su techo** un instante.
 **Posibilidades:** multiplicó el Heartbeat de Jirō — un pulso mínimo pulverizó lo que debería haber agrietado. Aplicación de **soporte/combate enorme**: un aliado con su Quirk potenciado en el momento clave. Akari = "multiplicador de ejércitos de una sola persona".
 **Coste:** pool + concentración. **OPSEC:** en combate se leería como que el aliado "tuvo un buen día" — buena coartada, pero a escala llama la atención.
 **Descubierto S21.**
+**⚠️ RECORDATORIO OPERATIVO (fallo recurrente del GM — leer siempre):** el Boost es un **FACTOR MULTIPLICADOR sobre la POTENCIA del Quirk del sintonizado**, NO un adorno anímico. Cuando el jugador pulsa el Eco a un aliado **en acción** (vuelo, velocidad, combate, fuerza), el efecto **por defecto ES ESTE**: narrar el Quirk del aliado rindiendo MUY por encima de su techo — Nejire = Wave Motion multiplicado → propulsión/velocidad disparada; Jirō = Heartbeat pulverizando; etc. El estado emocional es el **vehículo**; la **multiplicación del Quirk es el efecto**. Nunca reducir un pulso-en-acción a "está más animada".
 
 ### 8. Implante emocional *(registro IMPONER — filo de "Arrebato")*
 **Qué es:** plantar una emoción **de cero** en alguien (no amplificar). Sobre enemigos: miedo, desánimo, duda, la que necesite.
