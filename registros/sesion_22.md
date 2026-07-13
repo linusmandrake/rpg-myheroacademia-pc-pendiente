@@ -82,6 +82,19 @@ Por la tarde, **Nighteye** leyó el **año 2096** (encargo, a ciegas): confirmó
 - Rutas: ruta-008 L1 entregada · ruta-011 (50 m Snipe) · **ruta-012 (magisterio del tiempo/Nighteye)** activa · ruta-013 activa.
 - Conocimientos: con-077 (Singularidad refinada) · **inmortalidad CONFIRMADA** · Foresight-alcance · privacidad de la memoria robada.
 
+## Auditoría de dirección
+
+> Obligatoria desde S19. Cuenta beats narrativos, no párrafos.
+
+- Beats totales: ~55 (sesión muy larga, D30 entero latido a latido)
+- POV Akari: ~38 (2ª persona por defecto)
+- POV NPC: Midnight: 6; Momo: 6; Bakugo: 2; Kendo: 1; Setsuna: 1; Jirō: 1; Aizawa: 1 (≈17 beats con POV de NPC)
+- Marcha de avance: ~10 beats (transiciones: viajes Tokio, galería, cena condensada, coartadas)
+- Marcha de profundidad: ~45 beats (todos los hitos: sparring, incidente Midnight, Nighteye, descargas de vínculo)
+- Beats importantes encadenados indebidamente: 0 (un beat por turno, handoff constante)
+- Handoffs con decisión al jugador: ~55 (A/B/C/D en casi cada turno)
+- Incidencias de niebla/voz/ritmo y corrección: MUCHAS correcciones del jugador integradas — protocolo de mordida (éxtasis+memoria) formalizado en R6-ter; Foresight ve años (no minutos); el rewind no borra minutos de golpe; la maestría 5 NO la sabe nadie (ni Akari); Kendo vive en dorm de 1-B (no casa de padres); Akari NO ofreció esclavizar a Momo (era su miedo al precio); el Eco es invisible (Aizawa no lo detecta). Todas aplicadas en el acto.
+
 ## Estado al cierre
 | Campo | Valor |
 |---|---|
