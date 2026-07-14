@@ -152,3 +152,9 @@ pm-143,PWR/COO (filo ofensivo),1,Bakugo le metio el gatillo rapido / el remate s
 pm-144,caracter/vinculos (agencia devuelta),2,"Devolvio la decision a Midnight (que ella salte el muro), a Kendo (Setsuna), a las flores (cada una su precio); freno su propio beso por respeto; el pacto de la eternidad con Momo (veto de la cadena).",si,S22
 # S22 (D30): pm-141..pm-144 = 9 peso. Aplazadas a cierre de Arco 1 (bote). MAESTRIA 4->5 aplicada en ficcion (hp-005, no por evaluacion). Scars 0.
 # S22 CIERRE DE ARCO 1: BOTE CONSUMIDO. Las 183 de peso aplazado (pm-041..pm-144) se materializaron en: STATS TEC/ING/COO 4->5 (COO 3->5), PWR/VEL 4; QUIRK potencial 5->6 + maestria 5->6. El grueso de caracter/voluntad (65) y mente/tecnica (TEC 26/ING 19/COO 26) subio los stats; los ~40 de vinculo ya estaban en closeness. Arco 2 empieza con PWR/VEL como margen.
+pm-145,caracter/voluntad,3,S23/D31: descubre y mide de frente el M6 con Momo en vez de seguir negandolo ('esto no es normal'); afronta en que se ha convertido con testigo,no,S23
+pm-146,vinculo,3,"S23/D31: Nejire 9->10, primera vez sobre el mar + primera sangre virginal + verdad de la vision compartida + 'la mas nitida'",si,S23
+pm-147,TEC/COO,2,"S23/D31: sobresaliente de contencion con Cementoss (12 civiles, dano cero, aislar al adversario en vez de vencerlo)",no,S23
+pm-148,caracter/OPSEC,2,"S23/D31: bajo perfil sostenido todo el dia de auditoria + NO espia la carpeta de la auditora pudiendo (disciplina, se lo debe a Aizawa)",no,S23
+pm-149,Quirk/Eco,2,S23/D31: boost de Eco que rompe Mach 1 (Wave Motion de Nejire potenciado) + edging de placer a distancia controlado a Midnight (monitorizando constantes),no,S23
+pm-150,ING/estudio,1,S23/D31: estudio en dos tiempos con dominio (8 avatares estudiando en paralelo),no,S23
