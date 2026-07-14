@@ -24,14 +24,14 @@
 **Posibilidades:** vuelo (155 km/h sostenidos, tobera 178 punta); propulsión de constructos; el "latido" que se percibe en la piel de un sintonizado (base de la resonancia íntima); ritmo-portador de cualquier otra técnica.
 **OPSEC:** el vuelo es visible pero no bengala.
 
-### 2. Eco de Firma / Dueto (Fase 3)
-**Qué es:** Akari proyecta su "firma" resonante y la **enlaza** con UN sintonizado. Canal abierto de ida y vuelta.
-**Posibilidades:** volar en tándem; sincronizar movimiento/ritmo con un aliado; canal para transfundir estado (ver #4); la puerta a la Fase 4.
+### 2. Eco de Firma / Dueto balístico (Fase 3)
+**Qué es (corregido S23 — no confundir con Fase 4):** Akari enlaza su firma con UN sintonizado y sus **alas REPLICAN la onda del aliado**: cuando el copiloto (Nejire) emite su onda, las alas de Akari la reciben y la **devuelven con la firma de él** (~30-40% de amplitud) → **dos ondas idénticas desde dos orígenes distintos** = un dueto ILEGIBLE para el enemigo (no puede triangular el origen ni predecir el vector; falsificación de firma).
+**Posibilidades:** volar en **tándem** (biplaza sostenido, ~miles de km a Mach 0.12 con Nejire); sincronizar movimiento/ritmo; **aplicación BALÍSTICA** (el "dueto balístico"): un enemigo en medio recibe la misma onda **desde dos vectores a la vez**, imposible de leer/esquivar igual; canal para transfundir estado (ver #4). Bidireccional.
 **Límite:** un solo enlace a la vez a M4.
 
-### 3. Fase 4 — Bucle de retroalimentación (piloto-copiloto)
-**Qué es:** el dueto se cierra en **bucle**: Akari y el copiloto sintonizado se **sostienen mutuamente**, cada uno alimentando al otro. Disclosada, no dominada.
-**Posibilidades:** autonomía biplaza de miles de km a Mach 0.12 (con Nejire, lo más lejos llegado); resistencia/aguante compartido (dos cuerpos turnándose la carga); en teoría, sostener a un aliado exhausto prestándole ritmo.
+### 3. Fase 4 — Recarga mutua (en la mordida)
+**Qué es (corregido S23 — estrenada con Nejire sobre el mar):** mientras Akari **muerde/drena** a un sintonizado (recargando su propia sangre/pool), le **devuelve ondas que lo recargan a él/ella** en el mismo aliento — bucle cerrado de alimentación mutua: **toma sangre y da fuerza a la vez**, de modo que NO vacía al donante: lo **llena mientras se llena**.
+**Posibilidades:** drenar sin agotar al donante (o dejándolo más cargado que antes); recarga simbiótica en combate; sostener a un aliado exhausto mientras te alimentas de él.
 **Peligro:** todo bucle de retroalimentación puede **desbocarse** (ver "Dinámica de feedback" abajo). Requiere copiloto que confíe al 100%.
 
 ### 4. Transfusión ondulatoria

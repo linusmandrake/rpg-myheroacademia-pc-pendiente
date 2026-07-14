@@ -59,6 +59,11 @@
 - Midnight: "*el muro te lo salto YO, cuando yo diga... y no te voy a robar nada de lejos: te lo voy a cobrar entero, en persona.*" / "*gracias por el de amor de antes. Ese no me lo esperaba. Y me ha dolido más que este.*"
 - Mei: "*se nota cuándo es pago y cuándo es ganas. Esto son ganas.*" / "*sé que era gordo, lo que he matado. Eso me lo quedo yo, sin datos. Astilla mía.*"
 - Akari (a Nejire): "*no sé qué soy, mi amor. Terreno suprahumano. Y me da miedo no lo que puedo hacer, sino no saber qué puedo hacer.*"
+- **Reiko Yanagi (1-B, cruce de pasillo)**: "*Hueles a algo que ya está muerto. — Buenos días.*" — una alumna de 1-B OLIÓ la muerte del D30 en Akari al día siguiente. Gancho de niebla, no solo cameo.
+- Nejire (sellando el secreto del Mach 1): "*Te lo juro por las campanillas*" (jura por el símbolo de su infancia que Akari acababa de ver en el recuerdo robado) + la isla del Caribe "*No soñado: AGENDADO*" (para cuando ambos sean inmortales).
+- Momo (la cucharilla): "*Guárdalo bien. Es de las cosas más caras que tengo*" / "*Llevo doce años pensando que ese recuerdo se moría conmigo. Y resulta que ahora también es tuyo.*"
+- Mei: "*La gente se va después de los diez del medio. Tú te quedas para el after. Nadie se queda para el after.*" / "*Mi habitación te la enseño el día que me lleves a la tuya. Justo.*" (reciprocidad doméstica pendiente).
+- El **Avatar leyéndole cuentos infantiles al Akari de carne** en la biblioteca (los que nadie le leyó en el hueco de la escalera de Osaka, con su propia voz de savia y Blackroot apoyando el hocico) — imagen-ancla del inmortal haciéndose compañía a sí mismo.
 
 ## Información que NPCs tienen sobre Akari (cambios S23)
 - **Momo**: que el Quirk EVOLUCIONÓ y el atlas completo del M6 medido (coste ½, alcance campus, Mach 1, 8 avatares, regeneración ×10, estudio en dos tiempos). NO la cifra 6/6.
