@@ -90,3 +90,16 @@ Noche: beat con **Mei** (borrado **quirúrgico** de la telemetría —solo los s
 - Mei con la astilla del secreto (posible vía de descubrimiento del M6).
 - Curar las manos de Midoriya: aplazado a cuando se vaya la auditoría.
 - Ensayo de banda (próximo miércoles); duelo Grimbark con Midoriya (semana que viene); excursión de olores sábado (Pompa Uno); Setsuna al bosque el finde (Kendo lidera).
+
+## Auditoría de dirección
+
+> Obligatoria desde S19. Cuenta beats narrativos, no párrafos.
+
+- Beats totales: ~42
+- POV Akari: ~30 (2ª persona por defecto)
+- POV NPC: Momo: 5; Nejire: 3; Aizawa: 1; Midoriya: 1; Nemuri/Midnight: 1; Ochaco: 1 (≈12 beats con POV de NPC)
+- Marcha de avance: ~9 beats (mañana escolar condensada, tarde gris, transiciones, tramo de estudio nocturno)
+- Marcha de profundidad: ~33 beats (todos los hitos: amor/mordida con Momo, homeroom Aizawa, combate Cementoss, tándem Nejire entero latido a latido, Mei, edging Midnight, experimento del M6)
+- Beats importantes encadenados indebidamente: 0
+- Handoffs con decisión al jugador: todos los beats cerraron devolviendo la palabra
+- Incidencias de niebla/voz/ritmo y corrección: MUCHÍSIMAS correcciones de mecánica del jugador, todas integradas en el acto — el Eco florece EN el objetivo (no viaja); Fase 3 (dueto balístico) ≠ Fase 4 (recarga mutua en la mordida); la descarga de conocimiento de los Avatares es al REABSORBER, no durante; a M4 el estudio da familiaridad, a M5-6 dominio; límites de avatares (sangre) y bestias (atención) distintos; regeneración base 1 punto/hora; zona de seguridad 20% (pacto Aizawa), sudor de sangre solo <20%; el nº1/10 GANADO, no regalado (Midnight restó, no sumó); Nejire ya declarada (sin deuda de marco); Mina/Ochaco/Akari en Heights habitaciones separadas; Bakugo en 1-A; Pony ya floreció (marco corregido); la visión de Nighteye NO es determinista (delta de ramas). Regla #7 del subsistema de resonancia reforzada en `quirk_resonancia_arrebato.md` (boost de Quirk = multiplicador, no adorno anímico) tras fallarla dos veces.
