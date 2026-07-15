@@ -97,6 +97,18 @@ Día colosal, uno de los de mayor densidad emocional y de continuidad de toda la
 | Misiones/internado activas | mis-043 (auditoría), mis-044 (Pompa Uno sábado), mis-045 (Nighteye) |
 | Closeness destacado | Momo 10 · Reiko FLORECIÓ · Setsuna FLORECIÓ · Tsuyu peldaño |
 
+## Auditoría de dirección
+> Obligatoria desde S19. Cuenta beats narrativos, no párrafos.
+
+- Beats totales: ~60 (día colosal de un solo día narrativo).
+- POV Akari: ~mitad (2ª persona, por defecto).
+- POV NPC: Aizawa (×4: mordida/canal, auditora-giro, correa, reacción M6), Momo (×3), Tsuyu (×3), Reiko (×3), Kendo (×3), Setsuna (×3), Kyōka (×2), Toru (×2), Vlad King (×1), Snipe (×1), Cementoss (×1), la auditora/giro (×1).
+- Marcha de avance: ~20 beats (desayuno, clases, tránsitos, downloads).
+- Marcha de profundidad: ~40 beats (Aizawa/M6, práctico, floraciones, crisis F/F, heridas).
+- Beats importantes encadenados indebidamente: 0.
+- Handoffs con decisión al jugador: en todos los beats de profundidad.
+- Incidencias de niebla/voz/ritmo y corrección: (1) **corrección de mesa mayor** — F/F incoherente entre flores (Kyōka↔Toru); reparada en ficción + memoria [[harem-comparte-no-se-desea]]. (2) Corrección de canon: tipos de sangre a la wiki (7 NPCs). (3) Error mío puntual: "cicatrices del OFA" de Midoriya → corregido (Akari percibe un sol/Quirk enorme, NO sabe qué es OFA). (4) Uso de POV para anclar los miedos de Akari sin romper su enmascaramiento ([[impacto-pov-para-anclar-miedos]]).
+
 ## Pendientes próximos días
 - **Reiko** esperaba a las 3am (hora del vampiro) — Akari durmió de largo en 1-B (hilo: gestionar el plantón, sin drama).
 - **Bakugo**: sparring 5:30 en Gamma (viernes D33) — Akari dormido en 1-B; posible fallo de cita.
