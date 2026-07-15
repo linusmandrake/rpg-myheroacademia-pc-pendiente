@@ -19,3 +19,5 @@
 | Mirio | Mame-mochi de Demachi Futaba | **ENTREGADO D22** (carrera del alba — "el sábado te enseño la respiración en cuestas, NO se discute") | Combustible de alba; el momento diario de los dos. |
 | Midnight | Marcapáginas de washi índigo | **ENTREGADO D22 — SECRETO** (sala 3, sin testigos; 'se estrena esta noche. Página 87') | Sin tarjeta, sin testigos, sin lista. Para la página 87. |
 | Momo | (el anillo — gema sanguina) | ENTREGADO D20, Kinkaku-ji 11:20 | hito_00_la_pregunta.mp4. Vive en cadena sobre el esternón. |
+
+- [S24/D32 · EN COLA] **Todoroki Shoto** — maceta con **HIELO en vez de tierra** de la que crece la **Saxifraga oppositifolia** (la flor que le cubrió el hielo en el práctico). Símbolo: "te acompaño en tu abismo sin pedirte nunca el fuego; guardián de tu muro, no quien te obliga a derribarlo". Se entrega mirándolo a los ojos (beat individual, no de pasada).

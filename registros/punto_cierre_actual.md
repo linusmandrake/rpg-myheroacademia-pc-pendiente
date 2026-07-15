@@ -65,6 +65,11 @@
 - Setsuna (la cáscara caída): "Nadie me quiere por mí; me quieren por el show. Y tú me has querido sin pedirme el número."
 - Cementoss (inquieto): "Un alumno brillante razona. Tú acabas de VER. ¿Estás durmiendo bien?"
 - Vlad King: "El que usa sangre sin pagarla o es un milagro o es otra cosa. ¿Cuál de las dos eres?" → cover de savia forestal aceptado.
+- **El casi-desliz del "reanimarle"**: Aizawa repite "Reanimarme. Qué manera de decirlo." — el cazador oye el crujido y **lo archiva sin cazarlo**. Está a una palabra de la verdad del D30.
+- Aizawa (tras el zoo y el leash): "Dios, chaval. No me habías crecido. Te has convertido en otra cosa." / "Ahí está tu correa, y la mía. Mientras yo te vea, no llevas mi Quirk encima: no llevas ninguno."
+- **La auditora** (solo vive en el transcript): lo que escribió fue "un nombre y una fecha"; su misión de hoy era confirmar que "aquí dentro alguien lo protege" — confirmado; cierre interno: "Paciencia. Todavía no."
+- **Kyōka = "eco fragante" (響香)**: la chica que ama se llama, literalmente, como lo que él es (Echo). Frase robada guardada entre los dos. / "A Toru la quiero. A ti te ELEGÍ. No es lo mismo y no lo va a ser nunca."
+- Ochaco: "Gracias por venir a mi puerta primero. No por esto. Por venir. Lo de *primero* me lo quedo yo hoy." / Mika: "En esta cocina se te da de merendar, se te adopta y se te quiere. No se te seduce." (Kyotoku: "Bienvenido a la familia, chaval. Otra vez.")
 
 ## Información que NPCs tienen sobre Akari (cambios S24)
 - **Aizawa**: TODO el M6 (atlas, avatares, canal); lleva la astilla-canal de sangre; el recuerdo de Oboro es simétrico (Akari lo cargó). NO sabe que Akari MURIÓ el D30 (Akari se lo calló deliberadamente; enmarcó "no sé cómo se rompió el bloqueo").
@@ -73,7 +78,7 @@
 - **Cementoss**: notó que "ve, no razona" (inteligencia anómala); lo archivó sin cazarlo.
 - **Setsuna**: sabe la mordida/éxtasis/recuerdo (floreció). Kendo: recuerdo nuevo bebido.
 - **La auditora**: expediente de origen Osaka; targetea a Akari; se fue con una línea.
-- **Nadie** sabe la cifra exacta (6/6). **Nadie consciente** sabe que MURIÓ el D30 salvo por la nariz de Reiko (que huele, no sabe).
+- **Nadie** sabe la cifra exacta (6/6). Sabe que MURIÓ el D30: solo **Momo** (se lo contó él la noche del D30, ev-331); **Reiko lo HUELE** sin saberlo; **Aizawa NO** lo sabe (solo el M6).
 
 ## Progresión narrativa activa
 - `progreso_narrativo.csv`: marcas S24 (pm-151..pm-158: M6 revelado a Aizawa + canal de sangre, mascarada ante Vlad, correa obedecida, flores-pacto Todoroki, comunicación madura F/F+florero, cuidado de heridas, inteligencia-M6, floraciones) — a evaluar; **SIN subidas de stat/maestría** (Quirk en tope 6/6; stats en margen Arco 2).

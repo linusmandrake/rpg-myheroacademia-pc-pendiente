@@ -37,7 +37,8 @@ Día colosal, uno de los de mayor densidad emocional y de continuidad de toda la
 - (tarde) **Canto con Mika** (casa Jirō): voz natural sin truco; comedia de la edad; cena de familia (hogar de facto).
 - (tarde-noche) **TRÍO Jirō+Toru**: gruta insonorizada de savia (Jirō grita en su casa 1ª vez); Toru visible (segunda piel). CRISIS del florero + incoherencia F/F (Kyōka↔Toru) → resuelta hablándola (no bi, situacional, suelo firme; F/F se gana). **Toru** curada en el cuarto/templo de Akari (herida del que sobra).
 - 19:05-19:26 **Tsuyu** (baño ala este): primer peldaño físico a su ritmo (pecho, beso de rana); oferta de mordida APLAZADA a su momento; herida "querer por deber" curada.
-- 19:42-21:00 **Kendo+Setsuna** (1-B): cartas boca arriba (orientaciones, cero florero); **Setsuna FLORECIÓ** (1ª vez, desfloración bebida, mordida→éxtasis+recuerdo del patio, tipo O); Kendo mordida (recuerdo de la niña de 8 años); trío coherente (comparten a Akari). Se duermen los tres abrazados. **[SESIÓN 24 CERRADA]**
+- 19:42-21:00 **Kendo+Setsuna** (1-B): cartas boca arriba (orientaciones, cero florero); **Setsuna FLORECIÓ** (1ª vez, desfloración bebida, mordida→éxtasis+recuerdo del patio, tipo O); Kendo mordida (recuerdo de la niña de 8 años); trío coherente (comparten a Akari). Se duermen los tres abrazados.
+- 21:05 Con el cuerpo dormido en 1-B, Akari **reparte 8 Avatares Carmesí** por 3 edificios para acompañar/cuidar toda la noche a Momo, Ochaco, Toru, Jirō, Ibara, Pony, Nejire y Reiko (dar no tomar; todo vuelve al reabsorber al alba). Resuelve el plantón de Reiko. **Reloj OPSEC** (8 avatares ÁMBAR en semana de auditoría). **[SESIÓN 24 CERRADA]**
 
 ## Cambios económicos (yenes)
 - Inicio: ~¥97.770 · Final: ~¥97.770 · **Cero movimientos** en D32 (comidas UA/casa de Jirō gratis; táper de Mika = regalo). Próximo ingreso: beca ~julio.
@@ -110,10 +111,10 @@ Día colosal, uno de los de mayor densidad emocional y de continuidad de toda la
 - Incidencias de niebla/voz/ritmo y corrección: (1) **corrección de mesa mayor** — F/F incoherente entre flores (Kyōka↔Toru); reparada en ficción + memoria [[harem-comparte-no-se-desea]]. (2) Corrección de canon: tipos de sangre a la wiki (7 NPCs). (3) Error mío puntual: "cicatrices del OFA" de Midoriya → corregido (Akari percibe un sol/Quirk enorme, NO sabe qué es OFA). (4) Uso de POV para anclar los miedos de Akari sin romper su enmascaramiento ([[impacto-pov-para-anclar-miedos]]).
 
 ## Pendientes próximos días
-- **Reiko** esperaba a las 3am (hora del vampiro) — Akari durmió de largo en 1-B (hilo: gestionar el plantón, sin drama).
+- **Reiko** recibió un avatar a la hora del vampiro (3am) — plantón RESUELTO; no durmió sola.
 - **Bakugo**: sparring 5:30 en Gamma (viernes D33) — Akari dormido en 1-B; posible fallo de cita.
 - **Viernes D33**: sigue la auditoría; Aizawa+Nezu con el nombre de la auditora; Fundamentos con All Might (viernes tarde); Inglés/Ley/Literatura (horario viernes).
-- **Toru** durmió sola en el cuarto de Akari en Heights.
+- **Toru** durmió acompañada por un avatar en el cuarto/templo de Akari en Heights (no sola).
 - Curar las manos de Midoriya (aún aplazado por la semana de auditoría).
 - Mordida a Tsuyu pendiente (su momento).
 - Regalo Todoroki (maceta de hielo + saxifraga) en cola.

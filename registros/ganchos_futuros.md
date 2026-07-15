@@ -66,3 +66,9 @@ Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el bo
 - **El sitio-donde-gritar de Kendo**: escapada prometida ("me sueltas la melena"). Pendiente de fecha y de monte.
 - **Tachibana Ren**: la hipótesis (b) escrita en su cuaderno privado. Si la trazadora del lunes es interceptada, el junior y el fantasma podrían no ser la misma persona — ¿quién pidió la "auditoría preventiva"?
 - **El código de golpecitos**: sin inventar. La rama de 9,8 m hasta el salón, medida por Momo "por si acaso".
+
+## [S24/D32] TELÓN DEL ACTO I — la auditora del membrete gris
+- El Acto I de Arco 2 = la semana de auditoría. **Bisagra girada el D32**: el M6 sale de la caja hacia Aizawa. **Telón** = cuando se resuelva la amenaza de la auditora (identidad/misión). Clímax probable: un práctico/situación bajo su mirada donde Akari sea bomba disfrazada de aburrido.
+- **HILO MAYOR**: la auditora TARGETEA a Akari; su expediente **empieza en Osaka**. ¿Benefactor desconocido? (cruzar con Nezu, que validó la beca). Aizawa+Nezu con su nombre desde el D32.
+- **HILO B**: la inteligencia subida por el M6 = segundo tell que Akari no percibe.
+- **RELOJ OPSEC vivo**: 8 avatares carmesí nocturnos por 3 edificios en semana de auditoría (¿detección?).
