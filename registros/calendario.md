@@ -159,7 +159,7 @@
 - ⚖️ **LUNES D29 = DÍA DE LA TRAZADORA**: la revisión de Midnight (9,5→10) entra por el canal del fantasma; Aizawa verifica si existe ORDEN DE REQUISICIÓN de la noche del D24; Tachibana vigila el flujo ("el lunes la nada se retrata"). "Auditoría preventiva de accesos" pedida ARRIBA (membrete gris, fecha del viernes).
 - 🕶️ **Documento de pasantía de Nighteye SIN FIRMAR** — hablar con Aizawa antes (condición). Encargo 2096: llevar 2 preguntas por escrito. Volver a la agencia.
 - 📓 **Deberes lección 1 (Midnight, LUNES)**: "elige qué van a desear de ti".
-- ☔ **Awata**: SMS sin responder ("materiales + el sábado libro ☔"). POMPA UNO: diseño con Mei pendiente. Sábado: respiración en cuestas con Mirio (cobrada).
+- ☔ **Awata**: SMS respondido (todos; "materiales + el sábado libro ☔"). POMPA UNO: diseño con Mei pendiente. Sábado: excursión Pompa Uno con Awata/Mirio (hora civilizada, no sparring de Bakugo).
 - 🛩️ **Tándem con Nejire: esta semana** (plan B2 firmado). "La cosa de Nighteye" debida en el desayuno del lunes.
 - 🌳 **Guerra de Momo: FECHA FIJADA — semana de la graduación.** Convivencia post-UA decidida (adelantable).
 - 🔧 **40-v2 supersónico ~1,5 semanas** · Snipe martes/jueves (galería) · diana de 1.320 m esperando · código de golpecitos con Ochaco SIN inventar · omamori Yatagarasu (Tokoyami) en cola · merienda Nejire↔"Yaoyorozu" pendiente · regla de Kendo el mes que viene (pacto a prueba).

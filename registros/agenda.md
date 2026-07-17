@@ -9,7 +9,7 @@
 ## Lunes D29 (el día de la trazadora)
 - [ ] La revisión de Midnight (9,5→10) entra por el canal → vigilar reacción del fantasma (Aizawa/Momo). Tachibana vigila el flujo.
 - [ ] Deberes lección 1 para Midnight: "elige qué van a desear de ti" (respuesta prometida HOY).
-- [ ] Responder el SMS de Awata (materiales Pompa Uno + "el sábado libro ☔").
+- [x] SMS de Awata RESPONDIDO — todos contestados (materiales Pompa Uno + "el sábado libro ☔"). **Corrección D33:** el jugador confirma que nunca quedó ningún SMS sin responder; registro saneado para que no reaparezca como pendiente.
 - [ ] Snipe: galería martes/jueves fija (mañana martes).
 
 ## Semana
