@@ -45,6 +45,7 @@ Cada una carga la grieta de su arquetipo. No es drama impuesto: es de dónde nac
 - **Ochaco ↔ Momo — LA CLASE** · *latente*. La becada que "sobra" y la heredera que todo lo sostiene con recursos. Ochaco puede sentir que no puede competir en dar; Momo puede no ver su propio privilegio.
 - **Momo (método) ↔ Mei/Nejire (caos)** · *latente*. Control vs impulso; la registradora y las que rompen el plan.
 - **Eje geográfico 1-A ↔ 1-B** · *fondo*. Las de 1-B (Kendo, Ibara, Pony, Setsuna, Reiko) viven aparte; costura de logística y de "las de fuera".
+- **Kendo ↔ Momo — DOS COMANDANTES / EL MANDO** · *latente, recién abierta (D33)*. En la banda: Kendo a la batería (marca el tempo = manda en la canción) y Momo al teclado + logística del grupo (organiza desde fuera). Dos líderes natas acostumbradas a que se haga lo que dicen. Choque de mando **sano** — o uña y carne, o discusión de *"¿quién cuenta el un-dos-tres-cuatro?"*. Nace del beat en que Akari pone a Kendo de batería para **sanar su miedo-raíz** (el suelo elegido y celebrado, no en la sombra).
 
 ## Hermandades ganadas (F/F profundas forjadas por roce resuelto)
 > La complicidad F/F se GANA (nunca salto incoherente). Aquí van las que ya se ganaron.
