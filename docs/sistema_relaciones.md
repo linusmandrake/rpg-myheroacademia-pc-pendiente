@@ -315,3 +315,19 @@ En la práctica: el jugador puede iniciar una relación con cualquier NPC mujer 
 - [x] Crear `registros/relaciones.csv` — perfil multidimensión (closeness/deseo/confianza/compromiso/regimen/marco/dificultad/hitos).
 - [x] Implementar checks de consistencia (capa 4) en `tools/validar_estado.py`.
 - [ ] Decidir con el jugador las líneas y velos generales en `sesion_cero.md`.
+
+---
+
+## Dinámica familiar del bosque (Clima del Bosque) — sistema con estado
+
+> Añadido S24 a petición del jugador. Estado vivo en `registros/clima_bosque.md`. Memoria: [[dinamica-familiar-bosque]].
+
+**Premisa:** el bosque no es una colección de conquistas: es una **familia**. Y en una familia de verdad, **los conflictos fortalecen los vínculos**, no los amenazan. Este sistema introduce fricción entre los arquetipos de las flores para dar profundidad — sin poner nunca en riesgo la existencia del bosque.
+
+**Regla de oro:** ningún conflicto rompe la familia. El peor caso de un roce mal gestionado es **clima tenso + deuda de profundidad** (un vínculo hondo no ganado aún), nunca una ruptura. Los celos, si aparecen, son **celos-vulnerabilidad** ("¿soy suficiente?"), jamás celos-posesión ("es mío"). Compatible con [[manejo-harem-sin-culpa]] y [[harem-comparte-no-se-desea]].
+
+**Motor:** cada flor carga un **miedo-raíz de arquetipo** (ver tabla en `clima_bosque.md`). Cuando dos grietas se tocan, salta una **costura de fricción**. Tipos: roce de valores/estilo · pinchazo de inseguridad · conflicto moral · dilema de tiempo-atención.
+
+**Resolución (tres vías):** (a) Akari media (crece), (b) las flores lo resuelven entre ellas (agencia proactiva — [[reciprocidad-proactiva-vinculos]]), (c) queda latente (deuda de profundidad).
+
+**Consecuencia:** roce navegado = vínculo más hondo + clima más fuerte + posible hermandad F/F ganada (la F/F se gana, nunca salto incoherente). Roce ignorado = clima tenso + deuda. El GM actualiza `clima_bosque.md` al cierre.
