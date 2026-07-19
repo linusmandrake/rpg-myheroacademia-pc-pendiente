@@ -72,3 +72,16 @@ Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el bo
 - **HILO MAYOR**: la auditora TARGETEA a Akari; su expediente **empieza en Osaka**. ¿Benefactor desconocido? (cruzar con Nezu, que validó la beca). Aizawa+Nezu con su nombre desde el D32.
 - **HILO B**: la inteligencia subida por el M6 = segundo tell que Akari no percibe.
 - **RELOJ OPSEC vivo**: 8 avatares carmesí nocturnos por 3 edificios en semana de auditoría (¿detección?).
+
+## Sembrados en S25 (D33-D34) — la verdad de Osaka y sus ondas
+- **LA SERIE S (mis-046)**: S-1 y S-2 existen. Si viven, son como Akari (teoría: niños que vuelven de la muerte). ¿Edad hoy? ¿Custodiados? ¿Vaciados? El día que encuentre a uno, la campaña cambia de escala. (Y la pregunta inversa: ¿hay un S-4 en alguna parte?)
+- **TSUBAKI GENZŌ y la tarjeta**: el número manuscrito sin estrenar. Llamar = revelar que sabes. No llamar = dejarle el tempo a él (y él YA va por delante: levantó el secreto 3 días antes del vuelo). Su frase "cosas viejas con hambre nueva" conecta con el coleccionista/carpeta de la firma tachada — ¿custodia a Akari DE la Oficina, PARA la Oficina… o de algo peor que ambas?
+- **LA ARCHIVERA**: única imagen al fondo de una foto. Su Quirk deja "una puerta que solo se abre si nadie la toca" — ¿puede Akari abrir su propia puerta (recuerdos de 0-8) sin ella? ¿Qué guarda la pared de la semana 4? (Posible llave: el rewind/Ecos tocando SU pasado — cruce con ruta-012.)
+- **YUAKARI y la siembra de vida**: ¿puede Akari sembrar vida SOLO, sin el Florecimiento de Yua? Si no: Yua es la única catalizadora conocida (valor estratégico = riesgo). Si sí: el Verdant cambia de categoría (¿bosques vivos permanentes? ¿guardianes-planta en Osaka?).
+- **YUA HAYAMI → UA**: examen de ingreso el próximo curso, "por mi propia nota" (artillería de estudio Yaoyorozu). Su Florecimiento puede crecer al madurar. Prueba de vida diaria = termómetro narrativo de la familia (el día que falte un mensaje, arde el mundo).
+- **NÍÐHÖGGR / YGGDRASIL**: el dragón nombrado antes de nacer (debut pactado: agencia de Ryukyu, post-auditoría, Aizawa al cuaderno) y el Árbol del Mundo como forma final declarada del Verdant. El pozo con código: "mi bosque tendrá un fondo, y en el fondo dientes, solo para quienes lo merezcan."
+- **RYUKYU**: "un dragón quiere verte volar." La agencia de Nejire post-UA; puerta de internado/alianza de primer nivel (y Nejire con palomitas).
+- **TAMAKI**: "nadie es raro del todo si hay dos." Consultor de olores, dos horas sin capucha. El vínculo que Mirio llevaba años intentando fabricar se plantó solo — regarlo.
+- **LUNCH RUSH**: ya empezó él solo (hígado sin pedirlo: "el del bosque come hierro"). La dieta pro-pool formal está a una conversación de distancia.
+- **LA ESTACIÓN DE LLUVIAS**: marco nuevo en el mapa (ni flor ni clima: suelo que llueve). Awata dentro de la agencia de Nighteye = puente diario con el vidente. Su "continuará" del callejón, pendiente.
+- **"MARGEN PARA LLORAR: SÍ"**: la libreta de vuelo de Nejire como institución de pareja — cada plan de vuelo futuro puede llevar una línea humana escondida.

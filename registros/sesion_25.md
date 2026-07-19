@@ -134,6 +134,19 @@
 - Misiones: mis-044 POMPA UNO — excursión de olores COMPLETADA (biblioteca 12/12; materiales en el taller de Mei). NUEVA mis-046: **LA SERIE S / la Oficina** (investigación bicéfala: Momo por lo civil, Akari por dentro).
 - Rutas: sin cambios (ruta-012 y ruta-013 activas). Gancho de ruta futura: Níðhöggr/Yggdrasil (formas mayores del Quirk).
 
+## Auditoría de dirección
+
+> Obligatoria desde S19. Cuenta beats narrativos, no párrafos.
+
+- Beats totales: ~32 (D33: ~22 · D34: ~10)
+- POV Akari: mayoría (~22)
+- POV NPC: Jirō: 2 (aula + Sala 3); Kendo: 2 (gimnasio ×2); Misaki: 2 (umbral + "¿me queríais?"); Awata: 2 (meñique + pregunta); Nejire: 2 (declaración + puerta); Reiko: 1 (invitación); Toru: 1 (pasillo); Tsuyu: 1 (estanque); Momo: 1 (cena); Ochaco: 1 (cena)
+- Marcha de avance: 4 beats (mañana lectiva condensada; ruta de 12 olores; vuelos de transición; despedidas)
+- Marcha de profundidad: ~28 beats (Osaka entera latido a latido; banda; vínculos)
+- Beats importantes encadenados indebidamente: 0 (la mañana lectiva se resumió A PETICIÓN del jugador con los dos beats clave — Aizawa y Sala 3 — jugados enteros; la ruta de olores en avance pedida, con el beat del callejón rescatado después a petición)
+- Handoffs con decisión al jugador: todos los turnos cierran con handoff explícito
+- Incidencias de niebla/voz/ritmo y corrección: (1) permuta de franja Mic/Cementoss del viernes — canonizada como permuta puntual y señalada al jugador; (2) "SMS de Awata sin responder" era pendiente-fantasma de registro — saneado en agenda.md y calendario.md; (3) corrección del jugador sobre flora previa (constructos ya existían; lo nuevo es vida independiente) — aceptada con nota; (4) corrección mayor del jugador en la escena de Kendo (pulso cortado ANTES de la decisión) — reescrita y elevada a memoria [[etica-pulso-emocional]]; (5) homonimia Kuroda (auditora Rei Kuroda vs el Sabueso) — anotada en registros como apellido común, sin relación conocida.
+
 ## Estado al cierre
 | Campo | Valor |
 |---|---|

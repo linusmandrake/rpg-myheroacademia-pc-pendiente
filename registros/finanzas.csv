@@ -78,3 +78,5 @@ C1-T1-D30,transporte,tren-tokio,"Tren a Tokio ida/vuelta (cita Nighteye D30)",-9
 C1-T1-D31,consumo,maquina-vending,"Latas de la maquina (te verde frio para Todoroki + refresco para Midoriya, 'yo invito')",-400,gasto
 # Saldo al cierre S23 (D31 miercoles 12 jun, noche): ~¥97.770. SIN DEUDAS. Unico movimiento D31: -400 (latas de vending; cena del comedor = UA, 0). Proximo ingreso: beca ~julio.
 # Saldo al cierre S24 (D32 jueves 13 jun, noche): ~¥97.770. SIN DEUDAS. CERO movimientos en D32 (comidas UA/casa de Jiro gratis; taper de Mika = regalo). Proximo ingreso: beca ~julio.
+C1-T1-D34,consumo,tokio-olores,"Dia de los 12 olores en Tokio (trenes i/v + comida Tsukiji/yokocho; ESTIMADO; taiyaki lo pago Mirio; vuelo a Osaka coste 0)",-2000,gasto
+# Saldo al cierre S25 (D34 sabado 15 jun, noche): ~¥95.770. SIN DEUDAS. Unico movimiento: -2.000 estimado del dia de Tokio. Proximo ingreso: beca ~julio.

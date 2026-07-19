@@ -34,7 +34,7 @@ Cada una carga la grieta de su arquetipo. No es drama impuesto: es de dónde nac
 | **Midnight** | seductora / maestra | *"soy la fantasía prohibida, no algo de verdad"* — el muro profesional como escudo del miedo a ser real |
 | *Tsuyu* (peldaño) | rana / honesta perceptora | *"digo lo que pienso y eso aleja; soy la que sobra"* |
 | *Reiko* (nueva) | espectral / apartada | *"mi rareza —oler la muerte— me aísla; me temen antes de conocerme"* |
-| *Awata* (cortejo) | lluvia / hogar | *"soy una nube que pasa; ¿tengo sitio fijo o soy petricor de un rato?"* |
+| *Awata* (**"estación de lluvias"** — marco propio S25) | lluvia / hogar | *"soy una nube que pasa; ¿tengo sitio fijo o soy petricor de un rato?"* — **CONTESTADO S25/D34**: "suelo que llueve; el bosque oliendo a petricor" → primer beso; "vuelvo siempre". El miedo puede reactivarse por distancia (agencia, fuera del campus), no por estatus. |
 
 ## Costuras de fricción (dónde rozan los arquetipos)
 > Estado: **latente → activa → en resolución → resuelta-fortalecida**. Una resuelta se mueve a "Hermandades ganadas".

@@ -160,9 +160,17 @@ pm-149,Quirk/Eco,2,S23/D31: boost de Eco que rompe Mach 1 (Wave Motion de Nejire
 pm-150,ING/estudio,1,S23/D31: estudio en dos tiempos con dominio (8 avatares estudiando en paralelo),no,S23
 pm-151,caracter/OPSEC,3,"S24/D32: revelo el M6 a Aizawa por su pie + sello un canal de sangre (mordida; astilla de Erasure gastada en probar la correa) — madurez, coste, decision activa",no,S24
 pm-152,caracter,2,"S24/D32: obedecio la correa 'HAYAMI' de Aizawa ante la auditora, apagando la forma-arcangel a mitad (disciplina bajo presion)",no,S24
-pm-153,caracter/vinculo,2,"S24/D32: honro el pacto de los muros con Todoroki — le gano cubriendo su hielo de flores (Saxifraga) SIN pedirle nunca el fuego",no,S24
-pm-154,caracter,2,"S24/D32: comunicacion madura — dio voz a su miedo al florero con Kendo (cartas boca arriba) y reparo la crisis F/F de los Jiro hablandola en vez de tragarsela",no,S24
+pm-153,caracter/vinculo,2,S24/D32: honro el pacto de los muros con Todoroki — le gano cubriendo su hielo de flores (Saxifraga) SIN pedirle nunca el fuego,no,S24
+pm-154,caracter,2,S24/D32: comunicacion madura — dio voz a su miedo al florero con Kendo (cartas boca arriba) y reparo la crisis F/F de los Jiro hablandola en vez de tragarsela,no,S24
 pm-155,OPSEC/social,2,"S24/D32: la mascarada de 'sangre forestal renovable' AGUANTA ante Vlad King, el unico experto vivo en sangre de UA",no,S24
-pm-156,ING/inteligencia,1,"S24/D32: la inteligencia subida por el M6 dedujo el arco villano (Dostoyevski/Los Demonios -> terrorismo/revolucion) sin que Akari lo perciba",no,S24
+pm-156,ING/inteligencia,1,S24/D32: la inteligencia subida por el M6 dedujo el arco villano (Dostoyevski/Los Demonios -> terrorismo/revolucion) sin que Akari lo perciba,no,S24
 pm-157,vinculos,2,"S24/D32: 2 floraciones (Reiko, Setsuna) + peldano de Tsuyu + cuidado de heridas (Toru 'que sobra', Tsuyu 'querer por deber') — pagado en closeness",no,S24
-pm-158,Quirk/Eco,1,"S24/D32: uso creativo del Quirk (Utricularia ultrarrapida redirige la bala de Snipe; 8 avatares de cuidado nocturno)",no,S24
+pm-158,Quirk/Eco,1,S24/D32: uso creativo del Quirk (Utricularia ultrarrapida redirige la bala de Snipe; 8 avatares de cuidado nocturno),no,S24
+pm-159,mentor/liderazgo,1,S25/D33: rotura didactica + curacion de Bakugo (le ensena a DEFENDER rompiendole el arma del reflejo; lo cura despues). Coste: riesgo relacional real; cambio: Bakugo inventa su primera defensa.,no,S25
+pm-160,Quirk/Verdant,2,S25/D34: YUAKARI — frontera del Verdant CRUZADA: primera planta viva independiente (semilla de savia + Florecimiento de Yua). No cuelga del pool; vida real sembrada. Pendiente: probar en solitario.,no,S25
+pm-161,Quirk/control,2,"S25/D33: catedral de sangre a escala de sala sostenida ('hoy tocas tu a mi ritmo') y RETIRADA limpia en el ultimo acorde — control del filo bajo emocion maxima, ante 7 testigos.",no,S25
+pm-162,caracter/voluntad,2,"S25/D33: dentro de Midoriya, con el sol (OFA) al alcance y la bestia pidiendo invertir el flujo, ELIGIO DAR (curar sin tomar) en el punto de maxima tentacion del dia del pozo.",no,S25
+pm-163,caracter/identidad,2,"S25/D33-34: encaro la verdad de Osaka EN PERSONA (vuelo nocturno, cara a cara con sus padres, protocolo de proteccion entregado, prueba de vida diaria con Yua). Decision activa con coste emocional total.",no,S25
+pm-164,caracter/etica,1,S25/D33: ETICA DEL PULSO — corto el deseo inducido a Kendo ANTES de su decision ('que decida limpia'). Renuncia activa a la manipulacion emocional con su propio Quirk.,no,S25
+pm-165,Quirk/resonancia,1,S25/D33: 'PROPULSION POR AMOR' — modo de vuelo nuevo: el bucle de resonancia con Nejire como motor del capullo (descubierto en vuelo-test).,no,S25
+pm-166,TEC/vuelo,2,"S25/D33-34: regimen 960 km/h sostenido ESTRENADO x2 tramos (25-27 min, fuselaje biplaza, cota baja, mudo) — sin precedente; el plan de vuelo (ruta/aborto/margenes) co-disenado con Nejire.",no,S25
