@@ -10,6 +10,14 @@
 4. **Los enemigos no tiran por separado.** Su amenaza se expresa mediante posición, modificadores y consecuencias.
 5. **Un turno importante contiene un beat.** Se narra el resultado inmediato y se devuelve la decisión al jugador.
 
+## Doctrina de tiers (pactada S26/D35)
+
+Akari con el bloqueo roto (potencial 6 / maestría 6) opera a nivel de temporada 5-6 en un mundo de temporada 1. Consecuencia mecánica:
+
+- **Oposición claramente inferior (tier T1 actual) + Akari usando el Quirk:** NO se tira para vencer — vence. Los dados solo deciden el CÓMO: contención, coste de OPSEC, daño colateral, velocidad, testigos. Es la aplicación estricta del principio 1 ("solo se tira si hay incertidumbre y riesgo"): contra un T1 no hay incertidumbre de resultado, solo de precio.
+- **Pares reales o superiores** (la Oficina, "cosas viejas con hambre nueva", jefes de arco): motor completo, tiradas de verdad.
+- **Entrenamientos con handicap autoimpuesto** (p.ej. el Yunque de Bakugo, solo cuerpo): se tira con normalidad, pero el handicap se declara en ficción y cada beat narra el freno visible (la bestia aburrida, el 90% sin usar). Suda el cuerpo, nunca el personaje.
+
 ## Tirada básica
 
 **2d6 + modificador de stat + modificadores situacionales**
