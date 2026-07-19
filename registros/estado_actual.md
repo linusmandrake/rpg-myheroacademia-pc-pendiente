@@ -1,35 +1,41 @@
 # Estado actual — RPG MHA Custom
-> Última actualización: 2026-07-15 · sesión 24 (D32 jueves 13 jun COMPLETO).
+> Última actualización: 2026-07-19 · sesión 25 (D33-D34, vie 14 - sáb 15 jun COMPLETOS).
 
 ## En una frase
-Akari duerme en 1-B con Kendo y Setsuna tras un día colosal —le reveló el M6 a Aizawa y selló un canal de sangre con él— mientras 8 avatares suyos cuidan al bosque de noche y una auditora que **empieza su expediente en Osaka** lo ha marcado como objetivo.
+Akari conoce por fin la verdad de Osaka — murió a los 6 años, lo borraron, y es el "S-3" de una Oficina que contabiliza niños que vuelven de la muerte — y duerme entre sus dos prometidas con la caja de pruebas en el escritorio y una guerra nueva declarada.
 
 ## PC
-Akari Hayami "Sanguine" — PWR 4 / VEL 4 / TEC 5 / ING 5 / COO 5 · Quirk **potencial 6 / maestría 6**. Scars 0. Saldo ~¥97.770.
+Akari Hayami "Sanguine" — PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5 · Quirk potencial 6 / maestría 6. Scars 0. Saldo ~¥95.770 sin deudas.
 
 ## Arcos abiertos
-- **Arco 2 en marcha.** El M6 sale de la caja: ahora Aizawa lo sabe (bengala compartida) y se recalibra el camuflaje.
-- **Acto I: la auditora del membrete gris** — targetea a Akari, expediente de origen Osaka; Aizawa+Nezu con su nombre.
-- **Hilo B: la inteligencia subida por el M6** — segundo tell que Akari no percibe.
+- **Arco 2 — El activo despierto**: la verdad de Osaka (muerte a los 6, la archivera, Tsubaki, la Oficina de Gestión de Activos Especiales, serie S) abre la investigación mis-046. El hambre es congénita ("tropismo hemático activo").
+- Semana de auditoría (Rei Kuroda) en su tramo final; bajo perfil sostenido.
+- Mascarada (ruta-010): arcángel visible tapa el tiempo; el M6 compartido solo con Aizawa (y medido por Momo).
 
 ## Misiones / internado activas
-- mis-043 auditoría/caso del bisturí (semana; auditora targetea a Akari).
-- mis-044 Pompa Uno (olores sábado). mis-045 Nighteye (documento sin firmar; preguntar, no firmar).
+- **mis-046 LA SERIE S / LA OFICINA** 🆕: Momo por lo civil, Akari por dentro. Objetivo: S-1, S-2, la archivera, la Oficina.
+- mis-043 auditoría/bisturí (Kuroda nombrada). mis-045 Nighteye (sin firmar; Awata = puente diario). mis-044 Pompa Uno → fase de diseño con Mei (biblioteca de olores 12/12 completada).
 
 ## Hilos narrativos
-- **Aizawa aliado total** (sabe el M6; lleva la astilla-canal de sangre; NO sabe que Akari murió el D30).
-- **La auditora / el benefactor** (Osaka) — hilo mayor.
-- **Reiko** huele la muerte del D30 (secreto por la nariz). **Vlad King** gut-note. **Cementoss** notó la inteligencia rara.
-- Red sexoafectiva: **Reiko y Setsuna florecieron**; **Tsuyu** peldaño (mordida aplazada a su momento); **Momo** confesó querer a Jirō de confidente; crisis F/F de los Jirō reparada; **8 avatares** cuidando al bosque de noche (reloj OPSEC).
+- **Tsubaki Genzō**: tarjeta sin estrenar; sabe que Akari ya preguntó; "cosas viejas con hambre nueva" (eco del coleccionista).
+- **Nezu**: reunión pendiente — protección formal de la familia + plan Yua + matrícula HPSC + cuánto contarle.
+- **Familia Hayami**: verdad revelada; protocolo activo; **Yua** apunta a la UA por su nota (examen próximo curso) + prueba de vida diaria + Yuakari (primera planta viva co-creada).
+- **La banda** fundada y sonando (Kendo batería, Jirō maestra/voz con Akari, Tokoyami+omamori, Reiko voz espectral, Toru coros, Momo teclado, Mina front). La catedral de sangre: vista solo por los 7.
+- Vínculos: Awata = **"estación de lluvias"** (marco nuevo, primer beso); trío de las tres coronas estrenado (Momo+Nejire, hub-only); boda/hijos con Nejire "sí a todo"; pendientes Kendo ("sorpréndeme"), Jirō ("con intereses"), Tokoyami (mordida anunciada), Tsuyu (cita de lluvia el domingo).
+- Quirk: ¿sembrar vida sin Yua? · Níðhöggr/Yggdrasil nombrados · propulsión por amor · debut del dragón en la agencia de Ryukyu (post-auditoría).
 
 ## Economía
-- Saldo ~¥97.770 · SIN DEUDAS · cero movimientos D32 · beca ~julio.
+- Saldo ~¥95.770 · sin deudas · beca ~julio.
 
 ## Reputación y facciones
-- Interna 1-A/1-B alta (rescate 6/6; magnetiza a media 1-B). Oficial falsificada (mis-043). Comisión: auditoría-semana + auditora targeteando a Akari. Vlad King: puerta abierta.
+- Oficial falsificada sostenida; interna 1-A/1-B alta. Comisión: Kuroda + la Oficina identificadas. UA: Aizawa cómplice; Nezu pendiente. Vigilancia HPSC sobre la casa de Osaka (matrícula verificada).
 
-## Hitos conseguidos (S24)
-- M6 revelado a Aizawa + canal de sangre sellado. Pacto de los muros honrado con Todoroki (flores sobre hielo). Mascarada intacta ante Vlad King. Comunicación madura (florero con Kendo; F/F reparada). Reiko y Setsuna florecidas. Tsuyu peldaño. Correa "HAYAMI" obedecida.
+## Hitos conseguidos (S25)
+- Verdad de Osaka completa (3 muertes contadas; borrado y guion expuestos).
+- Frontera del Verdant cruzada: **Yuakari** (primera planta viva independiente, con Yua).
+- Serie S descubierta ("Consistente con S-3. Elevar.").
+- Awata florecida a su manera (estación de lluvias). Primera noche de las tres coronas.
+- Banda fundada; catedral de sangre controlada; Bakugo aprendió a defender; manos de Midoriya curadas (eligió DAR dentro del sol).
 
 ## Decisiones pendientes del jugador
-- Cómo abre el **D33 viernes**: sparring Bakugo 5:30 (probable fallo) / reabsorber los 8 avatares + reloj OPSEC / frente Aizawa-Nezu-auditora / gestionar despertares (Toru, Reiko). Viernes lectivo con All Might por la tarde.
+- Cómo ordena el D35 (domingo): Nezu / informe a Aizawa / cita de lluvia con Tsuyu / la tarjeta de Tsubaki / pendientes de vínculo (Kendo, Jirō, Tokoyami).
