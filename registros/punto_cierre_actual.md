@@ -16,7 +16,7 @@
 ## LA VERDAD DE OSAKA (núcleo nuevo de campaña — mis-046)
 - **Muerte 1 (confirmada)**: 6 años, julio, camión en el paso de Uehonmachi (Osaka): **muerto 19:23 → 19:31 (8 minutos)**, declarado en ambulancia; su sangre volvió sola del asfalto (las "manos rojas" eran la suya recogiéndose). 7 semanas en el **Instituto Médico Sōma** (pabellón infantil).
 - **Posible muerte 2**: Sōma, semana 4 — "falsa alarma" nocturna (4 h de aislamiento a los padres) + 2ª sesión de borrado DOS días después. Kou: "no estabilizaban: VERIFICABAN."
-- **Muerte 3**: D30 (incidente Midnight — ya canon; los padres saben que existe una 3ª, sin detalles).
+- **Muerte 3**: D30 (incidente Midnight — ya canon; los padres Y NEJIRE saben que EXISTE una 3ª muerte reciente — la confesión de la cocina, presenciada —, sin circunstancias ni Midnight; los DETALLES siguen siendo solo de Momo).
 - **El borrado**: LA ARCHIVERA (mujer mayor, guantes blancos, sin nombre; Quirk que "reorganiza" memoria → la pared lisa "con una puerta que solo se abre si nadie la toca"); mantenimiento recetado 12 años: guion, frases-ancla ("tu Quirk llegó tarde, cariño"), la sonrisa enseñada a madre e hijo. ÚNICA IMAGEN: al fondo de la foto de hospital de la caja.
 - **TSUBAKI GENZŌ** 🆕: pro-hero de Osaka, sin ranking/agencia/prensa, cicatriz cuello izq.; registro: **"custodia — funciones no públicas"**. En Sōma dijo "El niño se queda con su familia. **YO RESPONDO**" y la Comisión recogió. 12 años de camelias semanales en la floristería de Misaki (= partes encubiertos). ARQUITECTO del camino entero: Academia Verde ("que aprenda a administrarlo" = entrenó la CORREA), recomendación a UA, "última hora" post-USJ — motivo confesado: *"cosas viejas con hambre nueva; estará más seguro dentro del muro más alto de Japón"* (la savia se erizó: ≈ coleccionista). LLAMÓ EL MARTES: "si el chaval viene a preguntar, no le mientan; ya no hace falta" → **va por delante de todos**. Su TARJETA (número manuscrito) está en poder de Akari, SIN estrenar.
 - **LA CAJA** (de Kou, ahora de Akari; en el cuarto de Momo): (1) acuerdo con membrete **"OFICINA DE GESTIÓN DE ACTIVOS ESPECIALES"**; (2) foto con la archivera; (3) informe con anotación manuscrita ***"Consistente con S-3. Elevar."***
@@ -61,12 +61,12 @@
 - **Jirō (10)**: MAESTRA de la banda (su miedo "canto de espaldas" invertido en mando); voz CON Akari; verdad-hasta-el-borde recibida bien ("eso sí me vale"); deuda **"con intereses"** pendiente en Sala 3.
 - **Kendo (9)**: batería (arquetipo sanado); deuda de arrebato ×2 reconocida; **control del cuándo/dónde CEDIDO**: "sorpréndeme, si te atreves" (lo único que nunca le han dejado ser: la que no decide).
 - **Tsuyu (8)**: APAGÓ SU RADAR por amor ("el derecho a no ser visto" — el regalo que nadie más podía darle); **cita de lluvia DOMINGO comprometida**.
-- **Toru (10)**: herida del alba curada; coros.
+- **Toru (8)**: herida del alba curada; coros. *(Corrección auditor S25: los docs la inflaban a 10; manda `relaciones.csv` = 8, sin hito de subida narrado.)*
 - **Reiko (flor)**: voz espectral; beso merecido; "eso ha sido hogar"; SIGUE oliendo la muerte del D30 y callándola por amor ("no es mío para contarlo").
 - **Setsuna (flor)**: primer despertar dentro del bosque (se desmonta sin actuar; Kendo ancla).
 - **Ochaco (9)**: cena de banda ("me llamó primero"); deuda menor del alba sin gesto individual (en clima).
 - **Mei (8)**: lobo-mensajero + materiales Pompa Uno ("EL LOBO SE QUEDA. Es broma. NO ES BROMA.").
-- **OPSEC/niebla nueva**: la familia Hayami sabe la verdad de Osaka + que existe una 3ª muerte (sin detalles); NADIE nuevo sabe del D30 en el campus; Jirō sabe "Osaka + agujero + vuelo" (no catálogo, no D30); la banda (7) vio la catedral de sangre; Tamaki olió el beat del callejón; Yua conoce el bosque en versión poética.
+- **OPSEC/niebla nueva**: la familia Hayami Y NEJIRE saben que existe una 3ª muerte (sin detalles — confesión de la cocina); NADIE nuevo conoce los DETALLES del D30 (solo Momo); Jirō sabe "Osaka + agujero + vuelo" (no catálogo, no D30); la banda (7) vio la catedral de sangre; Tamaki olió el beat del callejón; Yua conoce el bosque en versión poética.
 
 ## Detalles emocionales sutiles
 - Misaki, en el umbral, reconociendo su propia sonrisa devuelta: "Has venido a preguntar." / Su respuesta a "¿me queríais?": **"Elegimos mentirte cada día para poder abrazarte cada noche… te quisimos con locura. Siempre."** / "El tropismo no es hambre. Es amor de planta."
@@ -82,12 +82,19 @@
 - All Might: "¿Quién te enseñó a sonreír así?… La sonrisa sirve para que los demás respiren. Un día enséñale a alguien lo que hay debajo."
 - Tamaki: "Nadie es raro del todo si hay dos." / Mirio: "Hoy Tamaki ha sido consultor, catador y persona normal."
 - Bakugo: "Me lo has roto para que aprendiera. Y me lo has curado para que pueda seguir mañana. Nadie más me entrena en serio."
+- Kou (despedida): "La próxima vez, ven de día. Y quédate a cenar. Tu madre cocina mejor cuando no está aterrada."
+- Nejire (en la puerta, antes de clase): "Esta noche vuelo yo. Tú solo llama a la puerta." — el reparto emocional del día en una frase.
+- Yua (cadena de pruebas de vida esa misma noche): nº3 "aterrizad enteros, idiotas" / (al gato de savia) "adiós, gato rojo, vuelve tú también".
+- Momo (viernes por la mañana): "Vuelve entero, prometido. Que ya te he perdido una vez y no me hizo ninguna gracia." — primera vez que usa su pérdida del D30 como ternura y no como carga.
+- Jirō (tras los SMS en Inglés): su pie marcando bajo el pupitre el bordón de la noche anterior contra la pata de la silla — *estoy aquí, te oigo* sin una palabra.
+- Awata (andén, antes del marco): "Trabajo para un vidente. Ante mí, o eres de verdad… o no eres."
+- **Níðhöggr como llave del pozo**: al nombrarlo, la savia "reconoció el nombre como una llave" — el *¿cuánto haría falta?* de la clase de Inglés recibe por primera vez una forma con código (devorador con ley, no hambre sin ley). Puente directo pensamiento-negro → dragón futuro.
 
 ## Información que NPCs tienen sobre Akari (cambios S25)
 - **Familia Hayami**: TODA la verdad de Osaka + que murió una 3ª vez hace días (sin detalles ni Midnight) + que tiene "un bosque" (versión poética) + vigilancia de Nezu + protocolo. NO saben la cifra del Quirk ni el aspecto temporal.
-- **Nejire**: todo lo de Osaka de primera mano (estuvo dentro). NO sabe del D30 (sigue: solo Momo).
+- **Nejire**: todo lo de Osaka de primera mano (estuvo dentro) + **sabe que EXISTE una 3ª muerte reciente** (presenció la confesión de la cocina; hizo su cuenta en silencio) — SIN circunstancias ni Midnight. Los detalles del D30: solo Momo.
 - **Jirō**: Osaka existe + agujero de memoria + vuelo nocturno + "algo me heló la sangre que aún no entiendo" (sin contenido). NO catálogo, NO D30.
-- **Momo**: TODO (única con D30 + caja + serie S + carrete completo).
+- **Momo**: TODO (única con los DETALLES del D30 + caja + serie S + carrete completo).
 - **La banda (7)**: la catedral de sangre (escala sala) — círculo de confianza, sala insonorizada.
 - **All Might**: la sonrisa-técnica detectada + "mi madre me la enseñó; esta noche voy a preguntarle de qué me protegía".
 - **Midoriya**: su sangre cura + Akari VE el sol (pacto de soles reafirmado; simetría de silencio).

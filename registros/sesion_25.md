@@ -158,7 +158,7 @@
 | Facciones (UA/Comisión/Liga) | Aizawa cómplice; Nezu PENDIENTE de petición; Kuroda nombrada; Oficina de Activos Especiales identificada |
 | Ubicación | Musutafu — Heights Alliance, cuarto de Momo (dormido con Momo y Nejire) |
 | Misiones/internado activas | mis-043 (auditoría) · mis-045 (Nighteye, sin firmar) · mis-046 (serie S) 🆕 |
-| Closeness destacado | Momo 10 · Nejire 10 · Jirō 10 · Toru 10 · Awata 5 🆕 ("estación de lluvias") |
+| Closeness destacado | Momo 10 · Nejire 10 · Jirō 10 · Toru 8 · Awata 5 🆕 ("estación de lluvias") |
 
 ## Pendientes próximos días
 - **DOMINGO D35 (16 jun)**: cita de LLUVIA con Tsuyu (comprometida: "vuelve para el domingo") · hablar con **NEZU** (paquete completo: protección formal familia Hayami + plan Yua + matrícula HPSC + cuánto contarle de Kuroda/Sōma/serie S — decisión sensible) · **informe a Aizawa** del viaje (él espera "la verdad y el cuerpo").
