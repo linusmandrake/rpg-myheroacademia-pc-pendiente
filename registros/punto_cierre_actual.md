@@ -9,7 +9,7 @@
 
 ## Stats, Quirk y economía al cierre
 - **PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5** (SIN cambio; PWR/VEL 4 = margen de Arco 2).
-- Quirk **Sanguine Verdant Echo**: **potencial 6 / maestría 6** (sin cambio numérico). NUEVO CUALITATIVO S25: **frontera del Verdant CRUZADA** — primera planta viva independiente (**Yuakari**, con el Florecimiento de Yua como catalizador; probar si puede solo = hilo abierto) · **"propulsión por amor"** (modo de vuelo: el bucle de resonancia con Nejire ES el motor) · régimen **960 km/h sostenido** estrenado (25-27 min, fuselaje biplaza, mudo) · catedral de sangre a escala de sala, sostenida y retirada a voluntad.
+- Quirk **Sanguine Verdant Echo**: **potencial 6 / maestría 6** (sin cambio numérico). NUEVO CUALITATIVO S25: **frontera del Verdant CRUZADA conscientemente** — primera planta viva sembrada A VOLUNTAD Y EN VIDA (**Yuakari**, con el Florecimiento de Yua como catalizador; precedente inconsciente: Uehonmachi a los 6; probar si puede solo y despierto = hilo abierto) · **"propulsión por amor"** (modo de vuelo: el bucle de resonancia con Nejire ES el motor) · régimen **960 km/h sostenido** estrenado (25-27 min, fuselaje biplaza, mudo) · catedral de sangre a escala de sala, sostenida y retirada a voluntad.
 - *** REVELACIÓN DE ORIGEN ***: el HAMBRE es CONGÉNITA — "tropismo hemático activo" a los 6 años (Sōma). No nació con el M6. El pozo estaba antes que todo.
 - Scars **0** (rewind NO usado D33-D34). Pool alto. Saldo **~¥95.770 · SIN DEUDAS** (−2.000 día de Tokio, estimado). Beca ~julio.
 
@@ -107,6 +107,7 @@
 - `conocimientos.csv`: con-087..con-094 (Kuroda, Sōma, archivera, Tsubaki, Oficina/serie S, hambre congénita, flores de Uehonmachi, matrícula-HPSC).
 - Hilos de Quirk abiertos: ¿puede sembrar vida SOLO (sin Yua)? · Níðhöggr/Yggdrasil (formas futuras nombradas) · propulsión por amor (autonomía por medir).
 - Maestría 6 = tope de potencial actual; potencial sube solo por hito de arco.
+- **PREFERENCIA DECLARADA DEL JUGADOR (S25 post-cierre): el próximo canje de stat apunta a PWR 4→5.** Regla aplicable (progresion_narrativa.md): 4→5 exige **6 puntos de peso PWR desde la última subida (hp-003)** + cierre de arco + dos contextos distintos + un revés real. Evidencia PWR pendiente a día de hoy: ~0 (el bote actual es carácter/OPSEC/Quirk/TEC). Vías canon: bloques de acondicionamiento con foco fuerza (peso 1 c/u), hito físico medible mayor (peso 2), sparrings Bakugo con progresión medible, aplicación bajo presión real. Ofertar rutas con `rutas-crecimiento-mha` cuando el jugador quiera.
 
 ## NPCs menores con potencial futuro
 - **Tsubaki Genzō** (tarjeta sin estrenar — hilo mayor). **La archivera** (única imagen en la caja). **S-1 y S-2** (¿vivos?). **Rei Kuroda** (auditora nombrada). **Ryukyu** (puerta entornada: debut del dragón). **Tamaki** (vínculo nuevo). **Lunch Rush** (dieta pro-pool iniciada de facto). **Yua** (examen UA + co-creación). Kinoko (níscalos pendientes). Vlad King (mentor blood-to-blood).

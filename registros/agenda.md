@@ -16,7 +16,8 @@
 
 ## Semana
 - [ ] **Tokoyami**: la petición de sangre y sombra (mordida anunciada — escena propia, no de pasada).
-- [ ] Sparring Bakugo: repactar día/hora (el "mañana" del viernes se cayó por Pompa Uno).
+- [ ] Sparring Bakugo: repactar día/hora (el "mañana" del viernes se cayó por Pompa Uno). **Doble propósito ahora: es vía de evidencia PWR** (preferencia de canje declarada: PWR 4→5).
+- [ ] Progresión: arrancar el **bloque de acondicionamiento con foco FUERZA** (ruta-006 rama PWR) — cada bloque completado = marca peso 1 de PWR; hito físico medible mayor = peso 2. Objetivo: 6 peso PWR para el canje 4→5 al cierre de arco.
 - [ ] Pompa Uno fase 2: diseño con Mei (materiales ya en su taller; biblioteca de olores 12/12).
 - [ ] Fin de la semana de auditoría (Kuroda) — sostener el bajo perfil hasta el final.
 - [ ] Setsuna al bosque (pendiente del finde S24; reafirmación sostenida — su miedo-raíz necesita continuidad).

@@ -32,7 +32,7 @@ Akari Hayami "Sanguine" — PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5 · Quirk p
 
 ## Hitos conseguidos (S25)
 - Verdad de Osaka completa (3 muertes contadas; borrado y guion expuestos).
-- Frontera del Verdant cruzada: **Yuakari** (primera planta viva independiente, con Yua).
+- Frontera del Verdant cruzada conscientemente: **Yuakari** (primera planta viva sembrada a voluntad y en vida, con Yua; precedente inconsciente: Uehonmachi).
 - Serie S descubierta ("Consistente con S-3. Elevar.").
 - Awata florecida a su manera (estación de lluvias). Primera noche de las tres coronas.
 - Banda fundada; catedral de sangre controlada; Bakugo aprendió a defender; manos de Midoriya curadas (eligió DAR dentro del sol).
