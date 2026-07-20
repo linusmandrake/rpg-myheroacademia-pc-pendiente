@@ -116,13 +116,16 @@
 
 ## Relojes de facción activos
 - **Auditoría de Kuroda hasta el VIERNES** (nada de tinta; Nighteye se firma después).
-- **Hosu**: policía en callejón y bloque; azotea retenida por Nezu. **El editor sigue allí.**
-- **Momo → lunes**: frente civil + protocolo OPSEC. **Ryukyu → lunes**: llama a Nezu.
-- **Yuyu**: decisión "en ayunas" · la cosa sin clasificar (índice, en persona) · el beso con fecha de entrega.
+- **Hosu**: policía en callejón y bloque (prensa: "canal confidencial"; cero azoteas); azotea retenida por Nezu. **El editor sigue allí.** El frente civil de Momo ya va a Nezu por Tsuragamae: **el agujero es comprado — Keystone Guard K.K. / gestor Seo** (5 meses de "disponibilidad" sin presencia).
+- **JUEVES D39 16:00: cita con Nezu "de prácticas"** — 🎭 **SORPRESA para Akari: dentro está RYUKYU** (ella pidió venir; él no lo sabe; ni Nejire ni Aizawa avisados de antemano). Nezu: *"hacía tiempo que no la oía con hambre."*
+- **Prácticas de la promoción anunciadas** (2 semanas, agencias urbanas; lista esta semana; Eko District en la lista "si la policía lo permite").
+- **Yuyu**: la decisión "en ayunas" = **TOMADA** (entró: la obra en curso; beso firmado 07:14). Pendiente: su integración al ecosistema.
+- **Kinoko**: su respuesta a la invitación **se acerca** ("la pregunta que me guardaba quizá la use pronto").
 - **La Oficina**: no sabe (que sepamos) que Akari tiene la caja. Ventaja **frágil**.
-- **Tsubaki**: sabe que Akari ya preguntó. Su siguiente movimiento, pendiente.
+- **Tsubaki**: sabe que Akari ya preguntó. Su siguiente movimiento, pendiente. **La tarjeta sigue sin estrenar.**
 - 🔴 **Yaeko: YA NO ESTÁ LATENTE (S28/D36, POV)** — decide meter **una hoja** en el sobre y **empieza a copiar el primer nodo**. Los *tres nodos* = tres grietas concretas en la pared de Akari (0-8 años) y **ella es la única viva que sabe cuáles**. Ojo: la casa de Osaka está bajo protección de Nezu → un sobre sin remite **se lee antes que su destinatario**. **El micelio**: creciendo despacio. **Togeike**: examen en el horizonte.
 - **Trazadora de Midnight: CERRADA** — la corrección 9,5→10 **llegó al fax de Tachibana 3 días después**. El 9,5 fue Nemuri **ocultando lo que sentía**, y por ser el **único no-10 del expediente trimestral** de Akari, la omisión resultó en **señal**: encendió bengala. (Corregido en S28 por el jugador.) Beca ~julio. Cumpleaños de Akari 3 jul (~D52). Boom sónico huérfano (enfriándose).
+- **Pendientes de vínculo**: Kendo ("sorpréndeme" — recordó hoy: *"sigo esperando"*) · Jirō ("con intereses") · Tokoyami (sangre y sombra) · **el sobre OPSEC de Nejire por entregar**. **El Yunque del domingo (D41)**: los tres tells antes.
 
 ## Memorias de feedback (memoria_gm.md / MEMORY.md)
 - Todas vigentes. Bien aplicadas en S27: [[pov-mas-interesante]] (Yuyu ×3, Nejire ×1 — 4/8 beats NPC), [[impacto-pov-para-anclar-miedos]] (el "no querido" aterrizado desde el POV de Yuyu), [[reciprocidad-proactiva-vinculos]] (Nejire traduce y media; Yuyu da su verdad sin que se la pidan), [[turnos-prosa-jugador]] (prosa del jugador integrada sin reescritura), [[harem-comparte-no-se-desea]].

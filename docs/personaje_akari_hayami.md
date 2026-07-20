@@ -44,15 +44,33 @@ El Quirk del PC (Sanguine Verdant Echo) se manifestó a los **14 años** — **t
 - **Vena oscura filosófica:** a veces se pregunta si su sangre "viva" lo hace menos humano. Esto lo acerca a Midoriya (que también tiene un Quirk complejo que lo hace dudar de sí mismo).
 - **Protector con su familia:** especialmente con su hermana Yua, que podría tener un Quirk más fuerte cuando se manifieste.
 
-## Ética del PC — REGLA DURA: AKARI NO MIENTE (canon del jugador, S28)
+## Ética del PC — POLÍTICA ELEGIDA, NO INCAPACIDAD (canon del jugador, S28)
 
 > **Akari no miente. Salvo vida o muerte — y mucho menos a sus novias.**
+>
+> ⚠️ **ENCUADRE CORRECTO (matizado por el jugador, S28):** esto es una **política que él sostiene**, no un límite que lo contenga. *"Yo soy bueno porque quiero serlo, no porque no pueda ser oscuro."* **Puede** mentir, **puede** infringir la norma, **puede** ir contra la ley y **puede** matar a un villano sin autorización. Elige no hacerlo. Narrar la bondad de Akari como si fuera incapacidad es **caracterización incorrecta**: le quita el mérito y le quita el peligro.
+>
+> Y la elección **no es sólo moral, también es táctica**: ser bueno —y ser *percibido* como bueno— mejora sus probabilidades de supervivencia. Es la misma doctrina del escudo (coraza de notoriedad, red social como testigos, "hacerse imposible de eliminar sin coste") aplicada a la conducta. La virtud de Akari y su instinto de supervivencia **apuntan al mismo sitio, de momento**.
 
-- No es un rasgo blando ni una tendencia: es una **regla de personaje**. El único supuesto que la levanta es que haya una vida en juego.
+- No es un rasgo blando ni una tendencia: es una **regla de personaje sostenida por voluntad**. El único supuesto que la levanta *de oficio* es que haya una vida en juego.
 - **Con las flores del bosque, ni siquiera ese supuesto es cómodo.** A ellas se les dice la verdad, aunque sea incómoda, aunque llegue a destiempo, aunque cueste una conversación larga. La honestidad es el precio que paga por un harem sin culpa: el bosque se sostiene porque nadie tiene que averiguar nada.
 - **Puede callar, aplazar o compartimentar** (OPSEC real: secretos tácticos, el Quirk temporal, la Oficina) — eso **no** es mentir. La diferencia operativa: *"eso no te lo puedo contar todavía"* es legítimo; *"eso no ha pasado"* o una coartada falsa **no lo es**.
 - **[GM]** Si un turno pone en boca de Akari una excusa falsa cómoda, es **error de dirección**, no caracterización. Corregir: darle una verdad parcial declarada como parcial, o la verdad entera.
 - **Precedente corregido**: en `ev-391` (D36, ventana paralela) figura que respondió *"gel del gimnasio"* a Ochaco. **Eso es un artefacto de registro, NO canon de conducta**: Akari no habría dado esa coartada. Anotado en `cronologia.csv`. Ver también la cláusula del preaviso del marco de Ochaco — precisamente existe para que nadie se entere de nada por el olor de un pasillo.
+
+## LA VERSIÓN OSCURA (hilo de arco declarado por el jugador, S28)
+
+> **Petición explícita:** *"en algún momento de la campaña me gustaría explorar la versión oscura de mi personaje."*
+
+- **No es un giro ni una caída en desgracia**: es la misma lógica que ya rige a Akari, seguida más lejos. El día que el cálculo de supervivencia y la política moral **dejen de apuntar al mismo sitio**, se ve qué sostiene de verdad.
+- **Material ya sembrado que alimenta este hilo (no hace falta inventar nada):**
+  - **La mascarada** (`mascarada-imagen-publica-akari`): ya gestiona activamente cómo lo perciben. Enseñar todo el Quirk menos el temporal es una mentira por omisión sostenida durante meses — **la puerta ya está entornada**.
+  - **El rewind**: puede rehacer una escena sin dejar tells en terceros. La única herramienta de la campaña que permite hacer algo y que no haya pasado. Su coste es interno (scars/disociación), no social.
+  - **La bestia**: ya casi mata a Midnight. Domarla fue una tirada, no un rasgo garantizado.
+  - **El borrado latente-paciente**: el sistema tiene un cálculo abierto sobre si eliminarlo. Que él tenga uno simétrico es coherente, no villano.
+  - **Stain** busca a alguien digno y **Chisaki** vende borrado de Quirks: dos ofertas de gente que le daría la razón.
+- **Cómo dirigirlo cuando toque:** no forzarlo ni empujarlo con dilemas de cartón. Poner situaciones donde **la opción limpia tenga un precio real y la sucia funcione**, y dejar que elija. Si mata a un villano sin autorización, la campaña responde con **consecuencias**, no con juicio moral: legales, de facción, de OPSEC, y en los vínculos que lo sepan.
+- **[GM] Lo que NO hacer:** convertirlo en redención/caída de manual, castigarlo narrativamente por elegir oscuro, ni tratar su bondad previa como ingenuidad retrospectiva.
 
 ## Motivación (3 niveles)
 

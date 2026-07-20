@@ -35,6 +35,16 @@
 - **RYUKYU**: la llamada a Nezu ya está hecha con la voz limpia. Si Akari acaba de prácticas en su agencia, ella tendrá que trabajar a dos metros de lo que se está callando. **Cruce triple**: Nejire es su alumna de work-study y embajadora del bosque; el debut de **Níðhöggr** está agendado precisamente en su agencia. La dragona va a ver volar al dragón.
 - **Regla de mesa**: ninguno de los dos hilos se resuelve por conveniencia. Si sale a la luz, sale porque **ella** decide decirlo, con el coste que eso le cueste.
 
+## Arco personal transversal — LA VERSIÓN OSCURA (declarado por el jugador, S28)
+
+*"Yo soy bueno porque quiero serlo, no porque no pueda ser oscuro. Y porque ser bueno —o percibido como tal— mejora mis opciones de supervivencia."*
+
+- **La pregunta del arco**: la moral de Akari y su cálculo de supervivencia llevan toda la campaña apuntando al mismo sitio. **¿Qué queda el día que divergen?** Ese día es el arco.
+- **Detonantes ya en el tablero, sin inventar nada**: (1) la lista de prácticas incluye Hosu → un villano delante y **nadie mirando**; (2) el **gestor SEO** vendió el cuadrante sur de Eko cinco meses antes de los muertos — un culpable civil, intocable por vía legal, al alcance de un chico con bestias y rewind; (3) **Kuroda** y el borrado latente: el sistema tiene un cálculo abierto sobre eliminarlo, y tener uno simétrico no es ser villano; (4) **Stain** busca a alguien digno; (5) **Chisaki** fabrica exactamente el arma que borra lo que Akari es.
+- **Las tres herramientas que lo hacen posible y que ya tiene**: el **rewind** (hacer algo y que no haya pasado, sin tells en terceros), la **mascarada** (meses gestionando cómo lo perciben: la puerta ya está entornada), y la **bestia** (domarla fue una tirada, no un rasgo garantizado).
+- **Dirección**: no empujarlo. Poner situaciones donde **la opción limpia cueste de verdad y la sucia funcione**, y dejarle elegir. Consecuencias reales —legales, de facción, de OPSEC, de vínculo— **nunca juicio moral del GM** ni redención de manual.
+- **El coste que más duele y que hay que tener listo**: el bosque se sostiene sobre que él no miente. La versión oscura no le cuesta la licencia primero: **le cuesta la cláusula del preaviso de Ochaco, la transparencia total de Nejire, el marco de Momo.**
+
 ## Arco personal transversal — LA DESCONGELACIÓN (horizonte pactado S7)
 
 Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el borrado sea impagable → **descongelar la maestría en un momento cumbre ELEGIDO POR ÉL**. Novedad S11: la doctrina de los castaños le da lenguaje ("que ningún castaño florezca demasiado… hasta el día que él quiera que TODOS florezcan a la vez"). Hito de peso 3 natural.
