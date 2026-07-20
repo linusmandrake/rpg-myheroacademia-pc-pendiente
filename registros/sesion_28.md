@@ -31,6 +31,22 @@
 
 > **Nota de concurrencia**: esta sesión se ha escrito desde **dos ventanas en paralelo** (esta y la ventana Kimi). Los beats se integran por **inserción quirúrgica y append**, nunca reescribiendo el fichero entero, y los IDs de `cronologia.csv` se recalculan justo antes de escribir. Colisión ya resuelta una vez: un `ev-388` duplicado (Yuyu) renumerado a **ev-389**; referencias actualizadas en este archivo y en `punto_cierre_actual.md`.
 
+### Beats de mundo — D36 mañana (el foco apagado, sin avance de reloj)
+
+> Once viñetas de vida de fondo pedidas por el jugador: **qué hace cada enemigo y cada facción en su propia historia**, no contra Akari. Detalle íntegro en `cronologia.csv` (ev-393, ev-394) y en las fichas de `enemigos.csv` / `facciones_estado.csv`.
+
+- **Villano del Trigger → ISHIDA GORŌ**: 41 días limpio en detención, abstinencia real, "dependencia" dicha en la vista. **No odia a Akari ni a Kendo**, y eso es lo que más le desconcierta.
+- **El avalista**: escribe a mano su informe trimestral y **sostiene a sabiendas la clasificación falsa** de Akari desde hace dos trimestres. El escudo no es inercia: es una decisión personal suya, en silencio.
+- **El coleccionista**: aparta catorce carpetas por aburrimiento y **se detiene en la palabra "temporal"**. No dice nada, pero esa carpeta no vuelve al montón — y un subordinado anota que se ha quedado sola en la mesa.
+- **El funcionario de las listas**: 53 años, hipoteca, hija en farmacia; **borra dos consultas de marzo** por miedo al membrete gris. Está destruyendo pruebas: si Nezu iba a identificarlo por ahí, la ventana se cierra.
+- **El vigía-tasador**: anota *"excesivamente regular"* y escribe en el margen que nunca entrega *"o alguien le ha enseñado a parecerlo"* — **y lo tacha**. La doctrina de no-cambiar-rutinas aguanta por los pelos.
+- **El fantasma del expediente**: entra con credenciales de un muerto, **no toca nada** y sube una línea: *"no ha habido reacción. Repito: ninguna… lo cual, en un chico de 18 años, es en sí mismo un dato."* La no-reacción de `mis-043` **se ha leído como señal**.
+- **Rei Kuroda**: café malo por no pedir favores; anoche volvió a mirar **su propia firma** en el acta de hace 12 años. No se pregunta si estuvo bien: **se pregunta si sirvió de algo**.
+- **La Oficina**: informe automático — *"S-3: sin novedad reportada"*, firmado por alguien sin autorización para saber qué es un S-3. Once personas que hoy no han hablado entre sí. **Su punto ciego es estructural, no de inteligencia.**
+- **UA**: dorayakis, Cementoss de pie, Snipe y Vlad King por el fogueo — y **Aizawa despierto en el saco desde las 06:00** con su lista de los veinte y de qué le falta a cada uno para no morirse este año. Nezu pone té para dos sin esperar a nadie.
+- **La Comisión**: Hosu son once minutos; lo que enfada no son los muertos sino **no saber por dónde entró la información**. Piden informe y deciden no avisar a Hosu hasta tenerlo: **nueve días perdidos**, y todos lo saben.
+- **La Liga**: *"Le van a coger. Y va a ser culpa suya, por hacerlo bonito."* Kurogiri: *"Deberíamos hablar con él."* Shigaraki no contesta — **pero no dice que no.**
+
 ## Cambios económicos (yenes)
 - Inicio: ¥95.770 · Final: ¥95.770 · **Sin movimientos** (reloj sin avanzar). Sin deudas. Próximo ingreso: beca ~julio.
 
@@ -64,10 +80,10 @@
 
 > Obligatoria desde S19. Cuenta beats narrativos, no párrafos. **Sesión ABIERTA — auditoría parcial, a completar al cierre real.**
 
-- Beats totales: 7 (el de Togeike se reescribió explícito tras retirarse la nota de mesa; el de Yuyu viene de la ventana Kimi; el de Midnight se narró **dos veces**: versión errónea + versión corregida)
+- Beats totales: 18 (11 de ellos viñetas de mundo; el de Togeike se reescribió explícito tras retirarse la nota de mesa; el de Yuyu viene de la ventana Kimi; el de Midnight se narró **dos veces**: versión errónea + versión corregida)
 - POV Akari: 0
-- POV NPC: [Togeike Chikuchi: 2 (velado + reescritura explícita); Ryukyu: 1; Yuyu Haya: 1 (ventana Kimi, integrado); Midnight: 2 (versión con fallo de continuidad + versión corregida); Stain: 1; Yaeko (la archivera): 1]
-- Marcha de avance: 0 beats
+- POV NPC: [Togeike Chikuchi: 2 (velado + reescritura explícita); Ryukyu: 1; Yuyu Haya: 1 (ventana Kimi, integrado); Midnight: 2 (versión con fallo de continuidad + versión corregida); Stain: 1; Yaeko (la archivera): 1; **beats de mundo: 11** (Ishida, avalista, coleccionista, funcionario, vigía-tasador, fantasma, Kuroda, la Oficina, UA, Comisión, Liga)]
+- Marcha de avance: 11 beats (viñetas de mundo, condensadas por diseño)
 - Marcha de profundidad: 7 beats
 - Beats importantes encadenados indebidamente: 0
 - Handoffs con decisión al jugador: 7 (decisión A–E devuelta intacta tras cada beat; reloj sin mover)
