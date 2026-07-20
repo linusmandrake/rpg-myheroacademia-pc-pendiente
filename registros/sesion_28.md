@@ -33,7 +33,7 @@
 
 ### Beats de mundo — D36 mañana (el foco apagado, sin avance de reloj)
 
-> Once viñetas de vida de fondo pedidas por el jugador: **qué hace cada enemigo y cada facción en su propia historia**, no contra Akari. Detalle íntegro en `cronologia.csv` (ev-393, ev-394) y en las fichas de `enemigos.csv` / `facciones_estado.csv`.
+> Once viñetas de vida de fondo pedidas por el jugador: **qué hace cada enemigo y cada facción en su propia historia**, no contra Akari. Detalle íntegro en `cronologia.csv` (ev-399, ev-394) y en las fichas de `enemigos.csv` / `facciones_estado.csv`.
 
 - **Villano del Trigger → ISHIDA GORŌ**: 41 días limpio en detención, abstinencia real, "dependencia" dicha en la vista. **No odia a Akari ni a Kendo**, y eso es lo que más le desconcierta.
 - **El avalista**: escribe a mano su informe trimestral y **sostiene a sabiendas la clasificación falsa** de Akari desde hace dos trimestres. El escudo no es inercia: es una decisión personal suya, en silencio.
@@ -90,6 +90,8 @@
 - Beats importantes encadenados indebidamente: 0
 - Handoffs con decisión al jugador: 7 (decisión A–E devuelta intacta tras cada beat; reloj sin mover)
 - Incidencias de niebla/voz/ritmo y corrección: (1) el jugador recordaba haber visto a **Rei Kuroda** "varias veces en exámenes y por el campus" — **verificado contra S24-S27 y cronología: falso**, nunca ha estado en cámara; señalado al jugador y anotado como activo narrativo sin gastar. (2) **Contradicción de registros detectada y resuelta**: nota de mesa S26 (sexo no explícito) vs. memoria `narrativa-erotica-explicita` — señalada al jugador, **resuelta a favor de la memoria** por instrucción suya. (4) **FALLO DE CONTINUIDAD GRAVE — Midnight**: narré su POV con el ensayo 10/10 y el Werther como frontera viva, **ignorando el incidente del D30** (S22). Causa raíz: el campo `hitos` de `midnight-001` en `relaciones.csv` estaba **congelado antes de S22** mientras `marco`/`closeness` sí iban al día, lo que dio falsa sensación de fila fresca; leí el CSV sin cruzarlo con `sesion_22.md`. Detectado por el jugador. **Corregido**: fila actualizada, `sesion_22.md` reescrito (su resumen decía "casi se besan / frontera sostenida" **en neutro**, borrando la agencia: la tiró **ella**, la sostuvo **él**), trazadora cerrada en `punto_cierre_actual.md`, memoria `relaciones-csv-hitos-obsoletos` creada, y POV re-narrado. (3) Primer beat (Togeike) entregado con el acto **velado**; el jugador corrigió pidiendo consumación explícita — corregido en el segundo beat (Ryukyu) y anotado como preferencia permanente.
+
+> **Colisión de IDs resuelta (2ª vez)**: la ventana paralela jugó el día D36 completo y usó `ev-390`–`ev-393` para la línea principal. Mis beats de POV se renumeraron a **ev-396 (Midnight), ev-397 (Stain), ev-398 (Yaeko), ev-399 (beats de mundo I)**; ev-394/395 (beats de mundo II / Overhaul) sin cambio.
 
 ## Herramienta nueva — corrector de salud anti-censura
 
