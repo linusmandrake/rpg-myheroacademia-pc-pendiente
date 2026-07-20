@@ -92,7 +92,7 @@
 - Maestría 6 = tope de potencial actual; el potencial sube solo por hito de arco.
 
 ## DESEO FUERA DEL RADAR (S28) — Akari NO lo sabe
-- **TOGEIKE CHIKUCHI** (Dpto General, sin contacto alguno con Akari): 11 semanas estudiando grabaciones de prácticas de 1-A; el minuto 4:12 visto 40+ veces; **se masturba con él** y el rencor no baja. Lo que la desarma: que **no presuma**. Aprobar el examen (~3 semanas) ya no le sabe a victoria, sino a **tener que mirarle a la cara**.
+- **TOGEIKE CHIKUCHI** (Dpto General, sin contacto alguno con Akari): 11 semanas estudiando grabaciones de prácticas de 1-A; el minuto 4:12 visto 40+ veces; **se masturba con él** (empapada sin trabajo previo; fantasía sin escenario: que la MIRE, y abriéndola sobre un pupitre de 1-A que no es suyo, con la certeza de que **aguantaría**) y **el rencor no baja un grado** — sólo suma humillación privada. Lo que la desarma: que **no presuma**. Aprobar el examen (~3 semanas) ya no le sabe a victoria, sino a **tener que mirarle a la cara**.
 - **RYUKYU** (solo contacto profesional): no es fantasía, es un **dato** — los 960 km/h sobre la bahía; su Quirk lo saludó como a un igual **antes** que su cabeza. Dos veces en una madrugada. **Llama a Nezu igual, voz de siempre; Nezu no nota nada.** No piensa declararlo. Vector: agencia/prácticas.
 - **Niebla dura**: cero tells, cero filtración. Solo se sabrá si la NPC lo cuenta.
 
