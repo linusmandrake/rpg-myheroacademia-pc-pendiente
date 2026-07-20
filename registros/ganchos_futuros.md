@@ -35,6 +35,16 @@
 - **RYUKYU**: la llamada a Nezu ya está hecha con la voz limpia. Si Akari acaba de prácticas en su agencia, ella tendrá que trabajar a dos metros de lo que se está callando. **Cruce triple**: Nejire es su alumna de work-study y embajadora del bosque; el debut de **Níðhöggr** está agendado precisamente en su agencia. La dragona va a ver volar al dragón.
 - **Regla de mesa**: ninguno de los dos hilos se resuelve por conveniencia. Si sale a la luz, sale porque **ella** decide decirlo, con el coste que eso le cueste.
 
+## EL UROBOROS — la pregunta que no se responde (S28)
+
+*"¿Imagino e invoco a Níðhöggr porque lo leo escrito en libros, o porque realmente existen puedo invocarlos?"*
+
+- 🔴 **No tiene respuesta y no debe recibirla nunca.** Se profundiza, se complica, se hace más hermosa. No se cierra. Detalle en `docs/quirk_pc.md` §El uroboros.
+- **La lectura ya dejó el hueco**: *"el árbol no conecta ideas, conecta LUGARES"* (`ev-400`). Si la red de savia son reinos, invocar quizá sea **alcanzar** y no **crear**. Sembrado, sin confirmar.
+- **Cauce**: la puerta que Snipe dejó abierta en S9 —*"cuando el temario de mi asignatura te parezca pequeño, tráelas"*— sigue **sin usar**. Es literalmente su asignatura (Física aplicada). El día que Akari le lleve esta pregunta, el vaquero cobra una deuda de dos cursos.
+- **Fáfnir**: no es bestia, es **línea de Cuerpo** — el enano que se convirtió en dragón por codicia. Cruza directamente con [[la versión oscura]]: el mito ya trae la advertencia puesta.
+- **Yggdrasil / Jörmungandr**: no son invocaciones futuras de una lista. **Yogmungard ya existe**: el camino no es invocar más alto, es **dejar crecer**.
+
 ## Arco personal transversal — LA VERSIÓN OSCURA (declarado por el jugador, S28)
 
 *"Yo soy bueno porque quiero serlo, no porque no pueda ser oscuro. Y porque ser bueno —o percibido como tal— mejora mis opciones de supervivencia."*

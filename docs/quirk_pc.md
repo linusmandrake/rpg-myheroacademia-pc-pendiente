@@ -471,6 +471,25 @@ A M5+, el PC puede usar rewind regularmente sin riesgo real. La "reverie" se res
 
 Las bestias son criaturas de la savia. Tienen coste de invocar, coste de mantenimiento, y necesidades de alimentación. **No mueren permanentemente** a menos que la savia abandone al PC (caso extremo, ver seccion de agencia).
 
+#### REGLA DE INVOCACIÓN — SE INVOCA LO QUE SE IMAGINA (canon del jugador, S28)
+
+> **"Yo invoco lo que imagino. Al ponerles contexto y descripción, es lo que invoco. No significa que sean ellos: es mi imagen de ellos."**
+
+- **El conocimiento no desbloquea: ESPECIFICA.** No existe una lista cerrada de bestias permitidas ni un requisito de "haber estudiado la criatura". Akari conforma **lo que es capaz de imaginar con contexto y descripción suficientes**. Leer, estudiar y entender no abre una puerta: **afina lo que sale por ella** — una criatura bien comprendida sale más coherente, más estable y se comporta más como sí misma.
+- **Por eso la biblioteca es una ruta de crecimiento real** sin ser un requisito burocrático. La noche de las tres raíces (`ev-400`) no le "desbloqueó" a Níðhöggr: le dio con qué describirlo.
+- **Nomenclatura**: lo invocado lleva el nombre del mito porque **él lo bautiza así**, no porque el registro afirme identidad. `Yogmungard` (constrictora 4 m) es su Jörmungandr; no tendría que "invocar a Jörmungandr a M10": tendría que **dejarlo crecer**.
+- **Fáfnir es un caso aparte y no es una bestia**: en el mito, Fáfnir no *era* un dragón — era un enano que **se convirtió** en uno por codicia. No se invoca: **se es**. Corresponde a la línea del **Cuerpo** (zoomorfismo, estrenado D36 vs Midoriya), no al bestiario. El mito trae incorporada su propia advertencia sobre en qué te conviertes y por qué.
+
+##### 🐍 EL UROBOROS (misterio abierto — NO RESOLVER JAMÁS)
+
+> *"¿Imagino e invoco a Níðhöggr porque lo leo escrito en libros, o porque realmente existen puedo invocarlos? Creo que es una pregunta para la que nadie tendrá respuesta."* — el jugador, S28
+
+Akari estudia física cuántica y ha formulado la hipótesis él solo: si al **visualizar y materializar** obliga a la partícula a fijar una posición porque hay un observador, entonces no está claro en qué dirección corre la causa. No es una paradoja: es una **serpiente que se muerde la cola**.
+
+- 🔴 **[GM] REGLA DURA: esta pregunta NO tiene respuesta y NUNCA debe recibir una.** Ni por boca de Nezu, ni de Nighteye, ni de un villano, ni de un descubrimiento. Se puede **profundizar, complicar y hacer más hermosa** — jamás cerrar. Cualquier revelación que la resuelva mata lo mejor que tiene el Quirk.
+- **Resonancia ya sembrada (`ev-400`, la misma noche)**: *"el árbol no conecta ideas, conecta LUGARES"*. Si Yggdrasil conecta lugares y su red de savia funciona como reinos, entonces invocar quizá no sea **crear**, sino **alcanzar**. La lectura ya dejó el hueco con la forma de la pregunta. No confirmarlo.
+- **Cauce natural para explorarla en ficción**: **Snipe** (Ciencia de Quirks / Física aplicada), que en S9 le dejó la puerta abierta con estas palabras exactas: *"cuando el temario de mi asignatura te parezca pequeño… que te parecerá… tráelas [las preguntas]"*. Esa invitación lleva sin usar desde entonces y es exactamente para esto.
+
 #### ⚠️ COMPOSICIÓN MATERIAL — REGLA BASE (explicitada S28 por el jugador)
 
 > **Una bestia NO es sangre. Es masa biológica y forestal ANIMADA por su sangre.**
