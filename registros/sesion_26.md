@@ -114,7 +114,7 @@ En lo íntimo, el domingo cumple una promesa de lluvia y planta dos semillas: **
 > Obligatoria desde S19. Cuenta beats narrativos, no párrafos.
 
 - Beats totales: **24**
-- POV Akari (2ª persona): **13**
+- POV Akari: **13** (2ª persona)
 - POV NPC: **11** — Momo: 3 (despertar, apoyo al orden ceremonial, llanto privado) · Nejire: 1 (conducción del capítulo a Yuyu) · Yuyu: 1 (control de pasaportes) · Tsuyu: 1 (espera bajo la lluvia) · Aizawa: 1 (el punto ciego del tamaño de un ataúd) · Yaeko/la archivera: 1 · Mount Lady: 1 · Ryukyu: 1 · Mirko: 1
 - Marcha de avance: **6** beats (traslados, investigación pública, micro-bestias, agenda)
 - Marcha de profundidad: **18** beats

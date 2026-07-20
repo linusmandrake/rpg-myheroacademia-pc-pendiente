@@ -94,6 +94,21 @@
 
 ---
 
+## Estudiantes de 3º (UA)
+
+### Haya Yuyu (mejor amiga de Nejire) — fichada en S26-S27
+
+3º del curso de héroes, mejor amiga de Nejire Hado desde primer año. **Ingeniera de sistemas de hecho**: decide con datos, no con el corazón de otra persona; audita las salidas antes de entrar en cualquier sitio (sistemas, relaciones, personas). Humor seco de quirófano ("contabilidad", "punto por diseño", "suspenso directo"). No fabrica afecto y no miente; su idioma de querer son los **actos de orden**: alinear palillos, asignar cojines, geometría de la mesa. Que rompa su propia geometría (sentarse a tu lado fuera del plano) equivale a una declaración. Decide "en ayunas"; esperar es su deporte ("esperar es gratis y desespera a la gente que miente").
+
+- **El casco (verdad parcial, S27):** hace años vio a alguien que quiere salir de un sitio *sin puertas* y lo recogió del suelo, literalmente. El capítulo no es suyo para contarlo; Nejire lo conoce y calla. Desde entonces: comprueba salidas antes de querer. *"No estoy fría: estoy en obras."*
+- **Con Nejire:** la protege con casco porque Nejire es la que se enamora con altavoz y sin protección — aunque **nunca había resonado con nadie** hasta Akari (canon fijado por el jugador S27: mutuo y súbito). Yuyu nunca la había visto cuidar en silencio.
+- **Con Akari (S26-S27):** aliada sellada (leak del apellido Yaoyorozu) → **candidata EN OBRAS** (auditoría aprobada con observaciones; respeto ganado en una noche; pernocta de los tres concedida; beso con fecha de entrega que pone ella). Su pregunta de aduana —*"¿qué pasa el día que una deje de ser feliz dentro?"*— y la respuesta que la convenció: *"el bosque no tiene puertas"*.
+- **Frases-sello:** *"Todos los tíos que me han vendido un sistema raro me hablaban de las reglas de entrada; tú me has hablado de las de salida."* / *"Los mejores sistemas nacen de alguien diciendo 'esto habría que pensarlo' en voz alta."* / *"Si hay un incendio, no soy la que se evacúa: soy la que coge un extintor."* / *"Sigue presentando"* (el pliego, a la carpeta buena).
+- **Niebla:** conoce el bosque completo (vía Nejire) y el apellido de Momo (sellado). NO conoce el Quirk real de Akari, Osaka, las muertes ni lo temporal.
+- **Vínculo:** `relaciones.csv` → yuyu-001 (closeness 2, deseo latente, volátil).
+
+---
+
 ## Otras escuelas
 
 ### Shiketsu High School

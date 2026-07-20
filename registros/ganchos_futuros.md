@@ -85,3 +85,13 @@ Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el bo
 - **LUNCH RUSH**: ya empezó él solo (hígado sin pedirlo: "el del bosque come hierro"). La dieta pro-pool formal está a una conversación de distancia.
 - **LA ESTACIÓN DE LLUVIAS**: marco nuevo en el mapa (ni flor ni clima: suelo que llueve). Awata dentro de la agencia de Nighteye = puente diario con el vidente. Su "continuará" del callejón, pendiente.
 - **"MARGEN PARA LLORAR: SÍ"**: la libreta de vuelo de Nejire como institución de pareja — cada plan de vuelo futuro puede llevar una línea humana escondida.
+
+## Sembrados en S27 (D35 noche) — la auditoría de Yuyu y la gobernanza del bosque
+- **La cosa que Yuyu no sabe clasificar**: prometió traerla *en persona, con índice*. Bomba de relojería adorable (hermana del pinky de Pony): el día que llegue con la libreta, lo que diga cambia el mapa. No apurarla; ella pone las fechas.
+- **El beso con fecha de entrega**: la pone ella. *"En esta obra no suele haber retrasos."* Cuando lo firme, será el primer beso de la historia del bosque otorgado por auditoría aprobada.
+- **La decisión "en ayunas"**: puede caer cualquier mañana (¿la del lunes D36?). Si entra, es la primera flor incorporada por **veredicto técnico** — precedente nuevo en el ecosistema (entrada por auditoría, no por floración).
+- **El casco de Yuyu (capítulo no contado)**: alguien querido salió de un sitio sin puertas y ella lo recogió del suelo. Nejire lo sabe y calla. No es de Akari para preguntar; si algún día lo cuenta, será el verdadero desnudo exterior de la ecuación.
+- **Gobernanza del bosque v1** (improvisada en vivo): concilio árbol+corona interesada+Akari · **asamblea proporcional al conocimiento** · custodia distribuida de secretos (backup rotativo, puesta en común si él cae). A debatir con las coronas — la primera crisis del sistema la estrenará.
+- **Nejire mediadora**: traductora de idiomas (calor/orden) entre Akari y la gente que quiere. Rol nuevo de la corona: *intérprete del bosque* hacia fuera. Yuyu fue la primera; no será la última.
+- **La mañana después de la pernocta**: un alumno de 1º saliendo del cuarto de una de 3º un lunes. OPSEC social ligero — y el primer desayuno de los tres (¿quién cocina? ¿quién pone los palillos?).
+- **El pliego, a la carpeta buena**: Yuyu archivó la escalada con aprecio ("sigue presentando"). La negociación-erótica en clave de obra es ya un lenguaje compartido de los dos.

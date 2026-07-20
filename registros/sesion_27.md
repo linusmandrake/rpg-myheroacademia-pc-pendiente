@@ -79,7 +79,7 @@ La noche cierra con la ecuación de Akari (desnudo exterior por desnudo interior
 > Obligatoria desde S19. Cuenta beats narrativos, no párrafos.
 
 - Beats totales: **8**
-- POV Akari (2ª persona): **4**
+- POV Akari: **4** (2ª persona)
 - POV NPC: **4** — Yuyu: 3 (la auditoría I, la auditoría II, la mesa que se recoloca) · Nejire: 1 (traductora de idiomas; canon de resonancia)
 - Marcha de avance: **1** beat (ducha + mensaje + traslado, en apertura)
 - Marcha de profundidad: **7** beats
