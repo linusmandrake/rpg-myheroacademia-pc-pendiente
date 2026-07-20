@@ -1,131 +1,124 @@
-# Punto de cierre — sesión 25 · Curso 1 · Trimestre 1 · Días 33-34 (vie 14 - sáb 15 jun) COMPLETOS · apertura S26: D35 domingo 16 jun (al despertar, cama de Momo, los tres) · Musutafu
+# Punto de cierre — sesión 26 · Curso 1 · Trimestre 1 · Día 35 (domingo 16 jun) — JORNADA INCOMPLETA · cierre a las 18:20 · Musutafu
 > Auto-generado al cierre. Léase al abrir sesión nueva (junto a registros/memoria_gm.md + MEMORY.md + cabecera de AGENTS.md + avisos de CLAUDE.md).
 
 ## Estado narrativo exacto
-- Ubicación: **Heights Alliance, cuarto de Momo** — dormido con **Momo Y Nejire** (primera noche de las tres coronas; trío hub-only, hermandad F/F intacta).
-- Hora narrativa: **D34 sábado 15 jun cerrado (~22:40 dormidos)**; apertura **D35 domingo 16 jun al despertar**.
-- Última acción de Akari: consejo de las tres coronas (puesta en común total de Osaka + serie S + Awata + plan Yua) rematado en la primera noche de los tres juntos.
-- **Próxima decisión pendiente (ARRANQUE S26 = D35 domingo):** ¿cómo ordena el domingo? Hilos calientes: (A) **NEZU** — la petición formal (protección familia Hayami + plan Yua + matrícula HPSC) y la decisión sensible de CUÁNTO contarle (¿Kuroda? ¿Sōma? ¿la serie S? ¿Tsubaki?); (B) **informe a Aizawa** del viaje ("tráete la verdad y el cuerpo" — debe ambos); (C) **cita de LLUVIA con Tsuyu** (comprometida: "vuelve para el domingo; me gusta la lluvia contigo"); (D) la **tarjeta de Tsubaki** (número manuscrito, sin estrenar: ¿llamar, esperar, o entregársela a Nezu?); (E) pendientes de vínculo: Kendo ("sorpréndeme"), Jirō ("con intereses"), Tokoyami (sangre y sombra, anunciada).
+- Ubicación: **UA, gimnasio Gamma — sala 4** (sin cámaras, puerta cerrada desde dentro). Solo. Sentado en el hormigón tras el auto-sparring.
+- Hora narrativa: **D35 domingo 16 jun, 18:20**. Llueve desde el alba, lluvia cerrada de día entero. **El domingo NO está cerrado**: queda la noche.
+- Última acción de Akari: entrenamiento contra sus propios avatares carmesí (hasta 6 simultáneos en combate) — tres tells motores propios catalogados y reabsorbidos.
+- **Próxima decisión pendiente (ARRANQUE S27 = D35, 18:20, noche del domingo):** ¿cómo remata el domingo? Hilos calientes: (A) **LA TARJETA DE TSUBAKI** — sigue sin estrenar en el cajón (¿llamar esta noche? ¿esperar al viernes? ¿entregársela a Nezu?); (B) **NEJIRE** — le debe aviso ("luego te aviso yo") y hay un "castigo" pendiente en broma, además del protocolo OPSEC que Momo redactará; (C) **pendientes de vínculo**: Kendo ("sorpréndeme, si te atreves"), Jirō ("con intereses" en Sala 3), Tokoyami (mordida "sangre y sombra" anunciada); (D) **corregir los tres tells** antes del próximo Yunque (domingo que viene); (E) cena/descanso y cierre de día.
 
 ## Stats, Quirk y economía al cierre
 - **PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5** (SIN cambio; PWR/VEL 4 = margen de Arco 2).
-- Quirk **Sanguine Verdant Echo**: **potencial 6 / maestría 6** (sin cambio numérico). NUEVO CUALITATIVO S25: **frontera del Verdant CRUZADA conscientemente** — primera planta viva sembrada A VOLUNTAD Y EN VIDA (**Yuakari**, con el Florecimiento de Yua como catalizador; precedente inconsciente: Uehonmachi a los 6; probar si puede solo y despierto = hilo abierto) · **"propulsión por amor"** (modo de vuelo: el bucle de resonancia con Nejire ES el motor) · régimen **960 km/h sostenido** estrenado (25-27 min, fuselaje biplaza, mudo) · catedral de sangre a escala de sala, sostenida y retirada a voluntad.
-- *** REVELACIÓN DE ORIGEN ***: el HAMBRE es CONGÉNITA — "tropismo hemático activo" a los 6 años (Sōma). No nació con el M6. El pozo estaba antes que todo.
-- Scars **0** (rewind NO usado D33-D34). Pool alto. Saldo **~¥95.770 · SIN DEUDAS** (−2.000 día de Tokio, estimado). Beca ~julio.
+- Quirk **Sanguine Verdant Echo**: **potencial 6 / maestría 6** (sin cambio numérico).
+- **RULINGS FIJADOS EN S26 (mecánica, importantes):** (1) los **avatares** cuestan **pool + mantenimiento (5/h × mult.)**, **NO atención**; las **bestias** son las que consumen atención dirigida (techo cómodo ~3). (2) El **estudio en dos tiempos** con 8 avatares durante horas es capacidad consolidada de M6 y devuelve **DOMINIO** al reabsorber (no mera familiaridad). (3) **La savia/bestia ES el PC** — no hay entidad separada ni voluntad ajena (quirk_pc.md:18, R1); nunca narrarla como maestro externo.
+- **Auto-sparring contra avatares = método validado**: multiplicador de entrenamiento; candidata a ruta formal.
+- Scars **0** (rewind NO usado en D35). Pool alto. Sin heridas (regeneración ×10 por defecto salvo que la frene: las costillas del Yunque se resolvieron solas).
+- Saldo **¥95.770 · SIN DEUDAS** (cero movimientos en D35). Beca ~julio.
 
-## LA VERDAD DE OSAKA (núcleo nuevo de campaña — mis-046)
-- **Muerte 1 (confirmada)**: 6 años, julio, camión en el paso de Uehonmachi (Osaka): **muerto 19:23 → 19:31 (8 minutos)**, declarado en ambulancia; su sangre volvió sola del asfalto (las "manos rojas" eran la suya recogiéndose). 7 semanas en el **Instituto Médico Sōma** (pabellón infantil).
-- **Posible muerte 2**: Sōma, semana 4 — "falsa alarma" nocturna (4 h de aislamiento a los padres) + 2ª sesión de borrado DOS días después. Kou: "no estabilizaban: VERIFICABAN."
-- **Muerte 3**: D30 (incidente Midnight — ya canon; los padres Y NEJIRE saben que EXISTE una 3ª muerte reciente — la confesión de la cocina, presenciada —, sin circunstancias ni Midnight; los DETALLES siguen siendo solo de Momo).
-- **El borrado**: LA ARCHIVERA (mujer mayor, guantes blancos, sin nombre; Quirk que "reorganiza" memoria → la pared lisa "con una puerta que solo se abre si nadie la toca"); mantenimiento recetado 12 años: guion, frases-ancla ("tu Quirk llegó tarde, cariño"), la sonrisa enseñada a madre e hijo. ÚNICA IMAGEN: al fondo de la foto de hospital de la caja.
-- **TSUBAKI GENZŌ** 🆕: pro-hero de Osaka, sin ranking/agencia/prensa, cicatriz cuello izq.; registro: **"custodia — funciones no públicas"**. En Sōma dijo "El niño se queda con su familia. **YO RESPONDO**" y la Comisión recogió. 12 años de camelias semanales en la floristería de Misaki (= partes encubiertos). ARQUITECTO del camino entero: Academia Verde ("que aprenda a administrarlo" = entrenó la CORREA), recomendación a UA, "última hora" post-USJ — motivo confesado: *"cosas viejas con hambre nueva; estará más seguro dentro del muro más alto de Japón"* (la savia se erizó: ≈ coleccionista). LLAMÓ EL MARTES: "si el chaval viene a preguntar, no le mientan; ya no hace falta" → **va por delante de todos**. Su TARJETA (número manuscrito) está en poder de Akari, SIN estrenar.
-- **LA CAJA** (de Kou, ahora de Akari; en el cuarto de Momo): (1) acuerdo con membrete **"OFICINA DE GESTIÓN DE ACTIVOS ESPECIALES"**; (2) foto con la archivera; (3) informe con anotación manuscrita ***"Consistente con S-3. Elevar."***
-- **SERIE S**: Akari = S-3 → **S-1 y S-2 existen**. Teoría de Nejire: el criterio de serie = **niños que vuelven de la muerte** ("si viven, son como tú"). mis-046 abierta: Momo por lo civil ("segundo frente de guerra": encontrar a S-1/S-2, tumbar la Oficina), Akari por dentro.
-- Hallazgos Momo: pabellón Sōma cerrado hace 11 años (expedientes evaporados vía digitalizadora disuelta = callejón FABRICADO); matrícula del coche vigilante → contrata de seguridad de la HPSC (vigilancia oficial).
-- **Las flores de Uehonmachi**: carmesíes inclasificables brotadas donde murió; 12 años cultivadas en secreto por Misaki ("las tuyas"); se abren al acercarse él. Prueba viva: su sangre SIEMBRA donde muere. "El tropismo no es hambre: es amor de planta."
+## HOSU / EL HERO KILLER (frente nuevo de campaña — abierto en S26)
+- **Contexto de Nezu**: tres corrientes que **aún no se conocen entre sí** — el **editor** (Stain / Hero Killer: 4 muertos, +20 mutilados, elige por *mérito percibido*, corrige el canon de lo que es un héroe), el **reclutador** (la Liga comprando gente rota vía un broker escurridizo) y el **mercado** (**Trigger**, muestras en tres prefecturas). El peligro es el autor que las encuaderne.
+- **D35 12:41**: NATIVE hallado grave en Eko District (Hosu) — **quinto incidente en seis semanas**.
+- **Informe de ARGUS** (halcón, misión autónoma, cota alta, reabsorbido 16:22): (1) escena oficial con patrullas en parejas mirando hacia arriba; (2) **CAZADERO REAL** — callejón sin cinta dos manzanas al sur con **cuatro capas de sangre vieja** de distintas antigüedades, ninguna en las noticias; (3) **geometría** — tres rutas de tejado convergen en un bloque bajo con persianas cerradas y **el contador de agua girando**; (4) **LA SILUETA** — a seis manzanas, figura envuelta en jirones sentada en el borde de una azotea contemplando su propia escena (punzada de depredador ante depredador; sin cara, sin nombre).
+- **Entregado a Nezu en caliente** (16:47, 40 min después de obtenerlo, sin ir al callejón): fuente = *"observación aérea de origen protegido, fiabilidad alta, trazabilidad denegada"*; destino = **jefatura de Hosu vía Tsuragamae**, esquivando a la Comisión mientras Kuroda esté en el campus; contenido = **callejón y bloque SÍ, azotea NO** (una redada improvisada sobre su posición le serviría el capítulo siguiente). **Nezu se guarda la azotea** para cruzarla con lo que no ha contado.
+- **Momo abre frente civil**: reparto de patrullas de Eko District del último año, qué agencias cubren y desde cuándo, y **quién cobró por hacerlo** ("si hay un agujero, está en un presupuesto antes que en un tejado"). Plazo: **24 h → lunes D36**.
+- **Aviso de Nezu**: las prácticas de la promoción caerán en agencias urbanas y **Hosu estará en la lista**. "Elija con la cabeza y hablando conmigo."
 
-## Familia Hayami (estado nuevo)
-- **Verdad completa revelada** (salvo detalles de la 3ª muerte y del nivel real del Quirk). Vigilancia de Nezu CONFESADA a la familia.
-- **Protocolo entregado**: nº Aizawa/UA + código familiar "decidle a Yua que riegue las de mamá" = peligro → salir → comisaría Uehonmachi → llamar a Aizawa. El coche de fuera: no tocar.
-- **YUA** 🆕 estado alto: co-creadora de **Yuakari** (SU flor, la cuida ella); meta autodeclarada "**entrar en la UA por mi propia nota**" (examen del año que viene); **prueba de vida diaria** activa (chat vivo, cariño+protocolo); dedujo SOLA su propio valor estratégico (su Florecimiento + la sangre de Akari = co-creación → posible objetivo). "Cuñada azul ✔" (Nejire). Momo ofrecerá artillería de estudio Yaoyorozu.
-- Kou y Misaki: losa levantada; "esta casa ha estado doce años callada; ahora quiero que haga RUIDO" (visitas comprometidas).
+## LA VERDAD DE OSAKA / LA SERIE S (mis-046) — avances S26
+- **AIZAWA YA SABE**: Osaka entera (muerte 1 a los 6 años, hambre congénita, la archivera, la Oficina, la serie S, Tsubaki, la caja, la contrata HPSC) **+ que existe una 3ª muerte DENTRO DE LA UA** — sin lugar, sin persona, con Momo declarada como testigo completo. Aceptó la **media declarada**. **SU DEUDA PENDIENTE, sin fecha: "dame el DÓNDE sin el QUIÉN"** (si un alumno murió dentro del recinto y ninguna alarma saltó, hay un punto ciego que no es propiedad de Akari).
+- **NEZU YA SABE**: la Oficina de Gestión de Activos Especiales, la serie S (S-1 y S-2 existen), la anotación *"Consistente con S-3. Elevar."*, la contrata HPSC de la vigilancia, y **el nombre de Tsubaki Genzō** (la **tarjeta NO** se entregó: sigue en poder de Akari). NO sabe la 3ª muerte.
+- **Tres piezas que devolvió Nezu**: (1) **"custodia — funciones no públicas" es nomenclatura FÓSIL** de la era en que a ciertos individuos se les llamaba *activos*; conservarla viva = alguien decidió que Tsubaki **no exista** en el sistema nuevo, y eso se concede a muy pocos. (2) **PROTECCIÓN FORMAL ACTIVADA** para la familia Hayami: relevo de la contrata HPSC por personal propio, ruta de extracción y **doliente (él)** si algo falla; el camino de Yua garantizado **limpio** ("nadie incluye a los que la quieren bien" — nadie mete el dedo en la balanza, ni a favor). (3) ***LA OFICINA NO LE SUENA*** — el dato más grave del día: "yo coleccioné organigramas de la Comisión desde dentro de una jaula; si existe una oficina que yo no vi, no es que sea discreta: está **al otro lado de un muro que ni a mí me enseñaron**". Investigación con guantes, sin plazo.
+- **mis-045 NIGHTEYE — decisión aconsejada**: **ACEPTAR**, pero **nada de tinta antes del viernes** (fin de la auditoría de Kuroda) y firmando **dentro de la ventana de prácticas** de la promoción (una pasantía entre docenas es gris; fuera de ella es *bengala con membrete*). Razón de fondo de Nezu: "es el único cuyo Quirk certifica lo que usted es — a la gente así se la mete dentro del círculo, donde se le ve las manos". Dos preguntas del encargo 2096 **intactas**.
 
 ## Reputación y facciones
-- Bajo perfil de auditoría INTACTO (viernes lectivo aburrido-correcto; catedral de sangre solo ante los 7 de la banda, sala insonorizada; vuelo nocturno con papeles).
-- **Comisión**: auditora = **Rei Kuroda** (nombre confirmado por Nezu/Aizawa). Semana de auditoría sigue. La **Oficina de Gestión de Activos Especiales** identificada como entidad detrás del acuerdo de hace 12 años.
-- **UA**: Aizawa co-conspirador (plan de vuelo, Sōma, espera informe). **NEZU: reunión PENDIENTE** (paquete: protección + Yua + matrícula + qué contarle).
-- **Tsubaki**: protector-ambiguo ("ángel o carcelero — las dos cosas, quizá" — Misaki).
+- **Bajo perfil de auditoría INTACTO**: el Yunque fue sin cámara y **sin Quirk**; el auto-sparring en sala cerrada; las micro-bestias de reconocimiento **no fueron detectadas**; el intel de Hosu salió con fuente protegida que **no pasa por la Comisión**.
+- **Comisión (HPSC)**: **Rei Kuroda** dentro del campus **hasta el viernes**. La contrata de vigilancia de la casa de Osaka será relevada por personal de Nezu.
+- **UA**: Aizawa co-conspirador con la verdad casi entera. **Nezu recalibra al alza su modelo de Akari** — de *activo* a **agente** ("un activo hace; un agente decide qué no hacer y a quién se lo cuenta").
+- **Policía de Hosu**: recibe callejón y bloque por canal opaco (Tsuragamae).
+- **Ryukyu**: se apunta para el lunes **"UA — prácticas. Llamar a Nezu."** (no sabe nada de Akari; converge sola).
 
 ## Equipamiento clave activo
-- Costume operativo · Ave María · cuarto 3-E (templo) · bandolera: cartuchos Momo (A) ×2 + Jirō (A). **LA CAJA de Osaka** (pruebas) en el cuarto de Momo. **Tarjeta de Tsubaki** encima. Carrete completo de documentos en los móviles de Akari y Momo.
+- Costume operativo · Ave María · cuarto 3-E (templo) · bandolera: cartuchos Momo (A) ×2 + Jirō (A). **LA CAJA de Osaka** (eq-015) en el cuarto de Momo. **TARJETA DE TSUBAKI encima, SIN ESTRENAR**. Carrete completo de documentos en los móviles de Akari y Momo.
+- **Fragmentos**: Invisibilidad ×2→**×1** (gastado en la polilla Noctua) · **FROG ×1 nuevo** (Tsuyu) · resto sin cambios.
 
 ## Misiones / exámenes abiertos
-- **mis-046 LA SERIE S / LA OFICINA** 🆕: investigación bicéfala (Momo civil / Akari dentro). Objetivo: S-1, S-2, la archivera, la Oficina.
-- **mis-043 auditoría/bisturí**: sigue en efecto (Kuroda nombrada).
-- **mis-045 NIGHTEYE**: documento SIN firmar; 2 preguntas intactas. (Awata = puente diario con la agencia ahora.)
-- **mis-044 POMPA UNO**: excursión de olores COMPLETADA (12/12); materiales en el taller de Mei; siguiente fase = diseño con Mei.
+- **HOSU / HERO KILLER** 🆕: intel entregado; frente civil de Momo a 24 h; prácticas con Hosu en la lista.
+- **mis-046 LA SERIE S / LA OFICINA**: investigación bicéfala. La Oficina es un punto ciego incluso para Nezu.
+- **mis-043 auditoría/bisturí**: Kuroda hasta el viernes. Doctrina: aburrido, correcto, olvidable.
+- **mis-045 NIGHTEYE**: decisión tomada (aceptar) — **ejecutar tras el viernes, dentro de la ventana de prácticas**. Documento aún sin firmar.
+- **mis-044 POMPA UNO**: siguiente fase = diseño con Mei.
 
 ## Decisiones de carácter recientes que pesan
-- **Fue a Osaka en persona** y encaró la verdad entera; entregó protocolo a su familia y les confesó su 3ª muerte.
-- **Eligió DAR dentro del sol de Midoriya** (la bestia pedía invertir el flujo; curó y no tomó).
-- **Ética del pulso**: cortó el deseo inducido a Kendo ANTES de su decisión ("que decida limpia").
-- **Rompió y curó a Bakugo didácticamente** (mentor, no rival).
-- **Sostuvo el filo de la catedral** y lo retiró limpio en el último acorde ("hoy tocas tú a mi ritmo").
-- Sanó arquetipos por diseño: Kendo (batería=suelo celebrado), Toru (coros=voz que ocupa), Jirō (maestra), Reiko (escenario=rareza aplaudida), Tamaki ("nadie es raro del todo si hay dos").
+- **Entregó el intel de Hosu en vez de ir al callejón.** La versión de él de hace tres semanas habría cogido el tren. Nezu lo registró como el salto de activo a agente.
+- **Dio a Aizawa la media declarada** (la 3ª muerte existe, sin lugar ni persona) en lugar de media vendida como entera — y aceptó la deuda del "dónde".
+- **Declaró el orden ceremonial ante Momo**: boda con Nejire **antes** de los hijos, "por ella, por los demás"; la boda grande sigue siendo de Momo, tras su guerra.
+- **Peleó el segundo asalto del Yunque roto pudiendo no estarlo** — sin savia, hasta caer. Bakugo: "al mono ese lo respeto".
+- **Cortó el hongo, no la relación**: en el cuarto de Kinoko priorizó pagar la visita que debía sobre borrar limpio su huella.
 
 ## Continuidad emocional y red sexoafectiva (harem / OPSEC)
-- **Awata Kaoruko — "LA ESTACIÓN DE LLUVIAS"** 🆕 (marco autotallado: NO flor; suelo que llueve; "vuelvo siempre"): closeness 3→**5**, deseo **abierto**, PRIMER BESO (lo inició ella tras "quiero que seas suelo… y el bosque oliendo a petricor"); beat del callejón ("continuará"); reportada a Momo cara a cara (marco cumplido).
-- **Nejire (10)**: OSAKA ENTERA — conoce a la familia (presentada como PROMETIDA formal), testigo de todas las verdades, sostuvo el "margen para llorar"; **boda/hijos: "sí a todo"**; propulsión por amor; "el secreto es NUESTRO, no tuyo". Misaki→Nejire: "cuídamelo cuando no brille".
-- **Momo (10, prometida)**: la caja compartida; frente civil rindiendo; **segundo frente de guerra declarado** (la Oficina); artillería de estudio para Yua ofrecida; "no está solo ni una noche más de su vida".
-- **TRÍO DE LAS TRES CORONAS** 🆕: primero Akari+Momo+Nejire (hub-only; entre ellas risas, hombros y una mano en la boca — hermandad, no deseo, "y les vale exactamente así").
-- **Jirō (10)**: MAESTRA de la banda (su miedo "canto de espaldas" invertido en mando); voz CON Akari; verdad-hasta-el-borde recibida bien ("eso sí me vale"); deuda **"con intereses"** pendiente en Sala 3.
-- **Kendo (9)**: batería (arquetipo sanado); deuda de arrebato ×2 reconocida; **control del cuándo/dónde CEDIDO**: "sorpréndeme, si te atreves" (lo único que nunca le han dejado ser: la que no decide).
-- **Tsuyu (8)**: APAGÓ SU RADAR por amor ("el derecho a no ser visto" — el regalo que nadie más podía darle); **cita de lluvia DOMINGO comprometida**.
-- **Toru (8)**: herida del alba curada; coros. *(Corrección auditor S25: los docs la inflaban a 10; manda `relaciones.csv` = 8, sin hito de subida narrado.)*
-- **Reiko (flor)**: voz espectral; beso merecido; "eso ha sido hogar"; SIGUE oliendo la muerte del D30 y callándola por amor ("no es mío para contarlo").
-- **Setsuna (flor)**: primer despertar dentro del bosque (se desmonta sin actuar; Kendo ancla).
-- **Ochaco (9)**: cena de banda ("me llamó primero"); deuda menor del alba sin gesto individual (en clima).
-- **Mei (8)**: lobo-mensajero + materiales Pompa Uno ("EL LOBO SE QUEDA. Es broma. NO ES BROMA.").
-- **OPSEC/niebla nueva**: la familia Hayami Y NEJIRE saben que existe una 3ª muerte (sin detalles — confesión de la cocina); NADIE nuevo conoce los DETALLES del D30 (solo Momo); Jirō sabe "Osaka + agujero + vuelo" (no catálogo, no D30); la banda (7) vio la catedral de sangre; Tamaki olió el beat del callejón; Yua conoce el bosque en versión poética.
+- **TSUYU 8→9** 🆕: cita de lluvia cumplida en el estanque; consumación + **mordida elegida con disclosure previo**; sangre **tipo B**; fragmento **FROG ×1**. Memoria transmitida: *cocina de Osaka, siete años, meciendo a Samidare — "yo no voy a necesitar nunca que me sostengan; así sobro menos"*. Akari deroga el tratado de la niña ("al que sobra no lo dejo yo; a la que sostiene, la sostengo yo"). Ella: **"voy a necesitar que me sostengan. A veces. A partir de ahora."** Momo designada **segunda alarma**.
+- **KINOKO KOMORI 1→4** 🆕 (deseo latente→abierto): visita a su cuarto; **"el experimento de la red"** (protocolo de prendas y preguntas ganadas, con salida declarada). Primer beso. **Invitación al bosque FORMULADA — decisión de ella PENDIENTE** ("solicito acceso al material suplementario"). Le queda **una pregunta ganada en reserva**.
+- **MOMO (10, prometida)**: apoya —no concede— el orden ceremonial invertido y lo convierte en proyecto (vivienda a nombre de Nejire, cerca de su agencia, aval disponible pero "la puerta la abre su llave"). Recibió el parte completo (dos floraciones + leak + Hosu). Abrió el frente civil de Hosu. **Llanto privado a solas que Akari NO conoce** (releyendo "el bosque no tiene puertas"; anotó: *"recordar decírselo más veces; él cree que se le nota"*).
+- **NEJIRE (10)**: plan de vida cerrado — boda al aire libre (llegará volando, Kotori en primera fila), casa a su nombre en abril, hijos con sueldo estable. Presentó a Akari a su mejor amiga. **LEAK**: dijo el apellido **Yaoyorozu** en alto ante Yuyu; Akari corrigió en caliente, ella lo asumió sin excusas, Yuyu lo selló. **Momo redactará un protocolo OPSEC de tres reglas, de corona a corona** ("no falla por descuido: falla por generosidad"). Debe aviso a Akari; hay un "castigo" pendiente en clave de broma.
+- **HAYA YUYU** 🆕 (3º, mejor amiga de Nejire): **NO es vínculo sexoafectivo — eje deseo NO abierto**. Aliada y confidente sellada. Conoce el bosque completo (contado por Nejire, no por Akari) y el apellido de Momo (sellado). Su pregunta de aduana y la respuesta que la convenció: *"¿qué pasa el día que una deje de ser feliz dentro?"* → se le cuida en común, y **el bosque no tiene puertas** (se sale por cualquier linde, cuando se quiera, sin factura). "Esa es la respuesta que nadie da."
+- **Sin cambios narrados**: Jirō ("con intereses"), Kendo ("sorpréndeme"), Tokoyami (sangre y sombra), Awata, Reiko, Setsuna, Ochaco, Mina, Mei, Ibara, Toru, Pony, Midnight.
+- **OPSEC nuevo**: Yuyu sabe el bosque + el apellido de Momo (sellado). Aizawa sabe que existe una 3ª muerte dentro de la UA (sin dónde ni quién). Nezu sabe Osaka/Oficina/serie S/nombre de Tsubaki, **no** la 3ª muerte. Bakugo sabe que Akari "esconde algo" y ha decidido que le da igual ("al mono lo respeto").
 
 ## Detalles emocionales sutiles
-- Misaki, en el umbral, reconociendo su propia sonrisa devuelta: "Has venido a preguntar." / Su respuesta a "¿me queríais?": **"Elegimos mentirte cada día para poder abrazarte cada noche… te quisimos con locura. Siempre."** / "El tropismo no es hambre. Es amor de planta."
-- Kou: "Si alguien llama a esa puerta, que sea el niño y no los trajes." / "Me negué a que la última palabra sobre mi hijo la tuviera un archivo que yo no controlo." / (sobre Yuakari) "Lo que sale de ti hace libros nuevos."
-- Tsubaki (referido): "El niño se queda con su familia. Yo respondo." / "Cosas viejas con hambre nueva." / (el martes) "Si el chaval viene a preguntar… no le mientan. Ya no hace falta."
-- Yua: "En esta familia las frases se terminan." / "Si voy, no voy de equipaje de nadie." / (nota del móvil) "Onii-chan me debe un bosque." / Yuakari: "mitad tuya, mitad mía."
-- Nejire: "No me tienes que traer luminoso, tonto. Te toca a ti que te traigan a ti." / (libreta de vuelo) "margen para llorar: sí" → "margen para futuro: también." / "Es que es TU copia en rana. Tengo cuñada."
-- Momo: "No eres un expediente. Eres un ACTIVO en el balance de alguien." / "Los Yaoyorozu sabemos cómo se QUIEBRA a quien confunde personas con activos." / (a Nejire) "Anoche el terreno era el cielo y lo sostuviste tú. La raíz te debe una."
-- Awata: "La lluvia se lo pensó lloviendo. Ya está pensado." / "Ponme en tu mapa como lo que soy: la estación de lluvias. Vuelvo siempre." / "Hasta el clima sabe que hoy me han hecho suelo."
-- Jirō: "No me mientas con amor. Eso es jugar sucio." → (tras la verdad) "Eso sí me vale." / "Menos técnica, más herida." / "Mira alrededor, cabrón: a ninguno [le has dado miedo]."
-- Tsuyu: "Contigo, ahora, lo apago [el ver]. Solo quiero estar sentada contigo mientras lo cargas."
-- Kendo: "Me acabas de proponer lo único que nunca me han dejado ser." / Reiko: "Un vampiro y una banshee… eso ha sido HOGAR."
-- All Might: "¿Quién te enseñó a sonreír así?… La sonrisa sirve para que los demás respiren. Un día enséñale a alguien lo que hay debajo."
-- Tamaki: "Nadie es raro del todo si hay dos." / Mirio: "Hoy Tamaki ha sido consultor, catador y persona normal."
-- Bakugo: "Me lo has roto para que aprendiera. Y me lo has curado para que pueda seguir mañana. Nadie más me entrena en serio."
-- Kou (despedida): "La próxima vez, ven de día. Y quédate a cenar. Tu madre cocina mejor cuando no está aterrada."
-- Nejire (en la puerta, antes de clase): "Esta noche vuelo yo. Tú solo llama a la puerta." — el reparto emocional del día en una frase.
-- Yua (cadena de pruebas de vida esa misma noche): nº3 "aterrizad enteros, idiotas" / (al gato de savia) "adiós, gato rojo, vuelve tú también".
-- Momo (viernes por la mañana): "Vuelve entero, prometido. Que ya te he perdido una vez y no me hizo ninguna gracia." — primera vez que usa su pérdida del D30 como ternura y no como carga.
-- Jirō (tras los SMS en Inglés): su pie marcando bajo el pupitre el bordón de la noche anterior contra la pata de la silla — *estoy aquí, te oigo* sin una palabra.
-- Awata (andén, antes del marco): "Trabajo para un vidente. Ante mí, o eres de verdad… o no eres."
-- **Níðhöggr como llave del pozo**: al nombrarlo, la savia "reconoció el nombre como una llave" — el *¿cuánto haría falta?* de la clase de Inglés recibe por primera vez una forma con código (devorador con ley, no hambre sin ley). Puente directo pensamiento-negro → dragón futuro.
+- Momo, al despertar: dos guardias en su habitación y, por primera vez en años, **poder dormir sin ser ella la de turno**. Buscó el pinchazo con lealtad a sí misma y no estaba.
+- Nejire y Momo, la mano agarrada por encima del cuerpo de Akari, sin haberlo pactado. Hermandad, no deseo.
+- Momo: *"que conste también que hoy, cuando has dicho 'la grande es la tuya', no lo he necesitado. Ya no. Pero me ha gustado oírlo."*
+- Nejire: *"no me sobra tu boda. La quiero ver. Vamos a ser algo que no tiene nombre todavía, Yaoyorozu. Familia rara. Pero de las que funcionan."* → Momo: *"anotado en acta. Cuñada."* → Akari: *"no es tu cuñada: es tu hermana, o co-esposa, o algo así."*
+- Bakugo, en la puerta del Gamma, de espaldas: *"hoy has peleado roto pudiendo no estarlo. No sé qué coño escondes, macetero, y me da igual. Pero al mono ese que traes al gimnasio… al mono lo respeto."*
+- Aizawa: *"hay un punto ciego en mi escuela del tamaño de un ataúd, y ese punto ciego no es de tu propiedad."* / *"Tres veces. Y sigues siendo el crío que pide waivers para sellarse las costillas en un sparring de domingo. No sé si eso es lo más roto o lo más sano que tienes."*
+- Tsuyu: *"aquí no se es útil. No se entrena, no se planea, no se informa a nadie de nada. Solo se moja una y mira. Es lo que hacemos las ranas con lo que queremos."*
+- Nezu: *"la confianza entre gente como nosotros no consiste en vaciarse los bolsillos: consiste en **declarar que los bolsillos existen**."* / Haiku de cierre: *"Camelia blanca: / quien la riega doce años / ¿jardín o jaula?"* / *"Voló el halcón / sin tocar la carroña. / Eso es tener amo… o tenerse."*
+- Yuyu: *"todos los tíos que me han vendido un sistema raro me hablaban de las reglas de entrada. Tú me has hablado de las de salida."*
+- Kinoko: *"tu savia no es una red que siente, senpai. Es una red que **quiere**."*
+- Momo, sola, sobre la libreta con la tinta corrida: *"Recordar decírselo más veces. Él cree que se le nota. No se le nota tanto como cree."*
 
-## Información que NPCs tienen sobre Akari (cambios S25)
-- **Familia Hayami**: TODA la verdad de Osaka + que murió una 3ª vez hace días (sin detalles ni Midnight) + que tiene "un bosque" (versión poética) + vigilancia de Nezu + protocolo. NO saben la cifra del Quirk ni el aspecto temporal.
-- **Nejire**: todo lo de Osaka de primera mano (estuvo dentro) + **sabe que EXISTE una 3ª muerte reciente** (presenció la confesión de la cocina; hizo su cuenta en silencio) — SIN circunstancias ni Midnight. Los detalles del D30: solo Momo.
-- **Jirō**: Osaka existe + agujero de memoria + vuelo nocturno + "algo me heló la sangre que aún no entiendo" (sin contenido). NO catálogo, NO D30.
-- **Momo**: TODO (única con los DETALLES del D30 + caja + serie S + carrete completo).
-- **La banda (7)**: la catedral de sangre (escala sala) — círculo de confianza, sala insonorizada.
-- **All Might**: la sonrisa-técnica detectada + "mi madre me la enseñó; esta noche voy a preguntarle de qué me protegía".
-- **Midoriya**: su sangre cura + Akari VE el sol (pacto de soles reafirmado; simetría de silencio).
-- **Tamaki**: olores del callejón (discreto); **Awata**: el bosque (desde la 1ª noche) + ahora su propio marco dentro.
-- **Tsubaki**: TODO lo de hace 12 años + (dedujo) que Akari iría a preguntar. Nivel real actual: desconocido qué sabe.
-- **Aizawa**: + plan de vuelo + Sōma + pared lisa. Espera el informe completo del viaje. Sigue SIN saber del D30.
+## Información que NPCs tienen sobre Akari (cambios S26)
+- **Aizawa**: + Osaka entera + **existe una 3ª muerte dentro de la UA** (sin dónde, sin quién; Momo = testigo declarado). Deuda abierta: el dónde.
+- **Nezu**: + la Oficina + la serie S + el nombre de Tsubaki + protección familiar activada. NO la 3ª muerte.
+- **Yuyu Haya**: el bosque completo (vía Nejire) + el apellido de Momo (sellado). NO conoce el Quirk real, ni Osaka, ni las muertes.
+- **Kinoko**: la savia responde y "quiere"; vio raíces en uso privado. NO conoce cifras, ni Osaka, ni el temporal.
+- **Bakugo**: confirma que Akari esconde potencia y **decide no perseguirlo**; respeta el trabajo de cuerpo.
+- **Tsuyu**: + mordida con disclosure completo (éxtasis + memoria transmitida). Sabe que Akari vio un recuerdo suyo y **cuál** (se lo contó él).
+- **Momo**: TODO (única con los detalles del D30 + caja + serie S + carrete + ahora Hosu).
 
 ## Progresión narrativa activa
-- `progreso_narrativo.csv`: marcas S25 (pm-159..pm-166) — a evaluar; SIN subidas (Quirk en tope 6/6; stats en margen Arco 2).
-- `conocimientos.csv`: con-087..con-094 (Kuroda, Sōma, archivera, Tsubaki, Oficina/serie S, hambre congénita, flores de Uehonmachi, matrícula-HPSC).
-- Hilos de Quirk abiertos: ¿puede sembrar vida SOLO (sin Yua)? · Níðhöggr/Yggdrasil (formas futuras nombradas) · propulsión por amor (autonomía por medir).
-- Maestría 6 = tope de potencial actual; potencial sube solo por hito de arco.
-- **PREFERENCIA DECLARADA DEL JUGADOR (S25 post-cierre): el próximo canje de stat apunta a PWR 4→5.** Regla aplicable (progresion_narrativa.md): 4→5 exige **6 puntos de peso PWR desde la última subida (hp-003)** + cierre de arco + dos contextos distintos + un revés real. Evidencia PWR pendiente a día de hoy: ~0 (el bote actual es carácter/OPSEC/Quirk/TEC). Vías canon: bloques de acondicionamiento con foco fuerza (peso 1 c/u), hito físico medible mayor (peso 2), sparrings Bakugo con progresión medible, aplicación bajo presión real. Ofertar rutas con `rutas-crecimiento-mha` cuando el jugador quiera.
+- **Marcas S26 propuestas, a evaluar** (`evaluar-progresion-mha`): **PWR peso 2** (el Yunque: derribo validado por Bakugo = evidencia + 2º contexto, **+ revés real** en el asalto 2) · **PWR peso 1** (bloque de hierro 1/7) · **CARÁCTER peso 3** (entregar el intel en vez de ir al callejón) · **CARÁCTER peso 2** (media declarada a Aizawa) · **CARÁCTER peso 2** (el orden ceremonial ante Momo) · **TEC peso 1** (tres tells propios en auto-sparring) · **ING peso 2** (encuadernar editor/reclutador/mercado antes de la portada) · **COO/OPSEC peso 1** (gestión del leak en caliente).
+- **PREFERENCIA DECLARADA DEL JUGADOR: el próximo canje apunta a PWR 4→5.** Requisitos (progresion_narrativa.md): 6 puntos de peso PWR desde hp-003 + cierre de arco + dos contextos distintos + un revés real. **S26 aporta por primera vez evidencia PWR real (≈3 de peso), el segundo contexto y el revés.** Faltan ~3 puntos de peso PWR: vía canon = más bloques de hierro (peso 1 c/u) y/o hito físico medible mayor (peso 2) y/o los domingos del Yunque hasta derribar a Bakugo sin que él se tire.
+- **Rutas**: RC-PWR-SEG-01 (bloque de hierro) **activa, 1/7** · RC-PWR-OPER-01 (el Yunque) **activa, serie repactada a DOMINGOS** · **candidata nueva**: auto-sparring contra avatares como método formal.
+- Maestría 6 = tope de potencial actual; el potencial sube solo por hito de arco.
 
 ## NPCs menores con potencial futuro
-- **Tsubaki Genzō** (tarjeta sin estrenar — hilo mayor). **La archivera** (única imagen en la caja). **S-1 y S-2** (¿vivos?). **Rei Kuroda** (auditora nombrada). **Ryukyu** (puerta entornada: debut del dragón). **Tamaki** (vínculo nuevo). **Lunch Rush** (dieta pro-pool iniciada de facto). **Yua** (examen UA + co-creación). Kinoko (níscalos pendientes). Vlad King (mentor blood-to-blood).
+- **Haya Yuyu** 🆕 (aliada sellada). **Togeike Chikuchi** 🆕 (Dept. General; prepara el **examen de transferencia al curso de héroes**; resentimiento declarado hacia 1-A; bajo vigilancia pasiva de polillas). **Yui Kodai** (1-B; sin ningún contacto todavía). **Tsuragamae** (jefatura de Hosu, canal de Nezu). **Ryukyu / Mount Lady / Mirko** (fichadas: Ryukyu vía Nejire post-auditoría; Mount Lady vector mediático y agencia local; Mirko **sin vector** — se gana en el terreno). **Tsubaki Genzō** (tarjeta sin estrenar). **La archivera "Yaeko"**. **S-1 y S-2**. **Rei Kuroda**. Kinoko (recién entrada). Vlad King, Lunch Rush, Yua.
 
 ## Coincidencias narrativas entre NPCs
-- **Tsubaki ↔ la Oficina ↔ Kuroda**: los tres orbitan el mismo expediente; Tsubaki va un paso por delante de la auditoría. **Awata ↔ Nighteye**: la estación de lluvias trabaja para el vidente (puente diario). **Yua ↔ Yuakari ↔ las flores de Uehonmachi**: la primavera de la hermana cataliza lo que la muerte del hermano siembra. **Reiko ↔ el D30** (huele; calla por amor). **Momo ↔ Nejire**: hermandad sellada con gratitud mutua ("la raíz te debe una").
+- **Tsubaki ↔ la Oficina ↔ Kuroda ↔ Nezu**: los cuatro orbitan el mismo expediente, y ahora se sabe que **Nezu no llega**: hay un muro por encima de él.
+- **Ryukyu ↔ Nejire ↔ las prácticas ↔ Hosu**: la agencia que acepta prácticas se decide a llamar a Nezu el mismo día en que las prácticas se convierten en el vector hacia Hosu.
+- **Mirko ↔ Hosu**: quiere ir y no va por falta de información; Akari tiene la información y no puede darla.
+- **Yuyu ↔ Nejire ↔ Momo**: el círculo de confianza crece por fuera del bosque; Momo asume la formación OPSEC de Nejire.
+- **Kinoko ↔ el micelio**: la única persona del campus capaz de entender lo que crece en su alféizar es justo quien lo tiene delante.
 
 ## Relojes de facción activos
-- **Auditoría preventiva** (Kuroda) hasta fin de semana; "Paciencia. Todavía no." sigue vigente.
-- **mis-046**: la Oficina no sabe (que sepamos) que Akari tiene la caja y el membrete. Ventaja informativa FRÁGIL.
-- **Tsubaki** sabe que Akari ya preguntó — ¿su siguiente movimiento?
-- Trazadora de Midnight (Tachibana). Vigilancia HPSC de la casa de Osaka. Beca ~julio. Cumpleaños Akari 3 jul (~D52). Boom sónico huérfano (enfriándose).
+- **Auditoría de Kuroda hasta el VIERNES** (nada de tinta; Nighteye se firma después).
+- **Hosu**: la policía peina callejón y bloque; la azotea la retiene Nezu. **El editor sigue allí.**
+- **Momo → lunes**: reparto de patrullas de Eko District + protocolo OPSEC para Nejire.
+- **Ryukyu → lunes**: llama a Nezu por prácticas.
+- **La Oficina**: no sabe (que sepamos) que Akari tiene la caja y el membrete. Ventaja informativa **frágil**.
+- **Tsubaki**: sabe que Akari ya preguntó. Su siguiente movimiento, pendiente.
+- **"Yaeko" la archivera**: sobre acolchado **ya escrito, sin remite**, sin llenar, encima de la carpeta. Mecha encendida.
+- **El micelio rojo-veteado** en el alféizar de Kinoko: creciendo despacio, sin descubrir.
+- **Togeike Chikuchi**: examen de transferencia en el horizonte.
+- Trazadora de Midnight (Tachibana). Beca ~julio. Cumpleaños de Akari 3 jul (~D52). Boom sónico huérfano (enfriándose).
 
 ## Memorias de feedback (memoria_gm.md / MEMORY.md)
-- Todas vigentes. NUEVA S25 (persistida): **etica-pulso-emocional** (canon del PC: Akari corta los pulsos emocionales inducidos ANTES de que el NPC decida; las decisiones se toman limpias — "si decides tú no tiene gracia" ≠ manipular: el control cedido se gana con honestidad, no con la mano dentro). Bien aplicadas: [[pov-mas-interesante]] (Misaki/Awata/Jirō/Kendo/Reiko/Nejire), [[no-resumir-beats-de-vinculo]] (Osaka latido a latido; ruta de olores en avance con beats rescatados), [[impacto-pov-para-anclar-miedos]] ("¿me queríais?" → POV Misaki), [[reciprocidad-proactiva-vinculos]] (Awata inicia el beso; Kendo cede el control; Tsuyu apaga el radar), [[harem-comparte-no-se-desea]] (trío de las tres coronas hub-only), [[dinamica-familiar-bosque]] (Kendo↔Momo costura de mando; clima actualizado en vivo).
+- Todas vigentes. **NUEVAS S26 (persistidas)**: [[doctrina-tiers-combate]] (contra oposición T1 con Quirk no se tira para vencer — solo el CÓMO; motor completo solo vs pares+; en handicaps narrar el freno visible) · [[aviso-opsec-esperar-confirmacion]] (aviso ⇒ handoff, no avisar y ejecutar) · [[deteccion-npc-solo-canon]] (no inventar sentidos a NPCs; Nejire NO percibe savia). Bien aplicadas: [[pov-mas-interesante]] (Momo, Tsuyu, Yuyu, la archivera, Mount Lady, Ryukyu, Mirko), [[impacto-pov-para-anclar-miedos]] (Momo llorando sola), [[reciprocidad-proactiva-vinculos]] (Nejire conduce la revelación a Yuyu), [[harem-comparte-no-se-desea]] (las tres coronas, hub-only), [[turnos-prosa-jugador]], [[costes-quirk-proporcionados]] (regeneración sin colapsos).
+- **NOTA DE MESA (S26):** el GM no escribirá contenido sexual explícito con el reparto de MHA. Los hitos íntimos se registran y se juegan por su peso emocional y sus consecuencias (marco, closeness, OPSEC, memoria transmitida), cerrando fuera de cámara.
 
 ## Para reanudar la sesión nueva
 1. Leer este archivo + `memoria_gm.md` + `MEMORY.md` + cabecera de `AGENTS.md` + avisos de `CLAUDE.md`.
-2. Saludar con cabecera 📅 (**D35 · domingo 16 jun · al despertar · Musutafu — Heights Alliance, cuarto de Momo, los tres**).
-3. Confirmar el punto: verdad de Osaka completa + serie S descubierta (mis-046); Awata = estación de lluvias; Yuakari viva en Osaka; prueba de vida diaria con Yua; trío de las tres coronas dormido.
-4. Presentar la decisión pendiente: **cómo ordena el domingo** (Nezu / informe Aizawa / cita de lluvia con Tsuyu / tarjeta de Tsubaki / pendientes de vínculo).
+2. Saludar con cabecera 📅 (**D35 · domingo 16 jun · 18:20 · Musutafu — UA, gimnasio Gamma sala 4, solo**).
+3. Confirmar el punto: el domingo NO está cerrado (queda la noche); Hosu abierto y entregado; Nezu recalibrado; Tsuyu 9 y Kinoko 4; la tarjeta sigue sin estrenar.
+4. Presentar la decisión pendiente: **cómo remata el domingo** (tarjeta de Tsubaki / Nejire / pendientes de vínculo / corregir los tells / cerrar el día).
