@@ -13,6 +13,12 @@
 - **Mudanza 7-8 jun**: fin del hostal — **despedida de la habitación 4 y su croqueta** (beat con peso). Mobiliario de savia aprobado ("el primer escritorio que hay que regar"); vecindario nuevo: Nejire en el edificio de 3º.
 - **Cierre de Arco 1 (~D30)**: abrir la caja de marcas — COO 3→4 sentenciada + pm-029..044 acumuladas (vuelo, fase 3, iniciativa…).
 
+## El mundo se mueve solo (S28) — dos relojes que Akari no oye
+
+- **STAIN SABE QUE HAY ALGUIEN.** No sabe *quién* ni *qué*, y no puede saberlo (nunca vio a Argus). Pero ha deducido bien: existe un informante con vista aérea que **retuvo la azotea a propósito**, y que **no cobró** una detención que valía una carrera entera. Eso, en su cabeza, es una credencial de pureza — la misma categoría que All Might. **El Hero Killer no está buscando a un enemigo: está buscando a alguien digno.** Esta noche sube a la azotea a ver quién mira. Si Akari vuelve a mandar un ave, hay algo esperándola. Y el día que se conozcan, Stain no atacará primero: preguntará.
+- **YAEKO ESTÁ COPIANDO EL PRIMER NODO.** El sobre sin remite deja de ser una amenaza latente y pasa a ser un **envío en curso**. Cuando llegue, Akari tiene por primera vez un mapa de **dónde está agrietada su propia pared** — tres puntos concretos, no una intuición. Complicaciones: (1) la casa de Osaka está bajo protección de Nezu → **un sobre sin remite se lee antes que su destinatario**; (2) Yaeko es la única fuga viva de la Oficina, y la Oficina borra memorias — si la detectan, no la matan: **la vacían**; (3) ella no puede firmar, así que Akari recibirá la verdad más importante de su vida **sin saber de quién viene**.
+- **Cruce**: los dos hilos apuntan al mismo sitio — gente que sabe algo enorme sobre Akari y elige darlo **sin cobrar**. Stain lo admira por eso; Yaeko lo hace por eso. Ninguno de los dos lo conoce.
+
 ## Deseo fuera del radar (S28) — semillas que Akari no sabe que existen
 
 - **TOGEIKE CHIKUCHI**: aprueba el examen de transferencia (~3 semanas) → **entra en 1-A**. Y entonces tiene que sentarse en la misma aula que el chico del minuto 4:12. Su rencor y su deseo apuntan al mismo sitio. El primer cruce de pasillo se escribe solo. *(¿Y si suspende? Peor: se queda fuera con las dos cosas intactas.)*

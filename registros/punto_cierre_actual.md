@@ -24,6 +24,7 @@
 - **Momo → lunes D36**: reparto de patrullas de Eko District del último año + **quién cobró** ("si hay un agujero, está en un presupuesto antes que en un tejado") + **protocolo OPSEC de 3 reglas para Nejire**.
 - **Ryukyu → lunes D36**: llama a Nezu por prácticas (no sabe nada de Akari; converge sola).
 - **El editor sigue en Hosu.** Policía peinando callejón y bloque; la azotea sin tocar.
+- 🔴 **STAIN LO HA LEÍDO (S28/D36, POV)**: deduce que alguien le dio el callejón y que **retuvo la azotea a propósito**; descarta que fuera un héroe porque **no cobró la detención**. Esta noche sube a la azotea **para ver quién mira**. No vio a Argus ni puede — es deducción pura. Ficha nueva: `enemigos.csv` → **stain-001**.
 
 ## LA VERDAD DE OSAKA / LA SERIE S (mis-046)
 - **AIZAWA YA SABE**: Osaka entera + que existe una **3ª muerte DENTRO DE LA UA** (sin dónde ni quién; Momo testigo declarado). **Deuda abierta sin fecha: "dame el DÓNDE sin el QUIÉN".**
@@ -113,7 +114,7 @@
 - **Yuyu**: decisión "en ayunas" · la cosa sin clasificar (índice, en persona) · el beso con fecha de entrega.
 - **La Oficina**: no sabe (que sepamos) que Akari tiene la caja. Ventaja **frágil**.
 - **Tsubaki**: sabe que Akari ya preguntó. Su siguiente movimiento, pendiente.
-- **Yaeko**: sobre acolchado sin remite, sin llenar. **El micelio**: creciendo despacio. **Togeike**: examen en el horizonte.
+- 🔴 **Yaeko: YA NO ESTÁ LATENTE (S28/D36, POV)** — decide meter **una hoja** en el sobre y **empieza a copiar el primer nodo**. Los *tres nodos* = tres grietas concretas en la pared de Akari (0-8 años) y **ella es la única viva que sabe cuáles**. Ojo: la casa de Osaka está bajo protección de Nezu → un sobre sin remite **se lee antes que su destinatario**. **El micelio**: creciendo despacio. **Togeike**: examen en el horizonte.
 - **Trazadora de Midnight: CERRADA** — la corrección 9,5→10 **llegó al fax de Tachibana 3 días después**. El 9,5 fue Nemuri **ocultando lo que sentía**, y por ser el **único no-10 del expediente trimestral** de Akari, la omisión resultó en **señal**: encendió bengala. (Corregido en S28 por el jugador.) Beca ~julio. Cumpleaños de Akari 3 jul (~D52). Boom sónico huérfano (enfriándose).
 
 ## Memorias de feedback (memoria_gm.md / MEMORY.md)
