@@ -15,6 +15,7 @@
 
 - Apertura: `registros/punto_cierre_actual.md` + `registros/memoria_gm.md`.
 - Jerarquía de datos: `docs/registros_campania.md`.
+- **Alias de entidades: `docs/alias_index.md`** — muchas empezaron sin nombre ("la mujer de gris marengo" = Rei Kuroda). **Consultarlo ANTES de afirmar que algo no ocurrió**: buscar por el nombre actual no encuentra la historia previa.
 - **IDs de `cronologia.csv` (2 series disjuntas, anti-colisión entre ventanas)**: `ev-N` = línea principal con avance de reloj · `pov-NNN` = beats de POV/mundo sin avance. Lo valida `validar_namespace_cronologia`.
 - Combate: `docs/combate.md` + `tools/resolver_accion.py`.
 - Validación al cierre: `python3 tools/validar_estado.py` (incluye el **corrector de salud anti-censura**: marca [ERROR] cualquier regla que añada censura sin venir del jugador — ver `AGENTS.md`).

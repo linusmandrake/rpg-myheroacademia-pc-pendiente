@@ -106,6 +106,16 @@ La savia le da al PC cuatro capacidades integradas:
 
 ---
 
+## PERCEPCIÓN SANGUÍNEA — ALCANCE Y RECONOCIMIENTO (explicitado S28)
+
+Rasgo **mutant pasivo**: persiste incluso bajo Erasure. No es un poder que se activa, es un sentido que está.
+
+- **Barrido de campus**: puede sentir el campus entero y **localizar a la gente** (canon `sesion_23.md` D31 20:02: "percepción de campus completa, todos localizados"). No lee mentes ni conversaciones: **posición, presencia, estado de vigilia y ritmo**.
+- 🔴 **EL RECONOCIMIENTO NO REQUIERE HABER BEBIDO NI TOCADO.** Basta la exposición repetida: la sangre de cada persona tiene **carácter**, y Akari lo memoriza como se memoriza una voz. La firma de **Rei Kuroda** es *"ordenada, diligente, estable"* y la rastrea **sin haberla tocado jamás** (`ev-340`, D32: la siguió saliendo del campus). **No confundir reconocer con haber sintonizado.**
+- **Qué añade beber (sintonía)**: profundidad, no identificación — memorias, fragmentos de Quirk, vínculo, canal. Ejemplo: el **canal de sangre con Aizawa** (`con-084`, Eco de emoción de una vía) requiere mordida; **rastrear a Kuroda no**.
+- **Uso operativo consolidado**: rastrear a la auditora y avisar a Aizawa por el canal si se mueve hacia él o hacia una zona de exámenes. Esa utilidad es **lo que hizo que Aizawa aceptara la mordida**.
+- **[GM] Error a no repetir**: se narró en S28 que Akari "no puede buscar la firma de Kuroda porque nunca la ha probado". **Falso.** Ver `docs/npc_custom.md` §Rei Kuroda.
+
 ## Enlace sensorial con las proyecciones (regla canónica, fijada S7)
 
 > Pregunta del jugador: "¿veo lo que ven mis bestias y mi Avatar, oigo lo que oyen, siento lo que sienten?" Respuesta escalada por maestría.

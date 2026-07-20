@@ -49,7 +49,7 @@
 - Sin Quirk conocido. Doctrina de trabajo: gris, correcta, sin tinta. Su línea: **Instituto Médico Sōma + hace 12 años**. Misión confirmada: **verificar el activo** ("aquí dentro alguien lo protege" → confirmado; cierre interno: *"Paciencia. Todavía no."*).
 - **NO es la archivera "Yaeko"** (74, guantes blancos, quien ejecutó el borrado). Misma maquinaria, extremos opuestos del mismo expediente. **OJO homonimia**: sin relación conocida con el Sabueso (Kuroda) de Naka-ku.
 - **[GM: su ángulo humano — es la única pieza del aparato que puede ser VUELTA, porque es la única con algo que reconciliar: necesita saber si lo que firmó de becaria fue medicina o condena. No revelar de golpe; se gana.]**
-- **Continuidad**: hasta S27 **nunca ha aparecido en cámara** ante Akari — es nombre, presión ambiental y reloj ("hasta el viernes"). El primer cara a cara está sin gastar.
+- **Continuidad (CORREGIDO S28 — mi afirmación anterior de que "nunca ha aparecido en cámara" era FALSA)**: Akari **la ha visto varias veces** (exámenes, campus) y **la rastrea con frecuencia por percepción sanguínea** — su firma es *"ordenada, diligente, estable"*. Evidencia: `ev-340` (D32: rastreada saliendo del campus **mirándolo a él a propósito**) y `sesion_23.md` (D31 20:02: localizada **despierta en sus aposentos** en un barrido completo de campus). Ese rastreo es lo que sostiene el **canal de sangre con Aizawa** (`con-084`): Akari puede avisarle si ella se mueve hacia él o hacia una zona de exámenes. **Lo que NO ha habido es contacto físico ni conversación**: nunca la ha tocado ni le ha hablado.
 - Estado vivo en `registros/enemigos.csv` (kuroda-rei-001).
 
 ## Togeike Chikuchi — Departamento General — S26 / interioridad S28
