@@ -161,3 +161,8 @@ Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el bo
 - Petición explícita: explorar la versión oscura de Akari en algún momento. No es giro ni caída: es la misma lógica seguida más lejos. El día que **el cálculo de supervivencia y la política moral dejen de apuntar al mismo sitio**, se ve qué sostiene de verdad.
 - Material sembrado (no inventar nada): la mascarada (mentira por omisión sostenida = puerta entornada) · el rewind (hacer algo y que no haya pasado; coste interno) · la bestia (casi mata a Midnight) · el borrado latente (él puede tener un cálculo simétrico) · **Stain y Chisaki: dos ofertas de gente que le daría la razón**.
 - Dirección: no forzar con dilemas de cartón; opciones limpias con precio real y sucias que funcionan; si mata sin autorización, consecuencias (legales/facción/OPSEC/vínculos), no juicio moral; nunca tratar la bondad previa como ingenuidad retrospectiva.
+
+## Sembrados en S28 (D36 mañana) — Yui Kodai, la ancla que no se mira
+- **Yui Kodai / Rule (1-B)**: primer contacto hecho. La ancla de la operación de Kinoko confirmada en persona: cuida sin ruido, no se percata de que la miran (canon: fan club en middle school *sin saberlo*). ¿Quién le dice a esta chica que la gente la ve — y qué pasa cuando se entera?
+- **La ética del vaso y el té**: "si agrandara el TÉ, sería trampa". Una regla de personaje compartimentada mejor que muchos contratos pro. Si el bosque algún día la mira, esta es su puerta: la precisión de lo que está permitido.
+- **El jabón de yuzu**: "la única virtud que le encuentro a lunes". Primera moneda. La próxima taza agrandada es excusa de conversación.
