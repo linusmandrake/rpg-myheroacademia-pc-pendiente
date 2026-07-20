@@ -402,6 +402,46 @@ def validar_anticensura() -> list[str]:
     return avisos
 
 
+def validar_namespace_cronologia() -> list[str]:
+    """Los beats de mundo/POV sin avance de reloj usan el prefijo pov-.
+
+    Dos ventanas escriben en cronologia.csv a la vez. La linea principal usa
+    ev-N correlativo; los beats sin avance de reloj usan pov-NNN, un espacio
+    de nombres disjunto para que no puedan colisionar NUNCA (un bloque
+    numerico reservado solo aplaza el choque hasta que la serie lo alcanza).
+    Excepciones historicas: IDs anteriores a la convencion ya referenciados.
+    """
+    HISTORICOS = {"ev-382", "ev-389"}
+    avisos: list[str] = []
+    path = REGISTROS / "cronologia.csv"
+    if not path.exists():
+        return avisos
+    try:
+        with open(path, newline="", encoding="utf-8") as f:
+            rows = list(csv.reader(f, strict=True))
+    except (csv.Error, OSError):
+        return avisos
+    for linea, row in enumerate(rows[1:], start=2):
+        if not row or row[0].startswith("#") or len(row) < 2:
+            continue
+        ident, fecha = row[0].strip(), row[1]
+        if ident in HISTORICOS:
+            continue
+        sin_reloj = "sin avance de reloj" in fecha or "BEATS DE MUNDO" in fecha
+        if sin_reloj and not ident.startswith("pov-"):
+            avisos.append(
+                f"[ERROR] cronologia.csv:{linea}: '{ident}' es un beat sin avance "
+                "de reloj y debe usar el prefijo 'pov-' (espacio de nombres "
+                "reservado anti-colision entre ventanas)."
+            )
+        elif not sin_reloj and ident.startswith("pov-"):
+            avisos.append(
+                f"[ERROR] cronologia.csv:{linea}: '{ident}' usa el prefijo 'pov-' "
+                "pero avanza el reloj; la linea principal usa 'ev-N'."
+            )
+    return avisos
+
+
 def validar_csv(nombre: str, columnas_esperadas: list[str]) -> list[str]:
     """Devuelve lista de warnings/errores para un CSV."""
     warnings = []
@@ -445,6 +485,7 @@ def main() -> int:
     avisos.extend(validar_identificadores())
     avisos.extend(validar_auditoria_direccion())
     avisos.extend(validar_anticensura())
+    avisos.extend(validar_namespace_cronologia())
 
     for aviso in avisos:
         print(aviso)

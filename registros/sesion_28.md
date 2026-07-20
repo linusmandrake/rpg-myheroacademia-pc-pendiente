@@ -34,7 +34,7 @@
 
 ### Beats de mundo — D36 mañana (el foco apagado, sin avance de reloj)
 
-> Once viñetas de vida de fondo pedidas por el jugador: **qué hace cada enemigo y cada facción en su propia historia**, no contra Akari. Detalle íntegro en `cronologia.csv` (ev-907, ev-908) y en las fichas de `enemigos.csv` / `facciones_estado.csv`.
+> Once viñetas de vida de fondo pedidas por el jugador: **qué hace cada enemigo y cada facción en su propia historia**, no contra Akari. Detalle íntegro en `cronologia.csv` (pov-007, pov-008) y en las fichas de `enemigos.csv` / `facciones_estado.csv`.
 
 - **Villano del Trigger → ISHIDA GORŌ**: 41 días limpio en detención, abstinencia real, "dependencia" dicha en la vista. **No odia a Akari ni a Kendo**, y eso es lo que más le desconcierta.
 - **El avalista**: escribe a mano su informe trimestral y **sostiene a sabiendas la clasificación falsa** de Akari desde hace dos trimestres. El escudo no es inercia: es una decisión personal suya, en silencio.
@@ -96,9 +96,9 @@
 >
 > Las dos ventanas escriben en `cronologia.csv` a la vez y chocaron tres veces seguidas (`ev-388`, luego `ev-390`–`393`, luego `ev-394`–`396`). Renumerar a mano cada vez no escala.
 >
-> **Convenio nuevo**: la **línea principal de la historia** (lo que juega el PC, con avance de reloj) usa la numeración correlativa normal. Los **beats de POV / mundo sin avance de reloj** usan el **bloque reservado `ev-900+`**, que la línea principal no alcanzará nunca.
+> **Convenio nuevo**: la **línea principal de la historia** (lo que juega el PC, con avance de reloj) usa la numeración correlativa normal. Los **beats de POV / mundo sin avance de reloj** usan el **bloque reservado `pov-000+`**, que la línea principal no alcanzará nunca.
 >
-> Asignados: **ev-901** Togeike · **ev-902** Ryukyu · **ev-904** Midnight · **ev-905** Stain · **ev-906** Yaeko · **ev-907** beats de mundo I · **ev-908** beats de mundo II · **ev-909** Overhaul/Hassaikai.
+> Asignados: **pov-001** Togeike · **pov-002** Ryukyu · **pov-004** Midnight · **pov-005** Stain · **pov-006** Yaeko · **pov-007** beats de mundo I · **pov-008** beats de mundo II · **pov-009** Overhaul/Hassaikai.
 > **Excluidos del bloque a propósito**: `ev-382` (histórico de S26) y `ev-389` (POV Yuyu, de la ventana Kimi) conservan su ID original porque ya están referenciados.
 
 ## Herramienta nueva — corrector de salud anti-censura

@@ -15,6 +15,7 @@
 
 - Apertura: `registros/punto_cierre_actual.md` + `registros/memoria_gm.md`.
 - Jerarquía de datos: `docs/registros_campania.md`.
+- **IDs de `cronologia.csv` (2 series disjuntas, anti-colisión entre ventanas)**: `ev-N` = línea principal con avance de reloj · `pov-NNN` = beats de POV/mundo sin avance. Lo valida `validar_namespace_cronologia`.
 - Combate: `docs/combate.md` + `tools/resolver_accion.py`.
 - Validación al cierre: `python3 tools/validar_estado.py` (incluye el **corrector de salud anti-censura**: marca [ERROR] cualquier regla que añada censura sin venir del jugador — ver `AGENTS.md`).
 - Guardrails S19+: `docs/progresion_narrativa.md` y `docs/sistema_relaciones.md`; no son retroactivos.
