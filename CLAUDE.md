@@ -15,6 +15,7 @@
 
 - Apertura: `registros/punto_cierre_actual.md` + `registros/memoria_gm.md`.
 - Jerarquía de datos: `docs/registros_campania.md`.
+- **Niebla del bosque: `docs/niebla_bosque.md`** — grafo de quién conoce a quién. El bosque **no es una red, es una estrella**: sólo Ochaco↔Mina y Jirō↔Tōru se conocen entre sí. **La identidad de Momo es secreta.**
 - **Alias de entidades: `docs/alias_index.md`** — muchas empezaron sin nombre ("la mujer de gris marengo" = Rei Kuroda). **Consultarlo ANTES de afirmar que algo no ocurrió**: buscar por el nombre actual no encuentra la historia previa.
 - **IDs de `cronologia.csv` (2 series disjuntas, anti-colisión entre ventanas)**: `ev-N` = línea principal con avance de reloj · `pov-NNN` = beats de POV/mundo sin avance. Lo valida `validar_namespace_cronologia`.
 - Combate: `docs/combate.md` + `tools/resolver_accion.py`.
