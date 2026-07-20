@@ -10,7 +10,11 @@
 
 > **Bandas horizontales por closeness.** Momo va sola en la banda **10+**: no es un peldaño más, es el eje.
 >
-> **Las flechas sólo existen si hay conocimiento real.** El vacío significa que no se conocen — que es el caso de casi todas.
+> **Las flechas sólo existen si hay conocimiento real.** El vacío significa que no se conocen.
+>
+> **Punteadas** = Momo las conoce (una por flor). **Gruesas** = las cuatro relaciones que no pasan por ella: las dos que suben a su identidad y las dos únicas horizontales.
+>
+> 🌙 **Midnight es el único nodo sin flecha punteada.** Ese hueco es la deuda de marco del D36.
 
 ```mermaid
 graph TD
@@ -63,13 +67,41 @@ graph TD
         RE["REIKO"]
     end
 
-    B11 ~~~ B10 ~~~ B9 ~~~ B8 ~~~ B7 ~~~ B6 ~~~ B5 ~~~ B4
+    %% --- Orden vertical estricto de las bandas (de mayor a menor) ---
+    B11 ~~~ B10
+    B10 ~~~ B9
+    B9  ~~~ B8
+    B8  ~~~ B7
+    B7  ~~~ B6
+    B6  ~~~ B5
+    B5  ~~~ B4
 
+    %% --- Momo las conoce a todas (menos Midnight) ---
+    MO -.-> NE
+    MO -.-> JI
+    MO -.-> TS
+    MO -.-> OC
+    MO -.-> KE
+    MO -.-> MI
+    MO -.-> TO
+    MO -.-> ME
+    MO -.-> IB
+    MO -.-> PO
+    MO -.-> AW
+    MO -.-> YU
+    MO -.-> SE
+    MO -.-> KI
+    MO -.-> RE
+
+    %% --- Midnight NO recibe flecha de Momo: ese es el hueco ---
+
+    %% --- Las dos que suben hacia su identidad ---
     NE ==>|"sabe quién es"| MO
     YU ==>|"se le escapó a Nejire<br/>SELLADO"| MO
-    YU <-->| NE
-    OC <-->|"hermanas de bosque"| MI
-    JI <-->|"la segunda piel"| TO
+
+    %% --- Las dos únicas horizontales del bosque ---
+    OC <==>|"hermanas de bosque"| MI
+    JI <==>|"la segunda piel"| TO
 
     style MO fill:#2d5016,color:#fff,stroke:#7cb342,stroke-width:4px
     style NI fill:#4a148c,color:#fff,stroke:#ce93d8,stroke-width:2px
@@ -83,7 +115,7 @@ graph TD
 
 **Fuera del grafo por definición:** **AKARI**, que conoce a todas y es el único radio de cada una. Dibujar sus diecisiete aristas sólo taparía lo que importa.
 
-**Cuatro aristas en diecisiete flores.** Eso es el mapa entero.
+**Quince punteadas y cuatro gruesas.** Tapa las de Momo y quedan **cuatro líneas en diecisiete flores**: ése es el mapa real.
 
 ## Lectura del grafo
 
