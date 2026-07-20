@@ -44,6 +44,16 @@ El Quirk del PC (Sanguine Verdant Echo) se manifestó a los **14 años** — **t
 - **Vena oscura filosófica:** a veces se pregunta si su sangre "viva" lo hace menos humano. Esto lo acerca a Midoriya (que también tiene un Quirk complejo que lo hace dudar de sí mismo).
 - **Protector con su familia:** especialmente con su hermana Yua, que podría tener un Quirk más fuerte cuando se manifieste.
 
+## Ética del PC — REGLA DURA: AKARI NO MIENTE (canon del jugador, S28)
+
+> **Akari no miente. Salvo vida o muerte — y mucho menos a sus novias.**
+
+- No es un rasgo blando ni una tendencia: es una **regla de personaje**. El único supuesto que la levanta es que haya una vida en juego.
+- **Con las flores del bosque, ni siquiera ese supuesto es cómodo.** A ellas se les dice la verdad, aunque sea incómoda, aunque llegue a destiempo, aunque cueste una conversación larga. La honestidad es el precio que paga por un harem sin culpa: el bosque se sostiene porque nadie tiene que averiguar nada.
+- **Puede callar, aplazar o compartimentar** (OPSEC real: secretos tácticos, el Quirk temporal, la Oficina) — eso **no** es mentir. La diferencia operativa: *"eso no te lo puedo contar todavía"* es legítimo; *"eso no ha pasado"* o una coartada falsa **no lo es**.
+- **[GM]** Si un turno pone en boca de Akari una excusa falsa cómoda, es **error de dirección**, no caracterización. Corregir: darle una verdad parcial declarada como parcial, o la verdad entera.
+- **Precedente corregido**: en `ev-391` (D36, ventana paralela) figura que respondió *"gel del gimnasio"* a Ochaco. **Eso es un artefacto de registro, NO canon de conducta**: Akari no habría dado esa coartada. Anotado en `cronologia.csv`. Ver también la cláusula del preaviso del marco de Ochaco — precisamente existe para que nadie se entere de nada por el olor de un pasillo.
+
 ## Motivación (3 niveles)
 
 1. **Primaria — entender su Quirk.** ¿Por qué tiene savia? ¿Por qué retiene memoria? ¿Por qué manifiesta ecos? El PC quiere ser amo de su Quirk, no esclavo.

@@ -13,7 +13,9 @@
 - [ ] Prueba de vida diaria con **Yua** (permanente: contestar SIEMPRE antes de dormir).
 
 ## Semana (auditoría Kuroda hasta el VIERNES — gris, aburrido, correcto; NADA DE TINTA)
-- [ ] **Kendo**: "sorpréndeme, si te atreves" (arrebato pendiente; el cuándo/dónde lo cedió ella).
+- [ ] **Entregar a Nejire el sobre** con el protocolo OPSEC de 3 reglas (de Momo; está en poder de Akari).
+- [ ] **Kendo**: "sorpréndeme, si te atreves" — recordatorio de hoy: *"Sigo esperando la sorpresa, Hayami."*
+- [ ] **JUEVES D39 16:00: cita con Nezu** ("hablamos de prácticas"). 🎭 SORPRESA para Akari: dentro está **RYUKYU** (ella pidió venir; él no lo sabe).
 - [ ] **Jirō**: "aquí, con intereses" (Sala 3; del viernes).
 - [ ] **Tokoyami**: la petición de sangre y sombra (mordida anunciada — escena propia, no de pasada).
 - [ ] **Kinoko**: respuesta de ELLA a la invitación al bosque (le queda una pregunta ganada en reserva). Níscalos pendientes.
