@@ -10,9 +10,14 @@
 - Los regalos y gestos importantes reciben su propio beat.
 - Si el jugador escribe varios turnos de Akari, continuar desde ellos sin recontarlos ni apropiarse de sus decisiones.
 
-## Conducta dura del PC (S28, corrección del jugador)
+## Ética del PC (S28, matizada por el jugador)
 
-- **AKARI NO MIENTE — salvo vida o muerte, y mucho menos a sus novias.** Puede **callar, aplazar o compartimentar** (eso es OPSEC, no mentira). Una coartada falsa (decir algo que no es verdad) SÍ es mentir y no debe usarse ni como recurso ni como precedente. Cuando la verdad incomode, la forma es: verdad técnica + "ya te contaré" / "eso no es mío para contarlo" / silencio con cara. Ver `docs/personaje_akari_hayami.md` (Ética del PC) y la corrección en `cronologia.csv` (tras ev-398).
+- **Akari SÍ miente** — la mascarada del Quirk, el sandbagging, las coartadas OPSEC son mentiras por omisión sostenidas y entrenadas (ruta-008, doctrina del terremoto). La mentira estratégica es herramienta legítima de su arsenal.
+- **Con los suyos (el bosque, su gente) elige la verdad** — no por incapacidad ni por ingenuidad: es **política elegida**. *"Yo soy bueno porque quiero serlo, no porque no pueda ser oscuro."* Puede mentir, infringir, ir contra la ley, matar; elige no hacerlo. Narrar su bondad como incapacidad es caracterización incorrecta (le quita mérito y peligro).
+- **La elección es también táctica**: ser bueno —y ser percibido como bueno— mejora sus probabilidades de supervivencia (doctrina del escudo). *"Ser bueno es tácticamente superior a no serlo"* (palabras del jugador). Virtud y supervivencia **apuntan al mismo sitio, de momento**.
+- **Formas válidas con su gente**: callar, aplazar ("ya te contaré"), compartimentar (verdad técnica), declinar ("eso no es mío para contarlo"). Con su gente no usa la mentira pequeña — porque la verdad compartimentada rinde más. Si un turno le pone una excusa falsa cómoda, es error de dirección: verdad parcial declarada como parcial, o entera.
+- **La única excepción de oficio: vida en juego.** Con las flores del bosque, ni esa es cómoda.
+- **Hilo declarado: LA VERSIÓN OSCURA.** El jugador quiere explorarla en algún momento: el día que el cálculo de supervivencia y la política moral dejen de apuntar al mismo sitio. Material ya sembrado: la mascarada (puerta entornada), el rewind (rehacer sin tells), la bestia (casi mata a Midnight), el borrado latente, Stain y Chisaki como ofertas de gente que le daría la razón. Dirección: no forzar con dilemas de cartón; opciones limpias con precio real y sucias que funcionan; consecuencias, no juicio; nunca tratar la bondad previa como ingenuidad. Ver `docs/personaje_akari_hayami.md` § Ética del PC y § LA VERSIÓN OSCURA.
 
 ## POV
 

@@ -146,3 +146,8 @@ Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el bo
 - **Níðhöggr validado**: el dragón de la raíz sobrevive al fin del mundo y vuela sobre el que resurge. El nombre ya no es estética: es doctrina. Cuando debute (agencia de Ryukyu), lleva teología propia.
 - **Fáfnir, el anti-modelo**: la avaricia crece escamas. El coleccionista que buscaba "activos" es un Fáfnir de oficina — y Akari, que acumula fragmentos y personas, tiene su propia advertencia escrita: acumular sin cuidar = dragón malo.
 - **El bedel de las 22:40**: el protocolo funciona (4 segundos, mesa limpia). La biblioteca nocturna queda validada como territorio de estudio — pero la próxima vez el que pase puede no ser un bedel.
+
+## Hilo declarado por el jugador (S28) — LA VERSIÓN OSCURA
+- Petición explícita: explorar la versión oscura de Akari en algún momento. No es giro ni caída: es la misma lógica seguida más lejos. El día que **el cálculo de supervivencia y la política moral dejen de apuntar al mismo sitio**, se ve qué sostiene de verdad.
+- Material sembrado (no inventar nada): la mascarada (mentira por omisión sostenida = puerta entornada) · el rewind (hacer algo y que no haya pasado; coste interno) · la bestia (casi mata a Midnight) · el borrado latente (él puede tener un cálculo simétrico) · **Stain y Chisaki: dos ofertas de gente que le daría la razón**.
+- Dirección: no forzar con dilemas de cartón; opciones limpias con precio real y sucias que funcionan; si mata sin autorización, consecuencias (legales/facción/OPSEC/vínculos), no juicio moral; nunca tratar la bondad previa como ingenuidad retrospectiva.

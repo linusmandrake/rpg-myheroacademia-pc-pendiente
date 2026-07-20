@@ -19,7 +19,7 @@
 ## Stats, Quirk y economía al cierre
 - **PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5** (sin cambio; PWR/VEL 4 = margen de Arco 2).
 - Quirk **Sanguine Verdant Echo**: **potencial 6 / maestría 6**. Scars 0. Ileso. **Pool ~50%** (duelo + 8 avatares × 3 h). NUEVO: **Cuerpo zoórfico parcial** (patas avestruz, garras dragón), **modo fortaleza** (masa calibrable), **capullo de 3 capas**, **reciclaje con hiedra** (pool + limpieza ADN, sin memoria a bajo volumen).
-- **RULINGS VIGENTES (S26)**: avatares = pool + mantenimiento (5/h × mult.), NO atención; bestias = atención dirigida (~3 cómodas); estudio en dos tiempos con 8 avatares = capacidad M6 que devuelve DOMINIO; la savia/bestia **ES** el PC; auto-sparring = método validado (RC-TEC-OPER-02).
+- **RULINGS VIGENTES (S26)**: avatares = pool + mantenimiento (5/h × mult.), NO atención; bestias = atención dirigida (~3 cómodas **← DEROGADO S28**: canon post-M6 = **31+ bestias y 8 avatares simultáneos con holgura**; el cuello de botella es el **pool**, no la atención. Akari puede además sostener sangre **por encima** de su pool, aunque hoy no la tenía); estudio en dos tiempos con 8 avatares = capacidad M6 que devuelve DOMINIO; la savia/bestia **ES** el PC; auto-sparring = método validado (RC-TEC-OPER-02).
 - Saldo **¥95.770 · SIN DEUDAS** (cero movimientos en D35; la cena la pagó Nejire). Beca ~julio.
 
 ## LA NOCHE DE YUYU (S27) — lo que cambió

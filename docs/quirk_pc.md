@@ -493,7 +493,7 @@ Las bestias son criaturas de la savia. Tienen coste de invocar, coste de manteni
 | Bestia humanoide compleja | 25 unidades + 5/h | **12,5 + 2,5/h** |
 | Enjambre de 5 bestias | 50 unidades + 15/h | **25 + 7,5/h** |
 
-**Referencia operativa a M6 (pool 132):** invocar una bestia cuesta el **3,8 % del pool**. Sostener 3 bestias una hora ≈ 4,5 (3,4 %). El techo teórico de invocaciones en seco es ~26 bestias antes de vaciar el pool — pero **el cuello de botella real es la atención dirigida (~3 cómodas, ruling S26)**, no la sangre. Y recuérdese: **el coste es por invocación, no por masa** — una bestia de 20 kg y una de 1,2 kg cuestan lo mismo.
+**Referencia operativa a M6 (pool 132):** invocar una bestia cuesta el **3,8 % del pool**. Sostener 3 bestias una hora ≈ 4,5 (3,4 %). El techo teórico de invocaciones en seco es ~26 bestias antes de vaciar el pool — pero **el cuello de botella real es el POOL, no la atención** — el ruling S26 de "~3 bestias cómodas" quedó **DEROGADO en S28**: el canon post-resurrección (M4→M6) es **31+ bestias y 8 avatares simultáneos, con holgura para más**. Akari puede además sostener sangre **por encima** de su pool máximo. Y recuérdese: **el coste es por invocación, no por masa** — una bestia de 20 kg y una de 1,2 kg cuestan lo mismo.
 
 ### Necesidades de las bestias (alimentación)
 
