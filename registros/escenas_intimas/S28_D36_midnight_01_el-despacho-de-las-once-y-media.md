@@ -1,6 +1,6 @@
 # El despacho de las once y media
 
-> **Midnight — primera vez.** Sesión 28 · Curso 1 · Trimestre 1 · Día 36 (lunes 17 jun) · 23:23–23:53
+> **Midnight — primera vez.** Sesión 28 · Curso 1 · Trimestre 1 · Día 36 (lunes 17 jun) · 23:23–00:02
 > **Ubicación**: UA, edificio de profesorado, ala este, segunda planta — despacho de Nemuri Kayama. Pestillo echado.
 > **Participantes**: Akari Hayami · Nemuri Kayama "Midnight" (37)
 
@@ -14,6 +14,8 @@
 | Marco | tabú-profesora **con fecha** ("mientras mi firma valga puntos sobre ti: no") | 🔴 **BARRERA CAÍDA.** Ver nota de mesa abajo. |
 
 **Mecánica gastada**: Eco de resonancia 0→6→0 · drenaje tipo A (coste 8, recupera 30, **neto +22**; pool ~50% → ~67%; −1 PWR_quirk 1 h) · mordida sellada sin marca · **fragmento SOMNUS obtenido, sin estrenar**.
+
+**Reciprocidad**: ella **toma la iniciativa** al final y se lo cobra por su cuenta (*"no es un pago, no es cortesía: llevo meses queriendo"*) — Akari **se deja dar**, que es lo que de verdad le costaba.
 
 **Consecuencias abiertas**: el pen con la propuesta de corrección ciega en manos de Akari · campaña estudiantil a lanzar **el lunes que viene** (Kuroda se va el viernes) · **floración nueva → deuda de marco con Momo, cara a cara** · Akari no le ha dicho que su Somnus se estaba escapando.
 
@@ -368,6 +370,78 @@ Vuelve a bajar la cabeza. Y sigue lamiéndola —más suave ahora, más lento, s
 —Espera —dice, con un hilo de voz, sin ninguna convicción—. Espera, espera, no puedo… no puedo otra vez…
 
 Pero no cierra las piernas.
+
+## 23:54 · POV Nemuri — la cuenta que él no sabe hacer
+
+Le sigue la boca ahí abajo y ella ya no sabe qué hacer con su propio cuerpo.
+
+Está pasada de vueltas. Cada roce le llega multiplicado y le sale un quejido que no tiene nada que ver con placer y tampoco con dolor, algo intermedio y ridículo, y las manos que tiene en su pelo no están apartándole, sólo están **puestas**, porque no le quedan instrucciones que dar. Lo que dice su boca —*no puedo, espera, no puedo otra vez*— y lo que hacen sus piernas no se están hablando entre ellos.
+
+Y por debajo del jaleo hay una cosa quieta que no logra clasificar. La mordida.
+
+Se pasa la mano por el muslo, por donde estaban los dientes, y no hay nada. Ni marca, ni sangre seca, ni relieve. Piel. Como si se lo hubiera imaginado. No se lo ha imaginado. Todavía tiene el eco de aquello dentro, en algún sitio que no es la pierna, y no encuentra la palabra. Ella tiene palabras para todo — es su asignatura, la retórica del cuerpo, el vocabulario de lo que no se dice. Y no tiene una para esto.
+
+Porque le ha bebido. Le ha sacado sangre de dentro, se la ha tragado, y en lugar de sentirse robada se ha sentido **leída**. Un segundo largo en el que alguien la miró entera por dentro —no el cuerpo, no la heroína, no la mujer del cartel de la línea Yamanote— y no pidió que fuera divertida, ni que fuera fuerte, ni que estuviera bien.
+
+Nemuri Kayama lleva desde los diecinueve años decidiendo cómo la miran. Y esta noche, un crío le ha quitado el volante otra vez, y ha sido lo mejor que le ha pasado en años.
+
+Se incorpora sobre un codo con un esfuerzo enorme y le mira la coronilla, la nuca, los hombros. Sigue de rodillas. En el suelo de su despacho. Sobre exámenes tirados. Y lleva ahí desde hace un rato dando y dando sin haber pedido absolutamente nada, y ahí es donde a Nemuri se le termina de romper una idea que traía muy fija.
+
+*Se cree que se lleva la peor parte.*
+
+Y no tiene ni idea, piensa, con una ternura que le hace daño. **No tiene ni idea de lo que acaba de llevarse.** Once días de un documento que ella no podía enviar. Su vergüenza entera, desmontada en veinte segundos con una solución que además le cuesta a él. La única pregunta que nadie le hace a Midnight, hecha. Y un trago de ella, que es lo más honesto que ha pasado en este despacho en quince años.
+
+—Para —dice.
+
+Y esta vez sí lo dice de verdad, y él para, y ella le agarra del pelo y tira hacia arriba, no con fuerza, con dirección. Se sienta del todo en el borde de la mesa. Le pone las rodillas a los lados de las caderas y lo mantiene ahí de pie, entre sus piernas, a la altura justa. Tiene la boca brillando. Nemuri se la limpia con el pulgar y luego se lleva el pulgar a la lengua, sin dejar de mirarle, porque hay cosas que sigue haciendo por deporte.
+
+Y después le pone las dos manos en el cinturón.
+
+—Ni se te ocurra decirme que no hace falta. No es un pago, no es cortesía y no me estoy portando bien contigo. Es que **llevo meses queriendo**, y esta noche ya no queda ni una sola razón sobre esta mesa para no hacerlo.
+
+Empieza a desabrochar.
+
+—Y como me pares por tercera vez, Hayami, te suspendo.
+
+## 23:56 · Dejarse dar
+
+No la para.
+
+Es más difícil de lo que parece. Lleva toda la noche —lleva todo el día, lleva meses— en modo dar, y hay algo en él que se pone en pie automáticamente cada vez que alguien le ofrece algo, una especie de reflejo de apartar la mano. Lo nota subir. Y lo deja pasar.
+
+Y le dice que sí sin decir nada, que es lo que ella está esperando.
+
+Nemuri lo ve en su cara y sonríe de una manera que no le había visto nunca — no la sonrisa de heroína, no la de profesora, no la que sale en las vallas publicitarias. Una privada, torcida, con muchísima hambre debajo.
+
+Le baja el pantalón y la ropa interior de un tirón y se le escapa un sonido cuando le ve, un *"oh"* corto y sincero, y se desliza de la mesa al suelo.
+
+Nemuri Kayama, de rodillas en su propio despacho, entre los exámenes que ha tirado ella misma.
+
+Y en el segundo antes de que le toque, la cabeza de él —esa cabeza que no se apaga nunca— hace la comprobación: el aire. Papel, sudor, ella. Ni rastro del hilo dulce. Su Quirk está donde tiene que estar. **La bomba sigue desarmada.**
+
+Entonces se lo mete en la boca y él deja de pensar por completo.
+
+Es cálido y es húmedo y es **lento**, sobre todo lento, porque no está haciendo un trabajo: está tomándose algo. Le recorre entero con la lengua antes de hacer nada más, despacio, con los ojos cerrados, como quien prueba primero. Cuando baja lo hace hasta el fondo y se queda ahí, tragando alrededor, y él tiene que apoyar una mano en la mesa.
+
+Y luego encuentra el ritmo y ya no lo suelta. Una mano en la base, la otra abierta sobre su muslo. Sube, baja, chupa, se saca la polla de la boca para pasarle la lengua entera de abajo arriba y volver a tragársela, y le mira desde ahí. Eso es lo que le destroza: que le mire. Con la boca llena y el rímel corrido y esa cara suya que conoce medio país, y que la esté mirando **sólo él**, a las doce menos cuarto de la noche, en una habitación con el pestillo echado.
+
+Le aparta el pelo de la cara con una mano y ella emite un sonido de aprobación que él siente por toda la columna. Cuando le apoya la palma en la nuca, sin empujar, sólo estando ahí, ella sube una mano y **se la aprieta contra su propia nuca** — dejando claro quién ha decidido esto.
+
+No dura mucho. No podía durar mucho. Lleva veinte minutos aguantando, y lleva un día entero que empezó con Yuyu en una cama de 120 y pasó por un profesor al que le hizo una reverencia, una diana a 1.320 metros y ocho versiones de sí mismo leyendo sobre un dragón que sobrevive al fin del mundo.
+
+Se lo dice. La avisa, con la voz hecha polvo.
+
+Y ella no se aparta. Baja del todo, le agarra el culo con las dos manos y le sujeta ahí, y él se vacía en su boca con un temblor que le sube desde las rodillas mientras ella traga y sigue chupando, más despacio, hasta el final, hasta que le tiemblan las piernas de verdad y tiene que decirle que pare.
+
+Se separa. Se limpia la comisura con el pulgar, mirándole todo el rato. Y se levanta.
+
+Y hace lo último, que es lo que él no esperaba: le abraza. De pie, en medio del despacho, con la ropa de los dos hecha un desastre, la cara metida en su cuello y los brazos alrededor de su espalda.
+
+—Ahí lo tienes —dice, contra su piel—. Ya no eres el que se lleva la peor parte.
+
+Y luego, más bajo, casi para ella:
+
+—Qué bien se está.
 
 ---
 
