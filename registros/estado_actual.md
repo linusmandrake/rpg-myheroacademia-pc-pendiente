@@ -5,7 +5,7 @@
 El día más denso de la campaña: **tres floraciones** (Yuyu, Tsuyu a 10, Midnight), un muro que lo hizo rendirse y una diana a 1.320 metros perforada veinte minutos después — y Akari duerme en la cama de Ochaco con una propuesta de cambio de sistema de evaluación en el bolsillo y tres relojes ajenos corriendo hacia él sin que lo sepa.
 
 ## PC
-**Akari Hayami "Sanguine"** — PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5 · Quirk *Sanguine Verdant Echo* **potencial 6 / maestría 6** · pool 132 (**~67%** al cierre, tras el drenaje de Midnight) · scars 0 · ileso · saldo ¥95.770 sin deudas.
+**Akari Hayami "Sanguine"** — PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5 · Quirk *Sanguine Verdant Echo* **potencial 6 / maestría 6** · pool 132 (**~lleno** al cierre — la regen M6 ×10 = 10/h rebasa el gasto del día) · scars 0 · ileso · saldo ¥95.770 sin deudas.
 **Aspectos consolidados hoy**: cuerpo zoórfico parcial (patas de avestruz, garras de dragón) · modo fortaleza (masa calibrable) · capullo de 3 capas · reciclaje con hiedra (pool + limpieza de ADN) · **bestia-proyectil**.
 **Rulings nuevos**: bestias = **masa biológica animada por su sangre**, coste por invocación y **nunca por masa** · 31+ bestias y 8 avatares simultáneos (el ruling de "~3 cómodas" queda derogado) · invoca **lo que imagina**; el conocimiento **especifica**, no desbloquea.
 

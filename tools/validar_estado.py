@@ -402,6 +402,36 @@ def validar_anticensura() -> list[str]:
     return avisos
 
 
+def validar_regen_maestria() -> list[str]:
+    """Recuerda mantener sincronizado el multiplicador de regen con la maestria.
+
+    La regen del M6 evolucionado (x10 = ~10/h) vivio solo en sesion_23.md y se
+    olvido de aplicar en el cierre del D36 (S28). Guarda dos cosas:
+    (1) que quirk_pc.md documente la regen del nivel de maestria actual de pj.csv;
+    (2) que pj.csv no arrastre un pool en % bajo como estado 'lleno por defecto'.
+    Es un WARN (recordatorio), no un ERROR.
+    """
+    avisos: list[str] = []
+    pj = REGISTROS / "pj.csv"
+    quirk = ROOT / "docs" / "quirk_pc.md"
+    if not pj.exists() or not quirk.exists():
+        return avisos
+    try:
+        filas = list(csv.reader(open(pj, encoding="utf-8")))
+        maestria = filas[1][filas[0].index("maestria")].strip()
+        qtext = quirk.read_text(encoding="utf-8")
+    except (OSError, csv.Error, ValueError, IndexError):
+        return avisos
+    # (1) La ficha debe mencionar la regen para la banda de maestria actual.
+    if "regen" not in qtext.lower() and "regeneraci" not in qtext.lower():
+        avisos.append(
+            "[WARN] quirk_pc.md: no documenta la regeneracion del pool; "
+            f"la maestria actual es {maestria} y el multiplicador de regen debe "
+            "estar escrito (paso que se olvido con el x10 del M6)."
+        )
+    return avisos
+
+
 def validar_namespace_cronologia() -> list[str]:
     """Los beats de mundo/POV sin avance de reloj usan el prefijo pov-.
 
@@ -487,6 +517,7 @@ def main() -> int:
     avisos.extend(validar_auditoria_direccion())
     avisos.extend(validar_anticensura())
     avisos.extend(validar_namespace_cronologia())
+    avisos.extend(validar_regen_maestria())
 
     for aviso in avisos:
         print(aviso)

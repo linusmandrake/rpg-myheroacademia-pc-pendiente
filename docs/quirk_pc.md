@@ -408,15 +408,15 @@ El PC tiene un **pool de sangre** que es el combustible de su Quirk. **No es lo 
 
 ### Reducción de coste por maestría
 
-La maestría reduce el coste de uso de los aspectos:
+La maestría reduce el coste de uso de los aspectos **Y sube la regeneración** (ver §0, regla operativa del pool). 🔗 **Al conceder una subida de maestría en el cierre, revisar la fila nueva y actualizar el multiplicador de regen en §0 y en `pj.csv`** — es el paso que se olvidó con el ×10 del M6.
 
 | Maestría | Reducción general |
 |---|---|
 | **M1–2** (early) | Coste ×1.0 (full) |
 | **M3–4** (mid) | Coste ×0.7 |
-| **M5–6** (mid-end) | Coste ×0.5 |
+| **M5–6** (mid-end) | Coste ×0.5 · **regen ×10 (~10/h) desde el M6 evolucionado** |
 | **M7–8** (endgame early) | Coste ×0.3 |
-| **M9–10** (endgame) | Coste ×0.1, recuperación ×2 |
+| **M9–10** (endgame) | Coste ×0.1 · regen aún mayor / instantánea |
 
 **Ejemplo a M5:** invocar Avatar cuesta 20 × 0.5 = **10 unidades** en vez de 20. Mantener Avatar 5 × 0.5 = **2.5/h** en vez de 5. Rewind 15 × 0.5 = **7.5 unidades** en vez de 15.
 
@@ -1336,6 +1336,18 @@ El GM usa estos momentos para dar peso narrativo a las relaciones, no para "faci
 > **Principio rector:** la sangre se recupera con descanso, comida, hidratación, savia, atención médica, e intimidad. Todo es recuperable, todo es temático, todo encaja con el tono 18+ adulto.
 
 ---
+
+## 0. ⚠️ REGEN DEL M6 EVOLUCIONADO — REGLA OPERATIVA (formalizada S28; existía desde S23 sin estar en esta ficha)
+
+> **A partir del M6 evolucionado (S23), la regeneración pasiva es ×10: ~10 unidades/hora por defecto.** Es un rasgo del Quirk despierto, no de la tabla genérica de abajo (que describe M1–4). Estaba en `sesion_23.md` y `sesion_26.md` ("regeneración ×10 activa por defecto") pero **no se había copiado aquí**, y por eso el D36 se cerró sin aplicarla. Fijado.
+
+- **Tasa base M6: ~10/h** (×10 sobre la base humana de 1/h). Modificadores de sueño/comida/entorno seguro se suman encima.
+- 🔴 **CONSECUENCIA ANTI-OLVIDO — EL POOL SE RELLENA SOLO.** Con 10/h, **por defecto, al abrir una escena nueva o un día, el pool de Akari está a TOPE (132)**. La sangre **deja de ser un límite operativo diario**. Solo hay que trackear déficit en dos casos:
+  1. **Drenaje sostenido**: muchas bestias/avatares mantenidos durante horas (p. ej. 8 avatares = 12/h de mantenimiento, que supera los 10/h de regen → déficit lento). Aun así se recupera en 1–2 h de descanso.
+  2. **Pico instantáneo enorme**: una invocación masiva de golpe. Se rellena en ~2–4 h.
+- **Fuera de esos dos casos, no se lleva contabilidad hora a hora: el pool está lleno.** Este es el mecanismo para que no se vuelva a olvidar — el defecto es *lleno*, no *lo que quedó de ayer*.
+- No cancela el desangramiento agudo ni los counters (fuego, quirk supresor −3/h, herida abierta −2/h): esos siguen restando sobre el +10.
+- 🔗 **AL SUBIR DE MAESTRÍA, ACTUALIZAR ESTE MULTIPLICADOR** en la tabla de §*Reducción de coste por maestría* (más abajo): el ×10 es de M6; M7-8 y M9-10 tienen su propia banda. Este es el punto que se olvidó una vez (el ×10 vivía solo en `sesion_23.md`); el enlace cruzado existe para que no se repita.
 
 ## 1. Recuperación pasiva (base)
 

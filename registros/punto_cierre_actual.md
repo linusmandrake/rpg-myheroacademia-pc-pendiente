@@ -34,7 +34,7 @@
 
 ## Stats, Quirk y economía al cierre
 - **PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5** (sin cambio; PWR/VEL 4 = margen de Arco 2).
-- Quirk **Sanguine Verdant Echo**: **potencial 6 / maestría 6**. Scars 0. Ileso. **Pool ~67%** (duelo + 8 avatares × 3 h, recuperado con el drenaje A de Midnight: neto +22). NUEVO: **Cuerpo zoórfico parcial** (patas avestruz, garras dragón), **modo fortaleza** (masa calibrable), **capullo de 3 capas**, **reciclaje con hiedra** (pool + limpieza ADN, sin memoria a bajo volumen).
+- Quirk **Sanguine Verdant Echo**: **potencial 6 / maestría 6**. Scars 0. Ileso. **Pool ~LLENO (~132)**: la regen del M6 evolucionado es **×10 (10/h)** y en 17,5 h de día rebasa cualquier gasto; el drenaje A de Midnight (+22) fue excedente sobre el tope. **Regla operativa: por defecto el pool está LLENO al abrir escena/día** (solo déficit por drenaje sostenido o pico instantáneo). NUEVO: **Cuerpo zoórfico parcial** (patas avestruz, garras dragón), **modo fortaleza** (masa calibrable), **capullo de 3 capas**, **reciclaje con hiedra** (pool + limpieza ADN, sin memoria a bajo volumen).
 - **RULINGS VIGENTES (S26)**: avatares = pool + mantenimiento (5/h × mult.), NO atención; bestias = atención dirigida (~3 cómodas **← DEROGADO S28**: canon post-M6 = **31+ bestias y 8 avatares simultáneos con holgura**; el cuello de botella es el **pool**, no la atención. Akari puede además sostener sangre **por encima** de su pool, aunque hoy no la tenía); estudio en dos tiempos con 8 avatares = capacidad M6 que devuelve DOMINIO; la savia/bestia **ES** el PC; auto-sparring = método validado (RC-TEC-OPER-02).
 - Saldo **¥95.770 · SIN DEUDAS** (cero movimientos en D35; la cena la pagó Nejire). Beca ~julio.
 

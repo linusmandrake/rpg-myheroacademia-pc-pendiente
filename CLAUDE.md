@@ -20,6 +20,7 @@
 - **IDs de `cronologia.csv` (2 series disjuntas, anti-colisión entre ventanas)**: `ev-N` = línea principal con avance de reloj · `pov-NNN` = beats de POV/mundo sin avance. Lo valida `validar_namespace_cronologia`.
 - Combate: `docs/combate.md` + `tools/resolver_accion.py`.
 - **Escenas íntimas: `registros/escenas_intimas/`** (convención de nombres en su `INDEX.md`). Toda escena íntima con peso se vuelca ahí **en el mismo turno en que se juega**, íntegra y sin recortes — no se deja para el cierre.
+- **Pool de sangre a M6**: regen **×10 (~10/h)** → el pool está **LLENO por defecto** al abrir escena/día; no arrastrar el % de ayer (ver `docs/quirk_pc.md` §0 y memoria `regen-pool-m6-lleno`). Al subir maestría, actualizar el multiplicador.
 - Validación al cierre: `python3 tools/validar_estado.py` (incluye el **corrector de salud anti-censura**: marca [ERROR] cualquier regla que añada censura sin venir del jugador — ver `AGENTS.md`).
 - Guardrails S19+: `docs/progresion_narrativa.md` y `docs/sistema_relaciones.md`; no son retroactivos.
 - Próxima sesión: `registros/preparacion_s19_examen.md`.
