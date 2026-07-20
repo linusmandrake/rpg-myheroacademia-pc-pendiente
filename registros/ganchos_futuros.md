@@ -13,6 +13,16 @@
 - **Mudanza 7-8 jun**: fin del hostal — **despedida de la habitación 4 y su croqueta** (beat con peso). Mobiliario de savia aprobado ("el primer escritorio que hay que regar"); vecindario nuevo: Nejire en el edificio de 3º.
 - **Cierre de Arco 1 (~D30)**: abrir la caja de marcas — COO 3→4 sentenciada + pm-029..044 acumuladas (vuelo, fase 3, iniciativa…).
 
+## LOS SHIE HASSAIKAI (S28) — la facción que converge con Nighteye
+
+- **Vector de entrada: `mis-045`.** Akari firma con **Sir Nighteye tras el viernes**, y los Hassaikai son *su* obsesión. No hace falta forzar nada: el hilo ya está atado. El día que Nighteye le enseñe su pared de fotos, Akari entra en el arco por la puerta natural.
+- **Reloj propio encendido, sin relación con Akari**: la producción falla a las 8 h y **queda poco material** → la explotación de Eri se acelera esta semana. El reloj corre aunque nadie lo mire.
+- 🔴 **Tres resonancias que este arco tiene con el PC y que hay que jugar sin subrayarlas**:
+  1. **Fabrican borrado de Quirks.** Lo que para Akari es una amenaza existencial abstracta ("el borrado latente-paciente"), los Hassaikai lo han convertido en **un producto con precio**. El día que lo sepa, la amenaza deja de ser una posibilidad institucional y pasa a ser algo que se compra en un maletín.
+  2. **Eri es S-3 con otro membrete.** Menor cosechada por una organización que la llama *material*. Akari fue exactamente eso para la Oficina. **Él es la única persona de este país que sabe por dentro lo que es ser un activo con custodia.**
+  3. **El Quirk de Eri se llama Rewind** — y `quirk_pc.md:298` ya canonizó que el Eco de Akari **NO** es el poder de Eri. Mantener la distinción: el parecido es un espejo temático, no una equivalencia mecánica. No confundirlos nunca.
+- **Sin alianza con la Liga**: desprecio explícito de Chisaki. Son **tres** corrientes villanas que no se conocen entre sí (editor / reclutador / mercado) más **una cuarta que las desprecia a todas** y que va por libre.
+
 ## El mundo se mueve solo (S28) — dos relojes que Akari no oye
 
 - **STAIN SABE QUE HAY ALGUIEN.** No sabe *quién* ni *qué*, y no puede saberlo (nunca vio a Argus). Pero ha deducido bien: existe un informante con vista aérea que **retuvo la azotea a propósito**, y que **no cobró** una detención que valía una carrera entera. Eso, en su cabeza, es una credencial de pureza — la misma categoría que All Might. **El Hero Killer no está buscando a un enemigo: está buscando a alguien digno.** Esta noche sube a la azotea a ver quién mira. Si Akari vuelve a mandar un ave, hay algo esperándola. Y el día que se conozcan, Stain no atacará primero: preguntará.
