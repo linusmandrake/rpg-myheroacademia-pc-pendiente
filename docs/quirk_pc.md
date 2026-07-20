@@ -226,7 +226,7 @@ Toda tabla que diga "savia aliado/cooperativo/neutral/resentido/enemigo" se lee 
 Las tablas de fase mezclan "stats 5-6, maestría 3-5". Regla: **la maestría manda** para capacidades del Quirk; los stats miden el cuerpo. Akari (stats 3-4, M4) usa la fila M3-4: Avatar 1-2/día (2 min combate), 2-3 bestias simultáneas, rewind 30s (2-3/combate), 2 Ecos (30s, de hace ≤1 min), **máximo DOS aspectos simultáneos** ("dos tiempos", consolidado S4).
 
 ## R4 — Pool máximo: manda la FÓRMULA
-Pool efectivo = **100 + PWR×5 + maestría×2** (Akari hoy, con PWR 4 tras hp-003: **128**). Los topes de la sección de recuperación ("máximo 100/120/150") quedan derogados salvo el **cap absoluto de 150** (solo trascendencia lo supera). La recuperación diaria puede exceder el pool: simplemente se capa.
+Pool efectivo = **100 + PWR×5 + maestría×2** (Akari hoy, con PWR 4 y **maestría 6**: 100 + 20 + 12 = **132**). *(La cifra anterior, 128, estaba calculada con maestría 4 — corregida S28.)* Los topes de la sección de recuperación ("máximo 100/120/150") quedan derogados salvo el **cap absoluto de 150** (solo trascendencia lo supera). La recuperación diaria puede exceder el pool: simplemente se capa.
 
 ## R5 — Tablas específicas GANAN al multiplicador genérico
 Rewind y Ecos tienen tabla propia por maestría (rewind M3-4 = 12; Eco M3-4 = 8): esas cifras mandan (no se les aplica además el ×0.7). Todo lo demás (Avatar, bestias, manipulación, plantasangre, curación, drenaje) usa coste base × multiplicador de maestría (M3-4 = ×0.7).
@@ -471,14 +471,29 @@ A M5+, el PC puede usar rewind regularmente sin riesgo real. La "reverie" se res
 
 Las bestias son criaturas de la savia. Tienen coste de invocar, coste de mantenimiento, y necesidades de alimentación. **No mueren permanentemente** a menos que la savia abandone al PC (caso extremo, ver seccion de agencia).
 
+#### ⚠️ COMPOSICIÓN MATERIAL — REGLA BASE (explicitada S28 por el jugador)
+
+> **Una bestia NO es sangre. Es masa biológica y forestal ANIMADA por su sangre.**
+
+- **De qué están hechas**: madera y ramas, musgo, hojas, corteza, raíz, resinas, látex, lignina, quitina, queratina, toxinas, materia animal — **cualquier material que la naturaleza sepa fabricar**. La sangre de Akari es sólo una fracción pequeña: es el **principio animador**, no el cuerpo.
+- **Familia de Quirks a la que pertenece**: la misma clase que Ibara (vid), Kinoko (hongos) o Momo (materia creada). Akari es **generación de masa biológica**, no un hemokinético.
+- 🔴 **EL COSTE ES LA INVOCACIÓN, NO LA MASA.** La tabla de abajo no tiene ninguna entrada por tamaño **a propósito**: son 10 unidades tanto para un cuervo como para un coloso. **Akari gasta la sangre de invocar, jamás la masa de lo invocado.** Por eso son viables un King Kong de 12 m, un cuervo de 8 m, dragones a futuro, o 30+ animales de tamaños distintos a la vez.
+- **El límite real NO es el tamaño**: es (a) el pool de invocación y mantenimiento, (b) la **atención dirigida** (~3 bestias cómodas, ruling S26), (c) el tiempo de conformación y (d) el OPSEC de lo que se deja ver.
+- **Reconciliación con el ruling S26 ("la savia/bestia ES el PC")**: es cierto y sigue vigente, pero se refiere a **identidad y agencia** — percibe a través de ellas, son él actuando a distancia. No implica que su cuerpo sea sangre suya. **La sangre anima; el bosque pone el cuerpo.**
+- **[GM] Consecuencia OPSEC que se ha errado antes**: una bestia destruida **no esparce sangre de Akari** por el escenario. Deja sobre todo materia vegetal/orgánica. La traza hemática es marginal — no tratarla como una escena del crimen con su ADN a menos que la escena lo justifique de verdad.
+
 ### Coste de invocación y mantenimiento
 
-| Acción | Coste |
-|---|---|
-| Invocar 1 bestia | 10 unidades de sangre |
-| Mantener bestia (por hora) | 3 unidades |
-| Bestia human complejo (a mid-game) | 25 unidades de sangre + 5/h |
-| Enjambre de 5 bestias (a endgame) | 50 unidades de sangre + 15/h |
+> ⚠️ **Los costes de esta tabla son BASE (M1-2, ×1)**. Se les aplica el multiplicador de maestría (ver tabla de escalado): **Akari está en M6 → ×0.5**.
+
+| Acción | Coste BASE (M1-2) | **Coste HOY (M6, ×0.5)** |
+|---|---|---|
+| Invocar 1 bestia | 10 unidades | **5 unidades** |
+| Mantener bestia (por hora) | 3 unidades | **1,5 /h** |
+| Bestia humanoide compleja | 25 unidades + 5/h | **12,5 + 2,5/h** |
+| Enjambre de 5 bestias | 50 unidades + 15/h | **25 + 7,5/h** |
+
+**Referencia operativa a M6 (pool 132):** invocar una bestia cuesta el **3,8 % del pool**. Sostener 3 bestias una hora ≈ 4,5 (3,4 %). El techo teórico de invocaciones en seco es ~26 bestias antes de vaciar el pool — pero **el cuello de botella real es la atención dirigida (~3 cómodas, ruling S26)**, no la sangre. Y recuérdese: **el coste es por invocación, no por masa** — una bestia de 20 kg y una de 1,2 kg cuestan lo mismo.
 
 ### Necesidades de las bestias (alimentación)
 
