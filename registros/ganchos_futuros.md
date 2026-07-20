@@ -137,3 +137,12 @@ Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el bo
 - **El beso como última frontera de Yuyu**: llegó al orgasmo con la mano ANTES del primer beso — la fecha de entrega era más íntima que el sexo manual. Regla del ecosistema confirmada: cada vínculo tiene su propia aritmética de intimidad.
 - **Momo: "díselo más veces... a mí también me gusta oírlo"** — el amor que no le cabe en el día ya no es solo llanto privado: ha pedido ración en voz alta. Regárselo.
 - **Tsuyu practicando pedir**: el billete sin gastar en el pecho. Cada "hoy es una de esas veces" es un peldaño del programa de la rana. Anotar cuándo deja de avisar antes de pedir.
+
+## Sembrados en S28 (D36 tarde/noche) — el duelo de los lunes y las tres raíces
+- **El techo de Midoriya**: 8→10 sostenible, pico de 15% ×2 (la 2ª cuesta menos; sin daño). Cada lunes de duelo es un peldaño: ¿cuándo el 15% se vuelve sostenible? ¿Y quién le hace los guantes de soporte cuando llegue la hora — Mei lo sabe o no lo sabe todavía? (canon: los guantes llegan; el vector aquí ya tiene dueña).
+- **"Tú me enseñas a medir"**: el duelo de los lunes instituido. Bakugo quiere ganarle (reconciliación futura, no hoy) — y Akari ocupa sin querer el hueco de sparring-maestro que nadie más le da a Midoriya.
+- **Reciclaje con hiedra**: pool + limpieza de ADN en un gesto. En una guerra de verdad, cada herida abierta del enemigo es pool gratis y la escena queda limpia. La Comisión no sabe que esta técnica existe.
+- **La hipótesis del viaje por el árbol** (M7+): si los puntos de la red de savia son "reinos", el día que Akari viaje entre ellos la campaña cambia de escala otra vez. Candidatas de primer salto: el jardín de Ibara (el más nutrido), el cuarto 3-E, Yuakari en Osaka (la más lejana).
+- **Níðhöggr validado**: el dragón de la raíz sobrevive al fin del mundo y vuela sobre el que resurge. El nombre ya no es estética: es doctrina. Cuando debute (agencia de Ryukyu), lleva teología propia.
+- **Fáfnir, el anti-modelo**: la avaricia crece escamas. El coleccionista que buscaba "activos" es un Fáfnir de oficina — y Akari, que acumula fragmentos y personas, tiene su propia advertencia escrita: acumular sin cuidar = dragón malo.
+- **El bedel de las 22:40**: el protocolo funciona (4 segundos, mesa limpia). La biblioteca nocturna queda validada como territorio de estudio — pero la próxima vez el que pase puede no ser un bedel.

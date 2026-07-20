@@ -10,6 +10,10 @@
 - Los regalos y gestos importantes reciben su propio beat.
 - Si el jugador escribe varios turnos de Akari, continuar desde ellos sin recontarlos ni apropiarse de sus decisiones.
 
+## Conducta dura del PC (S28, corrección del jugador)
+
+- **AKARI NO MIENTE — salvo vida o muerte, y mucho menos a sus novias.** Puede **callar, aplazar o compartimentar** (eso es OPSEC, no mentira). Una coartada falsa (decir algo que no es verdad) SÍ es mentir y no debe usarse ni como recurso ni como precedente. Cuando la verdad incomode, la forma es: verdad técnica + "ya te contaré" / "eso no es mío para contarlo" / silencio con cara. Ver `docs/personaje_akari_hayami.md` (Ética del PC) y la corrección en `cronologia.csv` (tras ev-398).
+
 ## POV
 
 - Elegir el POV emocionalmente más interesante por iniciativa del GM.

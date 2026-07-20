@@ -7,10 +7,15 @@
 - [ ] **La decisión "en ayunas" de Yuyu** — puede caer esta misma mañana o no; es suya, no presionar.
 - [ ] Salir del dormitorio de 3º sin escándalo (OPSEC social: un alumno de 1º saliendo del cuarto de una de 3º un lunes por la mañana).
 
-## Lunes D36 (operativo)
-- [ ] **MOMO entrega**: el reparto de patrullas de Eko District del último año + **quién cobró** (frente civil de Hosu, 24 h) + el **protocolo OPSEC de 3 reglas para Nejire** (de corona a corona).
-- [ ] **RYUKYU llama a Nezu** por prácticas ("UA — prácticas. Llamar a Nezu."). No sabe nada de Akari; converge sola. ¿Dejarla correr o presentirla?
+## Lunes D36 (noche — lo que queda)
+- [ ] Casa con Ochaco (ella le olió "limón" esta mañana; cuarentena de la ceja) · cena.
 - [ ] Prueba de vida diaria con **Yua** (permanente: contestar SIEMPRE antes de dormir).
+- [ ] Pool al ~50% tras duelo + biblioteca: comer hierro (Lunch Rush sabe) y dormir.
+
+## Martes D37 (y semana)
+- [ ] **Entregar a Nejire el sobre** con el protocolo OPSEC de 3 reglas (de Momo; está en poder de Akari).
+- [ ] **Kendo**: "sorpréndeme, si te atreves" — recordatorio de ayer: *"Sigo esperando la sorpresa, Hayami."*
+- [ ] **JUEVES D39 16:00: cita con Nezu** ("hablamos de prácticas"). 🎭 SORPRESA para Akari: dentro está **RYUKYU**.
 
 ## Semana (auditoría Kuroda hasta el VIERNES — gris, aburrido, correcto; NADA DE TINTA)
 - [ ] **Entregar a Nejire el sobre** con el protocolo OPSEC de 3 reglas (de Momo; está en poder de Akari).
