@@ -2,13 +2,13 @@
 
 ## Datos de sesión
 - Fecha real: 2026-07-20
-- Días/curso UA cubiertos: Curso 1 · Trimestre 1 · Día 36 (lunes 17 jun) — **ABIERTA, reloj en 07:00, sin avance**
+- Días/curso UA cubiertos: Curso 1 · Trimestre 1 · **Día 36 completo (lunes 17 jun)**, cierre a las **00:19** del D37 — **SESIÓN CERRADA**
 - Arco activo: Arco 2 (prácticas y licencia provisional) · semana de auditoría de Kuroda (hasta el viernes)
 - Ubicación principal: Musutafu — UA, Heights Alliance, cuarto de Yuyu Haya (3º)
 
 ## Resumen de la sesión
 
-**Sesión en curso.** El reloj narrativo no se ha movido del arranque previsto (D36, lunes, 07:00, Akari dormido entre Yuyu y Nejire). Lo jugado hasta ahora es **material de mesa y dos beats de POV fuera del radar del PC**, ambos solicitados por el jugador y ambos **desconocidos para Akari**.
+**SESIÓN CERRADA.** *(Nota: este archivo se abrió con el reloj parado y se fue llenando desde dos ventanas en paralelo; el orden de arriba refleja el orden de escritura, no el cronológico. La línea temporal canónica está en `cronologia.csv`.)* Al empezar, el reloj narrativo no se había movido del arranque previsto (D36, lunes, 07:00, Akari dormido entre Yuyu y Nejire). Lo jugado hasta ahora es **material de mesa y dos beats de POV fuera del radar del PC**, ambos solicitados por el jugador y ambos **desconocidos para Akari**.
 
 **Canon fijado (edad de Rei Kuroda).** A petición del jugador se resuelve una laguna: la auditora de la Comisión tiene **38 años**. Hace 12 tenía 26 — analista júnior, la persona que sostenía la carpeta mientras los adultos firmaban el acuerdo de la Oficina. **Estuvo en la sala.** No ordenó nada; lo archivó todo con su propia mano. Esto la convierte en la única pieza del aparato **susceptible de ser vuelta**, porque es la única con algo que reconciliar. Se confirma además que **NO es la archivera "Yaeko"** (74 años, guantes blancos, ejecutora del borrado): misma maquinaria, extremos opuestos del mismo expediente. Se registra también que **Kuroda no ha aparecido nunca en cámara** ante Akari — el primer cara a cara sigue sin gastar, con cuatro días de reloj.
 
@@ -48,6 +48,27 @@
 - **La Comisión**: Hosu son once minutos; lo que enfada no son los muertos sino **no saber por dónde entró la información**. Piden informe y deciden no avisar a Hosu hasta tenerlo: **nueve días perdidos**, y todos lo saben.
 - **La Liga**: *"Le van a coger. Y va a ser culpa suya, por hacerlo bonito."* Kurogiri: *"Deberíamos hablar con él."* Shigaraki no contesta — **pero no dice que no.**
 - 🆕 **LOS SHIE HASSAIKAI** (facción nueva en el tablero; estaban en `docs/facciones.md` como lore y **nunca habían tenido ficha viva**): Chisaki se lava las manos cuatro veces antes de bajar y se concede **once minutos** cada mañana con el hombre que lo crió, que agoniza conectado a una máquina. Su tesis: *"la yakuza no fue derrotada por la policía, fue **jubilada** por los héroes"* — sin un tiro, ocupando el sitio y quedándose el miedo, el respeto y las calles. Su plan no es asustar (la Liga le da *"el mismo asco que un charco de vómito en un vagón"* → **cero alianza**) sino **fabricar el producto que vuelve irrelevantes a los héroes** y vendérselo a los dos bandos. La última tanda **falla a las ocho horas** y queda poco material: *"Sacadla otra vez. Con cuidado. Si la rompéis, no hay producto. **Es material, no es una persona.**"* Dos plantas más abajo, cuarto sin ventanas, Eri abrazada a sus rodillas: ha aprendido a no llorar porque llorar hace que vengan antes.
+
+## El día 36, de un vistazo (línea canónica)
+
+| Franja | Qué pasó | ID |
+|---|---|---|
+| 06:47–07:50 | **La mañana de los tres** — Yuyu florece por franjas firmadas por ella; **primer beso 07:14** | ev-390 |
+| 07:15 | Ryukyu llama a Nezu; **viene el jueves**, y Akari no lo sabrá | pov-009 |
+| 07:50–12:05 | Desayuno + clase; Hosu en prensa; **calendario de prácticas anunciado** | ev-391 |
+| 09:35 | Primer contacto con **Yui Kodai** | ev-402 |
+| 12:05–12:40 | Comedor 1-B (Kendo preside) + **Monoma** | ev-393/394 |
+| 12:40–13:20 | **Toldo verde con Momo**: frente civil de Hosu (**Keystone / SEO**) + protocolo OPSEC | ev-395 |
+| 13:30–15:00 | Última clase: contención **sin Quirk**; Aizawa afloja la deuda del *dónde* | ev-397 |
+| 16:04–16:45 | **Snipe: los 10 en seco** y el muro de los 1.320 m → la reverencia | ev-398 |
+| 16:46–16:50 | 🔴 **ARGUS PROYECTIL — LA DIANA PERFORADA** (2,4 cm) | ev-401 |
+| 16:50–17:20 | El estanque con **Tsuyu** (*practicando pedir*) — sube a 10 | ev-396 |
+| 17:30–18:15 | **Duelo de los lunes vs Midoriya** — cuerpo zoórfico, 8%→15% | ev-399 |
+| 20:15–23:15 | **La jornada de las tres raíces** (biblioteca, 8 avatares) | ev-400 |
+| 23:23–00:02 | 🔴 **MIDNIGHT FLORECE** — barrera caída, fragmento Somnus | ev-403 |
+| 00:04–00:19 | Despedida tranquila y vuelta a la cama de **Ochaco**: preaviso cumplido | ev-404 |
+
+**Beats de mundo sin avance de reloj** (`pov-001`…`pov-009`): Togeike · Ryukyu · Midnight · Stain · Yaeko · beats de enemigos y facciones · Overhaul/Hassaikai · Yuyu (ventana Kimi).
 
 ## Cambios económicos (yenes)
 - Inicio: ¥95.770 · Final: ¥95.770 · **Sin movimientos** (reloj sin avanzar). Sin deudas. Próximo ingreso: beca ~julio.
