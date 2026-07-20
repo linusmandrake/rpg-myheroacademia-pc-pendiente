@@ -43,6 +43,15 @@
 - **Única imagen conocida**: al fondo de la foto de hospital de la caja de Osaka (mirando a cámara con serenidad de quien sabe que no saldrá en ninguna parte).
 - Estado vivo en `registros/enemigos.csv` (archivera-001). La Oficina: `enemigos.csv` (oficina-activos-001) + mis-046.
 
+## Rei Kuroda — inspectora sénior de archivo (Comisión, delegación Osaka) — S24
+
+- **38 años** (fijado S28). Hace 12 años tenía **26**: analista júnior, la persona que **sostenía la carpeta mientras los adultos firmaban**. Estuvo en la sala. No ordenó nada; lo archivó todo con su propia mano.
+- Sin Quirk conocido. Doctrina de trabajo: gris, correcta, sin tinta. Su línea: **Instituto Médico Sōma + hace 12 años**. Misión confirmada: **verificar el activo** ("aquí dentro alguien lo protege" → confirmado; cierre interno: *"Paciencia. Todavía no."*).
+- **NO es la archivera "Yaeko"** (74, guantes blancos, quien ejecutó el borrado). Misma maquinaria, extremos opuestos del mismo expediente. **OJO homonimia**: sin relación conocida con el Sabueso (Kuroda) de Naka-ku.
+- **[GM: su ángulo humano — es la única pieza del aparato que puede ser VUELTA, porque es la única con algo que reconciliar: necesita saber si lo que firmó de becaria fue medicina o condena. No revelar de golpe; se gana.]**
+- **Continuidad**: hasta S27 **nunca ha aparecido en cámara** ante Akari — es nombre, presión ambiental y reloj ("hasta el viernes"). El primer cara a cara está sin gastar.
+- Estado vivo en `registros/enemigos.csv` (kuroda-rei-001).
+
 ## El avalista sin nombre / el coleccionista
 
 - Ambos tienen su estado vivo en `registros/enemigos.csv` (avalista-001, coleccionista-sombras-001) y `registros/conocimientos.csv` (con-005, con-007, con-008). No duplicar aquí.

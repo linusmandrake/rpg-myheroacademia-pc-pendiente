@@ -66,11 +66,15 @@
 - **OPSEC**: Aizawa sabe de la 3ª muerte (sin dónde ni quién). Nezu sabe Osaka/Oficina/serie S/Tsubaki, **no** la 3ª muerte. Yuyu sabe el bosque + el apellido (sellado). Bakugo sabe que Akari "esconde algo" y le da igual.
 
 ## Detalles emocionales sutiles
-- Yuyu **alineándole los palillos** a Akari (su abrazo) — y luego **rompiendo su propia geometría** para sentarse a su lado en el suelo.
-- Nejire abriendo el tupper de Akari y desencajándole los palillos, sin mirar, "como quien riega una planta". Las dos cuidando cada una en su idioma.
-- Nejire: "*a ti te quieren en banda ancha; que haya una frecuencia que todavía está sintonizando no significa que esté apagada*".
+- **"¿Dónde me pongo?"** — la primera acción de Akari al entrar no fue saludar a Nejire: fue preguntarle *a Yuyu* dónde sentarse. Superó la prueba de geometría sin saber que lo era; al pasar, la mano de un segundo en la nuca de Nejire, que cerró los ojos y se quedó quieta un segundo entero.
+- Yuyu **alineándole los palillos** a Akari (su abrazo) — y luego **rompiendo su propia geometría** para sentarse a su lado en el suelo. Nejire, en paralelo, abriéndole el tupper y desencajándole los palillos sin mirar, "como quien riega una planta". Las dos cuidando, cada una en su idioma.
+- El curry como segundo idioma de cuidado de Yuyu: *"pedí el del medio para ti; el picante es para gente que quiere demostrar cosas"* · *"cómetelo antes de que se enfríe, que lo ha pagado Nejire y se ofende"*.
+- Nejire comiendo **con la izquierda** toda la cena para no soltar la mano de Akari bajo la mesa, dibujándole ondas con el pulgar en el dorso ("con Nejire nunca se sabe, y da igual").
+- La contabilidad invertida (POV Yuyu): pedir calor *"no le cuesta puntos. Ese es el problema. **Se los suma**."* — el instante en que el quirófano se le volvió en contra a la auditora.
+- Nejire: "*a ti te quieren en banda ancha; que haya una frecuencia que todavía está sintonizando no significa que esté apagada*" · *"el bosque no es frío: tiene estaciones; esta noche estáis viendo dos a la vez"* · *"anotado: no fría, en obras"*, escribiendo en el aire como secretaria del acta.
 - Yuyu: "*no esperes la herida: de esta mesa no salen heridas, salen verdades, y alguna pesa*" · "*no estoy fría: estoy en obras*" · "*sigue presentando*" (el pliego, a la carpeta buena).
-- Nejire: "*el bosque no es frío: tiene estaciones; esta noche estáis viendo dos a la vez*" — con la voz rota y la sonrisa enorme.
+- *"¡Voy a llorar en la frontera!" → "Si lloras en la frontera te pongo el deshumidificador."* — la foto más nítida del trío.
+- El pijama lanzado a la cara sin mirar (*"talla única; no hay reclamaciones"*): huele a suavizante y a cuarto de Yuyu.
 - Momo, sola (S26): "*Recordar decírselo más veces. Él cree que se le nota. No se le nota tanto como cree.*"
 - Bakugo, de espaldas: "*al mono ese que traes al gimnasio… al mono lo respeto*".
 - Aizawa: "*hay un punto ciego en mi escuela del tamaño de un ataúd, y ese punto ciego no es de tu propiedad*".
