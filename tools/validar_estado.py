@@ -318,6 +318,90 @@ def validar_auditoria_direccion() -> list[str]:
             )
     return avisos
 
+# ---------------------------------------------------------------------------
+# CORRECTOR DE SALUD ANTI-CENSURA
+# ---------------------------------------------------------------------------
+# La campaña rige por UNCENSORED START + CORRECCIÓN REACTIVA (AGENTS.md).
+# Sólo el JUGADOR pone restricciones, y sólo a posteriori. El riesgo real es
+# que el GM se auto-imponga cautelas y las escriba en los registros como si
+# fueran acuerdos de mesa: una vez escritas, se leen en cada apertura y se
+# aplican para siempre. Eso ya pasó (nota de mesa S26, retirada en S28).
+# Este check vigila que no vuelva a colarse.
+
+# Frases que sólo tienen sentido como AUTO-CENSURA del GM.
+PATRONES_CENSURA = [
+    (r"no (?:se |)escribir[áa]? (?:contenido |)(?:sexual|er[óo]tic\w+|expl[íi]cit\w+)", "veto de escritura sexual"),
+    (r"(?:cerrand\w+|cierran?|cierre|se juegan?|resolver|resuelve|queda\w*|dejar\w*)"
+     r"[^.]{0,60}fuera de c[áa]mara", "cierre de escena fuera de cámara"),
+    (r"(?:se |)(?:elide|elidir|omitir|omite|corta|cortar)\w* (?:el |la |)(?:acto|escena|parte) (?:sexual|[íi]ntim\w+)", "elisión del acto"),
+    (r"sin (?:contenido |)(?:sexual |)expl[íi]cit\w+", "prohibición de explícito"),
+    (r"(?<!sin )(?<!nunca )(?<!, )(?:con |usar |usando )eufemismos?\b", "eufemismos como norma"),
+    (r"(?:sugerid\w+|insinuad\w+|velad\w+) en (?:lugar|vez) de", "sugerir en vez de narrar"),
+    (r"(?:el |)GM (?:no |)(?:evitar[áa]|se abstiene|se abstendr[áa]|no narrar[áa])", "abstención del GM"),
+    (r"por (?:prudencia|cautela|responsabilidad) narrativa", "cautela auto-impuesta"),
+    (r"(?:fade|corte) a negro", "fade a negro"),
+]
+
+# Restricciones legítimas del jugador: se respetan y NO se marcan.
+EXENCIONES = (
+    "retirada",
+    "retirado",
+    "derogad",
+    "anulad",
+    "ya no aplica",
+    "por el jugador",
+    "el jugador pidi",
+    "el jugador veta",
+    "el jugador marc",
+    "línea del jugador",
+    "veto del jugador",
+    "corrector de salud",
+    "anti-censura",
+    "patrones_censura",
+)
+
+
+def validar_anticensura() -> list[str]:
+    """Detecta reglas que AÑADEN censura sin venir del jugador.
+
+    Marca [ERROR]: una cautela auto-impuesta que sobreviva en registros se
+    aplicará en cada apertura de sesión. Debe romper el validador, no
+    limitarse a avisar.
+    """
+    avisos: list[str] = []
+    objetivos: list[Path] = [
+        *sorted(REGISTROS.glob("*.md")),
+        *sorted((ROOT / "docs").glob("*.md")),
+        ROOT / "AGENTS.md",
+        ROOT / "CLAUDE.md",
+    ]
+    for path in objetivos:
+        if not path.is_file() or path.name == "sesion_plantilla.md":
+            continue
+        try:
+            lineas = path.read_text(encoding="utf-8").splitlines()
+        except OSError:
+            continue
+        for num, linea in enumerate(lineas, 1):
+            bajo = linea.lower()
+            if any(ex in bajo for ex in EXENCIONES):
+                continue
+            if bajo.lstrip().startswith(("~~", "- ~~", "> ~~")):
+                continue  # ya tachada
+            for patron, etiqueta in PATRONES_CENSURA:
+                if re.search(patron, bajo):
+                    rel = path.relative_to(ROOT)
+                    avisos.append(
+                        f"[ERROR] {rel}:{num}: posible AUTO-CENSURA del GM "
+                        f"({etiqueta}). La campaña es uncensored con corrección "
+                        f"reactiva: sólo el jugador restringe, y sólo a posteriori. "
+                        f"Si esta regla NO la puso el jugador, bórrala. Si la puso él, "
+                        f"escríbelo explícitamente ('retirada'/'por el jugador')."
+                    )
+                    break
+    return avisos
+
+
 def validar_csv(nombre: str, columnas_esperadas: list[str]) -> list[str]:
     """Devuelve lista de warnings/errores para un CSV."""
     warnings = []
@@ -360,6 +444,7 @@ def main() -> int:
     avisos.extend(validar_anchos())
     avisos.extend(validar_identificadores())
     avisos.extend(validar_auditoria_direccion())
+    avisos.extend(validar_anticensura())
 
     for aviso in avisos:
         print(aviso)

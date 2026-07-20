@@ -113,6 +113,19 @@ Esta es la meta-regla operativa de la campaña. Reemplaza la idea tradicional de
 4. **Después de la sesión, se documenta.** Si algo se añade como línea o velo, se anota en `docs/sesion_cero.md` o en `CLAUDE.md` para sesiones futuras.
 5. **La lista crece con el tiempo, no se llena al inicio.** Las primeras sesiones son exploración. Las restricciones se acumulan orgánicamente.
 
+### Corrector de salud anti-censura (automático, desde S28)
+
+> **El riesgo no es que el jugador restrinja: es que el GM se auto-restrinja y lo escriba.**
+
+Una cautela que el GM se impone a sí mismo y deja escrita en los registros deja de ser una decisión de un turno: se lee en **cada apertura de sesión** y se aplica para siempre, sin que el jugador la haya pedido nunca. Ocurrió de verdad — la "nota de mesa (S26)" prohibía el sexo explícito con el reparto de MHA, contradecía la memoria `narrativa-erotica-explicita` del propio jugador, y estuvo vigente dos sesiones hasta que se detectó y **el jugador la retiró en S28**.
+
+`tools/validar_estado.py` incluye ahora `validar_anticensura()`, que barre `registros/*.md`, `docs/*.md`, `AGENTS.md` y `CLAUDE.md` buscando reglas que **añadan** censura (vetos de escritura sexual, "cerrar fuera de cámara", eufemismos como norma, fades a negro, cautela auto-impuesta, abstenciones del GM).
+
+- Se reporta como **[ERROR]**, no como warning: rompe el validador a propósito. Una regla de este tipo no debe poder sobrevivir a un cierre.
+- **Exenciones**: la línea no se marca si es una restricción del **jugador** o ya está derogada — basta con que contenga `por el jugador`, `el jugador pidió/veta/marcó`, `línea del jugador`, `retirada`, `derogada`, `anulada`, o esté tachada con `~~`.
+- **Regla de oro para resolverlo**: si esa regla **no la puso el jugador, se borra**. Si la puso él, se escribe explícitamente quién la puso, y entonces deja de saltar. El histórico no se destruye: se tacha y se anota (ver `sesion_26.md`).
+- Las restricciones legítimas del jugador **no son censura** y este corrector no las toca. Su único trabajo es impedir que la prudencia del GM se disfrace de acuerdo de mesa.
+
 ### Lo que NO cambia
 
 - **La campaña sigue siendo 18+.** Sin esto, todo lo demás no aplica.

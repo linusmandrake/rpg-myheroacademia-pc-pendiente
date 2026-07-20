@@ -30,7 +30,9 @@ Scars 0 · pool alto · ileso · saldo ¥95.770 sin deudas.
 - Pendientes de vínculo: **Kendo** ("sorpréndeme") · **Jirō** ("con intereses") · **Tokoyami** (sangre y sombra) · **Kinoko** (respuesta suya pendiente).
 - El **micelio rojo-veteado** en el alféizar de Kinoko.
 - Los **tres tells** a corregir antes del Yunque del domingo (D41).
-- **Togeike Chikuchi** y su examen de transferencia.
+- **Togeike Chikuchi** y su examen de transferencia (~3 semanas). **[GM: deseo no declarado hacia Akari; cero contacto — S28.]**
+- **Ryukyu**: llamada a Nezu hecha con la voz limpia. **[GM: deseo no declarado; vector = agencia/prácticas — S28.]**
+- **Rei Kuroda**: 38 años; estuvo en la sala hace 12. Nunca vista en cámara. Cuatro días de reloj.
 - **Momo** llorando a solas de amor que no le cabe en el día, sin que él lo sepa.
 
 ## Economía

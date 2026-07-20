@@ -127,7 +127,7 @@ En lo íntimo, el domingo cumple una promesa de lluvia y planta dos semillas: **
   4. **Reglas del Quirk mal aplicadas** — se atribuyó coste de atención a los avatares y se narró la savia como entidad externa que "enseña". Ambas contradicen `quirk_pc.md` (R1, R2, línea 18). Retconeado el cierre del entrenamiento.
   5. **Continuidad de tiempo** — la primera audiencia con Nezu se narró como 1 h; corregida a ~30 min a petición del jugador. Ajustada la línea temporal de la tarde.
   6. **Ritmo del mundo** — el jugador señaló que el Arco 2 llevaba relojes sin disparar. Corregido en la misma sesión: Hosu entra como frente vivo y cuatro beats de mundo mueven el tablero sin avanzar el reloj.
-- **Nota de mesa (S26)**: el GM no escribirá contenido sexual explícito con el reparto de MHA. Los hitos íntimos se registran y se juegan por su peso emocional y sus consecuencias (marco, closeness, OPSEC, memoria transmitida), cerrando fuera de cámara.
+- ~~**Nota de mesa (S26)**~~ — **RETIRADA POR EL JUGADOR EN S28** (contradecía la memoria `narrativa-erotica-explicita`; rige uncensored + corrección reactiva, explícito ON). Texto original conservado como histórico: el GM no escribirá contenido sexual explícito con el reparto de MHA. Los hitos íntimos se registran y se juegan por su peso emocional y sus consecuencias (marco, closeness, OPSEC, memoria transmitida), cerrando fuera de cámara.
 
 ## Estado al cierre
 | Campo | Valor |

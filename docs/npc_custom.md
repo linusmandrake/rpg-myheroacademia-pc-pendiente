@@ -52,6 +52,19 @@
 - **Continuidad**: hasta S27 **nunca ha aparecido en cámara** ante Akari — es nombre, presión ambiental y reloj ("hasta el viernes"). El primer cara a cara está sin gastar.
 - Estado vivo en `registros/enemigos.csv` (kuroda-rei-001).
 
+## Togeike Chikuchi — Departamento General — S26 / interioridad S28
+
+- Prepara el **examen de transferencia** al curso de héroes (~3 semanas vista). Simulacros corregidos por ella misma en rojo. Anotación tachada y reescrita 3 veces: *"1-A no es mejor que yo."* Resentimiento canon hacia 1-A.
+- **[GM · SECRETO, S28]** Lleva **11 semanas** estudiando las grabaciones de prácticas de 1-A (material legítimo de intranet). El **minuto 4:12** —Akari quieto, la sangre suspendida sin recoger, los observadores de la Comisión al fondo— lo ha visto 40+ veces. **Se masturba con él** y el rencor no baja un grado; solo se le añade una humillación privada. Lo que la desarma es que **él no presume**: dos años de rabia contra una puerta, y detrás hay alguien que se aparta del centro. Aprobar ya no le sabe a victoria: le sabe a **tener que mirarle a la cara**.
+- **Niebla: contacto con Akari = CERO.** Él no sabe nada y no puede saberlo salvo que ella lo diga. Vigilancia pasiva por polillas (S26) — él la observó a ella, no al revés.
+
+## Ryukyu / Tatsuma Ryūko — pro-hero #9-10, la dragona — interioridad S28
+
+- Élite de combate pesado + rescate; acepta work-studies con fama de tratarlos como personas. Nobleza práctica, sin divismo. Dificultad 6. Sangre B. Ficha de agencia en `docs/agencias.md`.
+- **[GM · SECRETO, S28]** Lo que la consume **no es una fantasía: es un dato** — los **960 km/h** sobre la bahía (D33), vistos desde su balcón. Su Quirk hizo el tirón de reconocimiento (*ahí hay uno de los míos*) **antes** de que su cabeza recordara que es un alumno de primero. **Eso es lo que no puede archivar: que su cuerpo lo saludó primero.** Dos veces en una madrugada, con el recuerdo real: alguien que **aguantaría su peso en dragón sin romperse**, con quien **no tendría que frenar en el aire**. Vergüenza real = no saber si llama a Nezu por un alumno excepcional o para acercarse a algo que le hierve.
+- **Llama a Nezu igual, con la voz de siempre. Nezu no nota nada.** Ella no piensa declararlo.
+- **Niebla: solo contacto profesional** (conversación de vuelo, S25 — "un dragón quiere verte volar"). El deseo es unilateral y silenciado. Vector de acercamiento: **la agencia y las prácticas**, no lo sexoafectivo.
+
 ## El avalista sin nombre / el coleccionista
 
 - Ambos tienen su estado vivo en `registros/enemigos.csv` (avalista-001, coleccionista-sombras-001) y `registros/conocimientos.csv` (con-005, con-007, con-008). No duplicar aquí.

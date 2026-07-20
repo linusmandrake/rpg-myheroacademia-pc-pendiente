@@ -13,6 +13,12 @@
 - **Mudanza 7-8 jun**: fin del hostal — **despedida de la habitación 4 y su croqueta** (beat con peso). Mobiliario de savia aprobado ("el primer escritorio que hay que regar"); vecindario nuevo: Nejire en el edificio de 3º.
 - **Cierre de Arco 1 (~D30)**: abrir la caja de marcas — COO 3→4 sentenciada + pm-029..044 acumuladas (vuelo, fase 3, iniciativa…).
 
+## Deseo fuera del radar (S28) — semillas que Akari no sabe que existen
+
+- **TOGEIKE CHIKUCHI**: aprueba el examen de transferencia (~3 semanas) → **entra en 1-A**. Y entonces tiene que sentarse en la misma aula que el chico del minuto 4:12. Su rencor y su deseo apuntan al mismo sitio. El primer cruce de pasillo se escribe solo. *(¿Y si suspende? Peor: se queda fuera con las dos cosas intactas.)*
+- **RYUKYU**: la llamada a Nezu ya está hecha con la voz limpia. Si Akari acaba de prácticas en su agencia, ella tendrá que trabajar a dos metros de lo que se está callando. **Cruce triple**: Nejire es su alumna de work-study y embajadora del bosque; el debut de **Níðhöggr** está agendado precisamente en su agencia. La dragona va a ver volar al dragón.
+- **Regla de mesa**: ninguno de los dos hilos se resuelve por conveniencia. Si sale a la luz, sale porque **ella** decide decirlo, con el coste que eso le cueste.
+
 ## Arco personal transversal — LA DESCONGELACIÓN (horizonte pactado S7)
 
 Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el borrado sea impagable → **descongelar la maestría en un momento cumbre ELEGIDO POR ÉL**. Novedad S11: la doctrina de los castaños le da lenguaje ("que ningún castaño florezca demasiado… hasta el día que él quiera que TODOS florezcan a la vez"). Hito de peso 3 natural.

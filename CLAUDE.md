@@ -16,7 +16,7 @@
 - Apertura: `registros/punto_cierre_actual.md` + `registros/memoria_gm.md`.
 - Jerarquía de datos: `docs/registros_campania.md`.
 - Combate: `docs/combate.md` + `tools/resolver_accion.py`.
-- Validación al cierre: `python3 tools/validar_estado.py`.
+- Validación al cierre: `python3 tools/validar_estado.py` (incluye el **corrector de salud anti-censura**: marca [ERROR] cualquier regla que añada censura sin venir del jugador — ver `AGENTS.md`).
 - Guardrails S19+: `docs/progresion_narrativa.md` y `docs/sistema_relaciones.md`; no son retroactivos.
 - Próxima sesión: `registros/preparacion_s19_examen.md`.
 - Auditoría S19+: bloque POV/ritmo de `registros/sesion_plantilla.md`, validado por `tools/validar_estado.py`.
