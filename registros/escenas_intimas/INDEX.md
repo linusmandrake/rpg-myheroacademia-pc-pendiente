@@ -27,6 +27,7 @@ Cada escena abre con un bloque de estado: fecha/hora de campaña, ubicación, pa
 | Archivo | Día | NPC | Qué es |
 |---|---|---|---|
 | [S28_D36_midnight_01_el-despacho-de-las-once-y-media.md](S28_D36_midnight_01_el-despacho-de-las-once-y-media.md) | D36 | Midnight | **Primera vez.** El tabú-profesora salta por los aires. Cunnilingus, mordida sellada, fragmento Somnus. |
+| [S29_D37_ochaco_01_volvio-aqui.md](S29_D37_ochaco_01_volvio-aqui.md) | D37 | Ochaco | Sexo del alba, la mañana después del preaviso sin nombre. Eco-excitación consentido (escalera + bucle de resonancia); orgasmo compartido. Sin drenaje ni mordida. |
 
 ## Deuda de recuperación (pendiente)
 
