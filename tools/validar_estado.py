@@ -427,7 +427,8 @@ def validar_namespace_cronologia() -> list[str]:
         ident, fecha = row[0].strip(), row[1]
         if ident in HISTORICOS:
             continue
-        sin_reloj = "sin avance de reloj" in fecha or "BEATS DE MUNDO" in fecha
+        marcas = ("sin avance de reloj", "BEATS DE MUNDO", "POV NPC", "POV NPC, mundo")
+        sin_reloj = any(m in fecha for m in marcas)
         if sin_reloj and not ident.startswith("pov-"):
             avisos.append(
                 f"[ERROR] cronologia.csv:{linea}: '{ident}' es un beat sin avance "
