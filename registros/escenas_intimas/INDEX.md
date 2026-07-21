@@ -30,6 +30,7 @@ Cada escena abre con un bloque de estado: fecha/hora de campaña, ubicación, pa
 | [S29_D37_ochaco_01_volvio-aqui.md](S29_D37_ochaco_01_volvio-aqui.md) | D37 | Ochaco | Sexo del alba, la mañana después del preaviso sin nombre. Eco-excitación consentido (escalera + bucle de resonancia); orgasmo compartido. Sin drenaje ni mordida. |
 | [S29_D37_kinoko_01_las-setas-que-brillaban.md](S29_D37_kinoko_01_las-setas-que-brillaban.md) | D37 | Kinoko | **Floración + primera vez.** El micelio-hijo revelado; cunnilingus + mordida Tipo A (éxtasis + recuerdo transmitido); primera sangre virgen; savia analgésica; orgasmo simultáneo. Entra al bosque. |
 | [S29_D37_kendo_01_el-hombre-que-apaga-el-dial.md](S29_D37_kendo_01_el-hombre-que-apaga-el-dial.md) | D37 | Kendo | **Duelo-sexo feral.** Cobra la «sorpresa»: zoórfico completo (dragón + cola) la doblega; Eco-inyección 7/7/4; anal con savia analgésica; silla de raíces. Cierra con **«¿me amas?» a Eco-0** → amor limpio confirmado. |
+| [S29_D37_trece_01_ya-no-estas-sola.md](S29_D37_trece_01_ya-no-estas-sola.md) | D37 | Trece/Anan | **La mano sin miedo + face reveal.** Le revela savia/raíces/avatares y que puede asistirla en remoto sin riesgo (fin de 20 años de aislamiento); masaje analgésico; se quita el casco por primera vez; consumación cara a cara, orgasmo simultáneo. Cura de la espalda pactada para el viernes. |
 
 ## Deuda de recuperación (pendiente)
 
