@@ -166,3 +166,15 @@ Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el bo
 - **Yui Kodai / Rule (1-B)**: primer contacto hecho. La ancla de la operación de Kinoko confirmada en persona: cuida sin ruido, no se percata de que la miran (canon: fan club en middle school *sin saberlo*). ¿Quién le dice a esta chica que la gente la ve — y qué pasa cuando se entera?
 - **La ética del vaso y el té**: "si agrandara el TÉ, sería trampa". Una regla de personaje compartimentada mejor que muchos contratos pro. Si el bosque algún día la mira, esta es su puerta: la precisión de lo que está permitido.
 - **El jabón de yuzu**: "la única virtud que le encuentro a lunes". Primera moneda. La próxima taza agrandada es excusa de conversación.
+
+## Sembrados en S30 (D38, miércoles 19 jun)
+
+### AWATA KAORUKO — su nodo será con NEJIRE (decisión del jugador)
+- La pregunta "¿nodo o estación propia?" queda **resuelta a futuro**: Awata **tendrá nodo, y será con Nejire**. No es estación aislada.
+- **Cuándo: "cuando sea el momento"** — no forzar el encuentro; el vector natural es el aire (`mis-044` POMPA UNO: la pompa portante + arnés que la hará volar, diseño Akari / fabricación Mei). Nejire = la voladora, la copiloto, la que ya enseñó frecuencia modulada. Awata quiere volar. La conexión se hace sola cuando el proyecto aterrice.
+- Dirección: dejar que Nejire sea quien la acerque (reciprocidad proactiva), no Akari presentándolas de oficio.
+
+### RYUKYU — el deseo que Akari no sabe que provocó
+- **Canon del jugador:** desde que **lo vio volar sobre el mar**, Ryukyu **se masturba con frecuencia pensando en él**. Y **fue ella quien pidió a Nezu expresamente conocerlo** — la cita del jueves D39 16:00 no es una gestión de Nezu con una top-10 de favor: es **una top-10 que fue a buscar al chaval**.
+- La oferta de contratarlo (work study, `mis-048`) es **real y profesional** — ella no confundiría las dos cosas en voz alta. Pero el motor de por qué se movió tan rápido no es solo talento detectado.
+- **Akari NO lo sabe** y no tiene por qué enterarse ([[pov-deseo-fuera-del-radar]]): solo lo sabría si ella se lo contara. Consumo físico del deseo, no solo pensamiento.
