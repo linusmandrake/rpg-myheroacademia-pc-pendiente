@@ -1609,3 +1609,16 @@ El porcentaje de recuperación base se modifica según el estado del PC:
 Con las estrategias diarias recomendadas, **el PC puede mantener su pool al 80–100% sin esfuerzo**. Tras un combate, **un día de descanso + savia aliado + intimidad recupera todo**. Tras un arco largo, **una semana de descanso recupera todo y elimina memory scars**.
 
 **El PC NO puede morir por sangre baja.** El peor caso es desmayo (sangre 0%) o "reverie" (overuse de rewind/eco). Ambos son recuperables en 4–8h con aliados. La campaña puede usar estos momentos como recursos narrativos, no como finales.
+
+---
+
+## Aspectos y rulings nuevos — S29 / D37
+
+- **Cuerpo zoórfico ampliado**: además de patas de avestruz + garras de dragón, ahora **brazos/hombros de dragón** (modo dragón parcial) y **cola de dragón** (barrido). Coordinación multi-parcial simultánea validada en auto-sparring. **Transformación COMPLETA (dragón entero) = nunca ejecutada** (gancho; 5 m × maestría).
+- **Silla de raíces**: asiento vivo de savia que sostiene un cuerpo (a horcajadas, de pie) sin esfuerzo.
+- **Regen voluntaria**: puede **suprimir su curación a discreción** (dejar una herida/moratón puesto como coartada). La regen no sabotea la adaptación muscular (12 años PWR1→4 con regen instantánea).
+- **Eco — INYECCIÓN de emociones (ruling clave)**: puede meter en la víctima **cualquier emoción de cero** (deseo, amor, rabia, **miedo**), no solo amplificar lo que ya hay. **Con sus flores ELIGE amplificar, no inventar** (bondad elegida). Puede subir/bajar por niveles y **cortar a 0** para decisiones/verdades limpias (ver "¿me amas?" a Eco-0 con Kendo). El jugador puede pedir que se distinga siempre "empujar lo propio" vs "inyectar de cero".
+- **Asistencia/presencia REMOTA**: puede operar **raíces y avatares desde otra habitación**, fuera del área de efecto de un peligro, **sin riesgo para su cuerpo físico**. Un avatar destruido se regenera. Habilita cuidar/tocar/asistir a alguien cuyo Quirk sería letal en contacto (caso Trece).
+- **Avatar-conducto**: al reabsorber un avatar, Akari recibe **todo lo que vio y oyó** con detalle (además de lo que "sintió", regla S7). Un avatar dejado de compañía es un canal.
+- **Quirk-FUSIÓN**: su savia puede fusionarse con otro Quirk y generar un **organismo híbrido nuevo** (micelio-hijo con Kinoko: micro-bestia colonizada por esporas → micelio rojo-veteado que no se borra). Emergente, no a demanda. Naturaleza y alcance = gancho abierto.
+- **Fragmento nuevo**: **AGUJERO NEGRO ×1** (de Trece/Anan; pulverización por yemas, un uso).

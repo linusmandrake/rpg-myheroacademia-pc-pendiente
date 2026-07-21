@@ -141,3 +141,22 @@ De ese escape nace el **protocolo OPSEC de 3 reglas** que Momo redactó para Nej
 ## Pendiente de niebla (D36)
 
 🔴 **Momo no sabe lo de Midnight.** Floración nueva → deuda de marco, y con Midnight **cara a cara**, no por mensaje.
+
+---
+
+## 🌳 ACTUALIZACIÓN S29 / D37 — DE ESTRELLA A RED
+
+**El bosque ya NO es una estrella pura.** Akari abrió la política de "dar luz al bosque": revelar las flores entre sí, poco a poco, a todas las que no se nieguen activamente, con el ÁRBOL (Momo) siempre oculto.
+
+**Nodos encendidos el D37** (cada flor de un nodo sabe que las otras del nodo comparten a Akari; NO se cruzan secretos hondos):
+- **Nodo 1**: Tsuyu · Mina · Ochaco (Ochaco↔Mina ya se conocían; Tsuyu es la nueva luz).
+- **Nodo 2 (banda)**: Jirō · Tōru · **Reiko/Banshee** (se conocían de la banda, no como flores; ahora sí).
+- **Nodo 3**: Ibara · Pony · **Kinoko** (recién florecida).
+- **Nodo 4**: Yuyu · Nejire (+ Mei aterrizada). Yuyu inaugurada.
+
+**Reglas vigentes de la red**:
+- **La identidad de Momo (árbol) sigue SECRETA.** Solo la saben: Akari, **Yuyu** (apellido sellado) y **Midnight** (revelada por la propia Momo, S29). Dar luz a las flores ≠ descubrir el tronco.
+- **Kendo = cerrojo LEVANTADO (S29, por Setsuna).** Antes se había negado a saber del resto; abrió la puerta para liberar a Setsuna. **Setsuna** queda conectable al bosque (pendiente de presentar).
+- **Awata**: elige su propia "estación de lluvias"; no metida en nodo — preguntarle si quiere uno.
+- Cada presentación respeta el "no forzar": si una flor prefiere no saber del resto, se para.
+- **Midnight** conoce savia/vínculo + el árbol (secreto de estado). **Anan/Trece** conoce savia/raíces/avatares (capa VISIBLE, NO el temporal/muertes); pacto de confidencialidad mutua.
