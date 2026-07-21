@@ -38,7 +38,7 @@ Auto-sparring con avatares, cristalización de identidad (**"avaro de amor / dra
 - Comisión: Kuroda hasta el viernes (sin tinta). Operación de espionaje activo sobre ella **desactivada** por OPSEC (verde mantenido).
 
 ## Stats y Quirk al cierre
-- **PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5** (sin cambio; marcas del día pendientes de evaluar).
+- **PWR 5 · VEL 4 · TEC 5 · ING 5 · COO 5** — **PWR 4→5 concedido en la evaluación post-sesión** (`hp-012`, canje de 6 peso PWR: Yunque+revés / bloques de hierro / 230 kg+auto-sparring). Pool 132→137. El resto de marcas del día, al bote de cierre de arco. VEL 4 = único margen restante de Arco 2.
 - Quirk **Sanguine Verdant Echo**: potencial 6 / maestría 6. Scars 0. Ileso. Pool ~lleno.
 - **Aspectos nuevos demostrados**: dragón parcial (brazos/hombros) + **cola de dragón**; **silla de raíces** (asiento vivo); **regen voluntaria** (suprimirla a discreción); **Eco-inyección** (puede meter cualquier emoción — deseo/amor/rabia/miedo —, no solo amplificar; con las flores elige amplificar); **asistencia remota** (avatares/raíces desde otra habitación, sin riesgo); **Quirk-fusión** (micelio-hijo con Kinoko); avatar-conducto (reabsorción trae lo que vio/oyó).
 - **Fragmentos**: Invisibilidad ×1 · FROG ×1 · Somnus ×1 · Poltergeist ×1 · **AGUJERO NEGRO ×1 🆕** (de Trece; pulverización, un uso, peligrosísimo).
