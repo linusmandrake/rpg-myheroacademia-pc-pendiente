@@ -12,6 +12,8 @@
   - **Avatares carmesíes** («mi subconsciente; no del todo yo») — hasta **3 presencias simultáneas** + él: la sostienen en el aire, la acarician, le sostienen las manos capadas.
   - 🔴 **LA LLAVE DE SU AISLAMIENTO**: Akari puede **asistirla en remoto** — operar raíces/avatares desde otra habitación, fuera de su área de efecto, **sin riesgo para él**. Anan puede descapar las manos y soltar el Agujero Negro sin peligro de matarlo. *Una mano sin miedo, para siempre.* (Primera en 20 años.)
   - **Savia analgésica** (masaje de espalda: disuelve el dolor crónico del USJ **sin curar** — la cura de verdad, aparte).
+  - 🩸 **MORDIDA final** (al despedirse): éxtasis + **recuerdo transmitido** (la Anan de 7 años estirando la mano hacia su madre, las yemas activándose solas, la manga de lana hecha polvo — el origen de 20 años sin tocar). **FRAGMENTO NUEVO ganado: AGUJERO NEGRO ×1** (pulverización, un uso, guardado; peligrosísimo). Herida sellada sin marca.
+  - **Avatar de compañía** dejado toda la noche a su lado (que no duerma sola — lo que pidió; «no te lo folles, espera al de verdad»). Conducto: lo que ella le diga/lo que vea, Akari lo sabrá al reabsorberlo mañana con perfecto detalle.
   - Pool lleno/excedente, sin scars.
 - **Lore de Anan/Trece fijado**:
   - **Cuerpo físico humano** bajo el traje; el peligro sale por las **yemas** (guanteletes capados bastan; el casco NO es peligro).
@@ -57,3 +59,7 @@ La penetra despacio, mirándola a los ojos, sin apartar la vista. «Me estás mi
 **Se corren a la vez, mirándose.** Anan mantiene los ojos abiertos, clavados en los suyos, y se corre y llora a la vez sin cerrarlos, dejándose ver entera. Él se derrama dentro sin soltarle la mirada. «Ya está. Ya no estás sola. Te lo dije en el gimnasio y era verdad.»
 
 Se queda dentro, frente contra frente, los avatares acariciándola mientras vuelve. «No sabía que se pudiera echar tanto de menos algo que nunca había tenido. Gracias, Hayami. Por la mano sin miedo. Por la cara. Por mirarme.» Sostenida por tres versiones de él, vista y no sola, en su búnker que por una noche deja de ser una celda.
+
+Después definen lo que es esto: ella no lo atrapa (es un alumno con carrera por delante; la Comisión, el escándalo), pero no miente — «me has recolocado por dentro». Empezar por el viernes (la cita de la cura) y ver; a su ritmo, con discreción de maestra que lleva 20 años siendo invisible. Él le pincha: «¿lenta? si te conozco hace tres horas y ya me has follado dos veces». Ella, roja: «tú eres un caso aparte; contigo no he ido lenta ni un segundo, y eso me dice más que nada».
+
+Antes de irse, Akari le explica y le pide la **mordida**; ella la ofrece sin dudar («lo que quieras de mí ya es tuyo»). Muerde: éxtasis, y le entra un **uso de Agujero Negro** y el recuerdo de la manga de su madre hecha polvo a los siete años — el primer día de veinte sin tocar. Sella la herida. Y deja **un avatar de compañía** acurrucado a su espalda toda la noche, con la revelación de que todo lo que ella le cuente en la oscuridad se lo estará contando a él. «Vete, número uno, antes de que te pida que te quedes. El viernes.» La besa en la frente y se va — dejándola dormida contra una parte de él, sin dolor, sin casco y, por primera vez en dos décadas, **acompañada**.
