@@ -76,9 +76,9 @@
 - **Sin cambio**: la niebla dura del temporal/muertes se mantiene salvo lo ya sabido.
 
 ## Progresión narrativa activa
-- **Marcas S29 a evaluar**: PWR 1-2 (hierro 230 kg + auto-sparring) · TEC 1 (coordinación zoórfica) · ING 1-2 (mascarada + arquitectura de nodos + reforma) · **CARÁCTER 3** (dial-0) · **VÍNCULOS 3** (Kinoko/nodos/Trece/Kendo).
+- **EVALUADAS S29**: ✅ **PWR 4→5 CONCEDIDO** (`hp-012`, canje pm-168/169/170/189). Registradas y al bote de cierre de arco: TEC 1 (pm-190) · ING 2 (pm-191) · **CARÁCTER 3** (pm-192, dial-0) · **VÍNCULOS 3** (pm-193). **VEL 4 = único stat con margen en Arco 2** (banda 4–5; el resto ya a 5).
 - Marcas S26/S27 anteriores siguen pendientes de evaluar.
-- Rutas: RC-PWR-SEG-01 (bloque hoy), RC-PWR-OPER-01, RC-TEC-OPER-02 (auto-sparring hoy).
+- Rutas: RC-PWR-SEG-01, RC-PWR-OPER-01, RC-TEC-OPER-02 · **RC-VEL-OPER-01 ACTIVA** (Ryukyu del jueves = vector para cerrar VEL 4→5) · RC-VEL-BRUTAL-01 ofertada (el boom sónico / alas del Fafnir).
 - Maestría 6 = tope actual; sube por hito de arco.
 
 ## NPCs menores con potencial futuro

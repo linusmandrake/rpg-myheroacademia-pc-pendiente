@@ -70,7 +70,7 @@ Auto-sparring con avatares, cristalización de identidad (**"avaro de amor / dra
 ## Estado al cierre
 | Campo | Valor |
 |---|---|
-| PWR / VEL / TEC / ING / COO | 4 / 4 / 5 / 5 / 5 |
+| PWR / VEL / TEC / ING / COO | **5** / 4 / 5 / 5 / 5 (PWR 4→5 post-sesión, hp-012) |
 | Quirk (potencial/maestría) | 6 / 6 |
 | Salud / heridas | Ileso, pool ~lleno |
 | Saldo (yenes) | ¥95.770 · sin deudas |
