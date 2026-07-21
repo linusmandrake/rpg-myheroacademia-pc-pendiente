@@ -41,3 +41,15 @@
 - **Mutant (異形型):** quirk siempre activo, integrado al cuerpo (Tail, Frog, Inko-Midoriya). No se "apaga".
 
 (El canon también tiene sub-categorías como Stockpile, Accumulation, etc. Se pueden añadir según necesidad del PC.)
+
+## Marco legal de la heroicidad estudiantil (cómo actúa un 1-A sin licencia)
+
+> **Regla base:** ser 1-A **no da licencia**; actuar de héroe de forma autónoma sin licencia es **vigilantismo (ilegal)**. La edad 18+ **no** habilita heroicidad — lo que habilita es la **licencia**, no la edad. Akari **no tiene licencia todavía**. Solo hay **tres vías legales**:
+
+- **1. Ejercicios supervisados de UA (académico):** todo lo que ocurre dentro del marco de la UA con un profesor licenciado responsable (simulacros, combate controlado, USJ, exámenes). No requiere licencia: es formación bajo responsabilidad del centro/sensei. *(En campaña: `mis-049`, rescate con Thirteen.)*
+- **2. Work study / prácticas bajo un pro licenciado (LA vía de campo):** el estudiante hace **trabajo de calle real** como **interno** de una agencia, operando **bajo la licencia y supervisión de un pro-hero**, que asume la **responsabilidad legal**. El estudiante actúa como extensión de la agencia, **nunca por su cuenta**. Es la forma canónica de que un primer año pise la calle sin delinquir. *(En campaña: `mis-048`, prácticas con Ryukyu; la puerta legal a Hosu/velocidad real.)*
+- **3. Excepción de emergencia:** cualquiera (incluso un civil) puede actuar para **salvar una vida** en una emergencia genuina que se le viene encima — protegido. Lo prohibido es **buscar** el trabajo heroico (patrullar, cazar villanos) sin licencia = vigilantismo. *(En campaña: `mis-050`, el incidente que te cae encima.)*
+
+- **Desbloqueo real — Provisional Hero License:** el **Examen de Licencia Provisional** es la llave que permite **trabajo heroico independiente limitado** (bajo condiciones). Es un **hito de arco** en el horizonte (Arco 2/3). Hasta entonces, la única heroicidad "real" y legal de Akari pasa por **prácticas + emergencias**.
+
+- **Corolario OPSEC (Akari):** por esto **no puede ir solo a Hosu a por Stain** (`mis-047`: sería vigilantismo + bengala) — lo canaliza vía **intel a Nezu** y, cuando toque, vía **prácticas**. Y toda vía legal lo pone **bajo los ojos de un licenciado** (y de la Comisión en semana de auditoría): legal ≠ sin coste de exposición.
