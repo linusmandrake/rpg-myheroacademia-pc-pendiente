@@ -1,5 +1,7 @@
 # Niebla del bosque — quién conoce a quién
 
+> ⚠️ **VERDAD VIGENTE = sección §S29/D37 al final (estrella→RED).** El cuerpo de abajo refleja el estado PRE-S29 (grafo de estrella, Midnight como deuda de marco abierta, Momo sin saber de Midnight) y se conserva como HISTÓRICO — no como estado actual. Ver el apéndice S29 para: nodos encendidos, Midnight ya conoce el árbol, cerrojo de Kendo abierto.
+
 > **Regla base** ([[niebla-informacion-npc]]): cada flor sabe **sólo** lo que presenció o lo que le contaron. **No se cruza información entre NPCs.** Que dos personas estén en el bosque no significa que se conozcan como tales.
 >
 > **Momo es el ÁRBOL MADRE**: la única que hoy conoce a todas — **excepto a Midnight**, que es la deuda de marco abierta del D36.

@@ -28,7 +28,7 @@
 - **Mina**: cucharita mañanera firmada; dormidos juntos.
 
 ## Stats, Quirk y economía al cierre
-- **PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5** (sin cambio; marcas del día a evaluar).
+- **PWR 5 · VEL 4 · TEC 5 · ING 5 · COO 5** (sin cambio; marcas del día a evaluar).
 - Quirk **Sanguine Verdant Echo**: potencial 6 / maestría 6. Scars 0. Ileso. **Pool ~lleno**.
 - **Aspectos nuevos**: dragón parcial (brazos/hombros) + **cola**; **silla de raíces**; **regen voluntaria**; **Eco-inyección** (mete cualquier emoción, incluida miedo/rabia; con las flores amplifica, no inventa); **asistencia remota** (avatares/raíces desde otra habitación, sin riesgo); **Quirk-fusión** (micelio-hijo); avatar-conducto.
 - **Fragmentos**: Invisibilidad ×1 · FROG ×1 · Somnus ×1 · Poltergeist ×1 · **AGUJERO NEGRO ×1 🆕**.
@@ -65,9 +65,10 @@
 ## Detalles emocionales sutiles (D37)
 - Ochaco: *"volviste aquí. Podías no. Y volviste aquí."* · el juego traducido a hoja de cálculo ("un ingreso recurrente de un nombre por polvo").
 - Momo, ante Midnight: *"Soy el árbol."* — entrega su secreto para que la gratitud no fuera hueca. Nemuri: *"Aquí dentro soy Nemuri."*
-- Kendo: *"Por eso te quiero. Por el hombre que apaga el dial."* (a Eco-0) · sola en su cuarto: *"Me he enamorado del todo. Y no me da miedo."* · virgen antes de Akari.
+- Kendo: *"Por eso te quiero. Por el hombre que apaga el dial."* (a Eco-0) · sola en su cuarto: *"Me he enamorado del todo. Y no me da miedo."* · virgen antes de Akari · **el trofeo de las bragas** (Akari no le rompe la ropa aunque lo suplique; se las guarda — la desarma más que cualquier destrozo: *"El hijo de puta se quedó mis bragas"*) · recuerdo transmitido por la mordida: **Kendo de 9 años** entre el abusón y el crío, temblando pero sin apartarse (origen de "la que siempre se pone delante") · sello de exclusividad: *"Lo del dial a cero. No se lo he dicho a nadie más en mi vida, lo de te quiero."* + jura devolverle la sorpresa a Eco-0.
+- Jirō: *"Me sacas de espaldas del rincón cada vez. Con truco de niño… lo llevas haciendo desde el primer ensayo."* (la que cantaba de cara a la pared reconociendo que él la giró) · tras la demo de Eco-miedo: *"que puedas y no dice más de ti que cualquier cosa bonita."*
 - Kinoko: *"las setas que brillaban"* (recuerdo transmitido: sus primeros amigos daban luz) · *"ya no me escondo más."*
-- Anan: *"por el hombre que apaga el dial"* no — *"Anan es de cuando era una persona."* · la manga de su madre hecha polvo a los 7 años (recuerdo transmitido) · *"no sabía que se pudiera echar tanto de menos algo que nunca había tenido."*
+- Anan: *"Anan es de cuando era una persona."* · antes de destaparse la espalda: *"Sé suave, Hayami. No con las manos. Con la cara. No me mires como a algo roto."* · la manga de su madre hecha polvo a los 7 años (recuerdo transmitido) · *"no sabía que se pudiera echar tanto de menos algo que nunca había tenido."* · la coraza rota: *"No le digas a nadie que Trece llora… me acabas de ver hacerlo dos veces."* · el **avatar-conducto no es logística, es regalo emocional**: *"alguien a quien contarle las cosas en la cama sin estar sola"* (*"vas a tener un tostón de veinte años de cosas guardadas cuando lo reabsorbas"*).
 - Mina: *"no me had visto bailar así y quedarse"* · la party girl a la que nadie va a buscar solo para abrazarla.
 
 ## Información que NPCs tienen sobre Akari (cambios S29)

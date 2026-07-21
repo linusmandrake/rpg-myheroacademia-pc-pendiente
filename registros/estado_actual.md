@@ -5,7 +5,7 @@
 El día que el bosque dejó de ser una fila y se volvió familia: cuatro nodos encendidos, Kinoko florecida, Kendo a amor limpio (dial-0) y su cerrojo abierto por Setsuna, Momo y Midnight hechas hermanas de sangre — y de noche, Trece se quita el casco por primera vez en veinte años porque Akari le devolvió la mano sin miedo. Duerme abrazado a Mina con una cucharita mañanera firmada.
 
 ## PC
-**Akari Hayami "Sanguine"** — PWR 4 · VEL 4 · TEC 5 · ING 5 · COO 5 · Quirk *Sanguine Verdant Echo* **potencial 6 / maestría 6** · pool ~lleno · scars 0 · ileso · saldo **¥95.770 sin deudas**.
+**Akari Hayami "Sanguine"** — PWR 5 · VEL 4 · TEC 5 · ING 5 · COO 5 · Quirk *Sanguine Verdant Echo* **potencial 6 / maestría 6** · pool ~lleno · scars 0 · ileso · saldo **¥95.770 sin deudas**.
 **Aspectos nuevos (S29)**: dragón parcial (brazos/hombros) + **cola**; **silla de raíces**; **regen voluntaria**; **Eco-inyección** (mete cualquier emoción, incluida miedo/rabia; con las flores amplifica, no inventa); **asistencia remota** (avatares/raíces desde otra habitación, sin riesgo); **Quirk-fusión** (micelio-hijo); avatar-conducto.
 **Fragmentos**: Invisibilidad · FROG · Somnus · Poltergeist · **AGUJERO NEGRO ×1 🆕** (de Trece).
 **Identidad cristalizada**: *avaro de amor / dragón guardián* (Fafnir invertido) — deja irse a las flores, pero quema al que intenta arrancarlas.
@@ -37,7 +37,7 @@ El día que el bosque dejó de ser una fila y se volvió familia: cuatro nodos e
 **Kinoko 4→6 floreció** (micelio-hijo) · **Kendo 9→10** (amor limpio a Eco-0; cerrojo abierto → Setsuna libre) · **Trece 2→6** (face reveal + consumación; fragmento Agujero Negro) · **4 nodos del bosque encendidos** · **Momo↔Midnight** hermanas de sangre (Momo revela su árbol) · **Anan Kurose** conocida (cuerpo/herida/cara).
 
 ## Progresión
-**~48 marcas sin otorgar** (43 previas + 5 de hoy). Nuevas: `pm-189` PWR 2 (hierro 230 kg + auto-sparring) · `pm-190` TEC 1 (coordinación zoórfica) · `pm-191` ING 2 (mascarada + nodos + reforma) · `pm-192` **carácter 3** (dial-0) · `pm-193` **vínculos 3** (Kinoko/nodos/Trece/Kendo). Carácter y vínculos acumulan arcos sin cobrar; **PWR 4→5** sigue siendo la preferencia declarada.
+**SUBIDA CONCEDIDA S29: PWR 4→5** (`hp-012`; canjea pm-168/169/170/189 = 6 peso). **VEL 4** queda como el único margen restante de Arco 2. **~44 marcas sin otorgar** en el bote de cierre de arco — el grueso es **carácter** (~15+ peso vivo, "un arco sin cobrar") y **vínculos**; ambos se canjean en el cierre de Arco 2 o con hito de arco. Maestría 6 = tope (= potencial 6; sube solo por hito de arco). Nuevas de hoy registradas: pm-190 TEC 1 · pm-191 ING 2 · pm-192 carácter 3 · pm-193 vínculos 3.
 
 ## Decisiones pendientes del jugador
 Al despertar el **D38 (miércoles 19 jun)**: **(A)** cucharita mañanera con Mina · **(B)** el miércoles lectivo (primera clase de Rescate con Trece) · **(C)** hilos del bosque (Setsuna/Awata/reabsorber a Anan) · **(D)** relojes (jueves Mei/Nezu·Ryukyu, viernes cura/Nighteye, lunes reforma) · **(E)** otra cosa.
