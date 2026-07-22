@@ -51,3 +51,16 @@ Se quedan encajados en la silla, ella desplomada encima, camisa abierta y falda 
 - **"Pero estas me las quedo."** — 2º trofeo de bragas de la campaña (tras Kendo).
 - **"Doce años, Hayami. Págamelos."**
 - **"No me acordaba de que yo podía sentir así. Me has arruinado, Hayami. Vuelvo a Osaka arruinada." / "Vuelves a Osaka viva." / "…sí. Eso también."**
+
+---
+
+## Segunda parte — "arruinada de verdad" (18:18–18:41)
+
+**El informe, primero** (condición de ella: firmarlo con Akari delante mientras aún le tiemblan las manos por lo otro y no por el miedo). Dos bloques:
+- **Bloque técnico (lo que la tapa)**: confirma vía Quirk la alteración material del terminal de dirección — 24, 03:47, dos casillas, sin orden de requisición, credencial de nivel superior al de la auditora, ninguna reclamación previa con fecha anterior al acceso. Todo lo que vio. Su trabajo entero, sin quedarse corta.
+- **Bloque del sujeto**: el alumno confirma la descripción registral como completa (la mentira que se conserva), manifiesta desconocer irregularidades, atribuye la nota a corrección ordinaria, sin contacto externo, colaborador.
+- **Efecto**: arriba leen *auditora rigurosa + alumno ajeno e inofensivo* → la grieta que buscaban ver en ella no aparece; no hay nada que limpiar ni nadie a quien callar. *"Muerta soy un problema. Viva y callada soy la solución."* Firma, sella con su cuño, y por primera vez desde Osaka respira hasta el fondo. Aparta la carpeta *"como quien aparta un cadáver que por fin dejó de pesar."*
+
+**La escena Quirk (hentai, descrita por el jugador):** Akari la **suspende en el aire** con una red de raíces carmesí (muñecas, tobillos, cintura, nuca; abierta, de espaldas, piernas separadas). El cuerpo entero amasado por raíces e hiedra a ritmos desacompasados (muslos, glúteos, espalda, pechos). **Capullos-flor** sobre los dos pezones y el clítoris, abriéndose/succionando/cerrando con lubricación propia. **Frutos con la forma exacta de su polla** la penetran por vagina y ano, cada uno con su tempo, su lubricación y su ritmo distintos y desacompasados. Y **todo pulsa** — frutos, capullos, raíces — porque Akari la lee en tiempo real por el mapa de sangre y ajusta cada zona según lo que su cuerpo enciende o apaga (director de orquesta sobre su sistema nervioso). Él **al lado**, no ausente: la besa, le acaricia la cara, le mete su polla real en la boca a veces sí y a veces no, le regula la altura en el aire según su necesidad, y cuando ella pide *"quiero que seas tú de verdad"* retira el fruto y la penetra él mismo mientras lo demás sigue latiendo. Ella pierde la cuenta de los orgasmos (a partir del 4º-5º dejan de ser eventos y son un estado continuo); llora sin saberlo; *"no sabía que un cuerpo podía".* Las raíces la depositan en el suelo con cuidado y se reabsorben sin dejar rastro.
+
+**Aftermath**: no puede mover las piernas — literal, no figurado. *"Me dijiste que me ibas a arruinar de verdad. Lo has cumplido."* · *"Ninguno al mes ya no me vale; voy a tener que estrenar contador nuevo. Y marcará cero otra vez en cuanto me suba a ese tren, porque esto no lo repite nadie."* · **"Gracias, Hayami. Por la de arriba y por la de aquí abajo. No sé cuál me ha salvado más."**
