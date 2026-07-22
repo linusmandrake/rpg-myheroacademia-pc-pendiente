@@ -178,3 +178,8 @@ Hacerse tan valioso y arropado (red, resultados, Nezu, ahora Nighteye) que el bo
 - **Canon del jugador:** desde que **lo vio volar sobre el mar**, Ryukyu **se masturba con frecuencia pensando en él**. Y **fue ella quien pidió a Nezu expresamente conocerlo** — la cita del jueves D39 16:00 no es una gestión de Nezu con una top-10 de favor: es **una top-10 que fue a buscar al chaval**.
 - La oferta de contratarlo (work study, `mis-048`) es **real y profesional** — ella no confundiría las dos cosas en voz alta. Pero el motor de por qué se movió tan rápido no es solo talento detectado.
 - **Akari NO lo sabe** y no tiene por qué enterarse ([[pov-deseo-fuera-del-radar]]): solo lo sabría si ella se lo contara. Consumo físico del deseo, no solo pensamiento.
+
+### LA DOCTRINA DE LOS NUEVE (plan del jugador, S30/D39 — sin ejecutar)
+- A partir del **sábado D41** (cuando se vaya Kuroda): Akari va a clase y pasea el campus con la **segunda piel puesta**, indistinguible de sus avatares. *"Para los demás todos serían yo, pero ocho de cada nueve estarían equivocados."*
+- Hasta entonces, **restricción autoimpuesta**: nada de avatares sin supervisión directa con la observadora en campus. Solo su habitación o la biblioteca cerrada.
+- Material que esto abre: alguien besando a un avatar · Aizawa descubriéndolo sin aviso previo · un enemigo que aprende a contar · el día en que Akari deje de saber cuál de los nueve tomó una decisión.
