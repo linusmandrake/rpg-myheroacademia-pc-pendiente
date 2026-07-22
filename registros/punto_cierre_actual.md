@@ -1,43 +1,42 @@
-# Punto de cierre — sesión 29 · Curso 1 · Trimestre 1 · **Día 37 (martes 18 jun)** · cierre a las **~22:15** · Musutafu
+# Punto de cierre — sesión 30 · Curso 1 · Trimestre 1 · **Día 38 (miércoles 19 jun)** · cierre a las **23:22** · Musutafu
 > Auto-generado al cierre. Léase al abrir sesión nueva (junto a registros/memoria_gm.md + MEMORY.md + cabecera de AGENTS.md + avisos de CLAUDE.md).
 
 ## Estado narrativo exacto
-- Ubicación: **UA, Heights Alliance — cuarto de Mina**, dormido sobre ella, luces de guirnalda rosas encendidas.
-- Hora narrativa: **D37 martes 18 jun, ~22:15**, durmiéndose. **El D37 queda esencialmente cerrado** salvo la cucharita del alba pactada.
-- Presentes: Akari + Mina (dormida sobre él). En el ala de Rescate, **Anan** duerme abrazada a un avatar-conducto de Akari (todo lo que ella le diga esta noche, él lo sabrá al reabsorberlo).
-- Última acción de Akari: colarse en el cuarto de Mina solo para acurrucarse (no sexo), susurrarle su historia común (el bajo de baile, la primera vez hace un mes), y dormirse sobre ella con la **cucharita mañanera firmada**.
+- Ubicación: **UA, Heights Alliance, 3ª planta — cuarto de Momo**. Lámpara de escritorio encendida, ropa de los dos por el suelo.
+- Hora narrativa: **D38 miércoles 19 jun, 23:22**, dormidos. **El D38 queda cerrado.**
+- Presentes: Akari + Momo, dormidos abrazados y **sin separarse** (petición de ella).
+- Última acción de Akari: quedarse despierto un poco más, como ella le pidió, y dormirse pensando en el día — Mina al alba, un ala que se convierte en otra a 600 m, Reiko cantando delante de 120 personas, Aizawa sin cortar nada, y una ventana lejana con una figura de casco redondo.
 
-## 🔴 DECISIÓN PENDIENTE — ARRANQUE D38 (miércoles 19 jun, al despertar)
-- **(A) LA CUCHARITA MAÑANERA CON MINA**: firmada anoche — sexo del alba, lenta y profunda. Es lo primero al despertar.
-- **(B) EL MIÉRCOLES LECTIVO**: horario D39... ojo, D38 = **miércoles**: Matemáticas (Ectoplasm) no — el miércoles es Hª del Arte Heroico (Midnight) 08:10 + Ciencia de Quirks/Física (Snipe) 10:00 + franja doble tarde (Mates + **Rescate/Thirteen**). ⚠️ **Rescate lo da Trece** — primera clase con ella tras la noche.
-- **(C) HILOS DEL BOSQUE**: presentar a **Setsuna** (ya libre) · preguntar a **Awata** si quiere nodo o su estación · el avatar-conducto de Anan por reabsorber (20 años de cosas).
-- **(D) RELOJES**: **jueves** deriva de Mei + cita Nezu 16:00 (sorpresa Ryukyu) · **viernes** cura de Anan + firmar Nighteye · **lunes** reforma de corrección ciega.
+## 🔴 DECISIÓN PENDIENTE — ARRANQUE D39 (jueves 20 jun, al despertar)
+- **(A) LA MAÑANA CON MOMO**: se durmió dentro de ella, sin salirse. El despertar es suyo. Y anoche quedó una promesa fresca (1.400 m) y una deuda vieja (la noche de los tres con Nemuri, sin fecha).
+- **(B) EL JUEVES LECTIVO + LOS DOS RELOJES DE LA TARDE**: **Aizawa a las 15:00** (evaluación del Eco-onda, declarada como tal, no castigo) y **Nezu a las 16:00 con RYUKYU dentro** (`mis-048`). Entre medias, la deriva de Mei.
+- **(C) PREPARAR LA MEMBRANA**: `RC-DRAGON-OPER-01` está activa y es **el mejor tiro a VEL 4→5**. Pregunta abierta y gorda: **¿aguanta la membrana el régimen de 960 km/h?** Si aguanta, Akari vuela rápido **sin Nejire de motor**. Se puede probar antes de las 16:00 o delante de la dragona.
+- **(D) HILOS DEL BOSQUE**: presentar a **Setsuna** (ya lo vio actuar anoche y ató cabos sola) · **Awata → nodo con Nejire** cuando sea el momento (`mis-044` Pompa Uno como vector) · **Reiko** después de su noche (Present Mic la quiere para la radio) · **Anan** (cura el viernes; no recibió el pulso de anoche y no lo sabe).
 - **(E) Otra cosa.**
 
-## EL DÍA 37 JUGADO — resumen operativo
-- **Alba** (Ochaco): sexo del alba (Eco-excitación consentido), **juego de nombres** estrenado (un nombre por encuentro; ella compra Mina y Tsuyu), **dar luz al bosque** pactado (estrella→red). Escena íntegra en `escenas_intimas/S29_D37_ochaco_01_volvio-aqui.md`.
-- **Gamma mañana**: bloque de hierro (techo real **~230 kg**); teoría regen/hipertrofia resuelta (12 años PWR1→4 con regen = no sabotea); **regen suprimible a voluntad**.
-- **Biombo + almuerzo (Momo/Midnight)**: deuda de marco cumplida; **la 3ª muerte de la UA fue con Midnight** (se ofreció como alimento); **encuentro Momo↔Midnight**, Momo revela su árbol, comunión de los tres, noche de los tres pactada; **reforma de corrección ciega** (arranca el lunes; Akari villano menor visible).
-- **Clase Midnight**: doctrina de mascarada ("sobreexponer lo visible para enterrar lo invisible"); pulso de presencia por debajo.
-- **Invernadero (Kinoko)**: 🔴 **FLORACIÓN + primera vez** + revelación del **micelio-hijo** (fusión Quirk). Escena en `escenas_intimas/S29_D37_kinoko_01_las-setas-que-brillaban.md`.
-- **Cuatro nodos**: Tsuyu+Mina+Ochaco · banda (Jirō+Tōru+Reiko) · Ibara+Pony+Kinoko (sin calor, respeta a Ibara) · Yuyu+Nejire+Mei. "Todas hermanas".
-- **Kendo**: cerrojo **abierto por Setsuna**; duelo-sexo feral (zoórfico completo + cola; Eco 7/7/4; anal savia; silla de raíces); cierre **"¿me amas?" a Eco-0** → **9→10**. Escena en `escenas_intimas/S29_D37_kendo_01_el-hombre-que-apaga-el-dial.md`.
-- **Auto-sparring** + identidad **"avaro de amor / dragón guardián"** (Fafnir invertido); dragón completo descartado (ROJO en auditoría).
-- **Estudio Nodo 1** (besito-recompensa).
-- **Trece/Anan**: la mano sin miedo (asistencia remota), alivio del USJ, **face reveal**, consumación cara a cara, mordida final (**Agujero Negro ×1**), avatar de compañía. Cura pactada el **viernes**. Escena en `escenas_intimas/S29_D37_trece_01_ya-no-estas-sola.md`.
-- **Mina**: cucharita mañanera firmada; dormidos juntos.
+## EL DÍA 38 JUGADO — resumen operativo
+- **Alba (Mina)**: cucharita firmada y cobrada por ella. Cuchara, lento, **Eco de deseo 6** y bajada limpia. El primero que la termina sin soltarla (canon corregido en mesa: 4 chicos antes, ninguno bueno; el 4º fue Kaminari, borrachos y arrepentidos). Escena en `escenas_intimas/S30_D38_mina_01_la-que-nadie-termino-sin-soltarla.md`.
+- **06:40**: reabsorbe el **avatar-conducto de Anan** — veinte años de confidencias de golpe.
+- **Lectivo**: Midnight 08:10 · Snipe 10:00 (marca ING) · **beat con Jirō** a las 09:52 · **almuerzo Nejire+Yuyu+Momo** (Momo fue sola a ver a Nemuri anoche, hasta las 3) · **Rescate con Trece** 14:00–16:00 (`mis-049` cumplida, marca VEL).
+- **16:15–17:00 (Nejire)**: **cambio de ala en vuelo**. Falla, cae 30 m, y a la 9ª repetición descubre que hay que **transicionar**, no quitar y poner. Con las dos membranas, **el cuerpo entero le pide encajar en el dragón completo** (no ejecutado; apuntado). Declaración **"eres mi alma copiloto en la vida"** a Eco-0.
+- **17:04+ (sobre la capa, 1.400 m)**: sexo en vuelo · **drenaje en vuelo** (recuerdo transmitido: Nejire a los 6 años entendiendo que nadie iba a subir con ella) · 🆕 **FASE 3 SOBRE SUPERFICIE ALAR**: la membrana copia la firma de Nejire y **lanza la onda** — sale **rosa**, ni de ella ni de él. Escena en `escenas_intimas/S30_D38_nejire_01_por-encima-de-la-capa.md`.
+- **19:53–21:33 EL CONCIERTO**: 8 canciones. Bakugo a la batería (voluntario y brillante), Tokoyami guitarra, Momo teclado, Jirō bajo **enchufada al ampli con sus jacks**, Kendo con bombo fabricado por Momo, **Reiko "Banshee" revelando su voz**. La 1-B entera en el césped. 🆕 **PRIMER ECO FUERA DE SANGRE VINCULADA** (por vía acústica): felicidad 4/euforia 3, y en el cierre sopor gradual 1→4 sobre ~120 personas para bajar adrenalina. Aizawa lo siente, ve que Akari lo apaga al detectarlo, y **lo cita para el jueves**.
+- **21:35 (Jirō)**: "te amo" al oído. Ella había oído el hueco del "mi amor" público. Nombre nuevo: **Ondina**.
+- **21:45–22:02 (Momo, la discusión)**: dos frentes cerrados. Escena íntima en `escenas_intimas/S30_D38_momo_01_cuarenta-minutos-sin-pensar.md`.
 
 ## Stats, Quirk y economía al cierre
-- **PWR 5 · VEL 4 · TEC 5 · ING 5 · COO 5** (sin cambio; marcas del día a evaluar).
-- Quirk **Sanguine Verdant Echo**: potencial 6 / maestría 6. Scars 0. Ileso. **Pool ~lleno**.
-- **Aspectos nuevos**: dragón parcial (brazos/hombros) + **cola**; **silla de raíces**; **regen voluntaria**; **Eco-inyección** (mete cualquier emoción, incluida miedo/rabia; con las flores amplifica, no inventa); **asistencia remota** (avatares/raíces desde otra habitación, sin riesgo); **Quirk-fusión** (micelio-hijo); avatar-conducto.
-- **Fragmentos**: Invisibilidad ×1 · FROG ×1 · Somnus ×1 · Poltergeist ×1 · **AGUJERO NEGRO ×1 🆕**.
-- Saldo **¥95.770 · sin deudas**. Beca ~julio.
+- **PWR 5 · VEL 4 · TEC 5 · ING 5 · COO 5** (sin cambio; marcas del día al bote).
+- Quirk **Sanguine Verdant Echo**: potencial 6 / maestría 6 (tope; sube por hito de arco). Scars 0. Ileso. **Pool lleno**.
+- **Aspectos nuevos (D38)**: **alas de membrana dracónicas con transición en vuelo** (superficie de control real) · **alas transductoras** (Fase 3 sobre superficie alar, onda rosa) · **Eco por vía acústica** (grupo, transductor humano consentido) · **cuerdas vocales moduladas** (Cuerpo aplicado a la laringe).
+- **Fragmentos**: Invisibilidad ×1 · FROG ×1 · Somnus ×1 · Poltergeist ×1 · Agujero Negro ×1 · **ONDAS ×3**.
+- **Pico de velocidad del D38: ~190 km/h** (membrana, ascenso cargado). Referencias: 155 con capullo · 178 tobera · **960 con fuselaje biplaza**. La membrana **no se ha abierto a régimen**.
+- Saldo **¥95.770 · sin deudas · cero movimientos en el D38**. Beca ~julio.
 
 ## Reputación y facciones
-- Bajo perfil de auditoría **intacto**. Espionaje activo sobre Kuroda **desactivado** (verde mantenido).
-- **Midnight** ahora sabe la identidad de Momo (árbol) — blindado por ella.
-- Aizawa co-conspirador · Nezu agente · Kuroda hasta el viernes.
+- Bajo perfil de auditoría **intacto**. Auditoría de Kuroda cierra el **viernes**.
+- **Reputación de campus: salto grande** — 1-A y 1-B juntas en un césped, dos profesores presentes, cero incidentes.
+- **Aizawa avala tácitamente** (no cortó el Eco; dejó el saco de dormir = se quedó). **Present Mic** entra al radar y quiere a Reiko para la radio.
+- **Ryukyu: la iniciativa de la cita es SUYA, no de Nezu.**
 
 ## Equipamiento clave activo
 - Costume operativo · Ave María · cuarto 3-E · bandolera: cartuchos Momo (A) ×2 + Jirō (A). LA CAJA de Osaka (eq-015) + tarjeta de Tsubaki (sin estrenar) en el cuarto de Momo.
@@ -46,57 +45,82 @@
 - **mis-043 auditoría/Kuroda**: hasta el viernes.
 - **mis-045 NIGHTEYE**: firmar tras el viernes.
 - **mis-046 serie S / Oficina**: investigación bicéfala.
-- **mis-047 HOSU / Hero Killer**: frente civil de Momo entregado (Keystone Guard/Seo).
-- **mis-044 POMPA UNO**: diseño con Mei (deriva del jueves).
+- **mis-047 HOSU / Hero Killer**.
+- **mis-044 POMPA UNO**: deriva del jueves con Mei · **vector del nodo Awata↔Nejire**.
+- **mis-048 RYUKYU**: jueves 16:00.
+- **mis-049 SIMULACRO DE LA ESPALDA ROTA**: ✅ **CUMPLIDA** (D38 tarde).
+- **FINALES DEL PRIMER TRIMESTRE en ~2 semanas**: escrito + práctico contra el profesorado. Meta viva: summa cum laude.
 
 ## Decisiones de carácter recientes que pesan
-- **Apagó el Eco a 0 para preguntarle a Kendo "¿me amas?"** — renunció a la respuesta fabricada por la verdad limpia (bondad elegida; [[etica-pulso-emocional]] / [[version-oscura-akari]]).
-- **Desactivó el espionaje a Kuroda** por OPSEC (verde sobre premio).
-- **Respetó el ritmo de Ibara** (no forzó calor en el Nodo 3).
-- **Cristalizó su identidad**: "avaro de amor / dragón guardián" — deja irse a las flores pero no permite que las arranquen.
+- **Transparencia con Aizawa en vez de disimulo**: cortó el Eco en cuanto lo vio y le sostuvo la mirada. Después le improvisó una canción a la cara. Aizawa lo leyó como *"chaval con un arma que sabe que lo es"*.
+- **Contó lo de Trece a Momo cara a cara**, antes de bajar a cantar y no después. Creyendo que quizá no entraba en el marco. **Sí entraba** (Momo se lo aclaró).
+- **Le puso a Kendo un bombo en vez de discutirle el sitio**, y **sacó a Reiko al micro** sin preguntarle si sabía cantar.
+- **Le marcó un límite a Momo**: sus reglas son suyas; ella no es su madre ni su tutor. Y le pidió perdón por hablarle como a Aizawa.
+- **Le leyó a Momo los celos que ella no sabía formular** (no por el amor: por volar).
 
 ## Continuidad emocional y red sexoafectiva (harem / OPSEC)
-- 🌳 **EL BOSQUE PASA DE ESTRELLA A RED** (ver `docs/niebla_bosque.md`, actualizado): 4 nodos encendidos hoy. **Kendo levantó su cerrojo** (por Setsuna) → Setsuna conectable. La identidad de **Momo (árbol) sigue secreta** para el resto; solo la saben Akari, Yuyu (apellido sellado) y ahora **Midnight**.
-- **KINOKO 4→6 FLORECIDA** 🆕: dentro del bosque; micelio-hijo. **KENDO 9→10** 🆕: amor limpio a Eco-0. **TRECE/ANAN 2→6** 🆕: face reveal + consumación + secreto mutuo; cura el viernes.
-- **Juego de nombres de Ochaco**: un nombre del bosque por encuentro íntimo (sabe Mina y Tsuyu).
-- **Deudas/citas**: cucharita de Mina (alba D38) · noche del Nodo 4 · noche de los tres (Momo/Nemuri) · sorpresa que Kendo quiere devolver · Jirō "con intereses".
-- **OPSEC niebla**: Midnight secreto de estado (barrera caída; sabe el árbol). Anan sabe savia/raíces/avatares (capa visible, NO el temporal); pacto de confidencialidad mutua.
+- **Pulso "TE QUIERO" nivel 4** enviado en simultáneo desde el escenario (21:10) a todas las flores + **Midnight**. **Anan NO lo recibió** (Akari lo mandó a "sus novias") **y no lo sabe**.
+- **ACUERDO NUEVO CON MOMO — la línea del Eco**: *"la línea que a mí me importa no es el dial. Es que yo esté dentro."* Súbele lo que quiera, cuando quiera, **pero que ella lo sepa**. Con las demás, criterio de él.
+- **PROMESA A MOMO**: hacerle el amor **a 1.400 m sobre la ciudad** cuando domine la membrana. Sus celos no eran de amor: eran de **volar**.
+- **Nejire**: *"no me he acordado de volar. Ni una vez."* Declaración de "alma copiloto" a Eco-0.
+- **Jirō = "Ondina"**. Deuda "con intereses" viva. Oyó el hueco del "mi amor" no dicho en público.
+- **Reiko** salió del anonimato en público y por decisión de Akari; Jirō y Kendo la adoptaron esa misma noche.
+- **Setsuna**: ya lo ha visto actuar, ató cabos sola sobre Kendo/Ibara/Kinoko, se fue antes del final y **consumió su deseo a solas**. Akari no sabe nada. **Sin presentar todavía.**
+- **Awata**: decisión del jugador — **tendrá nodo, y será con Nejire**, cuando sea el momento. Vector natural: `mis-044` (volar).
+- **Deudas/citas**: noche de los tres (Momo/Nemuri, sin fecha) · sorpresa que Kendo quiere devolver a Eco-0 · Jirō "con intereses" · cura de Anan el viernes.
 
-## Detalles emocionales sutiles (D37)
-- Ochaco: *"volviste aquí. Podías no. Y volviste aquí."* · el juego traducido a hoja de cálculo ("un ingreso recurrente de un nombre por polvo").
-- Momo, ante Midnight: *"Soy el árbol."* — entrega su secreto para que la gratitud no fuera hueca. Nemuri: *"Aquí dentro soy Nemuri."*
-- Kendo: *"Por eso te quiero. Por el hombre que apaga el dial."* (a Eco-0) · sola en su cuarto: *"Me he enamorado del todo. Y no me da miedo."* · virgen antes de Akari · **el trofeo de las bragas** (Akari no le rompe la ropa aunque lo suplique; se las guarda — la desarma más que cualquier destrozo: *"El hijo de puta se quedó mis bragas"*) · recuerdo transmitido por la mordida: **Kendo de 9 años** entre el abusón y el crío, temblando pero sin apartarse (origen de "la que siempre se pone delante") · sello de exclusividad: *"Lo del dial a cero. No se lo he dicho a nadie más en mi vida, lo de te quiero."* + jura devolverle la sorpresa a Eco-0.
-- Jirō: *"Me sacas de espaldas del rincón cada vez. Con truco de niño… lo llevas haciendo desde el primer ensayo."* (la que cantaba de cara a la pared reconociendo que él la giró) · tras la demo de Eco-miedo: *"que puedas y no dice más de ti que cualquier cosa bonita."*
-- Kinoko: *"las setas que brillaban"* (recuerdo transmitido: sus primeros amigos daban luz) · *"ya no me escondo más."*
-- Anan: *"Anan es de cuando era una persona."* · antes de destaparse la espalda: *"Sé suave, Hayami. No con las manos. Con la cara. No me mires como a algo roto."* · la manga de su madre hecha polvo a los 7 años (recuerdo transmitido) · *"no sabía que se pudiera echar tanto de menos algo que nunca había tenido."* · la coraza rota: *"No le digas a nadie que Trece llora… me acabas de ver hacerlo dos veces."* · el **avatar-conducto no es logística, es regalo emocional**: *"alguien a quien contarle las cosas en la cama sin estar sola"* (*"vas a tener un tostón de veinte años de cosas guardadas cuando lo reabsorbas"*).
-- Mina: *"no me had visto bailar así y quedarse"* · la party girl a la que nadie va a buscar solo para abrazarla.
+## Detalles emocionales sutiles (D38)
+- Mina: *"Cobro. Lo firmaste."* · *"No te has ido"* (sin aclarar de qué habla) · **canon corregido: 4 chicos, ninguna vez buena; el 4º fue Kaminari, borrachos y arrepentidos, error que no repiten. Akari es el primero que la trata bien.**
+- Jirō: *"Me sigues sacando del rincón cada vez que entras en una habitación, gilipollas. Que no cuela."* · sobre el "mi amor" atascado: *"He oído el hueco donde estaba. Dímelo cuando no haya veinte tíos delante y me lo creeré igual."* · **"Ondina"**.
+- Yuyu: *"asegúrate de que la raíz también come. No solo las ramas."*
+- Nejire: *"no me he acordado de volar. Ni una vez. Nadie me había hecho olvidarme de eso."* · el recuerdo de los 6 años: sube 30 m, ve a sus padres haciéndole gestos, y entiende que **nadie va a subir con ella** — y se queda arriba un rato para que no le vean la cara.
+- Momo: *"Yo puedo fabricar cualquier cosa que exista en este mundo. Y no sé volar. Nunca voy a poder sola."* · *"Retiro el tribunal. No retiro el aviso."* · *"Me he agarrado a tu propio reglamento para tener razón más deprisa, y eso es de abogada mala."* · *"Soy tuya. Aunque el bosque entero sea tuyo."* · **"Cuarenta minutos sin pensar. Es mi récord personal."** · nunca se quita el anillo, ni para ducharse.
+- Bakugo: en medio del abrazo colectivo gritando *"QUITAOS DE ENCIMA"* y **no yéndose**. *"Ha sonado bien. Y lo he llevado yo."* · *"Y sí sé tocar la puta batería."*
+- Reiko: *"nadie de mi clase me había pedido nunca nada que no fuera prestar apuntes."* Akari no le preguntó si sabía cantar: se lo dijo como un hecho.
+- Anan: en su ventana, sin bajar, porque bajar significaría hacerlo con el casco puesto. *"Canta bien, el idiota."*
+- Aizawa: dejó **el saco de dormir en el brazo del sofá** = se quedaba. Y al pasar: *"Mañana. Después de clase."*
+- Present Mic: *"eso es exactamente lo que hago yo todas las noches en la radio. Y este mocoso lo ha hecho un miércoles, en un salón, sin emisora."*
 
-## Información que NPCs tienen sobre Akari (cambios S29)
-- **Midnight**: + la identidad de Momo (árbol). **Kendo**: + el cuerpo zoórfico completo (2ª tras Midoriya) + la Eco-inyección. **Kinoko**: + el micelio-hijo + savia/mordida. **Anan**: + savia/raíces/avatares + asistencia remota (capa VISIBLE; NO temporal/muertes). **Tsuyu/Ibara/Pony/Reiko/Mei/Yuyu**: + que comparten a Akari (nodo), sin secretos hondos cruzados.
-- **Sin cambio**: la niebla dura del temporal/muertes se mantiene salvo lo ya sabido.
+## Información que NPCs tienen sobre Akari (cambios S30)
+- **Toda la 1-A y la 1-B**: le han visto **usar el Quirk para cantar** (Cuerpo aplicado a la laringe) sin esconderlo. Capa visible pura.
+- **Aizawa**: sabe que proyectó Eco a un grupo por vía acústica, que lo apagó al verlo y que lo hizo con vigilancia declarada. **Evaluación pendiente el jueves.**
+- **Present Mic**: detectó que la voz no era la suya. No dijo nada.
+- **Momo**: sabe lo de Trece (contado cara a cara). Sabe que puede proyectar Eco a una sala. **Sabe que puede notárselo.**
+- **Nejire**: sabe lo de las alas transductoras (co-descubridora) y lo del cambio de ala en vuelo.
+- **Setsuna**: sabe que Kendo/Ibara/Kinoko esquivan el tema, y ha atado el cabo. **Sin contacto directo.**
+- **Sin cambio**: la niebla dura del temporal/muertes se mantiene íntegra. **ROJO = solo el tiempo.**
 
 ## Progresión narrativa activa
-- **EVALUADAS S29**: ✅ **PWR 4→5 CONCEDIDO** (`hp-012`, canje pm-168/169/170/189). Registradas y al bote de cierre de arco: TEC 1 (pm-190) · ING 2 (pm-191) · **CARÁCTER 3** (pm-192, dial-0) · **VÍNCULOS 3** (pm-193). **VEL 4 = único stat con margen en Arco 2** (banda 4–5; el resto ya a 5).
-- Marcas S26/S27 anteriores siguen pendientes de evaluar.
-- Rutas: RC-PWR-SEG-01, RC-PWR-OPER-01, RC-TEC-OPER-02 · **RC-VEL-OPER-01 ACTIVA** (Ryukyu del jueves = vector para cerrar VEL 4→5) · RC-VEL-BRUTAL-01 ofertada (el boom sónico / alas del Fafnir).
-- Maestría 6 = tope actual; sube por hito de arco.
+- **Marcas nuevas del D38, TODAS al bote (ninguna concedida)**: VEL/TEC 1 (transición alar) · **TEC/Quirk 2 (alas transductoras)** · **Quirk/control 2 (Eco-onda de grupo)** · VEL 2 (simulacro Trece) · VÍNCULOS 2 (alma copiloto) · VÍNCULOS 2 (conducto de Anan) · VÍNCULOS/COO 1 (el concierto) · ING 1 (Snipe) · académico 1 (el temario cantado).
+- Bote anterior vivo: TEC 1 (pm-190) · ING 2 (pm-191) · CARÁCTER 3 (pm-192) · VÍNCULOS 3 (pm-193). Marcas S26/S27 aún sin evaluar.
+- **VEL 4 = único stat con margen en Arco 2.** Maestría 6 = tope; sube por hito de arco.
+- Rutas: **`RC-DRAGON-SEG-01` CUMPLIDA** (alas de membrana en una tarde) · **`RC-DRAGON-OPER-01` ACTIVA** (volar al lado de la dragona, jueves = cierra VEL 4→5) · `RC-DRAGON-BRUTAL-01` ofertada (el dragón entero, ~30 m — **NO es rojo: el freno es hambre/pool/escala, no OPSEC**) · `RC-VEL-OPER-01` activa · **`ruta-013` (Eco-onda/Arrebato) CONSOLIDADA**.
+
+## ⚠️ CORRECCIONES DE CANON DE ESTA SESIÓN (aplicar siempre)
+1. **OPSEC — ROJO es SOLO el tiempo.** Transformarse en cualquier bestia (dragón completo incluido) e invocarlas es **VERDE**. Coherente con la mascarada: enseñar todo el Quirk menos lo temporal.
+2. **Mina**: 4 chicos, **ninguna experiencia buena**. 3 del pueblo (egoístas) + **Kaminari** (borrachos, arrepentidos, no lo repiten). Su herida es *"ninguno pensó en mí"*, no *"nadie se queda"*.
+3. **Heights Alliance es el dormitorio de 1-A.** Nejire (3º) tiene su propio edificio y **no cena ahí**.
+4. **Los exámenes de dentro de dos semanas son los FINALES DEL PRIMER TRIMESTRE** (escrito + práctico contra el profesorado), no exámenes de acceso.
 
 ## NPCs menores con potencial futuro
-- **Setsuna** (liberada, a presentar). **Awata** (su propia estación). **Reiko/Banshee** (nodo-banda). **Ryukyu** (jueves). **Togeike / Tsubaki / Yaeko / Kuroda / Stain** (hilos S28 vivos). **Yui Kodai** (ancla de Kinoko).
+- **Setsuna** (a presentar, ya enganchada). **Reiko/Banshee** (la voz; Present Mic la quiere). **Awata** (nodo con Nejire). **Yui Kodai** (ancla de Kinoko, mueve la cabeza al ritmo). **Monoma** (se le cayó el discurso). **Ryukyu** (jueves). **Togeike / Tsubaki / Yaeko / Kuroda / Stain**.
 
 ## Relojes de facción activos
-- **Auditoría de Kuroda → VIERNES** (nada de tinta).
-- **Jueves D39 16:00**: cita Nezu (sorpresa: **Ryukyu** dentro) + Ryukyu viene a UA + deriva de Mei.
-- **Viernes**: cura de Anan + firmar Nighteye.
+- **Jueves D39**: **Aizawa 15:00** + **Nezu/Ryukyu 16:00** + deriva de Mei.
+- **Viernes**: cierra la auditoría de Kuroda · cura de Anan · firmar Nighteye.
 - **Lunes**: reforma de corrección ciega.
-- Hosu (Keystone Guard/Seo, editor sigue) · Stain leyó el patrón · Yaeko copiando el primer nodo · micelio creciendo.
+- **~2 semanas**: finales del T1.
+- **Kuroda**: reordenando la serie S por encargo superior; la archivera le pidió el calendario; ha empezado un **cuaderno que no es de la oficina**. Grieta abierta.
+- **Chisaki**: 0,3% menos de pureza → **"repetir extracción"** con Eri en días.
+- **Stain**: once días sin sangre, lista creciendo. **Shigaraki**: obsesionado con que a Stain lo miren y a él no; AFO sin llamar en cuatro días.
+- Hosu (Keystone Guard/Seo) · Yaeko copiando el primer nodo · micelio creciendo.
 
 ## Memorias de feedback (memoria_gm.md / MEMORY.md)
-- Todas vigentes. Bien aplicadas en S29: [[pov-mas-interesante]] (Momo, Nemuri, Kendo, Anan, Ibara, Yuyu, Trece), [[impacto-pov-para-anclar-miedos]] (Kendo sola; Anan), [[reciprocidad-proactiva-vinculos]], [[harem-comparte-no-se-desea]] (nodos radiales, F/F no forzada), [[archivo-escenas-intimas]] (4 escenas volcadas en el turno), [[etica-pulso-emocional]] (dial-0).
-- **Nuevo (S29)**: Eco puede **inventar** emociones (no solo amplificar); con las flores Akari elige amplificar. "Dar luz al bosque" (estrella→red). Identidad "avaro de amor / dragón guardián".
+- Bien aplicadas en S30: [[pov-mas-interesante]] (Mina, Nejire, Present Mic, Bakugo, Reiko, Monoma, Setsuna, Anan, Momo, Aizawa), [[pov-deseo-fuera-del-radar]] (**Ryukyu** y **Setsuna**, ambas consumadas físicamente y ambas invisibles para Akari), [[impacto-pov-para-anclar-miedos]], [[archivo-escenas-intimas]] (3 escenas volcadas), [[narracion-mordida-siempre-extasis-y-memoria]] (Nejire), [[eco-puede-inventar]], [[etica-pulso-emocional]] (corte limpio ante Aizawa), [[voz-clase-1a]] (concierto coral), [[turnos-prosa-jugador]].
+- **Memoria nueva/actualizada**: `mina-historial-cuatro-chicos` (creada) · `opsec-verde-ambar-rojo` (corregida: rojo = solo el tiempo).
 
 ## Para reanudar la sesión nueva
 1. Leer este archivo + `memoria_gm.md` + `MEMORY.md` + cabecera de `AGENTS.md` + avisos de `CLAUDE.md`.
-2. Saludar con cabecera 📅 (**D38 · miércoles 19 jun · ~06:00 · Musutafu — Heights Alliance, cuarto de Mina**).
-3. Confirmar: D37 cerrado; cucharita mañanera con Mina firmada; miércoles lectivo con **primera clase de Rescate con Trece** por la tarde.
+2. Saludar con cabecera 📅 (**D39 · jueves 20 jun · ~06:30 · Musutafu — Heights Alliance, cuarto de Momo**).
+3. Confirmar: D38 cerrado; dormido con Momo sin salirse; jueves con **Aizawa 15:00** y **Ryukyu 16:00**.
 4. Presentar la decisión pendiente (opciones A–E de arriba).

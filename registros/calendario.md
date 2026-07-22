@@ -186,3 +186,14 @@
 - 🌳 **Guerra de Momo: FECHA FIJADA — semana de la graduación.** Convivencia post-UA decidida (adelantable).
 - 🔧 **40-v2 supersónico ~1,5 semanas** · Snipe martes/jueves (galería) · diana de 1.320 m esperando · código de golpecitos con Ochaco SIN inventar · omamori Yatagarasu (Tokoyami) en cola · merienda Nejire↔"Yaoyorozu" pendiente · regla de Kendo el mes que viene (pacto a prueba).
 - 🗂️ **Carpeta de la firma tachada** (archivo privado de Sir; nivel 3): la savia se erizó. Hilo del benefactor desconocido + credencial muerta + tasador: sin pasadas nuevas.
+
+## Relojes activos (delta al cierre S30 · D38 miércoles 19 jun 23:22)
+- ✅ **D38 JUGADO (S30)**: cucharita del alba con Mina · reabsorción del conducto de Anan · lectivo (Midnight/Snipe) · `mis-049` simulacro con Trece **cumplida** · vuelo con Nejire (**alas de membrana + Fase 3 transductora**) · **EL CONCIERTO** (primer Eco fuera de sangre vinculada) · noche con Momo.
+- 📅 **JUEVES D39**: **Aizawa 15:00** (evaluación del Eco-onda, declarada como tal) · **Nezu 16:00 con RYUKYU dentro** (`mis-048`; la iniciativa de la cita **es de ella**) · deriva de Mei (`mis-044`).
+- 🐉 **`RC-DRAGON-OPER-01` ACTIVA**: volar con Ryukyu = cierra **VEL 4→5**. Pregunta abierta: **¿aguanta la membrana el régimen de 960 km/h?** Si sí, vuela rápido sin Nejire de motor.
+- 📅 **VIERNES**: cierra la auditoría de Kuroda (`mis-043`) · **cura de Anan** · firmar Nighteye (`mis-045`).
+- 📅 **LUNES**: reforma de corrección ciega.
+- 📚 **~2 SEMANAS: FINALES DEL PRIMER TRIMESTRE** (escrito + práctico contra el profesorado). Meta viva: summa cum laude.
+- 🗂️ **Kuroda**: reordena la serie S por encargo superior; la archivera le pidió el calendario; **empieza un cuaderno que no es de la oficina**. Grieta abierta.
+- ☠️ **Chisaki**: 0,3% menos de pureza → *"repetir extracción"* con Eri en días. **Stain**: 11 días sin sangre, lista creciendo. **Shigaraki**: obsesionado con que a Stain lo miren y a él no; AFO sin llamar en 4 días.
+- 🌳 **Bosque**: presentar a **Setsuna** (ya enganchada, sin contacto) · **Awata → nodo con NEJIRE** cuando sea el momento (vector: Pompa Uno) · **Reiko/Banshee** tras su noche (Present Mic la quiere para la radio) · noche de los tres (Momo/Nemuri) sin fecha · promesa a Momo de los **1.400 m**.
