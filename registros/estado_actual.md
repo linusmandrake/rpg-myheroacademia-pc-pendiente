@@ -1,15 +1,16 @@
 # Estado actual — RPG MHA Custom
-> Última actualización: 2026-07-22 · **SESIÓN 30 CERRADA** · Curso 1 · T1 · **Día 38 completo (miércoles 19 jun)**, cierre a las **23:22**.
+> Última actualización: 2026-07-23 · **SESIÓN 30 CERRADA** · Curso 1 · T1 · **Día 39 completo (jueves 20 jun)**, cierre a las **21:44**. (La S30 cubrió D38 + D39.)
 
 ## En una frase
-El día en que descubrió que sus alas pueden **disparar ondas** y que su Eco puede **salir por un altavoz** — y que acabó con dos clases enteras cantando en el mismo césped, Bakugo a la batería y Reiko Yanagi revelando la voz que nadie sabía que tenía. Duerme abrazado a Momo, sin salirse, con una promesa nueva: hacerle el amor a 1.400 metros.
+El día en que salvó una vida sin cobrarla: neutralizó a la auditora de la Comisión convirtiéndola en aliada con un informe imposible y una mordida, fundó su banda **ROOTS**, le arregló la boca para hablar inglés, y una top-10 lo fichó porque fue ella a buscarlo. Duerme solo en su cuarto, por fin, con un fragmento nuevo que le deja ver todo lo que alguien ha borrado.
 
 ## PC
 **Akari Hayami "Sanguine"** — PWR 5 · VEL 4 · TEC 5 · ING 5 · COO 5 · Quirk *Sanguine Verdant Echo* **potencial 6 / maestría 6** (tope de arco) · **pool lleno** · scars 0 · ileso · saldo **¥95.770 sin deudas**.
-**Aspectos nuevos (S30)**: **alas de membrana dracónicas** con transición en vuelo (superficie de control real, no solo empuje) · **alas transductoras** (Fase 3 sobre superficie alar: la membrana copia la firma del aliado y lanza la onda — rosa con Nejire) · **Eco por vía acústica** (primer Eco fuera de sangre vinculada, ~120 personas, vía transductor humano consentido) · **cuerdas vocales moduladas**.
+**Aspectos nuevos (S30)**: alas de membrana dracónicas con transición en vuelo · alas transductoras (Fase 3 sobre superficie alar) · Eco por vía acústica · cuerdas vocales moduladas → **la boca que pronuncia** (acento nativo en 3-4 semanas) · **el telar** (orquestación multi-constructo por lectura del mapa de sangre; convención de mesa con-122).
 **Heredado (S29)**: dragón parcial + cola · silla de raíces · regen voluntaria · Eco-inyección · asistencia remota · Quirk-fusión (micelio-hijo) · avatar-conducto.
-**Fragmentos**: Invisibilidad ×1 · FROG ×1 · Somnus ×1 · Poltergeist ×1 · Agujero Negro ×1 · **ONDAS ×3 🆕**.
+**Fragmentos**: Invisibilidad ×1 · FROG ×1 · Somnus ×1 · Poltergeist ×1 · Agujero Negro ×1 · ONDAS ×3 · **PALIMPSESTO ×1 🆕** (vista de alteraciones).
 **Identidad**: *avaro de amor / dragón guardián* (Fafnir invertido).
+**Doctrina nueva (Nezu)**: el **Eco-munición** — el Eco sale a la luz como arma declarada sobre adversarios, con tell (el proyectil carmesí que mete la savia YA es el tell). Y el **registro de usos sensibles** de puño propio (Aizawa).
 ⚠️ **Canon OPSEC (corregido S30)**: **ROJO = SOLO los aspectos temporales.** Transformarse en cualquier bestia —dragón completo incluido— e invocarlas es **VERDE**.
 
 ## Arcos abiertos
@@ -20,20 +21,21 @@ El día en que descubrió que sus alas pueden **disparar ondas** y que su Eco pu
 - **La versión oscura** · **el uroboros**.
 
 ## Misiones activas
-`mis-048` **Ryukyu (jueves 16:00)** · `mis-043` auditoría → viernes · `mis-045` Nighteye (firmar tras el viernes) · `mis-044` Pompa Uno (deriva del jueves con Mei; vector del nodo Awata↔Nejire) · `mis-046` Serie S · `mis-047` Hosu · `mis-050` Bajo la lupa gris · `mis-049` ✅ **CUMPLIDA**.
+`mis-048` **Ryukyu (entreno de vuelo DOMINGO — vector VEL 4→5)** · `mis-043` auditoría **resuelta a favor** (informe de dos verdades; Kuroda se va el viernes 17:00) · `mis-045` Nighteye (firmar tras el viernes) · `mis-044` Pompa Uno (deriva del jueves con Mei; vector del nodo Awata↔Nejire) · `mis-046` Serie S · `mis-047` Hosu · `mis-050` Bajo la lupa gris · `mis-049` ✅ **CUMPLIDA**.
 **Finales del primer trimestre en ~2 semanas** (escrito + práctico contra el profesorado). Meta viva: summa cum laude.
 
 ## Hilos narrativos
-- **Aizawa, jueves 15:00** — evaluación (no castigo) del Eco proyectado a 120 personas. Vio que Akari lo apagó al detectarlo y no cortó nada; dejó el saco de dormir en el sofá.
-- **Ryukyu, jueves 16:00** — **la iniciativa de la cita es de ella**, no de Nezu. Akari no lo sabe.
-- **¿Aguanta la membrana el régimen de 960 km/h?** Si sí, vuela rápido **sin Nejire de motor**. Pico del D38: solo ~190 km/h (nunca la abrió).
-- **Reiko "Banshee"** salió del anonimato en público; Present Mic la quiere para la radio y Aizawa dijo que no.
+- **KURODA salvada** — la auditora de la Comisión, convertida en aliada con el informe de dos verdades; Akari se llevó su Quirk (PALIMPSESTO) mordiéndola. Se va a Osaka el viernes 17:00. Aliada clave para la Serie S / la Oficina.
+- **Ryukyu — entreno de vuelo el DOMINGO** (puerto). La iniciativa fue de ella (lo vio volar sobre el mar; pidió la cita). Akari no lo sabe del todo. Es el vector de VEL 4→5.
+- **¿Aguanta la membrana el régimen de 960 km/h?** Si sí, vuela rápido **sin Nejire de motor**. Pregunta viva para el domingo.
+- **ROOTS** — banda oficial de UA; sala en sótano B; plan de negocio a 6 meses (Momo); Festival Cultural como meta. Nombre ratificado. Present Mic quiere a Reiko para su radio (solo si a ella le apetece) y el estreno del 1er single en directo.
 - **Setsuna** — sin presentar, ya enganchada, sin que Akari lo sepa. **Awata** — nodo con **Nejire** cuando sea el momento.
 - **Anan** — cura el viernes; miró el concierto desde su ventana sin bajar y no recibió el pulso de "te quiero".
+- **El bote de Kinoko** — el micelio-hijo guardado con un avatar-compañero; se decide qué hacer el sábado.
 - **Chisaki** va a repetir extracción con Eri. **Stain**: 11 días sin sangre. **Shigaraki**: obsesionado con que a Stain lo miren y a él no; AFO sin llamar en 4 días.
 
 ## Economía
-- **¥95.770 · sin deudas.** Cero movimientos en el D38. Próximo ingreso: beca ~julio.
+- **¥95.770 · sin deudas.** Cero movimientos en el D38 ni el D39 (work study de Ryukyu pendiente de nómina). Próximo ingreso: beca ~julio.
 
 ## Reputación y facciones
 - Bajo perfil de auditoría **intacto**; reputación externa sin cambio.
@@ -54,4 +56,4 @@ El día en que descubrió que sus alas pueden **disparar ondas** y que su Eco pu
 - Rutas: `RC-DRAGON-SEG-01` cumplida · **`RC-DRAGON-OPER-01` activa** (jueves con Ryukyu = cierra VEL 4→5) · `RC-DRAGON-BRUTAL-01` ofertada · `RC-VEL-OPER-01` activa · `ruta-013` consolidada.
 
 ## Decisiones pendientes del jugador
-Al despertar el **D39 (jueves 20 jun)**: la mañana con Momo · el jueves lectivo con **Aizawa 15:00 + Ryukyu 16:00** · probar la membrana a régimen · los hilos del bosque (Setsuna, Awata↔Nejire, Reiko, Anan). Detalle completo en `punto_cierre_actual.md`.
+Al despertar el **D40 (viernes 21 jun)**: cura de Anan · firmar Nighteye · Kuroda se va a las 17:00 · viernes lectivo con Fundamentos (All Might) + 15 min de fonética con Mic. Detalle completo en `punto_cierre_actual.md`.

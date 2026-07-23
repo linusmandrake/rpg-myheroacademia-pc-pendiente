@@ -1,9 +1,9 @@
 # Registro de sesión 30 — RPG MHA (Akari Hayami "Sanguine")
 
 ## Datos de sesión
-- Fecha real: 2026-07-21 / 2026-07-22
-- Días/curso UA cubiertos: **Curso 1 · T1 · Día 38 completo** (miércoles 19 jun, 05:41 → 23:22)
-- Arco activo: Arco 2 — auditoría de Kuroda (hasta el viernes) · dar luz al bosque · preparación de Ryukyu
+- Fecha real: 2026-07-21 / 2026-07-22 / 2026-07-23
+- Días/curso UA cubiertos: **Curso 1 · T1 · Día 38 (miércoles 19 jun) + Día 39 (jueves 20 jun) completos**
+- Arco activo: Arco 2 — auditoría de Kuroda (resuelta) · dar luz al bosque · preparación de Ryukyu · fundación de ROOTS
 - Modo de mesa: día narrado en **marcha de avance con beats de profundidad** a petición del jugador (lectivo resumido; vínculos jugados latido a latido)
 
 ## Resumen de la sesión
@@ -121,23 +121,53 @@
   4. **Escenas íntimas anunciadas como volcadas sin volcar.** Dije dos veces "escena volcada a `escenas_intimas/`" antes de escribir los archivos. Subsanado en la misma sesión: las tres escenas del D38 están escritas íntegras e indexadas.
   5. **Duda de canon resuelta a petición del jugador**: los exámenes de dentro de dos semanas son los **finales del primer trimestre** (escrito + práctico contra el profesorado), no exámenes de acceso.
 
-## Estado al cierre
+---
+
+# DÍA 39 — jueves 20 junio (extensión de la misma sesión 30)
+
+## Resumen del D39
+El día en que Akari **salvó una vida sin cobrarla**, fundó una banda y descubrió que su Quirk también puede arreglar una boca. Despierta con Momo (que le ha calculado, sola y de madrugada, cómo volar a dos y le concede el título "el amor de mi vida"). Funda **ROOTS** como entidad oficial y anuncia en público que votará en blanco la reforma de corrección ciega — jugada de opinión que ya opera en el claustro esa misma mañana. Present Mic le abre **la boca que pronuncia** (acento nativo vía Cuerpo) y le confirma que Reiko es co-vocalista de siempre. Resuelve una integral de dos formas para Ectoplasm. En el invernadero, el **micelio-hijo** ha crecido a una mesa buscando compañía; Akari lo guarda en un bote (seca los kilómetros de más) y le mete un avatar-compañero. En combate práctico **rodea a Snipe** con Bakugo delante de Kuroda, sosteniendo la mascarada. Aizawa dictamina sobre el Eco (registro escrito de puño propio). Conoce a **Ryukyu** (que lo fue a buscar) y pacta vuelo el domingo. Nezu le revela que Kuroda es la evaluada en una prueba de lealtad letal y le da **la doctrina del Eco-munición** + el Festival. Y en el sótano, **salva a Kuroda** con el informe de dos verdades, la muerde (fragmento **PALIMPSESTO**) y estrena **el telar**. Cierra fundando ROOTS con la banda entera.
+
+## Eventos D39 (cronológico)
+Ver `cronologia.csv` ev-428 → ev-440 (con `[SESIÓN 30 CERRADA]` en ev-440).
+
+## Cambios del D39
+- **Fragmento nuevo**: PALIMPSESTO ×1 (vista de alteraciones — Quirk de Kuroda).
+- **Aprendizajes**: la boca que pronuncia (acento nativo); el telar (con-122); doctrina del Eco-munición; registro de usos sensibles (con-121).
+- **Kuroda**: de amenaza (`enemigos.csv`) a aliada salvada. Escena en `escenas_intimas/S30_D39_kuroda_01`.
+- **ROOTS**: entidad oficial de UA (con-118); sala de ensayo en sótano B; plan de negocio a 6 meses (Momo); Festival Cultural como meta.
+- **Ryukyu**: work study `mis-048`; entreno de vuelo el domingo (vector VEL 4→5). POV de deseo fuera del radar.
+- **Vínculos**: Momo "el amor de mi vida"; Kinoko (beso + el bote); Pony (acento + reparación); Bakugo (trato de confianza).
+- **Progresión**: marcas pm-203..209 (todas al bote). VEL 4→5 aplazada a la escena de vuelo con Ryukyu (domingo).
+
+## Auditoría de dirección — D39
+- Beats totales: ~22 · POV Akari mayoría · POV NPC: Kuroda (extenso, la reunión de las 8 preguntas + escena), Ectoplasm 1, Ryukyu 1, mundo 1.
+- Marcha de avance: bloque lectivo (Cementoss, tránsitos) resumido a petición del jugador. Profundidad: Kuroda, Nezu, Aizawa, Ryukyu, el invernadero, ROOTS.
+- Incidencias corregidas en D39:
+  1. **A M6 el coste de Quirk es −50%** — el jugador lo recordó; ajustado el pool de los 6 avatares (~30, no 60).
+  2. **Ryukyu traje granate**, no verde — corregido.
+  3. **Snipe no era víctima segura del halcón** — las velocidades de picado no valen en interiores; `con-120` fija la regla; la escena se reescribió a favor de Snipe (pierde por ser rodeado, no por un impacto inevitable).
+  4. **Reiko co-vocalista desde el invierno** — Akari sabía que cantaba; corregido en `con-118`, `relaciones.csv` y escena de Mic.
+  5. **Nezu SÍ es persona jurídica** — corregida su frase; su botella es ser único de su especie.
+
+## Estado al cierre (D39)
 
 | Campo | Valor |
 |---|---|
 | PWR / VEL / TEC / ING / COO | 5 / 4 / 5 / 5 / 5 |
 | Quirk (potencial/maestría) | 6 / 6 |
+| Fragmentos | Invis · FROG · Somnus · Poltergeist · Agujero Negro · ONDAS ×3 · **PALIMPSESTO ×1** |
 | Salud / heridas | Ileso · scars 0 · pool lleno |
 | Saldo (yenes) | ¥95.770 · sin deudas |
-| Reputación heroica | Sin cambio externo · **campus: salto** |
-| Facciones (UA/Comisión/Liga) | Máximos / sin movimiento sobre él / sin contacto |
-| Ubicación | UA, Heights Alliance — cuarto de Momo (dormido) |
-| Misiones activas | mis-043 (hasta viernes), 044, 045, 046, 047, 048, 049 ✅, 050 |
-| Closeness destacado | Momo 10 · Nejire 10 · Jirō 10 · Kendo 10 · Tsuyu 10 |
+| Reputación / facciones | Bajo perfil intacto · Kuroda neutralizada/aliada · ROOTS oficial · Ryukyu fichándolo |
+| Ubicación | UA, Heights Alliance — cuarto 3-E (solo, para dormir) |
+| Misiones activas | mis-043 (resuelta a favor), 044, 045, 046, 047, 048 (domingo), 049 ✅, 050 |
+| Closeness destacado | Momo 10 · Nejire 10 · Jirō 10 · Kendo 10 · Tsuyu 10 · **Kuroda: aliada sin clasificar** |
 
-## Pendientes próximos días
-- **Jueves D39**: clase · **Aizawa 15:00 (evaluación del Eco-onda, no castigo)** · **Nezu 16:00 con Ryukyu dentro** · deriva de Mei.
-- **Viernes**: cierra la auditoría de Kuroda · cura de Anan · firmar Nighteye.
-- **Lunes**: reforma de corrección ciega.
-- **~2 semanas**: finales del primer trimestre (escrito + práctico contra el profesorado). Meta: summa cum laude.
-- Presentar a **Setsuna**. **Awata → nodo con Nejire** cuando sea el momento (decisión del jugador). Noche de los tres (Momo/Nemuri) sin fecha.
+## Pendientes próximos días (desde el D39)
+- **Viernes D40**: cura de Anan · firmar Nighteye · Kuroda se va 17:00 · 15 min de fonética con Mic · Fundamentos (All Might).
+- **Sábado D41**: limpieza/decoración de la sala de ROOTS · decidir el bote de Kinoko · arrancan los avatares de estudio (sin Kuroda en campus).
+- **Domingo D42**: **entreno de vuelo con Ryukyu** (puerto; vector VEL 4→5).
+- **Lunes**: reforma de corrección ciega (Akari vota en blanco).
+- **~2 semanas**: finales del T1 (escrito + práctico, parejas contra profesor). **Festival Cultural** (ROOTS al cierre). Meta: summa cum laude.
+- Presentar a **Setsuna**. **Awata → nodo con Nejire**. Noche de los tres (Momo/Nemuri) sin fecha. Pony le debe una hora (phrasal verbs).
