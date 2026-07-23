@@ -1,5 +1,10 @@
 # Registro de sesión 30 — RPG MHA (Akari Hayami "Sanguine")
 
+## Log de sesión (transcript crudo)
+- **Archivo JSONL**: `/home/toni/.claude/projects/-opt-rpg-myheroacademia-akari-hayami/a51e9592-fccb-49f9-a82f-d6ef0043975e.jsonl`
+- **ID de sesión CLI**: `a51e9592-fccb-49f9-a82f-d6ef0043975e`
+- Nota: el `.jsonl` se escribe en vivo desde el primer turno; es la fuente que audita Kimi al cierre. El nombre = ID de sesión de la CLI (no correlativo con "S30"). Si la partida se reanudó con `--resume`/`--continue`, pueden existir varios JSONL para la misma sesión de campaña.
+
 ## Datos de sesión
 - Fecha real: 2026-07-21 / 2026-07-22 / 2026-07-23
 - Días/curso UA cubiertos: **Curso 1 · T1 · Día 38 (miércoles 19 jun) + Día 39 (jueves 20 jun) completos**
