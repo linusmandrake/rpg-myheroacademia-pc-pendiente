@@ -64,3 +64,17 @@ Se quedan encajados en la silla, ella desplomada encima, camisa abierta y falda 
 **La escena Quirk (hentai, descrita por el jugador):** Akari la **suspende en el aire** con una red de raíces carmesí (muñecas, tobillos, cintura, nuca; abierta, de espaldas, piernas separadas). El cuerpo entero amasado por raíces e hiedra a ritmos desacompasados (muslos, glúteos, espalda, pechos). **Capullos-flor** sobre los dos pezones y el clítoris, abriéndose/succionando/cerrando con lubricación propia. **Frutos con la forma exacta de su polla** la penetran por vagina y ano, cada uno con su tempo, su lubricación y su ritmo distintos y desacompasados. Y **todo pulsa** — frutos, capullos, raíces — porque Akari la lee en tiempo real por el mapa de sangre y ajusta cada zona según lo que su cuerpo enciende o apaga (director de orquesta sobre su sistema nervioso). Él **al lado**, no ausente: la besa, le acaricia la cara, le mete su polla real en la boca a veces sí y a veces no, le regula la altura en el aire según su necesidad, y cuando ella pide *"quiero que seas tú de verdad"* retira el fruto y la penetra él mismo mientras lo demás sigue latiendo. Ella pierde la cuenta de los orgasmos (a partir del 4º-5º dejan de ser eventos y son un estado continuo); llora sin saberlo; *"no sabía que un cuerpo podía".* Las raíces la depositan en el suelo con cuidado y se reabsorben sin dejar rastro.
 
 **Aftermath**: no puede mover las piernas — literal, no figurado. *"Me dijiste que me ibas a arruinar de verdad. Lo has cumplido."* · *"Ninguno al mes ya no me vale; voy a tener que estrenar contador nuevo. Y marcará cero otra vez en cuanto me suba a ese tren, porque esto no lo repite nadie."* · **"Gracias, Hayami. Por la de arriba y por la de aquí abajo. No sé cuál me ha salvado más."**
+
+---
+
+## Coda — La despedida (D40, viernes 21 jun, 13:54, aula del ala oeste)
+
+El día siguiente, tres horas antes de que Kuroda coja el tren de vuelta a Osaka (17:00), Akari la busca mientras recoge. Le dice lo que quería decirle: *"me ha gustado conocerte, Rei — no como caso ni como rescate: tú"*; *"te voy a echar de menos"*; *"si puedes contactarme, hazlo, aunque sean dos líneas; y si piensas en mí y no puedes escribir, piensa igual, que eso no lo audita nadie"*; y la promesa dura: **"si algún día estás en peligro, cualquiera, en cualquier sitio — mándame una palabra y voy. Vuelo mil kilómetros en un par de horas. Iré a rescatarte donde sea."**
+
+Ella: *"doce años sola y ahora un crío me dice que vuela mil kilómetros por mí. Es lo más ridículo y lo más seguro que me he sentido en mi vida adulta."*
+
+Un último rato juntos — no el telar ni nada grande: lento, en silencio, contra la mesa del aula, **más despedida que deseo**, mirándose todo el rato. Al terminar, ella vuelve a ser la auditora capa a capa, pero con algo dentro que antes no estaba.
+
+**Le da su número PERSONAL** (tarjeta sin membrete, escrito a mano; no de la Comisión). *"No lo uses salvo que te haga falta de verdad. Y si un día lees que a una archivera de Osaka le ha pasado algo… ya sabes que no fue un accidente."*
+
+Estado del vínculo: aliada a distancia, con canal privado de contacto y una promesa de rescate incondicional. Sigue vigilada por la archivera (pov-015: "si tira del hilo, escalar"), así que la promesa no es retórica. Akari guarda su número en el bolsillo de la chaqueta.
