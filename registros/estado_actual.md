@@ -1,8 +1,8 @@
 # Estado actual — RPG MHA Custom
-> Última actualización: 2026-07-23 · **SESIÓN 30 CERRADA** · Curso 1 · T1 · **Día 39 completo (jueves 20 jun)**, cierre a las **21:44**. (La S30 cubrió D38 + D39.)
+> Última actualización: 2026-07-24 · **SESIÓN 30 CERRADA** · Curso 1 · T1 · **Día 40 completo (viernes 21 jun)**, cierre a las **21:20**. (La S30 cubrió D38 + D39 + D40.)
 
 ## En una frase
-El día en que salvó una vida sin cobrarla: neutralizó a la auditora de la Comisión convirtiéndola en aliada con un informe imposible y una mordida, fundó su banda **ROOTS**, le arregló la boca para hablar inglés, y una top-10 lo fichó porque fue ella a buscarlo. Duerme solo en su cuarto, por fin, con un fragmento nuevo que le deja ver todo lo que alguien ha borrado.
+El viernes en que le **devolvió el cuerpo a una persona**: reconstruyó por completo la espalda que Thirteen llevaba veinte años cargando rota. Antes de eso, regó medio bosque (Jirō, Tōru, Mei), despidió a Kuroda con un hilo de sangre entre Osaka y Musutafu, firmó su futuro con dos padrinos top-10, y honró a Nezu con un poema del siglo IX. Duerme abrazado a Momo, con seis avatares estudiando toda la noche en su cuarto.
 
 ## PC
 **Akari Hayami "Sanguine"** — PWR 5 · VEL 4 · TEC 5 · ING 5 · COO 5 · Quirk *Sanguine Verdant Echo* **potencial 6 / maestría 6** (tope de arco) · **pool lleno** · scars 0 · ileso · saldo **¥95.770 sin deudas**.
@@ -21,7 +21,7 @@ El día en que salvó una vida sin cobrarla: neutralizó a la auditora de la Com
 - **La versión oscura** · **el uroboros**.
 
 ## Misiones activas
-`mis-048` **Ryukyu (entreno de vuelo DOMINGO — vector VEL 4→5)** · `mis-043` auditoría **resuelta a favor** (informe de dos verdades; Kuroda se va el viernes 17:00) · `mis-045` Nighteye (firmar tras el viernes) · `mis-044` Pompa Uno (deriva del jueves con Mei; vector del nodo Awata↔Nejire) · `mis-046` Serie S · `mis-047` Hosu · `mis-050` Bajo la lupa gris · `mis-049` ✅ **CUMPLIDA**.
+`mis-045` **Nighteye (firmar el SÁBADO + trabajar con Awata; ⚠️ ojo su Presciencia)** · `mis-048` **Ryukyu (vuelo el DOMINGO — VEL 4→5)** · `mis-043` auditoría **resuelta a favor** (informe de dos verdades; Kuroda se va el viernes 17:00) · `mis-045` Nighteye (firmar tras el viernes) · `mis-044` Pompa Uno (deriva del jueves con Mei; vector del nodo Awata↔Nejire) · `mis-046` Serie S · `mis-047` Hosu · `mis-050` Bajo la lupa gris · `mis-049` ✅ **CUMPLIDA**.
 **Finales del primer trimestre en ~2 semanas** (escrito + práctico contra el profesorado). Meta viva: summa cum laude.
 
 ## Hilos narrativos
@@ -56,4 +56,4 @@ El día en que salvó una vida sin cobrarla: neutralizó a la auditora de la Com
 - Rutas: `RC-DRAGON-SEG-01` cumplida · **`RC-DRAGON-OPER-01` activa** (jueves con Ryukyu = cierra VEL 4→5) · `RC-DRAGON-BRUTAL-01` ofertada · `RC-VEL-OPER-01` activa · `ruta-013` consolidada.
 
 ## Decisiones pendientes del jugador
-Al despertar el **D40 (viernes 21 jun)**: cura de Anan · firmar Nighteye · Kuroda se va a las 17:00 · viernes lectivo con Fundamentos (All Might) + 15 min de fonética con Mic. Detalle completo en `punto_cierre_actual.md`.
+Al despertar el **D41 (sábado 22 jun)**: firmar Nighteye + trabajar con Awata · reabsorber los 6 avatares (siguen estudiando) + reparto formal · limpieza de la sala de Roots · decidir el bote de Kinoko · curar las manos de Midoriya · preguntar a Reiko lo de la radio. Detalle completo en `punto_cierre_actual.md`.

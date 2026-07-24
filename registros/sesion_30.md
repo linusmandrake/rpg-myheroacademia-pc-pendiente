@@ -6,9 +6,9 @@
 - Nota: el `.jsonl` se escribe en vivo desde el primer turno; es la fuente que audita Kimi al cierre. El nombre = ID de sesión de la CLI (no correlativo con "S30"). Si la partida se reanudó con `--resume`/`--continue`, pueden existir varios JSONL para la misma sesión de campaña.
 
 ## Datos de sesión
-- Fecha real: 2026-07-21 / 2026-07-22 / 2026-07-23
-- Días/curso UA cubiertos: **Curso 1 · T1 · Día 38 (miércoles 19 jun) + Día 39 (jueves 20 jun) completos**
-- Arco activo: Arco 2 — auditoría de Kuroda (resuelta) · dar luz al bosque · preparación de Ryukyu · fundación de ROOTS
+- Fecha real: 2026-07-21 → 2026-07-24
+- Días/curso UA cubiertos: **Curso 1 · T1 · Día 38 (mié 19 jun) + Día 39 (jue 20 jun) + Día 40 (vie 21 jun) completos**
+- Arco activo: Arco 2 — auditoría de Kuroda (resuelta) · dar luz al bosque · Ryukyu (domingo) · Nighteye (sábado) · fundación de ROOTS · la cura de Anan
 - Modo de mesa: día narrado en **marcha de avance con beats de profundidad** a petición del jugador (lectivo resumido; vínculos jugados latido a latido)
 
 ## Resumen de la sesión
@@ -176,3 +176,39 @@ Ver `cronologia.csv` ev-428 → ev-440 (con `[SESIÓN 30 CERRADA]` en ev-440).
 - **Lunes**: reforma de corrección ciega (Akari vota en blanco).
 - **~2 semanas**: finales del T1 (escrito + práctico, parejas contra profesor). **Festival Cultural** (ROOTS al cierre). Meta: summa cum laude.
 - Presentar a **Setsuna**. **Awata → nodo con Nejire**. Noche de los tres (Momo/Nemuri) sin fecha. Pony le debe una hora (phrasal verbs).
+
+---
+
+# DÍA 40 — viernes 21 junio (extensión de la misma sesión 30)
+
+## Resumen del D40
+El viernes en que **le devolvió el cuerpo a una persona**. Despierta con Nejire; funda el día regando el bosque nodo a nodo (Ochaco adivina a Nejire en el juego de nombres; Jirō cobra el "Te amo, Kyōka" a Eco-0; Tōru consuma el *verse-y-ver* en una azotea; Mei recupera Pompa Uno bajo un bosque de savia crecido para cenar). Present Mic le abre el acento nativo y pacta el estreno de Roots en la radio. Se despide de Kuroda con una promesa de rescate incondicional y un último trago que tiende un hilo de sangre Osaka↔Musutafu. En Fundamentos, de derrumbe secundario contra Kirishima y Sero, estrena a BRYNJA y GRIMBARK y afloja con honestidad. Y el eje del día: **la cura de Anan** — reconstrucción completa de la espalda del USJ, con Aizawa de Erasure y Recovery Girl metida al círculo, que le devuelve a Thirteen un cuerpo entero por primera vez en veinte años. Cierra colándose de noche en el despacho de Nezu para darle un informe hipotético de todo, deducir al Coleccionista, y honrarlo con un poema del siglo IX antes de irse a dormir con Momo.
+
+## Eventos D40 (cronológico)
+Ver `cronologia.csv` ev-441 → ev-451 (con `[SESIÓN 30 CERRADA]` en ev-451).
+
+## Cambios del D40
+- **Cura de Anan** (hito mayor): espalda reconstruida; Recovery Girl al círculo; sintonización nueva; grimorio de piel guardado por Blackroot. Escena en `escenas_intimas/S30_D40_anan_02`.
+- **Kuroda**: despedida; número personal; hilo de sangre Osaka↔Musutafu. Coda en `escenas_intimas/S30_D39_kuroda_01`.
+- **Vínculos**: Tōru (`escenas_intimas/S30_D40_toru_01`), Jirō ("Te amo, Kyōka"; media deuda), Mei (Pompa Uno + bosque), Nejire (mañana + promesa del cielo).
+- **Bestiario**: +BRYNJA (rinoceronte ironwood) +GRIMBARK (coloso) — `con-123`.
+- **Mecánica fijada**: `con-124` vía del Eco = sangre de Akari en el otro.
+- **Académico**: la boca que pronuncia (acento nativo, Mic); protocolo de rescate reabsorbido; `exp-009` actualizado (1º ~94 tras las 66h; ver también las ~11h de la noche del D40 pendientes de reabsorber).
+- **Nezu**: relación de iguales; deducción del Coleccionista; aviso de la Presciencia de Nighteye; mascarada institucionalizada (2 padrinos top-10). Nighteye YA vio el futuro de Akari.
+- **Progresión**: marcas pm-210..217 (todas al bote). VEL 4→5 aplazada al vuelo con Ryukyu (domingo).
+
+## Auditoría de dirección — D40
+- Beats mayoritariamente de profundidad (Kuroda, la cura de Anan, Nezu extenso). Marcha de avance en los tránsitos lectivos y Mic.
+- POV NPC destacados: Kuroda, Anan, Aizawa, All Might, **Nezu (cierre extenso)**.
+- Incidencias corregidas en D40:
+  1. **Nejire no deja marcas** (saliva cura) — jugador; retirada la línea de los "puntitos".
+  2. **El juego de nombres va al revés**: Ochaco propone, Akari confirma — corregido en escena.
+  3. **Las bestias son bosque/materia crecida, no sangre** — jugador; fijado en `con-123`.
+  4. **Vía del Eco = sangre en el otro** — jugador; fijado en `con-124`.
+  5. **6 avatares de estudio siguen desplegados toda la noche** (jugador); no reabsorbidos en el cierre.
+
+## Pendientes próximos días (desde el D40)
+- **Sábado D41**: firmar Nighteye + trabajar con Awata (ojo Presciencia) · reabsorber los 6 avatares + reparto formal (`exp-009`) · limpieza sala Roots · decidir el bote de Kinoko · curar manos de Midoriya · preguntar a Reiko lo de la radio.
+- **Domingo D42**: vuelo con Ryukyu (VEL 4→5).
+- **Lunes**: reforma de corrección ciega.
+- **~2 semanas**: finales del T1. Festival Cultural (Roots al cierre).
